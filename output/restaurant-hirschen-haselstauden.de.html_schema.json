@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/250743256.jpg?k=99673c8bb93caa6616263738e5a5f842c60844865bc2529dc7bc1d1df2af86d3&o=&hp=1",
+        "description": "Dieses seit 3 Generationen familiengef\u00fchrte Boutique-Hotel liegt 5 Fahrminuten von der Autobahn A14 und dem Stadtzentrum von Dornbirn entfernt.",
+        "@context": "http://schema.org",
+        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0117 pro Nacht (Wir bieten den gleichen Preis) ",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 9.0,
+            "@type": "AggregateRating",
+            "reviewCount": 1686
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=47.4302139,9.7553283&markers=color:blue%7c47.4302139,9.7553283&client=gme-booking&channel=booking-frontend&signature=xHm9veO3h5ycQOwsM3V_Ja8PwSM=",
+        "address": {
+            "addressCountry": "\u00d6sterreich",
+            "postalCode": "6850",
+            "addressLocality": "Haselstauderstr. 31",
+            "@type": "PostalAddress",
+            "addressRegion": "Vorarlberg",
+            "streetAddress": "Haselstauderstr. 31, 6850 Dornbirn, \u00d6sterreich"
+        },
+        "url": "https://www.booking.com/hotel/at/restaurant-hirschen-haselstauden.de.html",
+        "name": "hirschen dornbirn - das boutiquestyle hotel"
+    }
+]

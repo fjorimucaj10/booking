@@ -1,0 +1,50 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Corporation",
+        "legalName": "Booking.com B.V.",
+        "url": "https://www.booking.com",
+        "description": "By investing in technology that takes the friction out of travel, Booking.com seamlessly connects millions of travelers to memorable experiences, a variety of transportation options, and incredible places to stay \u2013 from homes to hotels, and much more. As one of the world\u2019s largest travel marketplaces for both established brands and entrepreneurs of all sizes, Booking.com enables properties around the world to reach a global audience and grow their businesses.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Netherlands",
+            "addressRegion": "Noord-Holland",
+            "addressLocality": "Amsterdam",
+            "postOfficeBoxNumber": "1639",
+            "postalCode": "1011 DL",
+            "streetAddress": "Oosterdokskade 163"
+        },
+        "faxNumber": "+31 20 712 5609",
+        "logo": "https://cf.bstatic.com/static/img/booking_logo_knowledge_graph/247454a990efac1952e44dddbf30c58677aa0fd8.png",
+        "founder": "Geert-Jan Bruinsma",
+        "foundingDate": "1996",
+        "foundingLocation": "Amsterdam",
+        "areaServed": "Global",
+        "brand": {
+            "@type": "Brand",
+            "name": "Booking.com"
+        },
+        "keywords": "online travel agency, hotels, holiday rentals, flights, rental cars",
+        "parentOrganization": {
+            "@type": "Corporation",
+            "name": "Booking Holdings Inc."
+        },
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Booking.com",
+            "https://www.instagram.com/bookingcom/",
+            "https://twitter.com/bookingcom",
+            "https://www.facebook.com/bookingcom/",
+            "https://www.tiktok.com/@bookingcom"
+        ]
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "url": "https://www.booking.com/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://www.booking.com/searchresults.html?aid=800210&si=ai,ci,co,di,la,re&ss={search_term_string}",
+            "query-input": "required name=search_term_string"
+        }
+    }
+]
