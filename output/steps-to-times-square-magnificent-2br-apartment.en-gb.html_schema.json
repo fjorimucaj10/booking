@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Steps to Times Square Magnificent 2BR Apartment",
+        "description": "In the heart of New York, set within a short distance of Times Square and Radio City Music Hall, Steps to Times Square Magnificent 2BR Apartment offers...",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "354 W 47th St, New York, NY 10036, USA, Hell's Kitchen, New York, 10036, United States",
+            "addressLocality": "354 W 47th St, New York, NY 10036, USA",
+            "postalCode": "10036"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7614000,-73.9899000&markers=color:blue%7c40.7614000,-73.9899000&client=gme-booking&channel=booking-frontend&signature=lkjezv7nHuev58wYFd3g3gYInzs=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/378052910.jpg?k=f24a0cc1d582c7899882daeadba5d76bb130c8ae1cb7c8802c3e47e425428857&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3726 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/steps-to-times-square-magnificent-2br-apartment.en-gb.html"
+    }
+]

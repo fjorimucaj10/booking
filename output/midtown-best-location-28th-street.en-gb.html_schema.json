@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Midtown East Next to Times Square is set in the NoMad district of New York, less than 1 km from Empire State Building, a 16-minute walk from Grand Central...",
+        "name": "Midtown East Next to Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7422627,-73.9830072&sensor=false&size=1600x1200&markers=color:blue%7c40.7422627,-73.9830072&zoom=15&client=gme-booking&channel=booking-frontend&signature=bjkpbYvyjHSQdoCRNkz8PH20RX0=",
+        "url": "https://www.booking.com/hotel/us/midtown-best-location-28th-street.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/493607179.jpg?k=b41f298e6bc19507ed500486f9a171a1809d151b692a0d82c256e23cffde19a0&o=&hp=1",
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "streetAddress": "NoMad, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "reviewCount": 1,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3471 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "17 West 32nd Street, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "17 West 32nd Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/187306066.jpg?k=7351c5d4d4ee9372c1098a29ff0427af7fd957760121ad5395b63462e4c52fe9&o=&hp=1",
+        "description": "This Manhattan hotel is just a 4-minute walk from the famous Empire State Building. Classically furnished rooms offer WiFi and a flat-screen TV.",
+        "@type": "Hotel",
+        "name": "The Hotel at Fifth Avenue",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7476817,-73.9866154&size=1600x1200&center=40.7476817,-73.9866154&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=xSwULHkNiSvFEJamTtBMNp_k0aE=",
+        "aggregateRating": {
+            "reviewCount": 3596,
+            "@type": "AggregateRating",
+            "ratingValue": 7.4,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/la-quinta-manhattan.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3176 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/48-5rw-1br-apartment-in-midtown-west-w-d.en-gb.html",
+        "priceRange": null,
+        "description": "In a central area of New York, located within a short distance of Times Square and Radio City Music Hall, 48-5RW 1BR Apartment in Midtown West W D offers...",
+        "address": {
+            "addressLocality": "West 48th Street 515",
+            "streetAddress": "West 48th Street 515, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7639766,-73.9934938&sensor=false&center=40.7639766,-73.9934938&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=gXE04aRyf0unDW8X4bDORfDd0HA=",
+        "name": "48-5RW 1BR Apartment in Midtown West W D",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/538167702.jpg?k=20ab32f4cb6a10d942d3768acc3dd631c24a2cc4b9f8475741b14faab2a1f650&o=&hp=1"
+    }
+]

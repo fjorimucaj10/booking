@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tempo By Hilton New York Times Square",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488244482.jpg?k=a056faa876986d1ae33818f06975e650194a86c13fc2abc8716c34ef6bea6d0b&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7589980,-73.9844290&size=1600x1200&sensor=false&center=40.7589980,-73.9844290&client=gme-booking&channel=booking-frontend&signature=ChA3i-AAUo0iL4tT8cp0UHgS5nE=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "reviewCount": 567
+        },
+        "description": "Tempo By Hilton New York Times Square has a fitness centre, shared lounge, a terrace and restaurant in New York.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/tempo-by-hilton-new-york-times-square.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3287 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "1568 Broadway",
+            "addressRegion": "New York State",
+            "streetAddress": "1568 Broadway, New York, NY 10036, United States"
+        },
+        "@context": "http://schema.org"
+    }
+]

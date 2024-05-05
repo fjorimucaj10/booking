@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "reviewCount": 1138
+        },
+        "name": "Pestana Park Avenue",
+        "address": {
+            "addressLocality": "23 East 39th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "streetAddress": "23 East 39th Street, Murray Hill, New York, NY 10016, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/pestana-park-avenue.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3202 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Ideally set in New York, Pestana Park Avenue features air-conditioned rooms, a shared lounge, free WiFi and a terrace.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7509200,-73.9800470&zoom=15&size=1600x1200&sensor=false&center=40.7509200,-73.9800470&client=gme-booking&channel=booking-frontend&signature=dtf9ODBO9fZKZvyebxa8IHr2abE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/225448814.jpg?k=8d405b2011a5540ce1515fcac4b4319066b919e4759a778c57f04a614d8c4a47&o=&hp=1"
+    }
+]

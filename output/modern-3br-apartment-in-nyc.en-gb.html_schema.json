@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3561 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506393586.jpg?k=aea33dfedcf79649d205cf23ada9213e5e2646d290d6a355787232cd360eadc7&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/modern-3br-apartment-in-nyc.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "321 3rd Avenue, Gramercy, New York, NY 10010, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10010",
+            "addressLocality": "321 3rd Avenue"
+        },
+        "name": "Modern 3BR Apartment in NYC",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7396638,-73.9823353&center=40.7396638,-73.9823353&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Mkf6u9PMa05_u337c0KjH5EtfV4=",
+        "description": "Located in New York, 1.4 km from Empire State Building and 1.6 km from Chrysler Building, Modern 3BR Apartment in NYC offers air conditioning."
+    }
+]

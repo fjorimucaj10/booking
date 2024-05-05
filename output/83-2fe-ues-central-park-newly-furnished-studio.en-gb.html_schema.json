@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 10.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "83-2FE UES Central Park Newly Furnished Studio",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532654067.jpg?k=6dc255bcbf54f39089458a85277c5929432c93a518099caaf473942a9f55d109&o=&hp=1",
+        "description": "Set in New York, less than 1 km from Metropolitan Museum of Art and 2.",
+        "url": "https://www.booking.com/hotel/us/83-2fe-ues-central-park-newly-furnished-studio.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": null,
+        "address": {
+            "postalCode": "10028",
+            "addressRegion": "New York State",
+            "streetAddress": "230 East 83rd Street, Upper East Side, New York, 10028, United States",
+            "addressLocality": "230 East 83rd Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7762007,-73.9542706&size=1600x1200&markers=color:blue%7c40.7762007,-73.9542706&client=gme-booking&channel=booking-frontend&signature=vfdRYWAR8ZnjGTKDGZiTU_xVVQg="
+    }
+]

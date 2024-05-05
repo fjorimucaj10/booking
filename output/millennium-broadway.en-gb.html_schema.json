@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/397320344.jpg?k=6c845edac779802b7dd7227475688f03324f0cbe945186c9f24525aac000ac9c&o=&hp=1",
+        "description": "Located in the centre of Times Square and in the centre of midtown Manhattan, Millennium Hotel Broadway Times Square is located within 322 metres from...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7568962,-73.9848062&zoom=15&center=40.7568962,-73.9848062&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=49bZd1RLZ0v4yLbuwH0khOr7djk=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 7730,
+            "ratingValue": 7.3
+        },
+        "address": {
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "145 West 44th Street, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressLocality": "145 West 44th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/millennium-broadway.en-gb.html",
+        "name": "Millennium Hotel Broadway Times Square",
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

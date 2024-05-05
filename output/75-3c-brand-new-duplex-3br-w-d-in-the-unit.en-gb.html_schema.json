@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7707710,-73.9574814&size=1600x1200&markers=color:blue%7c40.7707710,-73.9574814&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=vBYWJ5pwSB0dsHYk3F-crhkRUfo=",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.4 km from Metropolitan Museum of Art and 1.",
+        "name": "75-3C Brand New Duplex 3BR W D in the unit",
+        "priceRange": "Prices for upcoming dates start at \u00a3637 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/75-3c-brand-new-duplex-3br-w-d-in-the-unit.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534287480.jpg?k=430f9f562ac9bb52b5d6924e339b141380b15f65537b5e564925a8b48215335f&o=&hp=1",
+        "address": {
+            "addressLocality": "244 East 75th Street",
+            "addressCountry": "USA",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        }
+    }
+]

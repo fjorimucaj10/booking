@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/hampton-inn-manhattan-35th-st-empire-state-bldg.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7501830,-73.9864558&markers=color:blue%7c40.7501830,-73.9864558&zoom=15&client=gme-booking&channel=booking-frontend&signature=dI84wC4IFe3pwTUARbbzU0kzcyY=",
+        "priceRange": "Prices for upcoming dates start at \u00a3171 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484657414.jpg?k=cdddc8b0426bf46d8eb7d4f523411b9f1172312a272e5bb5eaa4617ff7a77e4a&o=&hp=1",
+        "description": "Within one block of the Empire State Building and other Manhattan attractions, this hotel offers a free hot breakfast every morning and guestrooms with...",
+        "@type": "Hotel",
+        "name": "Hampton Inn Manhattan-35th St Empire State Bldg",
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "@type": "AggregateRating",
+            "reviewCount": 6129,
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "59 West 35th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "59 West 35th Street, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "CENTRAL PARK EAST and MUSEUMS is set in the East Harlem district of New York, 3.2 km from Columbia University, 4.1 km from Central Park and 4.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7,
+            "reviewCount": 7
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3195 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/508787537.jpg?k=ea5fa55fe801d3e2f2beeed6cf6d8e1495ede6a24826e65ecb7263ddfb5d5077&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/central-park-east-and-museums.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "152 East 105th Street",
+            "streetAddress": "152 East 105th Street, East Harlem, New York, NY 10029, United States",
+            "postalCode": "NY 10029"
+        },
+        "@type": "Hotel",
+        "name": "CENTRAL PARK EAST and MUSEUMS",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7914758,-73.9467247&zoom=15&sensor=false&markers=color:blue%7c40.7914758,-73.9467247&client=gme-booking&channel=booking-frontend&signature=5FUzIoCWE_YKDYNhqUBzjIoMpms="
+    }
+]

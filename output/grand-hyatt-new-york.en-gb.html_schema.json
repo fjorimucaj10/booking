@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "109 East 42nd Street, Park Avenue at Grand Central Terminal, Midtown East, New York, NY 10017, United States",
+            "addressLocality": "109 East 42nd Street, Park Avenue at Grand Central Terminal"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/427043023.jpg?k=523c649e32167fcf5d6181726bd0b83ab46fba6567f8e1aaee38969e2bf42658&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located adjacent to Grand Central Terminal, this Manhattan hotel features onsite dining and the 24/7 StayFit fitness center.",
+        "url": "https://www.booking.com/hotel/us/grand-hyatt-new-york.en-gb.html",
+        "name": "Hyatt Grand Central New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3204 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7518228,-73.9764592&markers=color:blue%7c40.7518228,-73.9764592&zoom=15&client=gme-booking&channel=booking-frontend&signature=_uAdkojkMNe07leQxOUDzEa3vaA=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.2,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 2530
+        }
+    }
+]

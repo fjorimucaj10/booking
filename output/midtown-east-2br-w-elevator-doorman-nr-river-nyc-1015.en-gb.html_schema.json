@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490221017.jpg?k=0ea735755cbbe1dff9afe27fa3630159c61539b01a75e565cbec4e7076286984&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "Midtown East, New York, 10022, United States",
+            "postalCode": "10022",
+            "addressLocality": ""
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7586500,-73.9622100&size=1600x1200&zoom=15&center=40.7586500,-73.9622100&client=gme-booking&channel=booking-frontend&signature=KuMAMi9SP1Gr_FBXaCAQs1VtzAs=",
+        "name": "Midtown East 2br w elevator doorman nr river NYC-1015",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/midtown-east-2br-w-elevator-doorman-nr-river-nyc-1015.en-gb.html",
+        "description": "Offering city views, Midtown East 2br w elevator doorman nr river NYC-1015 is an accommodation located in New York, 1.8 km from Rockefeller Center and 1."
+    }
+]

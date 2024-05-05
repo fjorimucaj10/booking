@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 341,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4
+        },
+        "url": "https://www.booking.com/hotel/us/northern-lights-mansion-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.8072086,-73.9506199&center=40.8072086,-73.9506199&client=gme-booking&channel=booking-frontend&signature=wdlEk_5fPD_zPqjriQ5y_j1TUlU=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3268 per night (We Price Match)",
+        "name": "Northern Lights Mansion",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/319650494.jpg?k=3cac4045a537f8b7bb0c665a2a205b51cbf98e66b76a70a400572789f808724e&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "streetAddress": "210 West 122nd Street, Harlem, New York, NY 10027, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "210 West 122nd Street"
+        },
+        "description": "Set in New York, 1.4 km from Columbia University, Northern Lights Mansion offers air-conditioned rooms with free WiFi and express check-in and check-out."
+    }
+]

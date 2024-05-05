@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/modern-luxury-3bd-and-2ba-in-the-heart-of-east-village.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3446 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7256847,-73.9793098&zoom=15&sensor=false&size=1600x1200&center=40.7256847,-73.9793098&client=gme-booking&channel=booking-frontend&signature=yPuSZk0vYRp6hEviynzA6z88ais=",
+        "description": "Located in New York, 2.3 km from Bloomingdales and 3.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "624 East 9th Street, East Village, New York, 10009, United States",
+            "addressLocality": "624 East 9th Street",
+            "addressRegion": "New York State",
+            "postalCode": "10009",
+            "@type": "PostalAddress"
+        },
+        "name": "Modern Luxury 3BD and 2BA in the Heart of East Village",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475008934.jpg?k=c918ef2b65a4cad7ce7c604f934696905003342b3ef74ef60633112ef914490f&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 3.5 km from Central Park and 4.4 km from Rockefeller Center, Beautiful 3BD in Upper East Side offers air conditioning.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/beautiful-3bd-in-upper-east-side.en-gb.html",
+        "address": {
+            "addressLocality": "509 East 87th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "509 East 87th Street, Upper East Side, New York, 10128, United States",
+            "postalCode": "10128"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475015348.jpg?k=c9202b1495fd7d5629a62858e7ae5354b093d84131aa363f52963af297fe39d7&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7764185,-73.9457998&markers=color:blue%7c40.7764185,-73.9457998&client=gme-booking&channel=booking-frontend&signature=L9VwXGjUB1qQPTDAqQzvUEab9Ls=",
+        "name": "Beautiful 3BD in Upper East Side"
+    }
+]

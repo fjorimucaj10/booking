@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located in the heart of New York\u2019s Financial District, Moxy NYC Downtown features a 5,000 sq. ft.",
+        "name": "Moxy NYC Downtown",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/446556027.jpg?k=02cdb7f5faac831cdbbfad1c3c085e8053040e42656290cbc27d3b8bb15a5170&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/moxy-nyc-downtown.en-gb.html",
+        "address": {
+            "addressLocality": "26 Ann Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "26 Ann Street, New York, NY 10038, United States",
+            "postalCode": "NY 10038",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7106750,-74.0077530&markers=color:blue%7c40.7106750,-74.0077530&client=gme-booking&channel=booking-frontend&signature=x4gIKsNRHcHkiV_YucFqb_KnCLM=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3171 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 1344,
+            "bestRating": 10
+        },
+        "@type": "Hotel"
+    }
+]

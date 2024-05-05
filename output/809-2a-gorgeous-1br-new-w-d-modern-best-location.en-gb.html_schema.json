@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "809-2A Gorgeous 1BR New W D Modern Best Location",
+        "priceRange": null,
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "postalCode": "10019",
+            "addressLocality": "809 9th Avenue",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850076.jpg?k=5eb11beab96c26558d3e6ca8d25da43a9ddc4b910781d8e828de9d664533d9c9&o=&hp=1",
+        "description": "In the Hell's Kitchen district of New York, close to Carnegie Hall, 809-2A Gorgeous 1BR New W D Modern Best Location has free WiFi and a washing machine.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7658119,-73.9875717&zoom=15&sensor=false&center=40.7658119,-73.9875717&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=m2ggCnigEhuorKoOVWaMD-IqG0I=",
+        "url": "https://www.booking.com/hotel/us/809-2a-gorgeous-1br-new-w-d-modern-best-location.en-gb.html"
+    }
+]

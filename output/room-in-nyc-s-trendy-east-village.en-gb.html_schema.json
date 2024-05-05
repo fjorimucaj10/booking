@@ -1,0 +1,26 @@
+[
+    {
+        "name": "East Village Homestay",
+        "url": "https://www.booking.com/hotel/us/room-in-nyc-s-trendy-east-village.en-gb.html",
+        "description": "Offering free Wi-Fi and access to a shared kitchen, this East Village Homestay offers guests one private bedroom with a TV and a seating area, just 500...",
+        "@type": "Hotel",
+        "priceRange": null,
+        "aggregateRating": {
+            "reviewCount": 21,
+            "ratingValue": 7.1,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "224 East 13th Street, East Village, New York, NY 10003, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "224 East 13th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10003"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/25177187.jpg?k=94085c626d9e612d119ed5360dc2631f4b3bb12ca824203fa1b3d4a44791a43b&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7320678,-73.9867171&center=40.7320678,-73.9867171&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=misvABl21I4ndpOLNBbH_Yh_4fs="
+    }
+]

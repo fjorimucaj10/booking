@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/lex-nyc.en-gb.html",
+        "description": "Offering free Wi-Fi and a free daily breakfast, this Manhattan hotel is just 450 metres from Madison Square Park.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7410305,-73.9834155&size=1600x1200&sensor=false&center=40.7410305,-73.9834155&client=gme-booking&channel=booking-frontend&signature=7XeMBPS1WshZ_NJYb9mJXEWRiuw=",
+        "name": "Lex Hotel NYC",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3193 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/130594560.jpg?k=5acf983f78f53cd7858f058449fe1f25389e16bc7d7159c081e9820270b4b283&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 1152,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "67 Lexington Avenue, Kips Bay, New York, NY 10010, United States",
+            "postalCode": "NY 10010",
+            "@type": "PostalAddress",
+            "addressLocality": "67 Lexington Avenue"
+        }
+    }
+]

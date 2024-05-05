@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498148895.jpg?k=c9eea003d4cfde2842ad451d0b522b1f75fb24e77916312a640ca69562fac0b4&o=&hp=1",
+        "description": "Situated right in the heart of New York, 800 metres from Times Square, Warm and Comfortable 3 BR features air-conditioned accommodation with free WiFi and...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&markers=color:blue%7c40.7581428,-73.9930404&center=40.7581428,-73.9930404&sensor=false&client=gme-booking&channel=booking-frontend&signature=OMdl9Uzlkfpusubb9n1OQRVAZ_0=",
+        "url": "https://www.booking.com/hotel/us/warm-and-comfortable-3-br.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "573 9th Avenue",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "streetAddress": "573 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,299 per night (We Price Match)",
+        "name": "Warm and Comfortable 3 BR",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

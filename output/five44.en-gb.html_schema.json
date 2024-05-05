@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3196 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7641273,-73.9947023&size=1600x1200&center=40.7641273,-73.9947023&sensor=false&client=gme-booking&channel=booking-frontend&signature=yLzbMPfKFq1yKiJN6aYVA5lepBM=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 718,
+            "@type": "AggregateRating",
+            "ratingValue": 7.4
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/102725939.jpg?k=e37963f571ff8b26c50c0c9b25bbc028c04af2003b54106d0cfd7af14d3ec077&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/five44.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "addressLocality": "544 West 48th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "544 West 48th Street, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "@type": "Hotel",
+        "description": "Hotel Five44 offers accommodation in a walk-up building in New York. Every room at this hotel is air conditioned and is equipped with a TV.",
+        "name": "Hotel Five44"
+    }
+]

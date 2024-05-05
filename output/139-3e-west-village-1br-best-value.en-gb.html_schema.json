@@ -1,0 +1,20 @@
+[
+    {
+        "description": "139-3E west village 1BR best value is located in the Greenwich Village district of New York, 1.6 km from Bloomingdales, 1.8 km from The High Line and 2.",
+        "address": {
+            "streetAddress": "679 Greenwich Street, Greenwich Village, New York, 10014, United States",
+            "postalCode": "10014",
+            "addressLocality": "679 Greenwich Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7329216,-74.0075073&center=40.7329216,-74.0075073&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=_LxUYxqblYvUaY2F7p4UbsWYufQ=",
+        "name": "139-3E west village 1BR best value",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3235 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/139-3e-west-village-1br-best-value.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543292318.jpg?k=37836a0e418e1021b1b6d343910bf8794be7b63b593a9ffdde873dee2a142375&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

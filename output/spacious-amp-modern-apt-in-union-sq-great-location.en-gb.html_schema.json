@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7332926,-73.9871815&markers=color:blue%7c40.7332926,-73.9871815&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=kFQshjStQ2ttFMGeePwXE2EORgs=",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "201 East 14th Street, New York, NY 10003, United States",
+            "addressLocality": "201 East 14th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10003"
+        },
+        "description": "Spacious & Modern Apt in Union Sq - great location is situated in the Gramercy district of New York, 1.7 km from Bloomingdales, 1.",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3273 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/spacious-amp-modern-apt-in-union-sq-great-location.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536552330.jpg?k=5a2f63fc2a3a50cfa49405897d1cdade2273d2a4c65392db7e185db14db7605b&o=&hp=1",
+        "name": "Spacious & Modern Apt in Union Sq - great location"
+    }
+]

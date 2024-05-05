@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "streetAddress": "One United Nations Plaza, Midtown East, New York, NY 10017, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "One United Nations Plaza"
+        },
+        "@context": "http://schema.org",
+        "name": "Millennium Hilton New York One UN Plaza",
+        "@type": "Hotel",
+        "description": "Located in Manhattan\u2019s East Side and 644 metres from the Grand Central Terminal, this hotel offers guest rooms with 42-inch flat-screen TVs.",
+        "aggregateRating": {
+            "reviewCount": 2292,
+            "bestRating": 10,
+            "ratingValue": 7.6,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7505599,-73.9696202&markers=color:blue%7c40.7505599,-73.9696202&sensor=false&client=gme-booking&channel=booking-frontend&signature=vKWypCILHehLlxz9eLaRfHhXbf8=",
+        "url": "https://www.booking.com/hotel/us/millenium-un-plaza-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484393842.jpg?k=2337469f45094e31e9b19d6588a410188f73b9eb8d89186c97b4caa365460062&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3195 per night (We Price Match)"
+    }
+]

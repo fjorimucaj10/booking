@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484618182.jpg?k=6229dbf34dd272fa4ee73429f327e83a3eab42e71f8a855e912dde5760163fe8&o=&hp=1",
+        "description": "Boasting a 24-hour fitness centre and 24-hour business centre, Hilton Garden Inn New York Manhattan East is located just 2 km from Times Square.",
+        "priceRange": "Prices for upcoming dates start at \u00a3170 per night (We Price Match)",
+        "address": {
+            "streetAddress": "206 East 52nd Street, Midtown East, New York, NY 10022, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "addressCountry": "USA",
+            "addressLocality": "206 East 52nd Street"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1446,
+            "ratingValue": 7.5
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7567408,-73.9693313&size=1600x1200&sensor=false&markers=color:blue%7c40.7567408,-73.9693313&client=gme-booking&channel=booking-frontend&signature=_1J01XBh1l-j3dfOoTH4R2v4JqY=",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-manhattan-east.en-gb.html",
+        "name": "Hilton Garden Inn New York Manhattan Midtown East",
+        "@type": "Hotel"
+    }
+]

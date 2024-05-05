@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537828740.jpg?k=c6b21e2ecf3a4a215fcdf6ef64e07fed5c0e1bc2dcfa3df0271f9c00fc0576bd&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7816820,-73.9844951&size=1600x1200&sensor=false&markers=color:blue%7c40.7816820,-73.9844951&zoom=15&client=gme-booking&channel=booking-frontend&signature=Hr5fskXb76oyIvJA2-TxjuMN13I=",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/74-4a-2br-2baths-in-prime-upper-west-side-w-d-gym.en-gb.html",
+        "name": "74-4A 2BR 2baths in Prime Upper West Side w d GYM",
+        "description": "Located in New York, 1.1 km from Strawberry Fields and 1.",
+        "address": {
+            "postalCode": "10023",
+            "addressRegion": "New York State",
+            "addressLocality": "West 74th Street 317",
+            "addressCountry": "USA",
+            "streetAddress": "West 74th Street 317, Upper West Side, New York, 10023, United States",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org"
+    }
+]

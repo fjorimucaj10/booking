@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10012",
+            "@type": "PostalAddress",
+            "addressLocality": "30 Kenmare Street",
+            "streetAddress": "30 Kenmare Street, SoHo, New York, NY 10012, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1367
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "This boutique hotel in the Manhattan neighborhood of Nolita features a private rooftop and rooms with free WiFi.",
+        "name": "Nolitan Hotel SoHo - New York",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/18519211.jpg?k=62368a8f23ffc2e6d00c650cb2232a9bbcee2edec38e4f5d01ef7c359c2e1749&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/nolitan.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7205761,-73.9952873&zoom=15&size=1600x1200&center=40.7205761,-73.9952873&client=gme-booking&channel=booking-frontend&signature=D56dNWRNa6owRlF303Zv9sKPJiE=",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/452062578.jpg?k=c7e0a5d74018d06e66a475c3957b349781c20efd1a7b9e96344e470a20cfb101&o=&hp=1",
+        "address": {
+            "addressLocality": "317 West 14th Street",
+            "addressCountry": "USA",
+            "streetAddress": "317 West 14th Street, Chelsea, New York, NY 10014, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10014"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3266 per night (We Price Match)",
+        "description": "Nestled in the vibrant heart of Chelsea and the iconic Meatpacking District, The Chelsea Pines Inn offers an inviting retreat for travelers seeking comfort...",
+        "url": "https://www.booking.com/hotel/us/chelsea-pines-inn.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7402806,-74.0033480&size=1600x1200&zoom=15&center=40.7402806,-74.0033480&sensor=false&client=gme-booking&channel=booking-frontend&signature=0PO5kDcup8w8UaFKS7TMT_7CZ5Q=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1707,
+            "@type": "AggregateRating",
+            "ratingValue": 7.9
+        },
+        "name": "Chelsea Pines Inn"
+    }
+]

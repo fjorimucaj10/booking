@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/interfaith-28-retreats.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 7.4,
+            "reviewCount": 231,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/476698881.jpg?k=5c3890217ee37e90fce79b91e58e6a419d7e68e2fe25d02bcff30c7b128df7d7&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "370 8th Avenue",
+            "streetAddress": "370 8th Avenue, Chelsea, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3133 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7486589,-73.9956525&center=40.7486589,-73.9956525&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sL0v-ouktILG8J5mwwSZE-Zb3VY=",
+        "description": "Located in New York, less than 1 km from Macy's and a 3-minute walk from Madison Square Garden, New York Spirit Retreats HOSTEL offers air conditioning.",
+        "name": "New York Spirit Retreats HOSTEL"
+    }
+]

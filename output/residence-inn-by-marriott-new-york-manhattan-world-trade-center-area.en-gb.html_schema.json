@@ -1,0 +1,26 @@
+[
+    {
+        "description": "This hotel offers contemporary suites with free WiFi access. It occupies a prime location in the Downtown District.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7096997,-74.0098533&markers=color:blue%7c40.7096997,-74.0098533&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=KFh4ewSUOS3oMckD4CtqTSv4UFo=",
+        "url": "https://www.booking.com/hotel/us/residence-inn-by-marriott-new-york-manhattan-world-trade-center-area.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "170 Broadway, New York, NY 10007, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "170 Broadway",
+            "postalCode": "NY 10007"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1599,
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3191 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/456065226.jpg?k=336899c8ac6dd4f497a49505c5962fbf0313de0731bdaee3022877a74342936b&o=&hp=1",
+        "name": "Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area"
+    }
+]

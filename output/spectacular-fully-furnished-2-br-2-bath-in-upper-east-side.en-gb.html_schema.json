@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/spectacular-fully-furnished-2-br-2-bath-in-upper-east-side.en-gb.html",
+        "name": "Spectacular Fully Furnished 2 BR 2 Bath in Upper East Side",
+        "description": "Set in New York, 3 km from Central Park and 3 km from Strawberry Fields, Spectacular Fully Furnished 2 BR 2 Bath in Upper East Side offers air...",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a31,179 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7776204,-73.9515728&size=1600x1200&center=40.7776204,-73.9515728&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=ud9Ve5UZsiz0mnm0lMYPmjDAtTA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466301256.jpg?k=cdb2b0914aad2d53824157614346f7b12be1206a369defa7e3072cfe7912b6e6&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "300 East 86th Street",
+            "postalCode": "NY 10028",
+            "@type": "PostalAddress",
+            "streetAddress": "300 East 86th Street, Upper East Side, New York, NY 10028, United States"
+        },
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7473309,-73.9880192&sensor=false&size=1600x1200&markers=color:blue%7c40.7473309,-73.9880192&client=gme-booking&channel=booking-frontend&signature=JEPPLWkxIEAJpFKs6L_Nep5L9fI=",
+        "url": "https://www.booking.com/hotel/us/1234-broadway-avenue.en-gb.html",
+        "description": "31 Street Broadway Hotel is located in the NoMad district of New York, 800 metres from Penn Station, 400 metres from Macy's and 400 metres from Empire...",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 4.5,
+            "@type": "AggregateRating",
+            "reviewCount": 517
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "1234 Broadway",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "streetAddress": "1234 Broadway, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State"
+        },
+        "name": "31 Street Broadway Hotel",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3176 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/264754987.jpg?k=1059ceceff14b600df5aed251c80c30bc8fb41c12db863e8ed184d6d892285c1&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

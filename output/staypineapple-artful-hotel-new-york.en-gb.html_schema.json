@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1421,
+            "ratingValue": 8.7,
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3142 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7543490,-73.9939070&center=40.7543490,-73.9939070&zoom=15&client=gme-booking&channel=booking-frontend&signature=sSmcCRT8ccJtaovqqKpAmHoA4J0=",
+        "description": "Ideally situated in the centre of New York, Staypineapple, An Artful Hotel, Midtown New York features free WiFi throughout the property and free bikes.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/180756567.jpg?k=62c0f89eb0af4ef1dff9c4ff3f54f795f779739bdea0c43d41b0af257ba44f6d&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/staypineapple-artful-hotel-new-york.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "337 W. 36th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressLocality": "337 W. 36th Street"
+        },
+        "name": "Staypineapple, An Artful Hotel, Midtown New York"
+    }
+]

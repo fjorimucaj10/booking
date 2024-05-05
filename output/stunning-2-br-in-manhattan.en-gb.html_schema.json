@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Stunning 2 BR in Manhattan",
+        "address": {
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "streetAddress": "25 West 38th Street, New York, NY 10018, United States",
+            "addressLocality": "25 West 38th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "priceRange": null,
+        "description": "Set right in the centre of New York, 600 metres from Empire State Building, Stunning 2 BR in Manhattan offers air-conditioned accommodation with free WiFi...",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7518125,-73.9840589&zoom=15&center=40.7518125,-73.9840589&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=4_0H4izoB5YrgvEQYiUl2oiBys0=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/stunning-2-br-in-manhattan.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 1.0,
+            "reviewCount": 1
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497154092.jpg?k=d674a0dee30fbaaae4a12a24270dd5e90cb06649541d77b299c4be527eb90cc8&o=&hp=1"
+    }
+]

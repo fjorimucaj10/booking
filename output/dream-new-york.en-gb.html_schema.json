@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/452143201.jpg?k=9445c3a85e6f7b7c7a82570ebf96b57c057a603721d626ada6014af9cff9c492&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7643645,-73.9818075&center=40.7643645,-73.9818075&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=PTNXRYYsEuJ1tajtHBmkXmSXgtw=",
+        "name": "Dream Midtown, by Hyatt",
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "description": "Located in a landmark Beaux-Arts building in the heart of Midtown Manhattan, Dream Midtown boasts a chic rooftop lounge with stunning views of Times...",
+        "aggregateRating": {
+            "ratingValue": 7.6,
+            "reviewCount": 1196,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "210 West 55th Street, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "addressLocality": "210 West 55th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/dream-new-york.en-gb.html"
+    }
+]

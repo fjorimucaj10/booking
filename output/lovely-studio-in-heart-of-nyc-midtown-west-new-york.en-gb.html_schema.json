@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Lovely Studio in Heart of NYC (Midtown West) is located in the Hudson Yards district of New York, 1.",
+        "url": "https://www.booking.com/hotel/us/lovely-studio-in-heart-of-nyc-midtown-west-new-york.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490549360.jpg?k=6c79212cec782a3bf56a502466097063f740acd31088bcff3ac72870e4770b24&o=&hp=1",
+        "name": "Lovely Studio in Heart of NYC (Midtown West)",
+        "priceRange": "Prices for upcoming dates start at \u00a3328 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "466 10th Avenue, Hudson Yards, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressLocality": "466 10th Avenue"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7560175,-73.9976901&sensor=false&size=1600x1200&zoom=15&center=40.7560175,-73.9976901&client=gme-booking&channel=booking-frontend&signature=8OevgDQEi4tO0Be8nwW_8vW4c8U=",
+        "@context": "http://schema.org"
+    }
+]

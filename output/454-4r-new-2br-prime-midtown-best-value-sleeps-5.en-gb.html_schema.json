@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7623978,-73.9926758&markers=color:blue%7c40.7623978,-73.9926758&sensor=false&client=gme-booking&channel=booking-frontend&signature=H_bvMf-F3aj9R286x6h_sLz1S5I=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412821736.jpg?k=306fcffb23592fdda02a89bc7dd0dc4f57889f27e07cba37b57b35f51f3c0f37&o=&hp=1",
+        "description": "In a central area of New York, located within a short distance of Jacob K.",
+        "url": "https://www.booking.com/hotel/us/454-4r-new-2br-prime-midtown-best-value-sleeps-5.en-gb.html",
+        "name": "454-4R New 2BR prime midtown Best value Sleeps 5",
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "454 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "454 West 47th Street",
+            "postalCode": "10036"
+        },
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/top-notch-2br-suite-minutes-to-central-park-new-york.en-gb.html",
+        "name": "Top Notch 2BR Suite Minutes to Central Park",
+        "priceRange": "Prices for upcoming dates start at \u00a3594 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7620741,-73.9613982&size=1600x1200&zoom=15&center=40.7620741,-73.9613982&client=gme-booking&channel=booking-frontend&signature=-JtXW9fhW79D0-wS8BYemo54lX8=",
+        "description": "Well located in the Upper East Side district of New York, Top Notch 2BR Suite Minutes to Central Park is situated 1.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501147319.jpg?k=cb8ee21aa45c37deb96a2914cc9a370ec2e2f9fc0ba22d23f48a0d9a5dbd750b&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10065",
+            "addressLocality": "341 62nd St, New York, NY 10065, USA",
+            "streetAddress": "341 62nd St, New York, NY 10065, USA, Upper East Side, New York, 10065, United States",
+            "addressCountry": "USA"
+        }
+    }
+]

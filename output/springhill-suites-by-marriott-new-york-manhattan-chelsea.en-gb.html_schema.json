@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/springhill-suites-by-marriott-new-york-manhattan-chelsea.en-gb.html",
+        "name": "SpringHill Suites by Marriott New York Manhattan Chelsea",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 8484,
+            "ratingValue": 8.2
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7467820,-73.9924210&size=1600x1200&sensor=false&markers=color:blue%7c40.7467820,-73.9924210&client=gme-booking&channel=booking-frontend&signature=pYDak7zaNoYRJTw3-RwwrPykbFg=",
+        "description": "Ideally located in the Chelsea district of New York, SpringHill Suites by Marriott New York Manhattan Chelsea is set 600 metres from Madison Square Garden,...",
+        "priceRange": "Prices for upcoming dates start at \u00a3206 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "streetAddress": "140 West 28th Street, Chelsea, New York, NY 10001, United States",
+            "addressLocality": "140 West 28th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/483331592.jpg?k=300cd6fcfa21a0d43838e22ca8bfa040f12d88aba8417d916ee91dd9f8228cf8&o=&hp=1"
+    }
+]

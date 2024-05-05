@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504111646.jpg?k=b292ac2a172c16b3ed1babf281f354c15b020ec6618b33a324a3718e634a2b8e&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Located in New York, less than 1 km from Flatiron Building and a 13-minute walk from Empire State Building, Kips Bay 1br w backyard nr park train NYC-1263...",
+        "name": "Kips Bay 1br w backyard nr park train NYC-1263",
+        "address": {
+            "streetAddress": "Kips Bay, New York, 10010, United States",
+            "addressCountry": "USA",
+            "postalCode": "10010",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/kips-bay-1br-w-backyard-nr-park-train-nyc-1263.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7412863,-73.9825372&center=40.7412863,-73.9825372&zoom=15&client=gme-booking&channel=booking-frontend&signature=5c_2D1ZYLm70fSzRebD-jH3XDtQ="
+    }
+]

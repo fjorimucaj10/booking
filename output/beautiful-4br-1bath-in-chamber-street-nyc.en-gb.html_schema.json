@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7156622,-74.0099750&sensor=false&markers=color:blue%7c40.7156622,-74.0099750&zoom=15&client=gme-booking&channel=booking-frontend&signature=Wy94b8dW8t1qXEDIb2mVyQYtaMo=",
+        "address": {
+            "addressLocality": "150 Chambers Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10007",
+            "streetAddress": "150 Chambers Street, Tribeca, New York, NY 10007, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,199 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/beautiful-4br-1bath-in-chamber-street-nyc.en-gb.html",
+        "name": "Beautiful 4BR 1Bath in Chamber Street NYC",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461765709.jpg?k=9c3d2da9a3fdc0675a1cc0d595e848415a13aa4472721a6192ba4157bccb604a&o=&hp=1",
+        "description": "Situated in New York, 700 metres from National September 11 Memorial & Museum and 1.",
+        "@type": "Hotel"
+    }
+]

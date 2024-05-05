@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498681147.jpg?k=4560cb0ad517f6c40dcfd5cb1d9c26e0345f4e0494710d99d6b0eaaa94814d82&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3284 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7099702,-74.0087412&sensor=false&size=1600x1200&zoom=15&markers=color:blue%7c40.7099702,-74.0087412&client=gme-booking&channel=booking-frontend&signature=UZxZHhWht2fmIiPY72y631FY1BM=",
+        "name": "Sonder City Hall Park",
+        "description": "Sonder City Hall Park is situated in the Wall Street - Financial District district of New York, 500 metres from National September 11 Memorial & Museum, 1.",
+        "url": "https://www.booking.com/hotel/us/sonder-l-city-hall-park.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "17 John Street",
+            "postalCode": "10038",
+            "streetAddress": "17 John Street, New York, 10038, United States"
+        },
+        "aggregateRating": {
+            "reviewCount": 214,
+            "@type": "AggregateRating",
+            "ratingValue": 8.9,
+            "bestRating": 10
+        },
+        "@type": "Hotel"
+    }
+]

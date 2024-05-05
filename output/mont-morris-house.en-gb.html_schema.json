@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": " West 120th Street Between Lenox and 5th Avenue, Harlem, New York, NY 10027, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "West 120th Street Between Lenox and 5th Avenue"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.8039506,-73.9462986&markers=color:blue%7c40.8039506,-73.9462986&zoom=15&client=gme-booking&channel=booking-frontend&signature=nROG1yubSXhoAwORpzp1NVi5srs=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520799444.jpg?k=e99ce21c1ba52579381faa32288339e17039751f84e021c0cd05037b4035ab0e&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3259 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 361,
+            "ratingValue": 9.2
+        },
+        "name": "Soul Food 'Mont Morris'",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/mont-morris-house.en-gb.html",
+        "description": "Located in New York, Soul Food 'Mont Morris' is a recently renovated accommodation, 1.7 km from Columbia University and 3."
+    }
+]

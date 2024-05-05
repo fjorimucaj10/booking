@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located on famous Park Avenue, this modern family-friendly hotel is 2 blocks from Central Park and a 17-minute walk from Rockefeller Center.",
+        "url": "https://www.booking.com/hotel/us/loews-regency.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Loews Regency New York Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/433892243.jpg?k=dacb372f1cdf3767da7e21456d32b37e5036cc7107ece1cd62f395865b1a8ce5&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "540 Park Avenue, Upper East Side, New York, NY 10065, United States",
+            "postalCode": "NY 10065",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "540 Park Avenue"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7644559,-73.9689696&markers=color:blue%7c40.7644559,-73.9689696&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=OsopNXlKN-HpzkATK_pY9QlB-ds=",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 227,
+            "bestRating": 10,
+            "ratingValue": 8.6,
+            "@type": "AggregateRating"
+        }
+    }
+]

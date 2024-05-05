@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/139-2e-west-village-1br-best-value.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "description": "Set in New York, 1.6 km from Bloomingdales and 1.9 km from The High Line, 139-2E west village 1BR best value offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7329407,-74.0072784&size=1600x1200&sensor=false&markers=color:blue%7c40.7329407,-74.0072784&client=gme-booking&channel=booking-frontend&signature=hDMq9Cbmgak9UnsWrQNYPeKA-h8=",
+        "name": "139-2E west village 1BR best value",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546687168.jpg?k=59916214bc0e0c07cd48bbf04d699902ec844ac675e0b424cce7cc5a0231b1e9&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "139 Christopher Street",
+            "postalCode": "10014",
+            "streetAddress": "139 Christopher Street, Greenwich Village, New York, 10014, United States",
+            "addressRegion": "New York State"
+        }
+    }
+]

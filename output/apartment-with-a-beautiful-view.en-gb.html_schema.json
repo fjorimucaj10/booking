@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Apartment with a beautiful view features a balcony and is set in New York, within just 1.3 km of Empire State Building and 1.5 km of Grand Central Station.",
+        "priceRange": "Prices for upcoming dates start at \u00a3257 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/467037764.jpg?k=6245228af2c697ffc41809467939959e8f89a10106919b5280ab6468ad064722&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/apartment-with-a-beautiful-view.en-gb.html",
+        "name": "Apartment with a beautiful view",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7434680,-73.9722182&size=1600x1200&center=40.7434680,-73.9722182&client=gme-booking&channel=booking-frontend&signature=T5Y0nzDYCeOxDpTnrq4sw1MplxM=",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "403 East 34th Street, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "403 East 34th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016"
+        },
+        "@type": "Hotel"
+    }
+]

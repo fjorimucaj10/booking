@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in the centre of New York, less than 1 km from Broadway Theatre, Blueground Midtown W gym nr hells kitchen NYC-1426 provides air-conditioned...",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "streetAddress": "Hell's Kitchen, New York, 10019, United States",
+            "postalCode": "10019",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/blueground-midtown-w-gym-nr-hells-kitchen-nyc-1426.en-gb.html",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/529975964.jpg?k=9cbd9b504a55309b7d3f8bdf24a4382975b9487780a3198421c5d4f72332f943&o=&hp=1",
+        "name": "Blueground Midtown W gym nr hells kitchen NYC-1426",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7677879,-73.9917410&zoom=15&size=1600x1200&center=40.7677879,-73.9917410&client=gme-booking&channel=booking-frontend&signature=IaHwpFyfvqhVWcfRyB3hUt_Avuw=",
+        "@type": "Hotel"
+    }
+]

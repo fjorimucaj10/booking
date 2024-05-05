@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484618026.jpg?k=10582dfecf09c963c4375d5d5d3b341718129810294c49a869e903ee6a58732d&o=&hp=1",
+        "description": "Within a 15-minute walk of Times Square, this New York hotel features ticket services and free Wi-Fi.",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "streetAddress": "337 West 39th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "337 West 39th Street"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/hampton-inn-manhattan-times-square-south.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 2407,
+            "ratingValue": 6.6,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "Hampton Inn Manhattan - Times Square South",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7561800,-73.9929648&center=40.7561800,-73.9929648&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=tDXWrw8jrPiiDXf6g2yBm2k8QNs=",
+        "priceRange": "Prices for upcoming dates start at \u00a3165 per night (We Price Match)"
+    }
+]

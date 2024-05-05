@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505574886.jpg?k=5b8a61aedc33b6ef75ffc66abde85c37b0aca37c75d6931699c03f04b0e9ab2c&o=&hp=1",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7796761,-73.9825455&markers=color:blue%7c40.7796761,-73.9825455&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=OLlBBtLZhjjUZL7lAze1jq96WtM=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10023",
+            "addressLocality": "West 73rd Street 238",
+            "addressCountry": "USA",
+            "streetAddress": "West 73rd Street 238, Upper West Side, New York, 10023, United States"
+        },
+        "name": "73-1204 New Studio UWS Doorman Gym",
+        "url": "https://www.booking.com/hotel/us/73-1204-new-studio-uws-doorman-gym.en-gb.html",
+        "description": "Located in New York, less than 1 km from Strawberry Fields and a 11-minute walk from Lincoln Center, 73-1204 New Studio UWS Doorman Gym offers a fitness..."
+    }
+]

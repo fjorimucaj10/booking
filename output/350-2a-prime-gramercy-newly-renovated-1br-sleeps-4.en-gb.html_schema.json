@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 2.2 km from Empire State Building and 1.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411336680.jpg?k=43fc181a4cdfd6995e726ced00ba564bd000aa2ba43ec876cd1056bb9889d397&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "350 East 19th Street, Gramercy, New York, 10003, United States",
+            "addressLocality": "350 East 19th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10003"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3418 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7345276,-73.9810028&zoom=15&sensor=false&size=1600x1200&center=40.7345276,-73.9810028&client=gme-booking&channel=booking-frontend&signature=p5lLo2O-iTwOCAMh0O4YkTTAvx8=",
+        "url": "https://www.booking.com/hotel/us/350-2a-prime-gramercy-newly-renovated-1br-sleeps-4.en-gb.html",
+        "name": "350-2A Prime gramercy Newly renovated 1BR sleeps 4"
+    }
+]

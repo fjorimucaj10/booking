@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/w-new-york-times-square.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3244 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10036",
+            "streetAddress": "1567 Broadway, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "1567 Broadway",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "description": "W New York Times Square is located in New York City's Times Square. This hotel is a short walk from Broadway theatres of Theater District.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7593810,-73.9853273&sensor=false&center=40.7593810,-73.9853273&zoom=15&client=gme-booking&channel=booking-frontend&signature=6rUc6lShInzIxTcF4aEZopvLYqA=",
+        "name": "W New York - Times Square",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/517854699.jpg?k=c0ef01d58a6a104b403beaf3e1bab479fa1ac7f606a5fb5318fbc0386df96f40&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.7,
+            "reviewCount": 1400
+        }
+    }
+]

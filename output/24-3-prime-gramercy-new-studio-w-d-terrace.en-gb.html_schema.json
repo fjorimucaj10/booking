@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "addressLocality": "241 East 24th Street",
+            "postalCode": "10010",
+            "addressRegion": "New York State"
+        },
+        "name": "24-3 Prime Gramercy New Studio W D Terrace",
+        "description": "Featuring air-conditioned accommodation with a patio, 24-3 Prime Gramercy New Studio W D Terrace is set in New York. The property is located 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531809878.jpg?k=e0682ea141425659b893dbae54c5ef7a936fb5070d25d8b3c91e3fbd100fb18b&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/24-3-prime-gramercy-new-studio-w-d-terrace.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7389107,-73.9808273&center=40.7389107,-73.9808273&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=reX9eVkkbI3mSfGhr1s7VicbiUw=",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "This 4-star New York City hotel is in the Tribeca neighborhood, across the street from trendy SoHo shopping.",
+        "name": "Sheraton Tribeca New York Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/447095798.jpg?k=a13bcec9feadacddeb31aa148793f5e4278537ef14bcc4a0477beaf308e0c0dc&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "370 Canal Street",
+            "@type": "PostalAddress",
+            "streetAddress": "370 Canal Street, Tribeca, New York, NY 10013, United States",
+            "postalCode": "NY 10013",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/sheraton-tribeca-new-york.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 3237,
+            "ratingValue": 7.7
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7208333,-74.0042342&zoom=15&center=40.7208333,-74.0042342&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=mE4R8maU4503Thb7xzT14If_TAI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3163 per night (We Price Match)"
+    }
+]

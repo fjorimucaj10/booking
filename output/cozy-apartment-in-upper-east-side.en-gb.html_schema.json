@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3319 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "163 East 88th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10128",
+            "@type": "PostalAddress",
+            "streetAddress": "163 East 88th Street, Upper East Side, New York, NY 10128, United States"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/cozy-apartment-in-upper-east-side.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466412472.jpg?k=16ddc1d986b87c49550a6c88cef458ea43c5ac586a9ac0a4dbff9f472bca1128&o=&hp=1",
+        "name": "Cozy Apartment in Upper East Side",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7804819,-73.9536140&zoom=15&size=1600x1200&markers=color:blue%7c40.7804819,-73.9536140&sensor=false&client=gme-booking&channel=booking-frontend&signature=PLLmFCbd8MRoOOOyOuzbn64TDJw=",
+        "description": "Featuring accommodation with a balcony, Cozy Apartment in Upper East Side is set in New York. The property is located 3.1 km from Central Park, 3."
+    }
+]

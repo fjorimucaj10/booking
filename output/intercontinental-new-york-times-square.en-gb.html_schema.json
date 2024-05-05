@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/260331427.jpg?k=c81f5978906b82d428b66ffb58968dafcafac70ec8b3d669f248abc91a55f583&o=&hp=1",
+        "description": "InterContinental New York Times Square is spread across 36 stories and offers accommodation with floor-to-ceiling windows offering views of the Manhattan...",
+        "url": "https://www.booking.com/hotel/us/intercontinental-new-york-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "InterContinental New York Times Square, an IHG Hotel",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 1765,
+            "bestRating": 10
+        },
+        "address": {
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "300 West 44th Street",
+            "addressCountry": "USA",
+            "streetAddress": "300 West 44th Street, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3244 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7586963,-73.9893660&sensor=false&markers=color:blue%7c40.7586963,-73.9893660&client=gme-booking&channel=booking-frontend&signature=lR5RZmLTgAjzBNEEklFA1_XykX0="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 1240
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/492288052.jpg?k=162d54ff112c9b6e5e4857e9a592cca293a0a4028ba0909f9b14aa5baccf5928&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/roxyhotelnyc.en-gb.html",
+        "name": "Roxy Hotel New York",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7190809,-74.0049282&size=1600x1200&zoom=15&sensor=false&center=40.7190809,-74.0049282&client=gme-booking&channel=booking-frontend&signature=aLwSHWImP8Ihb6Mhx4-reOzpIq8=",
+        "description": "This Tribeca hotel welcomes you with a complimentary glass of champagne on the weekends and offers free WiFi.",
+        "priceRange": "Prices for upcoming dates start at \u00a3304 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "2 Avenue of the Americas",
+            "postalCode": "NY 10013",
+            "addressCountry": "USA",
+            "streetAddress": "2 Avenue of the Americas, Tribeca, New York, NY 10013, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

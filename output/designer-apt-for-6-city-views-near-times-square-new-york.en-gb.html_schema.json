@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10027",
+            "addressLocality": "Central Harlem",
+            "addressCountry": "USA",
+            "streetAddress": "Central Harlem, Harlem, New York, NY 10027, United States",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.8089992,-73.9483367&sensor=false&markers=color:blue%7c40.8089992,-73.9483367&zoom=15&client=gme-booking&channel=booking-frontend&signature=wj2sHQr-mAP_O2ONVvvL7OmuPQ0=",
+        "@context": "http://schema.org",
+        "description": "In the Harlem district of New York, close to Columbia University, Designer Apt for 6, City Views, near Times Square!",
+        "url": "https://www.booking.com/hotel/us/designer-apt-for-6-city-views-near-times-square-new-york.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": null,
+        "name": "Designer Apt for 6, City Views, near Times Square!",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/525745549.jpg?k=58002f760ed76b65bf9beefbe5a593a354ae512f0c30681c1531cf0a12e0c40f&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "bestRating": 10,
+            "ratingValue": 8.0
+        }
+    }
+]

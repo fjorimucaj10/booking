@@ -1,0 +1,20 @@
+[
+    {
+        "name": "1597-2 Luxury Upper East Side Studio W&D",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "York Avenue 1597",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10028",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503705225.jpg?k=6c8c492bd1505257277e36faa6b11af2f9d5dfbb356f48ef874ead52d2eea6aa&o=&hp=1",
+        "description": "Located in New York, 1.5 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1597-2 Luxury Upper East Side Studio W&D offers air conditioning.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&sensor=false&markers=color:blue%7c40.7749268,-73.9481632&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=c0NlgMFgfHbxTrPRq5DPSh_pleE=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3382 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/1597-2-luxury-upper-east-side-studio-w-d.en-gb.html"
+    }
+]

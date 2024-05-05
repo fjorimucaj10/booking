@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "East 78th Street 317",
+            "addressRegion": "New York State",
+            "streetAddress": "East 78th Street 317, Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "name": "317-4B New 1 BR prime Upper east WD walk 2 C park",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/446363842.jpg?k=2a00e8f4a196cc50302a8e6550b2cfcfa51d61867c98a60335eb703db6b194d3&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3404 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7724040,-73.9544678&sensor=false&markers=color:blue%7c40.7724040,-73.9544678&client=gme-booking&channel=booking-frontend&signature=frWsEGz41_P76i6batsx0bRYjeQ=",
+        "url": "https://www.booking.com/hotel/us/317-4b-new-1-br-prime-upper-east-wd-walk-2-c-park.en-gb.html",
+        "description": "Situated in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 317-4B New 1 BR prime Upper east WD walk 2 C park offers air conditioning."
+    }
+]

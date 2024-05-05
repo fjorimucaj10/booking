@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/153-5a-charming-2br-les-w-d.en-gb.html",
+        "description": "Set in New York, 1.6 km from NYU - New York University and 3.4 km from One World Trade Center, 153-5A Charming 2BR LES W D offers air conditioning.",
+        "address": {
+            "postalCode": "10002",
+            "addressCountry": "USA",
+            "streetAddress": "Norfolk Street 153, Lower East Side, New York, 10002, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "Norfolk Street 153",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/529341447.jpg?k=094429b946f06ce2e84ca961bb3d90c30662b4428ab2b070d30d78f1f080d884&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7206252,-73.9865652&size=1600x1200&markers=color:blue%7c40.7206252,-73.9865652&zoom=15&client=gme-booking&channel=booking-frontend&signature=sSdXyiqgxXEjibjxNgvQ68wFeEI=",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "name": "153-5A Charming 2BR LES W D"
+    }
+]

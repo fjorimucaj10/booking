@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Featuring 3-star accommodation, 45 Times Square Hotel is located in New York, 200 metres from Times Square and 500 metres from Radio City Music Hall.",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "125 West 45th Street, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "125 West 45th Street"
+        },
+        "name": "45 Times Square Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7573148,-73.9837320&center=40.7573148,-73.9837320&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=vJkKi1Rsk9L2_4HMC3g4wJpIqUU=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3181 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/45-times-square-hotel.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442811339.jpg?k=e89ae66126c9c1239ea05e7a9b5f0423ed15739432d7649eb6e6b06109aba180&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.3,
+            "reviewCount": 1438,
+            "@type": "AggregateRating"
+        }
+    }
+]

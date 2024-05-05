@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/discover-the-comfort-of-columbia-university-area-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531867457.jpg?k=0f2211f772042321dc3ca1a7fb5ad378061f5a74d5ebe62be55b0fa6ca2323b1&o=&hp=1",
+        "address": {
+            "addressLocality": "544 Cathedral Parkway",
+            "streetAddress": "544 Cathedral Parkway, Upper West Side, New York, NY 10025, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8036428,-73.9658374&center=40.8036428,-73.9658374&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Jp4vCXtiDBG7Icp4O7ANH4xPXQQ=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "bestRating": 10,
+            "ratingValue": 8.0
+        },
+        "name": "Discover the Comfort of Columbia University Area",
+        "priceRange": "Prices for upcoming dates start at \u00a3410 per night (We Price Match)",
+        "description": "Located in New York, 3.9 km from Metropolitan Museum of Art and 4."
+    }
+]

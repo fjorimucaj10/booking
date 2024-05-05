@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7084008,-74.0056138&markers=color:blue%7c40.7084008,-74.0056138&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dq1xjS8bLR8NfbADj6QKrtAEAOg=",
+        "description": "Located in New York, less than 1 km from National September 11 Memorial & Museum and a 12-minute walk from One World Trade Center, Landing Modern Apartment...",
+        "url": "https://www.booking.com/hotel/us/landing-modern-apartment-with-amazing-amenities-id3117x83.en-gb.html",
+        "name": "Landing Modern Apartment with Amazing Amenities (ID3117X83)",
+        "address": {
+            "addressLocality": "15 Cliff St Apt 24D, New York, NY 10038",
+            "streetAddress": "15 Cliff St Apt 24D, New York, NY 10038, New York, 10038, United States",
+            "postalCode": "10038",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530035880.jpg?k=53f2cef5c1c299138059173ce658da94ce24495476d1f3430379dfd17f9d09d8&o=&hp=1"
+    }
+]

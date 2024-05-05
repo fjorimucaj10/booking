@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7084008,-74.0056138&zoom=15&size=1600x1200&markers=color:blue%7c40.7084008,-74.0056138&sensor=false&client=gme-booking&channel=booking-frontend&signature=fcBZRShShpKfzSqp_sWCtOYR1mE=",
+        "aggregateRating": {
+            "ratingValue": 10.0,
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10038",
+            "addressRegion": "New York State",
+            "streetAddress": "15 Cliff Street 17a, New York, NY 10038, United States",
+            "addressLocality": "15 Cliff Street 17a"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/central-new-york-residence.en-gb.html",
+        "description": "Boasting air-conditioned accommodation with a terrace, Central New York residence is set in New York.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519933351.jpg?k=d489fb20f72f6010c91bfc8e97843b345f67aa584bc550f464da75acef06dcc0&o=&hp=1",
+        "name": "Central New York residence",
+        "@type": "Hotel"
+    }
+]

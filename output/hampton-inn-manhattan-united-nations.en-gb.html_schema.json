@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7508282,-73.9722961&zoom=15&center=40.7508282,-73.9722961&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=Su0a2cm32G1XXQitrdPD46nMo8c=",
+        "address": {
+            "addressLocality": "231 East 43rd Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "231 East 43rd Street, Midtown East, New York, NY 10017, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10017"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1401,
+            "@type": "AggregateRating",
+            "ratingValue": 7.8
+        },
+        "url": "https://www.booking.com/hotel/us/hampton-inn-manhattan-united-nations.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485684734.jpg?k=2df8e52db3091c4dd4ea32aa7e05ba5c7292ef0f33de4822e87953c76bcd119c&o=&hp=1",
+        "description": "Located in Manhattan, this New York hotel offers free Wi-Fi and rooms equipped with a flat-screen TV and plush bedding.",
+        "name": "Hampton Inn Manhattan Grand Central",
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)"
+    }
+]

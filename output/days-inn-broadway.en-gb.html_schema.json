@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/288204692.jpg?k=43e43e4aebab90d05dee3e62aa347686fb07f1c3727dfe7105900f42387d9870&o=&hp=1",
+        "name": "Night Hotel Broadway",
+        "url": "https://www.booking.com/hotel/us/days-inn-broadway.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3146 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.2,
+            "bestRating": 10,
+            "reviewCount": 3341
+        },
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "215 West 94th Street, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10025",
+            "addressLocality": "215 West 94th Street",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7932351,-73.9722434&center=40.7932351,-73.9722434&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=jsuGFKS0AGdyna1mjgb20GudSCI=",
+        "description": "On the Upper West Side of Manhattan and within walking distance of Central Park, this hotel features an on-site fitness room and accommodations with cable...",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

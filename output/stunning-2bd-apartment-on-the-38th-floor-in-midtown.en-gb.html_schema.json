@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "70 West 45th Street",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10036"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7563378,-73.9822170&sensor=false&markers=color:blue%7c40.7563378,-73.9822170&zoom=15&client=gme-booking&channel=booking-frontend&signature=7liWBLofmSFog_mrMl5xZ6jS9Ds=",
+        "priceRange": "Prices for upcoming dates start at \u00a3308 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/stunning-2bd-apartment-on-the-38th-floor-in-midtown.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475002886.jpg?k=5c5fa6bf03ec5fb3032a24bebc63ff51282601a62d0a9a8c390fa151bffa23b9&o=&hp=1",
+        "name": "Stunning 2BD Apartment on the 38th Floor in Midtown",
+        "@context": "http://schema.org",
+        "description": "Set in a central area of New York, 500 metres from Radio City Music Hall, Stunning 2BD Apartment on the 38th Floor in Midtown offers air-conditioned..."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/washington-square.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3308 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7323625,-73.9988074&markers=color:blue%7c40.7323625,-73.9988074&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=25w6xfX2-KJk00Q49WEsWpQhPWI=",
+        "name": "Washington Square Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/16432637.jpg?k=8837b4192c099d83256a6fe1fd33398d18b74853ba826103247e4e01b692fa73&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "103 Waverly Place",
+            "streetAddress": "103 Waverly Place, Greenwich Village, New York, NY 10011, United States"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 898,
+            "@type": "AggregateRating"
+        },
+        "description": "Located 32 metres from Washington Square Park and 141 metres from the subway station, this Greenwich Village hotel features a spa and a restaurant."
+    }
+]

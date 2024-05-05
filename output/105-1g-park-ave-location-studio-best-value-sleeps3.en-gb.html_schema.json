@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/105-1g-park-ave-location-studio-best-value-sleeps3.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "105 East 24th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "105 East 24th Street, Flatiron District, New York, 10010, United States",
+            "postalCode": "10010",
+            "addressCountry": "USA"
+        },
+        "name": "105-1G Park Ave Location studio best value Sleeps3",
+        "priceRange": "Prices for upcoming dates start at \u00a3661 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7408104,-73.9852371&zoom=15&markers=color:blue%7c40.7408104,-73.9852371&sensor=false&client=gme-booking&channel=booking-frontend&signature=p43WZbjyyzicY5nhJRoLSIDO8Ag=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539005687.jpg?k=118f20a324fbdf0f936c114d7bcc45b4f9a9db26fd5cf3be089112ef9a07292d&o=&hp=1",
+        "description": "Situated in New York, 500 metres from Flatiron Building and 1.",
+        "@type": "Hotel"
+    }
+]

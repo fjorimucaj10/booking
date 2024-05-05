@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7451757,-73.9929060&zoom=15&sensor=false&markers=color:blue%7c40.7451757,-73.9929060&client=gme-booking&channel=booking-frontend&signature=ATQMC7P65oksfcNxMHErgpUw_TE=",
+        "url": "https://www.booking.com/hotel/us/132-west-26.en-gb.html",
+        "name": "Stunning Penthouse in Chelsea",
+        "priceRange": null,
+        "description": "Stunning Penthouse in Chelsea is located in the Chelsea district of New York, less than 1 km from Madison Square Garden, a 10-minute walk from Penn Station...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431269694.jpg?k=d15ebdaab5b5256fcc62859bd02fd34d8372c409685390a8047ab5f8dcf5b116&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "132 West 26th Street 10Ph, Chelsea, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "132 West 26th Street 10Ph",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001"
+        },
+        "@type": "Hotel"
+    }
+]

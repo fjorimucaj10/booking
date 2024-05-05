@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531340188.jpg?k=28348b3e12fa384c8f3355c5cc9782f43ad024342cf1417e1b0bf5bf6016c8dc&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Right in the heart of New York, situated within a short distance of Broadway Theatre and Carnegie Hall, Experience the heart of Times Square offers free...",
+        "priceRange": "Prices for upcoming dates start at \u00a3433 per night (We Price Match)",
+        "name": "Experience the heart of Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7635447,-73.9851925&size=1600x1200&markers=color:blue%7c40.7635447,-73.9851925&client=gme-booking&channel=booking-frontend&signature=JJ_gOUdVAaHVbOXQVFv0iFdtQwg=",
+        "address": {
+            "addressLocality": "300 52nd Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "300 52nd Street, Hell's Kitchen, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/experience-the-heart-of-times-square.en-gb.html"
+    }
+]

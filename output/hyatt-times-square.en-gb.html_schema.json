@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440539267.jpg?k=57b25df4275fe18764db9e36e24c050db586fa76ad4d4a924b29d4cbfd9b1906&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "streetAddress": "135 West 45th Street, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressLocality": "135 West 45th Street",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3294 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7574288,-73.9841282&zoom=15&size=1600x1200&center=40.7574288,-73.9841282&sensor=false&client=gme-booking&channel=booking-frontend&signature=g3-7n83gl913whuy6XarqPczzB8=",
+        "url": "https://www.booking.com/hotel/us/hyatt-times-square.en-gb.html",
+        "name": "Hyatt Centric Times Square New York",
+        "aggregateRating": {
+            "reviewCount": 1233,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3
+        },
+        "description": "Enjoy your cocktail with an expansive view of the city at the rooftop lounge when you stay at Hyatt Centric Times Square."
+    }
+]

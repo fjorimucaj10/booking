@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7707710,-73.9574814&markers=color:blue%7c40.7707710,-73.9574814&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=8TH5wc5QpOgFl3s_AHsnoUI4RyA=",
+        "priceRange": "Prices for upcoming dates start at \u00a3960 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533339341.jpg?k=d8e5f6097540dc7523b90e2ba03a2996311baf8761b18bfa085385af2b9b2043&o=&hp=1",
+        "description": "Located in New York, 1.9 km from Central Park and 2.",
+        "url": "https://www.booking.com/hotel/us/75-4c-new-duplex-3br-w-d-elevator-walk-to-c-park.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10021",
+            "addressLocality": "244 East 75th Street"
+        },
+        "name": "75-4C New Duplex 3BR W D Elevator Walk to C park"
+    }
+]

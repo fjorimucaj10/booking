@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "Tribeca, New York, 10007, United States",
+            "postalCode": "10007",
+            "@type": "PostalAddress",
+            "addressLocality": ""
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/449564277.jpg?k=40cd48ca1b54a65519399dffe2e1de4b960d5ba231d2bf961941a1b2320456f1&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7157930,-74.0058710&center=40.7157930,-74.0058710&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=1ZpnCSET9A3MAzEOTMb9mUF0bQ4=",
+        "description": "Offering city views, Tribeca studio w gym doorman nr Freedom Tower NYC-1106 is an accommodation set in New York, 1 km from National September 11 Memorial &...",
+        "priceRange": null,
+        "name": "Tribeca studio w gym doorman nr Freedom Tower NYC-1106",
+        "url": "https://www.booking.com/hotel/us/tribeca-studio-w-gym-doorman-nr-freedom-tower-nyc-1106.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

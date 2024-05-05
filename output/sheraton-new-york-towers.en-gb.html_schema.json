@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/430226615.jpg?k=08b34be770e5490fa59cb76cdec19edf6a65fd9a36e4544c091e0996fe6d3fac&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Sheraton New York Times Square Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1571,
+            "ratingValue": 7.0,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "streetAddress": "811 7th Avenue, 53rd Street, New York, NY 10019, United States",
+            "addressLocality": "811 7th Avenue, 53rd Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019"
+        },
+        "description": "Featuring an extensive health center and a ticket service for popular New York shows, Sheraton New York Times Square Hotel is 55 metres from the 7th Avenue...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7626559,-73.9818907&markers=color:blue%7c40.7626559,-73.9818907&zoom=15&client=gme-booking&channel=booking-frontend&signature=CYPp1iuljBbn7n6PSbK1x5YSXrc=",
+        "url": "https://www.booking.com/hotel/us/sheraton-new-york-towers.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)"
+    }
+]

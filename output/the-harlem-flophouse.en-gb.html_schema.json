@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "242 West 123rd Street Private residence",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10027",
+            "streetAddress": "242 West 123rd Street Private residence, Harlem, New York, NY 10027, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3143 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-harlem-flophouse.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/129520895.jpg?k=fa6643711456c531d2142c497f77439bc1f3b65cfe8dbda2f99e69843f3453bc&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Located in New York and within 1.4 km of Columbia University, The Harlem Flophouse features a shared lounge, non-smoking rooms, and free WiFi throughout...",
+        "aggregateRating": {
+            "ratingValue": 8.8,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 121
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&center=40.8081489,-73.9509542&markers=color:blue%7c40.8081489,-73.9509542&client=gme-booking&channel=booking-frontend&signature=dEsmggxKk6J_Iav0Xn_yrVa4dso=",
+        "name": "The Harlem Flophouse"
+    }
+]

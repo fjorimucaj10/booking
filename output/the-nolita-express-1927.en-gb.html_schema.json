@@ -1,0 +1,26 @@
+[
+    {
+        "name": "The Nolita Express 1927",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a381 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7219997,-73.9937922&zoom=15&size=1600x1200&sensor=false&center=40.7219997,-73.9937922&client=gme-booking&channel=booking-frontend&signature=Y1g9f_XFNMxzhI8Lj6lh1SIgNyc=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/548526100.jpg?k=23bd6d0d0dc11c49f17e841c3651437f984f7caccc16ea5cf103f57935b8df61&o=&hp=1",
+        "description": "Set in New York, 600 metres from Bloomingdales, The Nolita Express 1927 offers air-conditioned rooms and a shared lounge. The property is located 2.",
+        "aggregateRating": {
+            "ratingValue": 10.0,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1
+        },
+        "url": "https://www.booking.com/hotel/us/the-nolita-express-1927.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "220 Bowery",
+            "postalCode": "NY 10012",
+            "@type": "PostalAddress",
+            "streetAddress": "220 Bowery, SoHo, New York, NY 10012, United States"
+        }
+    }
+]

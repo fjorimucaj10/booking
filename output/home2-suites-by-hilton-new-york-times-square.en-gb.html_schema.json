@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Well located in the centre of New York, Home2 Suites By Hilton New York Times Square provides free WiFi throughout the property and a bar.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "150 W 48th Street, New York, NY 10017, United States",
+            "addressLocality": "150 W 48th Street",
+            "postalCode": "NY 10017",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.7,
+            "@type": "AggregateRating",
+            "reviewCount": 527,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/home2-suites-by-hilton-new-york-times-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498855535.jpg?k=da78895586ff81e93fbfdbd7d28d011a68e37281256930ffa46cd3e5d65cf3f6&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3193 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7595350,-73.9831700&size=1600x1200&zoom=15&center=40.7595350,-73.9831700&client=gme-booking&channel=booking-frontend&signature=AbeY7qVmhfts1PIubbgBEYqq5EI=",
+        "name": "Home2 Suites By Hilton New York Times Square"
+    }
+]

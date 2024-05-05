@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Located in Manhattan, this New York City accommodation is opposite Bryant Park and the New York Public Library.",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 152
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3409 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/andaz-5th-avenue.en-gb.html",
+        "address": {
+            "addressLocality": "485 5th Avenue",
+            "streetAddress": "485 5th Avenue, New York, NY 10017, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=40.7527864,-73.9810793&markers=color:blue%7c40.7527864,-73.9810793&client=gme-booking&channel=booking-frontend&signature=B_KLKeXjUYknQAQ3etX7DRB8aU8=",
+        "name": "Andaz 5th Avenue-a concept by Hyatt",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/491734562.jpg?k=8f3f7e758ca62be15090f3f08d74f7225a9e757b8432c10dde5e496836c11018&o=&hp=1"
+    }
+]

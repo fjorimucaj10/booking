@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7471008,-73.9875948&markers=color:blue%7c40.7471008,-73.9875948&sensor=false&client=gme-booking&channel=booking-frontend&signature=kpABiYjCzQ7VP_6yBAMhmnjAk7c=",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/hyatt-herald-square.en-gb.html",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1291,
+            "ratingValue": 8.0
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/194941318.jpg?k=66a361194d5320b15d96ed7572597acaf072cb85394e3bc3494431de06fdfd2f&o=&hp=1",
+        "address": {
+            "streetAddress": "30-32 West 31st Street, NoMad, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "30-32 West 31st Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA"
+        },
+        "description": "Featuring a seasonal rooftop bar with views of the Empire State Building, the Hyatt Herald Square New York enjoys a midtown location that is surrounded...",
+        "@context": "http://schema.org",
+        "name": "Hyatt Herald Square New York"
+    }
+]

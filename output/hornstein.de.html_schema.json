@@ -1,26 +1,26 @@
 [
     {
-        "description": "Die Unterkunft Hotel Hornstein - Weingut, Vinothek & Gastronomie, die in Nonnenhorn, 17 km von Messe Friedrichshafen entfernt gelegen ist, verf\u00fcgt \u00fcber...",
-        "@type": "Hotel",
-        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0109 pro Nacht (Wir bieten den gleichen Preis) ",
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "ratingValue": 9.1,
-            "bestRating": 10,
-            "reviewCount": 344
-        },
-        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=47.5772240,9.6120040&markers=color:blue%7c47.5772240,9.6120040&client=gme-booking&channel=booking-frontend&signature=LM8sXdzHgZ7_hNs5u-yX2kEs-Oo=",
         "url": "https://www.booking.com/hotel/de/hornstein.de.html",
         "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c47.5772240,9.6120040&size=1600x1200&sensor=false&center=47.5772240,9.6120040&client=gme-booking&channel=booking-frontend&signature=hQ7M20_JpzD5Ersepw1MNRrKlec=",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "reviewCount": 360,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0124 pro Nacht (Wir bieten den gleichen Preis) ",
+        "name": "Hotel Hornstein - Weingut, Vinothek & Gastronomie",
         "address": {
-            "@type": "PostalAddress",
-            "postalCode": "88149",
-            "addressCountry": "Deutschland",
             "addressRegion": "Baden-W\u00fcrttemberg",
+            "postalCode": "88149",
             "addressLocality": "7 Sonnenbichlstra\u00dfe",
-            "streetAddress": "7 Sonnenbichlstra\u00dfe, 88149 Nonnenhorn, Deutschland"
+            "@type": "PostalAddress",
+            "streetAddress": "7 Sonnenbichlstra\u00dfe, 88149 Nonnenhorn, Deutschland",
+            "addressCountry": "Deutschland"
         },
         "image": "https://cf.bstatic.com/xdata/images/hotel/max500/349934442.jpg?k=5c9d831132eba7c1b371a23268aa08ab33ff5bf2bf357c7560d36d7570cdbc18&o=&hp=1",
-        "name": "Hotel Hornstein - Weingut, Vinothek & Gastronomie"
+        "description": "Die Unterkunft Hotel Hornstein - Weingut, Vinothek & Gastronomie, die in Nonnenhorn, 17 km von Messe Friedrichshafen entfernt gelegen ist, verf\u00fcgt \u00fcber..."
     }
 ]

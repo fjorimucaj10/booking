@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/wingate-by-wyndham-manhattan-chelsea.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3179 per night (We Price Match)",
+        "description": "In a prime location in the Fifth Avenue district of New York, Wingate by Wyndham New York Midtown South/5th Ave is situated 600 metres from Macy's, 500...",
+        "@type": "Hotel",
+        "name": "Wingate by Wyndham New York Midtown South/5th Ave",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/230263897.jpg?k=c090ef9be2aa3422580f43851ee4f1b4e0ecd32e1c24368cf10b457bb7aac073&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "addressLocality": "11 West 37th St",
+            "streetAddress": "11 West 37th St, New York, NY 10018, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7507760,-73.9842080&center=40.7507760,-73.9842080&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=4fil136LFcCquGxU57SfPVjlEBE=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 2033
+        }
+    }
+]

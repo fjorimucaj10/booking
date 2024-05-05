@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7659600,-73.9571200&center=40.7659600,-73.9571200&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ElCUsiMqQqSld5Diym0k3VWE_Us=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/1288-3r-new-renovated-2-bedrooms.en-gb.html",
+        "@type": "Hotel",
+        "name": "1288-3RS New Renovated 2 Bedrooms",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546960935.jpg?k=5ed33810ab2aab57a6320b29f9976d10a355f479ff3c50ead945667ea408df67&o=&hp=1",
+        "priceRange": null,
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "1288 1st Avenue",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10021",
+            "streetAddress": "1288 1st Avenue, Upper East Side, New York, 10021, United States"
+        },
+        "description": "1288-3RS New Renovated 2 Bedrooms is set in the Upper East Side district of New York, 2.3 km from Metropolitan Museum of Art, 3."
+    }
+]

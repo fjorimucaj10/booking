@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/548172728.jpg?k=dd96b67af5c5ff98677ace9a47a7b4cb901939aa3316711926b307da3941029b&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/luxury-5-bedroom-apartment-manhattan-nyc.en-gb.html",
+        "address": {
+            "streetAddress": "New York, 10036-4202, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10036-4202",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "description": "Set in the centre of New York, 500 metres from Radio City Music Hall and 600 metres from Rockefeller Center, Luxury 5 Bedroom Apartment Manhattan NYC...",
+        "priceRange": "Prices for upcoming dates start at \u00a31,758 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "Luxury 5 Bedroom Apartment Manhattan NYC",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7563378,-73.9822170&size=1600x1200&markers=color:blue%7c40.7563378,-73.9822170&zoom=15&client=gme-booking&channel=booking-frontend&signature=6e2-XDoF2A3qp6D_iau4x4mxZlU="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "description": "Located in New York, 1.8 km from NYU - New York University and 2.",
+        "@context": "http://schema.org",
+        "name": "LES 1BR w WD nr BD Train Park NYC-825",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7171390,-73.9931630&markers=color:blue%7c40.7171390,-73.9931630&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=FNW7LN0qhx2pXy7AF6DU4YLFG_4=",
+        "url": "https://www.booking.com/hotel/us/les-1br-w-wd-nr-bd-train-park-nyc-825.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "Lower East Side, New York, 10002, United States",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10002"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465219017.jpg?k=82350c299685b801cf2208e9e19bd730c5343298a8911f4f2c337e261fac1518&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

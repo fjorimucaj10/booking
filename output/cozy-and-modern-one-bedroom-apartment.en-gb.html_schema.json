@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Located in New York, 2.7 km from Central Park and 2.9 km from Strawberry Fields, Cozy and Modern One-Bedroom Apartment offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3359 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/cozy-and-modern-one-bedroom-apartment.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7754729,-73.9543739&zoom=15&size=1600x1200&markers=color:blue%7c40.7754729,-73.9543739&sensor=false&client=gme-booking&channel=booking-frontend&signature=SXBfRsDcKWA_euJ54gJ4v_PlWrg=",
+        "name": "Cozy and Modern One-Bedroom Apartment",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "238 East 82nd Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "238 East 82nd Street, Upper East Side, New York, 10028, United States",
+            "postalCode": "10028"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475014885.jpg?k=4aae61d62fad7f8154fdaa32617328ecf0a32bfcabc84da7c40ce352787a8d1b&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

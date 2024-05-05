@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "22 North Loop Road, New York, NY 10044, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10044",
+            "addressLocality": "22 North Loop Road",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "description": "Graduate New York has a fitness centre, garden, a restaurant and bar in New York.",
+        "aggregateRating": {
+            "reviewCount": 3644,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.6
+        },
+        "url": "https://www.booking.com/hotel/us/graduate-roosevelt-island.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7560000,-73.9550000&center=40.7560000,-73.9550000&client=gme-booking&channel=booking-frontend&signature=uBbZSNtb-I7ty7Uf5r41VM0cauQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/313305500.jpg?k=f27ea3ec95645fcbe11b62d4062324970c4bb18cf8de785de4288d74cc659337&o=&hp=1",
+        "name": "Graduate New York",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3248 per night (We Price Match)"
+    }
+]

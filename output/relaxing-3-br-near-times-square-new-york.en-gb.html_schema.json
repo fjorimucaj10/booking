@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7623100,-73.9903833&sensor=false&size=1600x1200&zoom=15&center=40.7623100,-73.9903833&client=gme-booking&channel=booking-frontend&signature=GsA9BKZXOnl2cnbeMrwEiJaYkzw=",
+        "url": "https://www.booking.com/hotel/us/relaxing-3-br-near-times-square-new-york.en-gb.html",
+        "name": "Relaxing 3 BR near Times Square",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490260108.jpg?k=81cdc77026333bbe7fb2ac5e43b80fdb97b7d500391dc7718cfb818c39b20ef2&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3660 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "402 West 48th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "streetAddress": "402 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressCountry": "USA"
+        },
+        "description": "Set in a central area of New York, less than 1 km from Times Square, Relaxing 3 BR near Times Square offers air-conditioned accommodation with free WiFi..."
+    }
+]

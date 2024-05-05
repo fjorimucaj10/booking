@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3794 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/93175995.jpg?k=507e8612b316532a06fc8fd169dcac9c93aa8e7754c550d4b0bc7700dcbcfef0&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.8,
+            "bestRating": 10,
+            "reviewCount": 759
+        },
+        "description": "Located steps from Fifth Avenue in Midtown Manhattan, this hotel boasts a rooftop terrace and a spa with an indoor pool.",
+        "address": {
+            "streetAddress": "700 Fifth Avenue at 55th Street, New York, NY 10019, United States",
+            "addressLocality": "700 Fifth Avenue at 55th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019"
+        },
+        "url": "https://www.booking.com/hotel/us/the-peninsula-new-york.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "name": "The Peninsula New York",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7616803,-73.9753246&markers=color:blue%7c40.7616803,-73.9753246&client=gme-booking&channel=booking-frontend&signature=cuH6cp9BU7dhtXZwLpxV9pdvT3Y="
+    }
+]

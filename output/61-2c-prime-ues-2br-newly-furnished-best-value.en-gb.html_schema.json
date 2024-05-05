@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "description": "Set in New York, 1.8 km from Central Park and 2 km from Rockefeller Center, 61-2C Prime UES 2BR Newly furnished best value offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/522391004.jpg?k=c48194e40140195b06b515d3804e9f9ab921df3045eaf0411b1113e8887277c2&o=&hp=1",
+        "@type": "Hotel",
+        "name": "61-2C Prime UES 2BR Newly furnished best value",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "405 East 61st Street",
+            "addressCountry": "USA",
+            "streetAddress": "405 East 61st Street, Upper East Side, New York, 10065, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10065"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7607841,-73.9604340&size=1600x1200&center=40.7607841,-73.9604340&sensor=false&client=gme-booking&channel=booking-frontend&signature=AqlkbSXPPyUguKxCZhb5M5J87zc=",
+        "url": "https://www.booking.com/hotel/us/61-2c-prime-ues-2br-newly-furnished-best-value.en-gb.html"
+    }
+]

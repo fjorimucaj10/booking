@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504321839.jpg?k=65473037e8a9b5c3e4f7f6969ddcec77e54673282d6afc61b58c08bf66d1214c&o=&hp=1",
+        "name": "403-2E Newly Renovated Studio UES",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7658315,-73.9568257&zoom=15&markers=color:blue%7c40.7658315,-73.9568257&client=gme-booking&channel=booking-frontend&signature=Lt7Pzvd0ekapgIZqEXi7fcfD5FM=",
+        "description": "Set in New York, 1.8 km from Central Park and 2.3 km from Metropolitan Museum of Art, 403-2E Newly Renovated Studio UES offers air conditioning.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "East 69th Street 403",
+            "streetAddress": "East 69th Street 403, Upper East Side, New York, 10021, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10021"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 10.0,
+            "bestRating": 10,
+            "reviewCount": 1
+        },
+        "url": "https://www.booking.com/hotel/us/403-2e-newly-renovated-studio-ues.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3647 per night (We Price Match)"
+    }
+]

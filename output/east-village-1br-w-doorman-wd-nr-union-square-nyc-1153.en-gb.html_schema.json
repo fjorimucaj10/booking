@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/496518990.jpg?k=6690ff175d230aba6843c64056d89845ee53fb539716b0bb576f9cd4659486e2&o=&hp=1",
+        "name": "East Village 1br w doorman wd nr Union Square NYC-1153",
+        "url": "https://www.booking.com/hotel/us/east-village-1br-w-doorman-wd-nr-union-square-nyc-1153.en-gb.html",
+        "description": "Situated in New York, 1.4 km from Bloomingdales and 1.",
+        "address": {
+            "addressLocality": "",
+            "streetAddress": "East Village, New York, 10003, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7306570,-73.9886510&size=1600x1200&zoom=15&markers=color:blue%7c40.7306570,-73.9886510&sensor=false&client=gme-booking&channel=booking-frontend&signature=eqF7jF0WU2TGeiQyfHJeob9ZIPk="
+    }
+]

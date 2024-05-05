@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "@type": "AggregateRating",
+            "reviewCount": 1761,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-quin.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3331 per night (We Price Match)",
+        "name": "Hilton Club The Quin New York",
+        "description": "The Quin Central Park by Hilton Club is located in Midtown within walking distance of Manhattan\u2019s Central Park and just 50 metres from the West 57th Street...",
+        "address": {
+            "addressLocality": "101 West 57th Street at Sixth Avenue",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "101 West 57th Street at Sixth Avenue, New York, NY 10019, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7646348,-73.9774982&zoom=15&sensor=false&markers=color:blue%7c40.7646348,-73.9774982&client=gme-booking&channel=booking-frontend&signature=77wd-0ctqioh7mmzj5gFXVeL8sE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485683600.jpg?k=e16a5a54bcb236ce4d48aaa375d90165f24da7b51b96fbffa0d1af2ca4993764&o=&hp=1"
+    }
+]

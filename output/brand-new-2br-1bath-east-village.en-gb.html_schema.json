@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/528271976.jpg?k=34cf4a80fc8d4a4fa5af17e65dc6757ecacc668ab7f6144a62df469c5fe1a0c9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/brand-new-2br-1bath-east-village.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Brand new 2BR 1Bath East Village",
+        "description": "Situated in New York, 1.9 km from Bloomingdales and 1.7 km from Flatiron Building, Brand new 2BR 1Bath East Village offers air conditioning.",
+        "address": {
+            "postalCode": "10009",
+            "addressRegion": "New York State",
+            "streetAddress": "East 11th Street 400, East Village, New York, 10009, United States",
+            "addressLocality": "East 11th Street 400",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3286 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7291306,-73.9837200&markers=color:blue%7c40.7291306,-73.9837200&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=GfGRErZ3epvnS0uNcs0efyRk8go=",
+        "@type": "Hotel"
+    }
+]

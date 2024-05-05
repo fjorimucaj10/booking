@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 27,
+            "@type": "AggregateRating",
+            "ratingValue": 6.9,
+            "bestRating": 10
+        },
+        "description": "The VILLAGE HOUSE NYC in New York provides accommodation with free WiFi, 400 metres from Penn Station, less than 1 km from The High Line and a 11-minute...",
+        "name": "The VILLAGE HOUSE NYC",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3151 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/309508526.jpg?k=7e90a98cdd3a981a6f28d34bca9823bf59040daac99eec1a098f787f411be232&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7498592,-73.9971551&zoom=15&center=40.7498592,-73.9971551&client=gme-booking&channel=booking-frontend&signature=dl65tajRiKEMTUSbQ8lMEkONTUE=",
+        "url": "https://www.booking.com/hotel/us/chelsea29.en-gb.html",
+        "address": {
+            "streetAddress": "333 West 29th Street, Chelsea, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "333 West 29th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        },
+        "@context": "http://schema.org"
+    }
+]

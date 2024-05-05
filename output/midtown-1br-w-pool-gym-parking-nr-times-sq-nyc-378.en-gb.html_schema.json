@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "streetAddress": "New York, 10036, United States",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "Midtown 1BR w Pool Gym Parking nr Times Sq NYC-378",
+        "priceRange": null,
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/478219093.jpg?k=54b4543d728f2a45e10864ac4233a324765c3328c3facbbabe5d70409bd8160d&o=&hp=1",
+        "description": "Offering city views, Midtown 1BR w Pool Gym Parking nr Times Sq NYC-378 is an accommodation located in New York, less than 1 km from Rockefeller Center and...",
+        "url": "https://www.booking.com/hotel/us/midtown-1br-w-pool-gym-parking-nr-times-sq-nyc-378.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7607614,-73.9861055&center=40.7607614,-73.9861055&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=pqqQ6CWLwa2mhQa0sK4shYaU3Jw="
+    }
+]

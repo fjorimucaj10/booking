@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 8,
+            "bestRating": 10,
+            "ratingValue": 7.9
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/417979138.jpg?k=5b5ccca9436ad4c4fb7b03bfba18199904b7c7174ce688f8811153480629bdea&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "postalCode": "NY 10002"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7195967,-73.9905613&markers=color:blue%7c40.7195967,-73.9905613&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=bY15uG0lBPoykvHzLL6fr-JvctE=",
+        "url": "https://www.booking.com/hotel/us/kasa-lower-east-side.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3287 per night (We Price Match)",
+        "name": "Kasa Lantern Lower East Side",
+        "description": "Situated in New York and within less than 1 km of Bloomingdales, Kasa Lantern Lower East Side has a terrace, non-smoking rooms, and free WiFi."
+    }
+]

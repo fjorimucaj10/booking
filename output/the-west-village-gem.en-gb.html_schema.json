@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "246 W 4th St, Greenwich Village, New York, 10014, United States",
+            "postalCode": "10014",
+            "addressLocality": "246 W 4th St"
+        },
+        "url": "https://www.booking.com/hotel/us/the-west-village-gem.en-gb.html",
+        "description": "Located in New York, 500 metres from NYU - New York University and 1.",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "name": "The West Village Gem",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518919541.jpg?k=53cd2f06a2c2bb0b833f0e36dc212fde10b46fa01ed4f8774726403eaf044642&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7324905,-73.9999924&markers=color:blue%7c40.7324905,-73.9999924&zoom=15&client=gme-booking&channel=booking-frontend&signature=1pmzkCtmfMtzv6RAjfD5uuUn0No="
+    }
+]

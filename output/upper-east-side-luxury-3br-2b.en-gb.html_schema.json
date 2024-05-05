@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "212 East 70th Street, Upper East Side, New York, NY 10021, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021",
+            "addressLocality": "212 East 70th Street",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3537 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/upper-east-side-luxury-3br-2b.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7679382,-73.9608026&center=40.7679382,-73.9608026&sensor=false&client=gme-booking&channel=booking-frontend&signature=0fHVgoTBy1LUbhhV6yvTz47YCAU=",
+        "description": "Situated in the Upper East Side district in New York, Upper East Side Luxury 3BR 2B offers 4-star rooms with free WiFi. The property is located 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546717817.jpg?k=2ed63f644a9907dd1a93f5e6b9fac065769613f828ccd32f8b79851efb37ac93&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Upper East Side Luxury 3BR 2B"
+    }
+]

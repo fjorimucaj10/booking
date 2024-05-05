@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 4,
+            "ratingValue": 9.2,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7202043,-73.9833306&sensor=false&size=1600x1200&zoom=15&center=40.7202043,-73.9833306&client=gme-booking&channel=booking-frontend&signature=rdv9xFGBK1noAaX1IZbPzbvMccw=",
+        "address": {
+            "streetAddress": "Attorney Street, Lower East Side, New York, 10002, United States",
+            "postalCode": "10002",
+            "addressLocality": "Attorney Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in New York, 1.6 km from Bloomingdales and 1.",
+        "@context": "http://schema.org",
+        "name": "Private Garden Two Bedroom Residence in Luxury Condominium",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/private-garden-residence-in-luxury-condominium-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,022 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488857490.jpg?k=fb3d9abd9055aaccdfad0b7ed70744c86ebb4422ccc78a0519acd1331c145d57&o=&hp=1"
+    }
+]

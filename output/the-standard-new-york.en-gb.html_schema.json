@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Featuring a roof terrace with a hot tub, The Standard, High Line New York is located in the Meatpacking District, 29 metres from the High Line.",
+        "url": "https://www.booking.com/hotel/us/the-standard-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454790382.jpg?k=608d7278510c17b0962e7e1bc23da92a49390a95f9cfa2b1e9e1bf4e93e4cb8c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7406795,-74.0078122&sensor=false&size=1600x1200&zoom=15&center=40.7406795,-74.0078122&client=gme-booking&channel=booking-frontend&signature=rZ2nYiSoIn42ry_IA5p-BCtcPs4=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2003,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10014",
+            "addressLocality": "848 Washington Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "848 Washington Street, Greenwich Village, New York, NY 10014, United States",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3327 per night (We Price Match)",
+        "name": "The Standard, High Line New York",
+        "@type": "Hotel"
+    }
+]

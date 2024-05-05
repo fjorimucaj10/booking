@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10010",
+            "addressCountry": "USA",
+            "streetAddress": "240 East 26th Street, Kips Bay, New York, 10010, United States",
+            "addressLocality": "240 East 26th Street",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7398482,-73.9801503&zoom=15&size=1600x1200&center=40.7398482,-73.9801503&sensor=false&client=gme-booking&channel=booking-frontend&signature=SpkFdN32kHm7s20hEjd1XrUDqaU=",
+        "priceRange": "Prices for upcoming dates start at \u00a3300 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Set in New York, 1.1 km from Flatiron Building and 1.4 km from Empire State Building, 26-3A STUDIO Gramercy W D Outdoor Courtyard offers air conditioning.",
+        "@type": "Hotel",
+        "name": "26-3A STUDIO Gramercy W D Outdoor Courtyard",
+        "url": "https://www.booking.com/hotel/us/26-3a-studio-gramercy-w-d-outdoor-courtyard.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540226675.jpg?k=489b0c8994ac2e1c28fe049ca9ca6bf5601fc79b68c43211c55ccab3ed9ff52c&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3341 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/297840629.jpg?k=d20e005d5404a7bea91cb5fe624842f72b27867139c5d65700ab7f69396026ce&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10013",
+            "addressLocality": "27 Grand Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "27 Grand Street, SoHo, New York, NY 10013, United States",
+            "addressCountry": "USA"
+        },
+        "name": "ModernHaus SoHo",
+        "aggregateRating": {
+            "reviewCount": 902,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.4
+        },
+        "description": "Located in SoHo, an area known for fashion, art and shops, this hotel offers two bars and a restaurant on-site.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7227522,-74.0047887&sensor=false&markers=color:blue%7c40.7227522,-74.0047887&client=gme-booking&channel=booking-frontend&signature=bu3ov36hnrruw_T6Y08embmeKbg=",
+        "url": "https://www.booking.com/hotel/us/modernhaus-soho.en-gb.html"
+    }
+]

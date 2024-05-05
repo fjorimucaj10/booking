@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7724266,-73.9545517&size=1600x1200&sensor=false&zoom=15&center=40.7724266,-73.9545517&client=gme-booking&channel=booking-frontend&signature=Ge-leftZnrvyRthMXcw4J6jC-Vs=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "addressLocality": "315 East 78th Street",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411303097.jpg?k=e165b46f4c168ada57041491bb376d9bd40b9dff9cf2421a0027d207e3fb802c&o=&hp=1",
+        "name": "78-3A Luxury BRAND NEW Modern 1BR W&D",
+        "url": "https://www.booking.com/hotel/us/78-3a-luxury-brand-new-modern-1br-w-d.en-gb.html",
+        "description": "Situated in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-3A Luxury BRAND NEW Modern 1BR W&D offers air conditioning."
+    }
+]

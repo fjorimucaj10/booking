@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/manhattan-bowery-lodge.en-gb.html",
+        "address": {
+            "addressLocality": "81 Bowery 2ND Floor",
+            "addressCountry": "USA",
+            "postalCode": "NY 10002",
+            "addressRegion": "New York State",
+            "streetAddress": "81 Bowery 2ND Floor, Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "Manhattan Bowery Lodge is situated in New York, 400 metres from Little Italy and 1.3 km from Brooklyn Bridge.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7165945,-73.9956148&center=40.7165945,-73.9956148&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=uLb-9LYJ3PxXGyRoel1hSPXbMEQ=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 879,
+            "ratingValue": 6.5,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/61526762.jpg?k=b9f9c1ea10647015aca473d8ce6c6e0e5e91cf816e1cfad9a63fb69b6a85694f&o=&hp=1",
+        "name": "Manhattan Bowery Lodge",
+        "priceRange": "Prices for upcoming dates start at \u00a390 per night (We Price Match)"
+    }
+]

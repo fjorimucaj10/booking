@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a31,587 per night (We Price Match)",
+        "address": {
+            "addressLocality": "790 Columbus Avenue",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "790 Columbus Avenue, Upper West Side, New York, NY 10025, United States",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461406133.jpg?k=f44f467399cf8db52a26f6a17262b7ced1a159cc34ece4d848ba5d227a376ff7&o=&hp=1",
+        "name": "Lovely 3 BR in NYC with Elevator",
+        "description": "Boasting air-conditioned accommodation with a balcony, Lovely 3 BR in NYC with Elevator is set in New York. The property is around 2.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7930656,-73.9652986&markers=color:blue%7c40.7930656,-73.9652986&zoom=15&client=gme-booking&channel=booking-frontend&signature=PQVaOFwke1sYZOey9-QW1DPT55g=",
+        "url": "https://www.booking.com/hotel/us/lovely-3-br-in-nyc-with-elevator.en-gb.html",
+        "@type": "Hotel"
+    }
+]

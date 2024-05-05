@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Luxurious 4 BR Penthouse in NYC",
+        "priceRange": "Prices for upcoming dates start at \u00a31,736 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "130 Chambers Street",
+            "@type": "PostalAddress",
+            "streetAddress": "130 Chambers Street, Tribeca, New York, NY 10013, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10013"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/luxurious-4-br-penthouse-in-nyc-new-york1.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7152551,-74.0090944&size=1600x1200&center=40.7152551,-74.0090944&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=_O1G6uMHptgiPL-DV2V9IY-2c24=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502096764.jpg?k=a7f7704f798361ae8df4a5f491453ac4cdfd616614b304468622d79233f14ddd&o=&hp=1",
+        "description": "Situated in New York, 1.4 km from Bloomingdales and 700 metres from National September 11 Memorial & Museum, Luxurious 4 BR Penthouse in NYC offers air..."
+    }
+]

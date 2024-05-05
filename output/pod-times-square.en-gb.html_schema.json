@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located 400 metres from Restaurant Row in New York, Pod Times Square features a restaurant, bar and free WiFi throughout the property.",
+        "priceRange": "Prices for upcoming dates start at \u00a3152 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/pod-times-square.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7583945,-73.9930985&sensor=false&markers=color:blue%7c40.7583945,-73.9930985&client=gme-booking&channel=booking-frontend&signature=TD_eGKNsKeb3xNF_qSa-W_--Nfc=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/327103801.jpg?k=072b93fcdb6bbad7764fc2fa8130490e00b4719398dbf6060874a2840ac5e0b2&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Pod Times Square",
+        "address": {
+            "addressLocality": "400 West 42nd Street",
+            "streetAddress": "400 West 42nd Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 21784,
+            "bestRating": 10
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/nyc-townhouse-apartment.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Located less than 10 minutes\u2019 walk to Central Park, this uptown apartment features free Wi-Fi, convenience to local transportation and a fully equipped...",
+        "name": "NYC Townhouse Apartment",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.8043770,-73.9506220&sensor=false&zoom=15&center=40.8043770,-73.9506220&client=gme-booking&channel=booking-frontend&signature=I-Px1ql1_PdTHudxI6qJEzADTLA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/18510243.jpg?k=be36830e2df775d1b0420bfbb4a73caf580e4620b85b3d9ca063f32e056b6be0&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "149 West 118th Street, Harlem, New York, NY 10026, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "149 West 118th Street",
+            "postalCode": "NY 10026"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3168 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 29
+        }
+    }
+]

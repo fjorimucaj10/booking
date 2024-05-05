@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Chelsea 1br w doorman gym nr High Line NYC-1008",
+        "url": "https://www.booking.com/hotel/us/chelsea-1br-w-doorman-gym-nr-high-line-nyc-1008.en-gb.html",
+        "address": {
+            "postalCode": "10011",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "Chelsea, New York, 10011, United States",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7419438,-73.9949930&zoom=15&center=40.7419438,-73.9949930&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=enuSZlW_U6fUd2hLTbqMvXWGvaQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539929392.jpg?k=96f7a5486d772d6ac771991179af87b963bc2f66e26539953e87b27ac6258fd5&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": null,
+        "description": "Chelsea 1br w doorman gym nr High Line NYC-1008 is situated in the Chelsea district of New York, 1.1 km from The High Line, 1.3 km from Penn Station and 1.",
+        "@context": "http://schema.org"
+    }
+]

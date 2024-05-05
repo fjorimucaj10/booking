@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/west-side-ymca.en-gb.html",
+        "name": "West Side YMCA",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 6.6,
+            "reviewCount": 12905,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "description": " Located 50 metres away from Central Park, this hostel is located on Manhattan\u2019s Upper West Side, just 5 minutes\u2019 walk from Columbus Circle.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/204079362.jpg?k=ad3e3b9e935728478fd7d2c0c871198135bb522158b35ed9f23cb312a067110d&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a395 per night (We Price Match)",
+        "address": {
+            "streetAddress": "5 West 63rd Street, Upper West Side, New York, NY 10023, United States",
+            "postalCode": "NY 10023",
+            "addressLocality": "5 West 63rd Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7708451,-73.9806124&center=40.7708451,-73.9806124&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=-CHwrIbo3dTvDlBt8VjzOSHgGME="
+    }
+]

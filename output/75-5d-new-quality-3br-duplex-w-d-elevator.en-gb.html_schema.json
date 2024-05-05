@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "244 East 75th Street",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7707911,-73.9575008&center=40.7707911,-73.9575008&zoom=15&client=gme-booking&channel=booking-frontend&signature=FAC8Ht8iKanQLKIXZQMeHfbL7Fw=",
+        "url": "https://www.booking.com/hotel/us/75-5d-new-quality-3br-duplex-w-d-elevator.en-gb.html",
+        "name": "75-5D NEW Quality 3BR Duplex W&D Elevator",
+        "priceRange": "Prices for upcoming dates start at \u00a3813 per night (We Price Match)",
+        "description": "Located in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-5D NEW Quality 3BR Duplex W&D Elevator offers air conditioning.",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532047628.jpg?k=e0b1eea620d5bebf7a9d6e63bef58551c72651dbcb6442599efa35272e65ec6b&o=&hp=1"
+    }
+]

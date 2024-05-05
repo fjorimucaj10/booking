@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7551640,-73.9961893&markers=color:blue%7c40.7551640,-73.9961893&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=GrgFofxZsUrh1GcIxpmyfOxZDuQ=",
+        "url": "https://www.booking.com/hotel/us/5-bedrooms-in-hudson-yards-31c.en-gb.html",
+        "description": "Located in the centre of New York, 700 metres from Jacob K. Javits Convention Center and 1.",
+        "priceRange": null,
+        "@type": "Hotel",
+        "name": "1C CLOSe",
+        "address": {
+            "addressLocality": "409 West 36th Street 3",
+            "postalCode": "NY 10018",
+            "streetAddress": "409 West 36th Street 3, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482641960.jpg?k=ad8eed149a74eaba5abd3c67d2a9594943370d1af5f2daa44fc9651b35813f3c&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

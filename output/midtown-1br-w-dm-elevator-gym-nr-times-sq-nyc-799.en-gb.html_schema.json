@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Offering city views, Midtown 1BR w DM Elevator Gym nr Times Sq NYC-799 is an accommodation set in New York, less than 1 km from Rockefeller Center and a...",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/midtown-1br-w-dm-elevator-gym-nr-times-sq-nyc-799.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539930019.jpg?k=0eff880076e7536ecd5c2336ceb863f7631fa0569d690ff964ba6ffb8d3e3255&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7607614,-73.9861055&markers=color:blue%7c40.7607614,-73.9861055&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=SeJa-DqrcMO-1H6V4LlG8QazJHY=",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "New York, 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "postalCode": "10036",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "name": "Midtown 1BR w DM Elevator Gym nr Times Sq NYC-799"
+    }
+]

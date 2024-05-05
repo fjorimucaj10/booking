@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/east-village-2br-w-wd-nr-groceries-nyc-1261.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7324098,-73.9874788&sensor=false&markers=color:blue%7c40.7324098,-73.9874788&client=gme-booking&channel=booking-frontend&signature=IOLXm31Gi65psVm7N3FFVZUKlX0=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502029633.jpg?k=94f67ef13afc2fa1170adc8a1d7299d92ecc4644fe095860235440f1289519af&o=&hp=1",
+        "name": "East Village 2br w wd nr groceries NYC-1261",
+        "description": "Set in New York, 1.7 km from Bloomingdales and 1.2 km from Flatiron Building, East Village 2br w wd nr groceries NYC-1261 offers air conditioning.",
+        "address": {
+            "streetAddress": "East Village, New York, 10003, United States",
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": ""
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 1.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Set in New York, 800 metres from Times Square and less than 1 km from Bryant Park, Lux 2 Bedroom 1 Bath Suite in Hudson Yards offers air conditioning.",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "510 West 37th Street",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "streetAddress": "510 West 37th Street, New York, NY 10018, United States"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3741 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/486659807.jpg?k=d9738b9cec56eeda70b445874c6d646b58e3a4bd9b42ad1712616c409cbd05c1&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7536006,-73.9911293&zoom=15&markers=color:blue%7c40.7536006,-73.9911293&sensor=false&client=gme-booking&channel=booking-frontend&signature=ER5N_gKz4-jqupYmqBxFzaHJo0w=",
+        "@type": "Hotel",
+        "name": "Lux 2 Bedroom 1 Bath Suite in Hudson Yards",
+        "url": "https://www.booking.com/hotel/us/lux-2-bedroom-1-bath-suite-in-hudson-yards.en-gb.html"
+    }
+]

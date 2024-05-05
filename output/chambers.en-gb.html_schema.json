@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located right  by Central Park, this hotel is adorned with decorative art. Free WiFi is offered.",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 717
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressLocality": "15 West 56th Street",
+            "streetAddress": "15 West 56th Street, New York, NY 10019, United States",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501182395.jpg?k=7ad5e0143feb516295203f92434554622343616a639767652718d7e39cbef6ca&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Chambers powered by Sonder",
+        "priceRange": "Prices for upcoming dates start at \u00a3230 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/chambers.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7628657,-73.9755992&zoom=15&markers=color:blue%7c40.7628657,-73.9755992&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ZTOGBaHYxJNtzks_lCB_KA9OoTk="
+    }
+]

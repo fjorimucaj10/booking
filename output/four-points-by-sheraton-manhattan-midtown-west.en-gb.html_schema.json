@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/314218647.jpg?k=7c4d90d5e30d61c36358ea4d9a61f4de14d666003b301c8a6ea7eaa5bfdf00ab&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7549900,-73.9984000&markers=color:blue%7c40.7549900,-73.9984000&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=gQa6_kt8p_hegiSl3D3bgW5SgPs=",
+        "name": "Four Points by Sheraton Manhattan Midtown West",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/four-points-by-sheraton-manhattan-midtown-west.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 2230,
+            "bestRating": 10
+        },
+        "address": {
+            "streetAddress": "444 10th Avenue, Hudson Yards, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "444 10th Avenue",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3188 per night (We Price Match)",
+        "description": "Four Points by Sheraton Manhattan Midtown West is set in the Hudson Yards neighborhood of Manhattan, A 7-minute walk from Jacob K."
+    }
+]

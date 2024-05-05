@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Cozy FamilyFriendly Apartment with 2 Bedrooms is set in the Lower East Side district of New York, 1.5 km from NYU - New York University, 2.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519480511.jpg?k=f57fad07777d442e43947f210695b16ce97d3ed8ef5c0aa41754e7d6d3cd58d0&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3302 per night (We Price Match)",
+        "address": {
+            "streetAddress": "138 Allen Street c-a, Lower East Side, New York, 10002, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "138 Allen Street c-a",
+            "addressCountry": "USA",
+            "postalCode": "10002"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 6,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/cozy-familyfriendly-apartment-with-2-bedrooms.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7200368,-73.9896904&size=1600x1200&center=40.7200368,-73.9896904&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=e_x78d2rp0k9V03hLPspwAHbU5g=",
+        "name": "Cozy FamilyFriendly Apartment with 2 Bedrooms"
+    }
+]

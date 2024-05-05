@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/62-2b-new-prime-ues-w-d-in-unit.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10065",
+            "streetAddress": "149 East 62nd Street, Upper East Side, New York, 10065, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "149 East 62nd Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3397 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533530137.jpg?k=435c1cbd397f37bc41bb1ecd58fbebad7c9f9c3579ff6089a9c2c53da3908ee4&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 9.0,
+            "bestRating": 10,
+            "reviewCount": 1
+        },
+        "description": "Set in New York, 1.3 km from Central Park and 1.4 km from St Patrick's Cathedral, 62-2B NEW Prime UES W D in unit offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7639961,-73.9662628&markers=color:blue%7c40.7639961,-73.9662628&client=gme-booking&channel=booking-frontend&signature=dME1zmfvmSF_GAEzIgfzUCuG6m4=",
+        "@type": "Hotel",
+        "name": "62-2B NEW Prime UES W D in unit"
+    }
+]

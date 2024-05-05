@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Featuring a fitness centre, a shared lounge as well as a bar, Hilton New York Times Square is located in the centre of New York, 400 metres from Times...",
+        "name": "Hilton New York Times Square",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/hilton-times-square-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "234 West 42nd Street, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "234 West 42nd Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484129602.jpg?k=f3420f434fa2d9b0c1094e0da913c8489c4398a208320b895f8d1db21ed7ab12&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7567159,-73.9889103&center=40.7567159,-73.9889103&zoom=15&client=gme-booking&channel=booking-frontend&signature=yhdvAIBeLs5Ysu9QuGEh2JjlhF8=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.6,
+            "reviewCount": 707,
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3190 per night (We Price Match)"
+    }
+]

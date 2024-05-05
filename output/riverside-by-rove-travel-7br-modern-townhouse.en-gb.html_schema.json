@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540156091.jpg?k=cedc11183a2c03452364fa034d6fca8133065beb061dcd5e3be68f3d6dc5c8cd&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8224722,-73.9484387&sensor=false&markers=color:blue%7c40.8224722,-73.9484387&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=hjfwReGvqAQunS7g1ndovmMw1B8=",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "West 141st Street 453",
+            "streetAddress": "West 141st Street 453, Harlem, New York, 10031, United States",
+            "postalCode": "10031"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3858 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Riverside by Rove Travel 7BR Modern Townhouse",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/riverside-by-rove-travel-7br-modern-townhouse.en-gb.html",
+        "description": "Set in New York, 3.3 km from Yankee Stadium and 6.2 km from Metropolitan Museum of Art, Riverside by Rove Travel 7BR Modern Townhouse offers air..."
+    }
+]

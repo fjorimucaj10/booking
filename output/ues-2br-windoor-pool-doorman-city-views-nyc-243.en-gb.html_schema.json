@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "",
+            "streetAddress": "Midtown East, New York, 10022, United States",
+            "postalCode": "10022",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "description": "Offering city views, UES 2BR wIndoor pool Doorman City views NYC-243 is an accommodation situated in New York, 1.8 km from Rockefeller Center and 1.",
+        "priceRange": null,
+        "name": "UES 2BR wIndoor pool Doorman City views NYC-243",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ues-2br-windoor-pool-doorman-city-views-nyc-243.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7586500,-73.9622100&zoom=15&markers=color:blue%7c40.7586500,-73.9622100&client=gme-booking&channel=booking-frontend&signature=GKN62ojk9kpBhGWaDM02HBj9MY8=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440634855.jpg?k=8d3d7ff5e0baf1ebed0f7ef8e73b3f50ad49e4a31a83192f8894e46784023ffb&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

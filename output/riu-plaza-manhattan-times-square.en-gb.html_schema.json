@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3266 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/340258150.jpg?k=1e233b609dfb85b45acb9b823194a350121486cacbfe229136283af7fc710a2b&o=&hp=1",
+        "description": "Ideally situated in New York, Riu Plaza Manhattan Times Square features air-conditioned rooms, a restaurant, free WiFi and a bar.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7589510,-73.9833860&markers=color:blue%7c40.7589510,-73.9833860&client=gme-booking&channel=booking-frontend&signature=zh177CKJyiiLOQw6YvbAVyHfEK0=",
+        "url": "https://www.booking.com/hotel/us/riu-plaza-manhattan-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Riu Plaza Manhattan Times Square",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 11422,
+            "ratingValue": 8.6
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "145 West 47th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "addressLocality": "145 West 47th Street",
+            "addressRegion": "New York State"
+        }
+    }
+]

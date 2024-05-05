@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-doorman-elevator-gym-nr-central-park-nyc-679.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/507294379.jpg?k=e868ccd9291ea228b7015d1050094b42064cabf38f202667cb9f5a7a86f7a013&o=&hp=1",
+        "priceRange": null,
+        "name": "UWS 1BR w Doorman Elevator Gym nr Central Park NYC-679",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7911888,-73.9737101&center=40.7911888,-73.9737101&client=gme-booking&channel=booking-frontend&signature=KJXeeZPecbDswmuvxYIZWob5qk4=",
+        "description": "UWS 1BR w Doorman Elevator Gym nr Central Park NYC-679 is situated in the Upper West Side district of New York, 2.2 km from Metropolitan Museum of Art, 2.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "postalCode": "10024",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

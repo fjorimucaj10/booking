@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/115135123.jpg?k=4adc7e4e5ec0a2513e29d35309623238611216ce613378f7328b923f411ed360&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "The Carnegie Hotel in midtown Manhattan is a modern intimate boutique hotel, designed with fine architecture and custom Italian furniture.",
+        "name": "Carnegie Hotel",
+        "aggregateRating": {
+            "reviewCount": 2028,
+            "ratingValue": 8.6,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3299 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7645826,-73.9800860&markers=color:blue%7c40.7645826,-73.9800860&client=gme-booking&channel=booking-frontend&signature=STNykwlmM1W4KbgDi99ZKifzQXg=",
+        "url": "https://www.booking.com/hotel/us/carnegie-hotel-new-york.en-gb.html",
+        "address": {
+            "streetAddress": "160 West 56th Street, New York, NY 10019, United States",
+            "addressLocality": "160 West 56th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        }
+    }
+]

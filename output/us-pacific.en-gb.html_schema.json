@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7179514,-73.9953748&zoom=15&sensor=false&center=40.7179514,-73.9953748&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=9UkyLpeyPjFabmIqKH08WN_9Fcg=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2305,
+            "bestRating": 10,
+            "ratingValue": 5.6
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/151764467.jpg?k=f2eeaf4d33896455753aa700e44008b7d6bf871b8dc75424dafe90b79aae3a78&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/us-pacific.en-gb.html",
+        "name": "U.S. Pacific Hotel",
+        "description": "Featuring free WiFi throughout the property, U.S. Pacific Hotel offers accommodation that is accessible by stairs, in New York.",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10013",
+            "streetAddress": "106 Bowery 2FL, Chinatown, New York, NY 10013, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "106 Bowery 2FL"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3102 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

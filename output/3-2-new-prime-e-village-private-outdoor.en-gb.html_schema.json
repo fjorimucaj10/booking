@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10003",
+            "@type": "PostalAddress",
+            "streetAddress": "77 East 3rd Street, East Village, New York, 10003, United States",
+            "addressLocality": "77 East 3rd Street",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530061482.jpg?k=77f1c8e003716ad828926038949bae6fe071f8ea128ae710a1a7b53eb3771aaf&o=&hp=1",
+        "description": "Boasting air-conditioned accommodation with a patio, 3-2 NEW Prime E Village Private outdoor! is situated in New York. The property is located 1.",
+        "@type": "Hotel",
+        "name": "3-2 NEW Prime E Village Private outdoor!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7251091,-73.9883118&sensor=false&center=40.7251091,-73.9883118&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=fUzRCqdKWKlfmSiHHGrgR7f-asM=",
+        "url": "https://www.booking.com/hotel/us/3-2-new-prime-e-village-private-outdoor.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3445 per night (We Price Match)"
+    }
+]

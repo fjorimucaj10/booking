@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487315001.jpg?k=ffac3d52f55853a7438688004239973a8f21fc4491052c07aee5ec90de5a6aa2&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.5 km from Bloomingdales and 1.",
+        "name": "East Village 1br w balcony garden gym nr bars NYC-1211",
+        "priceRange": null,
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/east-village-1br-w-balcony-garden-gym-nr-bars-nyc-1211.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7220940,-73.9848740&zoom=15&markers=color:blue%7c40.7220940,-73.9848740&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=quLyCe-ViwV932n8FzlYSUsF7fo=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "East Village, New York, 10002, United States",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10002"
+        }
+    }
+]

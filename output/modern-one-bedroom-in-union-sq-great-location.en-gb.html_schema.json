@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Modern One Bedroom in Union Sq - great location is set in the Gramercy district of New York, 1.2 km from NYU - New York University, 1.",
+        "address": {
+            "postalCode": "NY 10003",
+            "streetAddress": "201 East 14th Street, New York, NY 10003, United States",
+            "addressLocality": "201 East 14th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536557536.jpg?k=300c461d287f851d85a762d642edc1142ddcba4fb80f2457b441d2a59fc7abc8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/modern-one-bedroom-in-union-sq-great-location.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3242 per night (We Price Match)",
+        "name": "Modern One Bedroom in Union Sq - great location",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7332926,-73.9871815&zoom=15&markers=color:blue%7c40.7332926,-73.9871815&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dYLh0TyFMqVUKVJByL9-sqLDqOc="
+    }
+]

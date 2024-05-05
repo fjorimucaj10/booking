@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.0,
+            "reviewCount": 1,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/korman-communities-sutton-place.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7580259,-73.9645589&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7580259,-73.9645589&client=gme-booking&channel=booking-frontend&signature=6VrBboulnlmfYYJ-15BKKif7DNk=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/65375854.jpg?k=2f973973de09f8612470808cf2c3bb496966d70810c45152653a125fb554efe8&o=&hp=1",
+        "description": "The AKA Sutton Place, located 1.3 km from the Central Park, offers one and two bedroom apartments in New York City. Complimentary WiFi is offered.",
+        "priceRange": "Prices for upcoming dates start at \u00a3680 per night (We Price Match)",
+        "address": {
+            "streetAddress": "330 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "postalCode": "NY 10022",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "330 East 56th Street"
+        },
+        "name": "AKA Sutton Place"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7565028,-73.9944862&markers=color:blue%7c40.7565028,-73.9944862&client=gme-booking&channel=booking-frontend&signature=vsiPRBjhMv7njQCiRLDFk-1nZbM=",
+        "description": "Situated right in the centre of New York, less than 1 km from Jacob K. Javits Convention Center, Comfy 4 Bedroom apartment in NYC!",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "515 9th Avenue",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "streetAddress": "515 9th Avenue, Hell's Kitchen, New York, NY 10018, United States"
+        },
+        "name": "Comfy 4 Bedroom apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3667 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519987375.jpg?k=284f376e84a84279aced41e5eac985f769393c2b0d87843f1cdab08f26679e4d&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/comfy-4-bedroom-apartment-in-nyc.en-gb.html"
+    }
+]

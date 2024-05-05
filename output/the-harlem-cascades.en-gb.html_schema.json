@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located in New York, 3.3 km from Yankee Stadium and 3.6 km from Columbia University, The Harlem Cascades provides city views and free WiFi.",
+        "url": "https://www.booking.com/hotel/us/the-harlem-cascades.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3153 per night (We Price Match)",
+        "name": "The Harlem Cascades",
+        "address": {
+            "streetAddress": "52 West 128th Street, Harlem, New York, NY 10027, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "addressLocality": "52 West 128th Street",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/143425059.jpg?k=7d0be9187ae307f6e1850a5251db6dee34e1ce90d336cef04766e77fe8a15e99&o=&hp=1",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 587,
+            "ratingValue": 8.3,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8090790,-73.9430430&markers=color:blue%7c40.8090790,-73.9430430&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=lQWsfEg2k_EyV3qBAhCNjNnSyz4="
+    }
+]

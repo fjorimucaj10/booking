@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7601775,-73.9843631&sensor=false&center=40.7601775,-73.9843631&client=gme-booking&channel=booking-frontend&signature=BD16gOv7oUgRRZ6urmK1NjANa4k=",
+        "url": "https://www.booking.com/hotel/us/furnished-oversized-1-bedroom-with-home-office-short-term-available.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3295 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531807930.jpg?k=7f381d708ce43f57edf20f5db603172ad19820331663b31b10426ca7012a1abb&o=&hp=1",
+        "name": "FURNISHED Oversized 1 Bedroom with Home Office (Short-Term Available)",
+        "description": "FURNISHED Oversized 1 Bedroom with Home Office (Short-Term Available) features a balcony and is set in New York, within just 700 metres of Rockefeller...",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "streetAddress": "1600 Broadway, Apt PH5B, New York, NY 10019, United States",
+            "addressLocality": "1600 Broadway, Apt PH5B",
+            "@type": "PostalAddress"
+        }
+    }
+]

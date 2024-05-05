@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484340927.jpg?k=0ed41e519405bd2b48ed2fb882bae41c9378022960e1bc0bb222311353aa03d7&o=&hp=1",
+        "name": "Hilton Garden Inn West 35th Street",
+        "priceRange": "Prices for upcoming dates start at \u00a3165 per night (We Price Match)",
+        "description": "Hilton Garden Inn New York/West 35th Street offers accommodations in Midtown Manhattan - just one block from the Empire State Building and within 800...",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "bestRating": 10,
+            "reviewCount": 2941,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7502927,-73.9866721&zoom=15&markers=color:blue%7c40.7502927,-73.9866721&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=EpLHr9utQKNdc7g7b3HLoaEtbZ0=",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-west-35th-street.en-gb.html",
+        "address": {
+            "streetAddress": "63 West 35th Street, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "addressLocality": "63 West 35th Street"
+        }
+    }
+]

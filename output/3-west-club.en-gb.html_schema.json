@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "3 West Club",
+        "address": {
+            "addressLocality": "3 West 51st Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "streetAddress": "3 West 51st Street, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "Offering a restaurant, 3 West Club is located in Midtown New York.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/205420441.jpg?k=271a21073af20b364bf045d9e314f8633ee99bb81ccb8295e71ce67e0f6cccfe&o=&hp=1",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 454
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7595555,-73.9775343&size=1600x1200&sensor=false&zoom=15&center=40.7595555,-73.9775343&client=gme-booking&channel=booking-frontend&signature=zp_Tv6bKxlhCjxj3np6FyRQr7m8=",
+        "url": "https://www.booking.com/hotel/us/3-west-club.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3283 per night (We Price Match)"
+    }
+]

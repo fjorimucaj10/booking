@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411304793.jpg?k=44be6fd8fce340d71ff1a1e8c6949ef14b71a902f89ad90cfaacde3d122c132e&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/78-3d-brand-new-1br-prime-ues-wd-in-unit.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "addressLocality": "315 East 78th Street",
+            "addressRegion": "New York State"
+        },
+        "priceRange": null,
+        "name": "78-3D Brand new 1BR prime UES WD in unit",
+        "description": "Situated in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-3D Brand new 1BR prime UES WD in unit offers air conditioning.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7724266,-73.9545517&center=40.7724266,-73.9545517&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=2PfUmMc_uR5olyafeOrg0KHsEpU=",
+        "@context": "http://schema.org"
+    }
+]

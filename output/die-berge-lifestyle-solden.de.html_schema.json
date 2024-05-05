@@ -1,26 +1,26 @@
 [
     {
-        "url": "https://www.booking.com/hotel/at/die-berge-lifestyle-solden.de.html",
-        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c46.9693955,11.0097273&sensor=false&center=46.9693955,11.0097273&zoom=15&client=gme-booking&channel=booking-frontend&signature=oobW0DvtQqug-YQ0uA7ahOIMC64=",
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/333096348.jpg?k=80dfb5182785bbc916847764b3cb71b4a7edf350efc60e8c741f6b3b97f9d55d&o=&hp=1",
         "name": "die berge lifestyle-hotel s\u00f6lden",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/333096348.jpg?k=80dfb5182785bbc916847764b3cb71b4a7edf350efc60e8c741f6b3b97f9d55d&o=&hp=1",
         "address": {
-            "addressCountry": "\u00d6sterreich",
             "streetAddress": "Gemeindestr. 2, 6450 S\u00f6lden, \u00d6sterreich",
-            "addressRegion": "Tirol",
             "@type": "PostalAddress",
+            "addressLocality": "Gemeindestr. 2",
             "postalCode": "6450",
-            "addressLocality": "Gemeindestr. 2"
+            "addressCountry": "\u00d6sterreich",
+            "addressRegion": "Tirol"
         },
         "@context": "http://schema.org",
-        "description": "Das Berge Lifestyle Hotel **** S\u00f6lden ist als Ausgangspunkt f\u00fcr Bergliebhaber und Sportbegeisterte bekannt.",
-        "aggregateRating": {
-            "ratingValue": 9.2,
-            "@type": "AggregateRating",
-            "reviewCount": 1445,
-            "bestRating": 10
-        },
         "@type": "Hotel",
-        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0172 pro Nacht (Wir bieten den gleichen Preis) "
+        "aggregateRating": {
+            "reviewCount": 1460,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 9.2
+        },
+        "url": "https://www.booking.com/hotel/at/die-berge-lifestyle-solden.de.html",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c46.9693955,11.0097273&sensor=false&center=46.9693955,11.0097273&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=cObAsfSdtwGRFyWccdT9suinTHk=",
+        "description": "Das Berge Lifestyle Hotel **** S\u00f6lden ist als Ausgangspunkt f\u00fcr Bergliebhaber und Sportbegeisterte bekannt."
     }
 ]

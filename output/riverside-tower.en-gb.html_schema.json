@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Riverside Tower Hotel",
+        "@context": "http://schema.org",
+        "description": "Offering complimentary WiFi, the Riverside Tower Hotel is 805 metres from the American Museum of Natural History. This non-smoking property is 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519991039.jpg?k=662989558f8ac87c31f2985818f8c5339f799e06d2fc01f149531792d9f73bb3&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/riverside-tower.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 272,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.3
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7855797,-73.9817462&zoom=15&center=40.7855797,-73.9817462&client=gme-booking&channel=booking-frontend&signature=7BgT1q_V3WNDtQDYFUfvK8qxVD0=",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "80 Riverside Drive",
+            "streetAddress": "80 Riverside Drive, Upper West Side, New York, NY 10024, United States",
+            "postalCode": "NY 10024",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3163 per night (We Price Match)"
+    }
+]

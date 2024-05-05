@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 5428,
+            "bestRating": 10,
+            "ratingValue": 6.6,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/58134090.jpg?k=54641703ea3dbbd0c4306ef367cafd4e2f86540676511ea2ecfb08495dd09141&o=&hp=1",
+        "description": "The Paramount Hotel is a 605-room boutique hotel located in New York's Theater District, 170 metres from Times Square.",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "235 West 46th Street",
+            "addressCountry": "USA",
+            "streetAddress": "235 West 46th Street, New York, NY 10036, United States"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/paramount-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3166 per night (We Price Match)",
+        "name": "Paramount Hotel Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7595577,-73.9870405&size=1600x1200&markers=color:blue%7c40.7595577,-73.9870405&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=52dhshBdO1m_XRJiCLRBVY0Lvr8="
+    }
+]

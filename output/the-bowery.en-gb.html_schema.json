@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7260366,-73.9916445&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7260366,-73.9916445&client=gme-booking&channel=booking-frontend&signature=0rQKR3azdjxN70m4JOkeho9VOus=",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "335 Bowery",
+            "addressCountry": "USA",
+            "postalCode": "NY 10003",
+            "streetAddress": "335 Bowery, East Village, New York, NY 10003, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/117059105.jpg?k=685e4fe70c646a44ac377ce0345e55388e47c5cf800a0cf873a014e7c674e57e&o=&hp=1",
+        "description": "Featuring a lobby bar, The Bowery Hotel is located at the intersection of the Lower East Side and East Village, 450 metres from the New Museum.",
+        "url": "https://www.booking.com/hotel/us/the-bowery.en-gb.html",
+        "name": "The Bowery Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 348,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3547 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/townhouse-222.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7763952,-73.9550504&zoom=15&markers=color:blue%7c40.7763952,-73.9550504&client=gme-booking&channel=booking-frontend&signature=JxBFhhMKefVCgF8IT8t1rUud7yE=",
+        "@context": "http://schema.org",
+        "description": "Boasting a balcony with garden views, a garden and barbecue facilities, TOWNHOUSE 222 can be found in New York, close to Metropolitan Museum of Art and 2.",
+        "name": "TOWNHOUSE 222",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/207131583.jpg?k=80a992beaf3e7e28a9a0566c2a3bd0ce1ca2a3cfcc45d3308eb2c85022055b3c&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10028",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "222 East 83rd Street",
+            "streetAddress": "222 East 83rd Street, Upper East Side, New York, NY 10028, United States",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a32,061 per night (We Price Match)"
+    }
+]

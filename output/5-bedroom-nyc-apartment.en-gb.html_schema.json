@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "5-Bedroom NYC Apartment is set in the Harlem district of New York, 1.5 km from Columbia University, 3 km from Metropolitan Museum of Art and 3.",
+        "priceRange": "Prices for upcoming dates start at \u00a3901 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7997130,-73.9536277&markers=color:blue%7c40.7997130,-73.9536277&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=p7SxUFzecghCdE3Cb0M1jhUvrjQ=",
+        "name": "5-Bedroom NYC Apartment",
+        "url": "https://www.booking.com/hotel/us/5-bedroom-nyc-apartment.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "137 West 111th Street",
+            "streetAddress": "137 West 111th Street, Harlem, New York, NY 10026, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10026"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505047682.jpg?k=b05f4e9dffa7b8882776e15007286cbce3763e2ff4e240b8e2278c15c18361cd&o=&hp=1"
+    }
+]

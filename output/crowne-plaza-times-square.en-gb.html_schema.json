@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7604801,-73.9848089&zoom=15&markers=color:blue%7c40.7604801,-73.9848089&sensor=false&client=gme-booking&channel=booking-frontend&signature=3AkV0neFZLOIYvg0gn31FrbsUW4=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 6280,
+            "bestRating": 10,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/crowne-plaza-times-square.en-gb.html",
+        "description": "Crowne Plaza Times Square is perfectly located in the heart of midtown Manhattan, directly on Broadway between 48th and 49th Streets at the doorstep to...",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "1605 Broadway Avenue, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressLocality": "1605 Broadway Avenue",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "Crowne Plaza Times Square Manhattan, an IHG Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537407577.jpg?k=4ea2a6b36cdedc4ee68634035cd5e9b581322bd456c5f9d5caf34fcde7b5ca32&o=&hp=1"
+    }
+]

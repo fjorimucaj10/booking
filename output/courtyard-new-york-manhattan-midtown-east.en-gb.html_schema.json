@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "reviewCount": 1514,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3203 per night (We Price Match)",
+        "description": "This East Midtown Manhattan hotel is 9 minutes' walk from the shops and restaurants of Fifth Avenue. Free Wi-Fi is provided in the lobby.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10022",
+            "addressLocality": "866 Third Avenue",
+            "streetAddress": "866 Third Avenue, Midtown East, New York, NY 10022, United States",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/courtyard-new-york-manhattan-midtown-east.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/453264493.jpg?k=a6955dc5f260fda28fc5e5d938384fab5ad23350fd28be62b402c41307883c42&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7573569,-73.9699025&markers=color:blue%7c40.7573569,-73.9699025&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=7oSK8UIc5BgwwI232EUV2pxOHzA=",
+        "name": "Courtyard New York Manhattan/Midtown East"
+    }
+]

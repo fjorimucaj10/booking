@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7658424,-73.9876175&sensor=false&size=1600x1200&center=40.7658424,-73.9876175&zoom=15&client=gme-booking&channel=booking-frontend&signature=YCS2F8ad_QJtypnf-PhuYsa3k68=",
+        "priceRange": "Prices for upcoming dates start at \u00a3738 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/477854239.jpg?k=ce2fde2e1722e05b78adccea7ed1a837c648ce3ddcf4a2149c05f72ce20a1008&o=&hp=1",
+        "@type": "Hotel",
+        "name": "809-3A 1BR Columbus Circle Elevator W D",
+        "url": "https://www.booking.com/hotel/us/809-3a-1br-columbus-circle-elevator-w-d.en-gb.html",
+        "address": {
+            "addressLocality": "809 9th Avenue",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "postalCode": "10019",
+            "@type": "PostalAddress"
+        },
+        "description": "In a central area of New York, set within a short distance of Broadway Theatre and Carnegie Hall, 809-3A 1BR Columbus Circle Elevator W D offers free WiFi,..."
+    }
+]

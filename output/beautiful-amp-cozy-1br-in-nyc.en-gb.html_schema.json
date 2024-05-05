@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 1.5 km from Lincoln Center and 1.4 km from Metropolitan Museum of Art, Beautiful & Cozy 1BR in NYC! offers air conditioning.",
+        "@context": "http://schema.org",
+        "name": "Beautiful & Cozy 1BR in NYC!",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "45 West 81st Street, Upper West Side, New York, NY 10024, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10024",
+            "addressLocality": "45 West 81st Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7831585,-73.9737053&markers=color:blue%7c40.7831585,-73.9737053&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=aDbnX5m4TlWT8Ogxx5F3wbLwpe8=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542620602.jpg?k=ceafd970f3f4a7f76cbd8366fd0c0b6ed0c3790736b20012a0f60988c2381e42&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/beautiful-amp-cozy-1br-in-nyc.en-gb.html",
+        "@type": "Hotel"
+    }
+]

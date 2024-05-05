@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7950800,-73.9676160&center=40.7950800,-73.9676160&client=gme-booking&channel=booking-frontend&signature=-UonHwcXmUtTnO7mL2_EHpKkuKc=",
+        "name": "Beautiful 2 BR in Coloumbus Avenue",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "addressLocality": "790 Columbus Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "790 Columbus Avenue, Upper West Side, New York, NY 10025, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/beautiful-2-br-in-coloumbus-avenue.en-gb.html",
+        "description": "Featuring accommodation with a balcony, Beautiful 2 BR in Coloumbus Avenue is located in New York. The property is set 2.",
+        "priceRange": "Prices for upcoming dates start at \u00a3397 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466368253.jpg?k=2cb00bc407a635c3efa818c05f1cd78f84d0f9ccb3167ad1246d4a37fd414a1a&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

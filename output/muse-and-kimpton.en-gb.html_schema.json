@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3275 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "130 West 46th Street, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "130 West 46th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/235060520.jpg?k=bffc9eaec9b91560729296f318f4a1ca1fce615e567b694ee4ec8432f8c23d71&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7578852,-73.9837149&sensor=false&size=1600x1200&markers=color:blue%7c40.7578852,-73.9837149&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZucM2weRsKd4-tokpu12ti6_FQQ=",
+        "url": "https://www.booking.com/hotel/us/muse-and-kimpton.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.4,
+            "reviewCount": 1964
+        },
+        "description": "This 4-star hotel located in Manhattan\u2019s theater district is 650 metres from Rockefeller Center. The boutique hotel is eco-friendly.",
+        "@type": "Hotel",
+        "name": "The Muse New York"
+    }
+]

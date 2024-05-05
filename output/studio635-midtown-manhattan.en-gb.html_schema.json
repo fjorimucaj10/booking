@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Featuring air conditioning, Studios Midtown Manhattan offers self-catered studio apartments in New York. Empire State Building is 200 metres away.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10001",
+            "addressLocality": "38 West 31 street",
+            "@type": "PostalAddress",
+            "streetAddress": "38 West 31 street, NoMad, New York, 10001, United States"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3313 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7471967,-73.9877554&center=40.7471967,-73.9877554&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=oDNIH3udQ8nm0Ll0k06F-bZnIl4=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating",
+            "reviewCount": 66
+        },
+        "name": "Studios Midtown Manhattan",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/240461988.jpg?k=ef0fde0d3bedad00f4451876e8022b590a9d0a053d80db8ced9496c72df9b75e&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/studio635-midtown-manhattan.en-gb.html"
+    }
+]

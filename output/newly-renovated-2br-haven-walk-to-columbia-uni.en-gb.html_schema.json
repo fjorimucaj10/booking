@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "streetAddress": "Harlem, New York, 10026, United States",
+            "postalCode": "10026"
+        },
+        "url": "https://www.booking.com/hotel/us/newly-renovated-2br-haven-walk-to-columbia-uni.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8065536,-73.9568022&sensor=false&zoom=15&center=40.8065536,-73.9568022&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=yxhJqtpMI6tYMOJqieCw4xmJmE8=",
+        "name": "Newly Renovated 2BR Haven Walk to Columbia Uni",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503671575.jpg?k=8274327840451ca190e567c45105ceb0e869245a8b865f49ae710ee84875a51e&o=&hp=1",
+        "description": "Newly Renovated 2BR Haven Walk to Columbia Uni is set in the Harlem district of New York, 4 km from Metropolitan Museum of Art, 4 km from Strawberry Fields...",
+        "priceRange": "Prices for upcoming dates start at \u00a3388 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/renaissance-new-york-chelsea.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7442860,-73.9926860&center=40.7442860,-73.9926860&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=eaB12v1vX3aMqTgPl_vPiElr6JU=",
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "112 West 25th Street",
+            "streetAddress": "112 West 25th Street, Chelsea, New York, NY 10001, United States"
+        },
+        "@context": "http://schema.org",
+        "name": "Renaissance New York Chelsea Hotel",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439499048.jpg?k=61380c3e30b2f5a04ea2777545a221aa9145222c26c9f37e0baa23648ae92170&o=&hp=1",
+        "description": "Renaissance New York Chelsea Hotel features a fitness centre, terrace, a restaurant and bar in New York.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "reviewCount": 847
+        }
+    }
+]

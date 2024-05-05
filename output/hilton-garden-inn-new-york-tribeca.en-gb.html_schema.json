@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7208882,-74.0054539&sensor=false&center=40.7208882,-74.0054539&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sR-NriJ-weB-xgXqfcCSXjtEOOQ=",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-tribeca.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 658,
+            "bestRating": 10,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating"
+        },
+        "name": "Hilton Garden Inn New York/Tribeca",
+        "priceRange": "Prices for upcoming dates start at \u00a3162 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484623488.jpg?k=b5608db894b1e3e412d24ca7eefc9d1d5fd5e5b3179850c2089179fca9c83447&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "39 6th Avenue, Tribeca, New York, NY 10013, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013",
+            "addressLocality": "39 6th Avenue"
+        },
+        "description": "Located in the Tribeca neighborhood of Manhattan, this hotel is just steps from the Canal Street Subway Station and offers free Wi-Fi in every room."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/373603636.jpg?k=8f4a4c493bb75683a709ca0e339383318e9349987d261783ca92ce83e0215700&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a32,373 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "40.7638523588674, -73.962118548597, Upper East Side, New York, NY 10021, United States",
+            "addressCountry": "USA",
+            "addressLocality": "40.7638523588674, -73.962118548597",
+            "postalCode": "NY 10021"
+        },
+        "url": "https://www.booking.com/hotel/us/moderno-apartamento-vacacional-con-ubicacion-estrategica-en-nueva-york.en-gb.html",
+        "name": "Modern Holiday Apartment with Strategic Location in New York",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7645448,-73.9596554&sensor=false&center=40.7645448,-73.9596554&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=XtX8jumFG5NONhlfrYpxArMqcYw=",
+        "description": "Modern Holiday Apartment with Strategic Location in New York is situated in the Upper East Side district of New York, 1.6 km from Central Park, 2."
+    }
+]

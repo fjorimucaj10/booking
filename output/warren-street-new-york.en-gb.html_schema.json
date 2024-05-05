@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "86 Warren Street, Tribeca, New York, NY 10007, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10007",
+            "addressLocality": "86 Warren Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7156253,-74.0104682&size=1600x1200&zoom=15&center=40.7156253,-74.0104682&client=gme-booking&channel=booking-frontend&signature=6uOs9j9Fq475U_1B76V01a6kfGw=",
+        "description": "Located in New York, 500 metres from One World Trade Center, Warren Street Hotel provides accommodation with a terrace, private parking, a restaurant and a...",
+        "priceRange": "Prices for upcoming dates start at \u00a3728 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/warren-street-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536009736.jpg?k=443ae9b802688692cacbc7ed9578d9bab71f009f9468b4c88c8060efd8b59b9d&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Warren Street Hotel"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/chelsea-canvas-ii-by-rovetravel-large-3br-duplex.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540151663.jpg?k=9f3d46d7f191f39cd141bf5c56b74719b29193fa96a3882f56dcc82ae5278d75&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "address": {
+            "addressLocality": "318 West 14th St",
+            "streetAddress": "318 West 14th St, New York, 10014, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10014",
+            "@type": "PostalAddress"
+        },
+        "name": "Chelsea Canvas II by RoveTravel Large 3BR Duplex",
+        "description": "Situated in New York, 1.1 km from The High Line and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7399867,-74.0036456&markers=color:blue%7c40.7399867,-74.0036456&client=gme-booking&channel=booking-frontend&signature=NSL9OsqokW7YhiQ1mPqhpehAoTE=",
+        "@type": "Hotel"
+    }
+]

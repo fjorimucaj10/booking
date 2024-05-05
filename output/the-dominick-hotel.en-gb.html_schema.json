@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-dominick-hotel.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3619 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/423462737.jpg?k=eeb3abc86ffaa33ad7b99de457cb6495a25cb3804ef83c17d2dd34889d98a543&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "reviewCount": 1084,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7255300,-74.0056095&size=1600x1200&markers=color:blue%7c40.7255300,-74.0056095&sensor=false&client=gme-booking&channel=booking-frontend&signature=0MSy-cWFsazrmmt7gquY4IuR49c=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "246 Spring Street",
+            "postalCode": "NY 10013",
+            "streetAddress": "246 Spring Street, SoHo, New York, NY 10013, United States"
+        },
+        "description": "Featuring a full-service spa and 4 restaurants, this 46-story Manhattan hotel has rooms that offer a minibar and floor-to-ceiling windows.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "The Dominick Hotel"
+    }
+]

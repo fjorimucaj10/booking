@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Set in New York, 1 km from Columbia University and 4.",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/fully-furnished-entire-floor-apartment-in-historic-harlem.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "addressLocality": "517 Manhattan Avenue, apartment #1",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "517 Manhattan Avenue, apartment #1, Harlem, New York, NY 10027, United States"
+        },
+        "aggregateRating": {
+            "ratingValue": 9.0,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 67
+        },
+        "name": "Fully Furnished Entire Floor Apartment in Historic Harlem",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8086300,-73.9545500&markers=color:blue%7c40.8086300,-73.9545500&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=RPsv9OP9Ci2EtGetj608a2e0Qbk=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/200618156.jpg?k=889cae21c057acfbc3d01e995c0a75b68211f87aebaa4d22ddde41a3626c4566&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

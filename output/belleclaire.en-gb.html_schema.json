@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "2175 Broadway",
+            "addressCountry": "USA",
+            "postalCode": "NY 10024",
+            "@type": "PostalAddress",
+            "streetAddress": "2175 Broadway , Upper West Side, New York, NY 10024, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7825831,-73.9812362&center=40.7825831,-73.9812362&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=TaGbntNAI8HBUQ7vYPjfGznaatg=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431644430.jpg?k=4feaf7fa3c3e4993c6719ec95a1055dc0175cd5443eb2bb52cafb06b1a49c026&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Hotel Belleclaire Central Park",
+        "description": "Located within 1.3 km from the Central Park and American Museum of Natural History, Hotel Belleclaire offers rooms and suites in the Upper West Side.",
+        "url": "https://www.booking.com/hotel/us/belleclaire.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3205 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 4195,
+            "bestRating": 10,
+            "ratingValue": 8.1
+        }
+    }
+]

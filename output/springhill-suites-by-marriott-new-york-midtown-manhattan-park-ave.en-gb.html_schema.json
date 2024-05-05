@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/springhill-suites-by-marriott-new-york-midtown-manhattan-park-ave.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3173 per night (We Price Match)",
+        "name": "SpringHill Suites by Marriott New York Midtown Manhattan/Park Ave",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461636772.jpg?k=96951f59a6f0654b27c5252e3b3afad3d0ab0f22f517c2fc95ab240320b13e9d&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7406420,-73.9852080&markers=color:blue%7c40.7406420,-73.9852080&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=yQIJGyTq2pduyGfZ3hjFKNpOhfA=",
+        "description": "Situated in New York, within 500 metres of Flatiron Building and 1.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 159,
+            "bestRating": 10
+        },
+        "address": {
+            "postalCode": "NY 10010",
+            "addressRegion": "New York State",
+            "streetAddress": "111 East 24th Street, Flatiron District, New York, NY 10010, United States",
+            "addressCountry": "USA",
+            "addressLocality": "111 East 24th Street",
+            "@type": "PostalAddress"
+        }
+    }
+]

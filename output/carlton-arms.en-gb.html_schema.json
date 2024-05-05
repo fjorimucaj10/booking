@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Carlton Arms Hotel",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3113 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/carlton-arms.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1873,
+            "ratingValue": 7.4,
+            "@type": "AggregateRating"
+        },
+        "description": "Located 483 metres from the Madison Square Park, Carlton Arms Hotel offers art-influenced accommodations in Manhattan.",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "160 East 25th Street 2nd Floor, Gramercy, New York, NY 10010, United States",
+            "postalCode": "NY 10010",
+            "addressLocality": "160 East 25th Street 2nd Floor",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7401921,-73.9826436&markers=color:blue%7c40.7401921,-73.9826436&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=YQQSn270yB7kezwEqyL18GyVz_w=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/212107282.jpg?k=db41161c9dc0968016d8d7b0687f6ec2ce851fe866cc007412fe1df8a87a05ca&o=&hp=1"
+    }
+]

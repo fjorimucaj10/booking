@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Midtown East 2br w gym doorman nr sutton park NYC-1392 is situated in the Midtown East district of New York, 1.8 km from Rockefeller Center, 1.",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "Midtown East, New York, 10022, United States",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10022"
+        },
+        "name": "Midtown East 2br w gym doorman nr sutton park NYC-1392",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7586500,-73.9622100&center=40.7586500,-73.9622100&client=gme-booking&channel=booking-frontend&signature=w5kmKHYOYJHxP2JZcWhtgaZDNok=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/522263317.jpg?k=01062311b7f4bc8a9c1a6dccf7494bc3fa339080ad749d2e727d6a8514d57483&o=&hp=1",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/midtown-east-2br-w-gym-doorman-nr-sutton-park-nyc-1392.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "reviewCount": 2828,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3189 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/333322157.jpg?k=f6cb960a85868d14481eebb89650ddad9eee50b37d1029d87114e02468b48ed0&o=&hp=1",
+        "name": "voco Times Square South New York, an IHG Hotel",
+        "url": "https://www.booking.com/hotel/us/voco-times-square-south-new-york.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "343 West 36th Street",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State",
+            "streetAddress": "343 West 36th Street, Hell's Kitchen, New York, NY 10018, United States"
+        },
+        "description": "Within walking distance of the Theater District, voco Times Square South New York, an IHG Hotel offers free WiFi access in New York, 750 metres from...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7544100,-73.9941480&sensor=false&size=1600x1200&markers=color:blue%7c40.7544100,-73.9941480&client=gme-booking&channel=booking-frontend&signature=vx1Fydpa9lrQJ6VVOpn3XcXCHbU="
+    }
+]

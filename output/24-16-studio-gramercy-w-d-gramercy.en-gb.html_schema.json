@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7389107,-73.9808273&zoom=15&size=1600x1200&markers=color:blue%7c40.7389107,-73.9808273&client=gme-booking&channel=booking-frontend&signature=aFwpmmiH4atD2Z3IqRgjWNos0bY=",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 9.0,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "description": "Located in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, 24-16 Studio Gramercy W D gramercy offers air...",
+        "name": "24-16 Studio Gramercy W D gramercy",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410846020.jpg?k=fefcd636e1a5593403f40e27d7177a807b320581bc8291e8ccf2222c2dcf349a&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/24-16-studio-gramercy-w-d-gramercy.en-gb.html",
+        "address": {
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10010",
+            "addressLocality": "241 East 24th Street"
+        },
+        "@type": "Hotel",
+        "priceRange": null
+    }
+]

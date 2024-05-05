@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "5 Allen Street, Chinatown, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressLocality": "5 Allen Street",
+            "addressCountry": "USA"
+        },
+        "name": "Hotel Richland LES",
+        "priceRange": "Prices for upcoming dates start at \u00a3134 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/richland.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7148740,-73.9930053&markers=color:blue%7c40.7148740,-73.9930053&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=rgUOexXWz3CvEnE8dwgKNHNhGC8=",
+        "description": "Located 805 metres from Little Italy, Hotel Richland offers accommodation in New York City. Brooklyn Bridge is 1.1 km from Richland Hotel.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/398713542.jpg?k=ee4a2447d161fc151aa7ba0b577bafb70832826af378e9789c7c08906f7ca6f1&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 1007,
+            "bestRating": 10
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "10036-4202",
+            "@type": "PostalAddress",
+            "streetAddress": "New York, 10036-4202, United States",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/548172169.jpg?k=52c436cc7d4fdb2dbf5420068e0177e71609515b798d4e72b4dab39b0df34bee&o=&hp=1",
+        "name": "Luxury 4 Bedroom Apartment near Times Square NYC",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/luxury-4-bedroom-apartment-near-times-square-nyc.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,586 per night (We Price Match)",
+        "description": "Set in the centre of New York, 500 metres from Radio City Music Hall and 600 metres from Rockefeller Center, Luxury 4 Bedroom Apartment near Times Square...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7563378,-73.9822170&center=40.7563378,-73.9822170&zoom=15&client=gme-booking&channel=booking-frontend&signature=XwescyohXW5bjGk2DwNLgckDjIk="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498328050.jpg?k=35f31e51e510b23dc44c30d73c7f466d8093889c65eaa5801051b058b83110c8&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/luxurious-four-bedroom-suite.en-gb.html",
+        "name": "Luxurious Four Bedroom Suite",
+        "description": "Luxurious Four Bedroom Suite is situated in the Harlem district of New York, 1.5 km from Columbia University, 3 km from Metropolitan Museum of Art and 3.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7997130,-73.9536277&center=40.7997130,-73.9536277&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=crb8j-MFB8dRmPc89zsDdRo128w=",
+        "address": {
+            "postalCode": "NY 10026",
+            "addressLocality": "137 West 111th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "137 West 111th Street, Harlem, New York, NY 10026, United States"
+        }
+    }
+]

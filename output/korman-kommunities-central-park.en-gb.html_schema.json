@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/korman-kommunities-central-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7644031,-73.9756576&sensor=false&center=40.7644031,-73.9756576&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=0P9HPO559_QqqmXDvqlpIPefWEs=",
+        "@context": "http://schema.org",
+        "name": "AKA Central Park",
+        "description": "AKA Central Park offers studio and penthouse suites with living areas and fully-equipped kitchens.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/35246237.jpg?k=f05ebac6431efeec8ec1f45b90897ff46ab601796a9727cf621278a97d72c92d&o=&hp=1",
+        "address": {
+            "addressLocality": "42 West 58th Street",
+            "addressCountry": "USA",
+            "streetAddress": "42 West 58th Street, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.2,
+            "reviewCount": 319,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3375 per night (We Price Match)"
+    }
+]

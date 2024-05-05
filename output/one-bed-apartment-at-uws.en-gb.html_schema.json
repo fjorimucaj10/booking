@@ -1,0 +1,20 @@
+[
+    {
+        "name": "One Bed Apartment At UWS",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/507803061.jpg?k=da33d0f5ae77a6b37a2382bcf0c0e5620d46f1747030b153315067712748daf7&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/one-bed-apartment-at-uws.en-gb.html",
+        "description": "Located in New York, 1.5 km from Lincoln Center and 1.4 km from Metropolitan Museum of Art, One Bed Apartment At UWS offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7831041,-73.9735797&center=40.7831041,-73.9735797&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=kJlmAkOUZa_VwI1jjLBcLuwT2i8=",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10024",
+            "streetAddress": "41 West 81st Street, Upper West Side, New York, NY 10024, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "41 West 81st Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3494 per night (We Price Match)"
+    }
+]

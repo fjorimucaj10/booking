@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/fab-3-bedroom-1bath-apartment-in-nyc.en-gb.html",
+        "name": "Fab 3 Bedroom 1Bath Apartment in NYC!",
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "streetAddress": "105 West 38th Street, New York, NY 10018, United States",
+            "addressLocality": "105 West 38th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "description": "Situated right in the heart of New York, 400 metres from Bryant Park, Fab 3 Bedroom 1Bath Apartment in NYC!",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3606 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7526078,-73.9861447&size=1600x1200&markers=color:blue%7c40.7526078,-73.9861447&client=gme-booking&channel=booking-frontend&signature=Tr-4ecjn_31DiRRWZBTmmu77Syo=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520197557.jpg?k=9c71d8d5a19ea1e93dcf4b04e25a1a60782066d2b4284dc4071b16f92169fe14&o=&hp=1"
+    }
+]

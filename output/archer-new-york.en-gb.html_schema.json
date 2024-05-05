@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/archer-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7520600,-73.9847350&sensor=false&size=1600x1200&center=40.7520600,-73.9847350&zoom=15&client=gme-booking&channel=booking-frontend&signature=hEP7MV3WQHciNx-rRzXuib5h-5U=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410138967.jpg?k=1c68be143ac03d3bf8d10d90b5e472446ffe4fbc53cd301c9e4b51d32519516d&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "45 West 38th Street",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "streetAddress": "45 West 38th Street, New York, NY 10018, United States",
+            "addressRegion": "New York State"
+        },
+        "name": "Archer Hotel New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3232 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Located 322 metres from Bryant Park, Archer Hotel New York offers complimentary WiFi. Times Square is less than a kilometer away from the hotel.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 971,
+            "bestRating": 10,
+            "ratingValue": 8.6
+        }
+    }
+]

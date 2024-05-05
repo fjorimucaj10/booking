@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "name": "Hotel on Rivington",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 503,
+            "bestRating": 10,
+            "ratingValue": 7.1
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/45165289.jpg?k=607d37412d236de30169e599703aae3e44cbf67db532a8c7c4c0ae6d8058ede5&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/on-rivington.en-gb.html",
+        "@type": "Hotel",
+        "description": "Featuring 4-star accommodation, Hotel on Rivington is situated in New York, 1.1 km from Bloomingdales and 1.6 km from NYU - New York University.",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "107 Rivington Street, Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "107 Rivington Street",
+            "postalCode": "NY 10002"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7198270,-73.9880678&center=40.7198270,-73.9880678&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=STG_mM_4dQVqfbZ2E85GKuk2Ld4="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520206862.jpg?k=052290fe5814c08c497b7523e56a0c7b10b66125a274b9b84ff35071e6209659&o=&hp=1",
+        "address": {
+            "streetAddress": "223 East 64th Street, Upper East Side, New York, NY 10065, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10065",
+            "addressLocality": "223 East 64th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "description": "Set in New York, 1.8 km from St Patrick's Cathedral and 1.9 km from Rockefeller Center, Modern 3 Bedroom apartment in NYC! offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/modern-3-bedroom-apartment-in-nyc.en-gb.html",
+        "name": "Modern 3 Bedroom apartment in NYC!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7642505,-73.9627080&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7642505,-73.9627080&client=gme-booking&channel=booking-frontend&signature=ptYkGXHRBILqJHyCtnryOZxul3o=",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

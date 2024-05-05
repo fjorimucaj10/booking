@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "370 Eighth Avenue, 2nd Floor",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "streetAddress": "370 Eighth Avenue, 2nd Floor, Chelsea, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "Interfaith Retreats",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7487125,-73.9957957&sensor=false&center=40.7487125,-73.9957957&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=PtADq4qkU7v-byFeLKluFPr0llg=",
+        "url": "https://www.booking.com/hotel/us/chelsea-retreat-rooms.en-gb.html",
+        "description": "Interfaith Retreats is located in New York, 300 metres from Madison Square Garden.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1396,
+            "bestRating": 10,
+            "ratingValue": 7.2
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3135 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/118688864.jpg?k=839b9528cadb671152ea12421bf42fb8eb27c20cdc431e1019049be06ea258d4&o=&hp=1"
+    }
+]

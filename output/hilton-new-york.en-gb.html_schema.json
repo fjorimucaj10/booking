@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "1335 Avenue of Americas, New York, NY 10019, United States",
+            "addressLocality": "1335 Avenue of Americas"
+        },
+        "name": "New York Hilton Midtown",
+        "priceRange": "Prices for upcoming dates start at \u00a3206 per night (We Price Match)",
+        "description": "Centrally located in midtown Manhattan, this New York hotel is within a 10 minutes' walk of both Central Park and Times Square.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484129488.jpg?k=de951ae11537920285776865ef10f23dc5434708c8b3e07ba0fcc5d7f17d1e21&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7621460,-73.9790314&sensor=false&zoom=15&markers=color:blue%7c40.7621460,-73.9790314&client=gme-booking&channel=booking-frontend&signature=lpG9yBNOcqRLJncfHILB79GP2GU=",
+        "url": "https://www.booking.com/hotel/us/hilton-new-york.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.4,
+            "reviewCount": 1680,
+            "bestRating": 10
+        },
+        "@context": "http://schema.org"
+    }
+]

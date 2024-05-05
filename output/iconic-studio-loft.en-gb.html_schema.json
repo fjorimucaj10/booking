@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7471979,-73.9878199&center=40.7471979,-73.9878199&zoom=15&client=gme-booking&channel=booking-frontend&signature=qiJx7VLwszqbT9ikpfKsIpY0T4U=",
+        "address": {
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "38 West 31st Street",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/iconic-studio-loft.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 34,
+            "@type": "AggregateRating",
+            "ratingValue": 6.6
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3297 per night (We Price Match)",
+        "description": "Offering inner courtyard views, Empire Broadway Retreats is an accommodation situated in New York, 700 metres from Madison Square Garden and 800 metres...",
+        "name": "Empire Broadway Retreats",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/547710801.jpg?k=b0ad2eed377832380e86dd9fbbfbf7cb2b9f286f6b8c4f246231b264fe676902&o=&hp=1"
+    }
+]

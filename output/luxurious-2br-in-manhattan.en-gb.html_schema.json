@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7452780,-73.9816270&markers=color:blue%7c40.7452780,-73.9816270&client=gme-booking&channel=booking-frontend&signature=OOaHlRQhzcskIJ5vU369fgJXtTk=",
+        "description": "Located in New York, less than 1 km from Chrysler Building and a 10-minute walk from Grand Central Station, Luxurious 2BR in Manhattan offers air...",
+        "url": "https://www.booking.com/hotel/us/luxurious-2br-in-manhattan.en-gb.html",
+        "name": "Luxurious 2BR in Manhattan",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3657 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502021799.jpg?k=2dbd6534817b0d20fbb917d340fa8a6817821f9c9efa05f70e98b4e9aec7da28&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10016",
+            "@type": "PostalAddress",
+            "addressLocality": "116 East 32nd Street",
+            "streetAddress": "116 East 32nd Street, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        }
+    }
+]

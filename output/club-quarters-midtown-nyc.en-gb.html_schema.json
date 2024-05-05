@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3177 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/club-quarters-midtown-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/282214142.jpg?k=9d697e64d33f3d50181c00c58eae3bd45ee37c4b9e6e4119ddc2e99079100e2d&o=&hp=1",
+        "name": "Club Quarters Hotel Times Square, New York",
+        "@context": "http://schema.org",
+        "description": "Offering an on-site restaurant and 24-hour concierge services, this hotel is located in a historic Midtown Manhattan building within walking distance of...",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "40 West 45th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressLocality": "40 West 45th Street"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7559804,-73.9810478&zoom=15&sensor=false&markers=color:blue%7c40.7559804,-73.9810478&client=gme-booking&channel=booking-frontend&signature=4yWmoUQpiJ6sV6sk0EEC110u1yU=",
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "reviewCount": 3284,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel"
+    }
+]

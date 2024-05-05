@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Luxe Studio w Juliet Balcony in Upper East",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "341 E 62nd St, Upper East Side, New York, 10065, United States",
+            "postalCode": "10065",
+            "addressLocality": "341 E 62nd St",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/luxe-studio-w-juliet-balcony-in-upper-east-new-york2.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501142848.jpg?k=e9c964db4d8c37af18e64991324d2d35739bfb929720b28a2670dfcc9baf3c2c&o=&hp=1",
+        "description": "Luxe Studio w Juliet Balcony in Upper East is located in the Upper East Side district of New York, 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7620690,-73.9613901&sensor=false&markers=color:blue%7c40.7620690,-73.9613901&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=kmgt0GxHMBdOdfM5Rk8CxMYRofk="
+    }
+]

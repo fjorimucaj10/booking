@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532637589.jpg?k=a3a819850fae101b0017c58fa8970068bf9ade7ed61b1840f1f92c717e211c7d&o=&hp=1",
+        "name": "Magnificent 2 BD 1 BR At Mid West",
+        "description": "Magnificent 2 BD 1 BR At Mid West is located in the Hell's Kitchen district of New York, 1.1 km from Jacob K. Javits Convention Center, 1.",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 1.0,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3539 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7583799,-73.9929429&size=1600x1200&zoom=15&center=40.7583799,-73.9929429&client=gme-booking&channel=booking-frontend&signature=Lhp03HGRFJ2nvCeCYXJCkBdq0BM=",
+        "url": "https://www.booking.com/hotel/us/magnificent-2-bd-1-br-at-mid-west.en-gb.html",
+        "address": {
+            "streetAddress": "581 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "581 9th Avenue",
+            "postalCode": "NY 10036"
+        }
+    }
+]

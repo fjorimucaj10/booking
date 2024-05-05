@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540286721.jpg?k=f91b037b9cfc2f9597c5e50edd2786e547619aa53ed9c174f9eff813a64a806e&o=&hp=1",
+        "description": "Located in the centre of New York, 500 metres from Radio City Music Hall, Blueground Midtown gym doorman nr Times Sq NYC-1446 provides air-conditioned...",
+        "address": {
+            "streetAddress": "New York, 10019, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10019",
+            "addressLocality": "",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/blueground-midtown-gym-doorman-nr-times-sq-nyc-1446.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7601890,-73.9843530&markers=color:blue%7c40.7601890,-73.9843530&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=4YnWdrNp0UqqD0jMXBLn-2KEvCE=",
+        "name": "Blueground Midtown gym doorman nr Times Sq NYC-1446"
+    }
+]

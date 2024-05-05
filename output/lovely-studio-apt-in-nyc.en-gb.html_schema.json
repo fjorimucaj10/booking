@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3282 per night (We Price Match)",
+        "name": "Lovely Studio Apt in NYC!",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487247880.jpg?k=83d261d3b80057e1ec9718ffb6bc387d6ad5533c05ce085b59222feae2c84b56&o=&hp=1",
+        "description": "Lovely Studio Apt in NYC! is set in the Upper East Side district of New York, 1.7 km from Central Park, 1.9 km from St Patrick's Cathedral and 2.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10065",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "336 East 63rd Street",
+            "streetAddress": "336 East 63rd Street, Upper East Side, New York, NY 10065, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/lovely-studio-apt-in-nyc.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7622933,-73.9611165&sensor=false&size=1600x1200&zoom=15&center=40.7622933,-73.9611165&client=gme-booking&channel=booking-frontend&signature=Y8aGi2QRDFY6l1Wk_sOZWpe4EOs="
+    }
+]

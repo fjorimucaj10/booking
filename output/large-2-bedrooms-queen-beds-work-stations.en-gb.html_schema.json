@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489737583.jpg?k=8fc9697e1499a183485f09d09187df3622c148519fcdb7a52362882a929da3c1&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "Hester Street",
+            "streetAddress": "Hester Street, Little Italy, New York, NY , United States",
+            "postalCode": "NY ",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "description": "\u272a Large 2 Bedrooms \u272a Queen Beds \u272a Work Stations is situated in the Little Italy district of New York, 700 metres from Bloomingdales, 1.",
+        "priceRange": "Prices for upcoming dates start at \u00a3399 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7181432,-73.9975017&zoom=15&size=1600x1200&markers=color:blue%7c40.7181432,-73.9975017&client=gme-booking&channel=booking-frontend&signature=JgTYAh0x5hoZ8Ae-amXGJ-BB5Pw=",
+        "url": "https://www.booking.com/hotel/us/large-2-bedrooms-queen-beds-work-stations.en-gb.html",
+        "name": "\u272a Large 2 Bedrooms \u272a Queen Beds \u272a Work Stations"
+    }
+]

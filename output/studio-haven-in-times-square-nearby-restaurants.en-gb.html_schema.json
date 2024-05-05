@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/studio-haven-in-times-square-nearby-restaurants.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474137502.jpg?k=6c7beeee99a3cfb6f1bc6d3420871b57bf389676186a999ef0a85f93c5338294&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3227 per night (We Price Match)",
+        "description": "Set in the heart of New York, 800 metres from Times Square, Studio Haven in Times Square & Nearby Restaurants offers air-conditioned accommodation with...",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 8,
+            "ratingValue": 6.1,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7612476,-73.9918935&sensor=false&size=1600x1200&markers=color:blue%7c40.7612476,-73.9918935&client=gme-booking&channel=booking-frontend&signature=rkpLprNzVcFdIFFUhMohawYVC9I=",
+        "name": "Studio Haven in Times Square & Nearby Restaurants"
+    }
+]

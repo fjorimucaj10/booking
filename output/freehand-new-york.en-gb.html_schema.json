@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7398336,-73.9842543&size=1600x1200&zoom=15&sensor=false&center=40.7398336,-73.9842543&client=gme-booking&channel=booking-frontend&signature=LLAfCIw0QlYhJRwFvVr7Nj3W2hU=",
+        "priceRange": "Prices for upcoming dates start at \u00a3186 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/freehand-new-york.en-gb.html",
+        "description": "Located in the former George Washington Hotel, once home to many storied writers, musicians and creatives, the Freehand New York features five restaurant...",
+        "name": "Freehand New York",
+        "address": {
+            "postalCode": "NY 10010",
+            "addressLocality": "23 Lexington Avenue",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "23 Lexington Avenue, Gramercy, New York, NY 10010, United States"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1796,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/129166393.jpg?k=81720ff14ed92cf9045050affa77ef343a8407e3bebacfaf521745f54aa6580d&o=&hp=1"
+    }
+]

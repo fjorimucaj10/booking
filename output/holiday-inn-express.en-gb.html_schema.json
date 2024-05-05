@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "addressLocality": "232 West 29th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "232 West 29th Street, Chelsea, New York, NY 10001, United States",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.8,
+            "reviewCount": 3864
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7484233,-73.9945722&center=40.7484233,-73.9945722&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ESRkUZNrAGbODmuB5yMG12VUbE4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/234144191.jpg?k=37fc97eaff88c1158cd7c016504765e299d9689b892f5fe7947118a50b08978a&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Holiday Inn Express New York City Chelsea, an IHG Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3182 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Located 325 metres from Madison Square Garden, this Manhattan hotel offers a daily continental breakfast and rooms with free WiFi and a cable TV.",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-express.en-gb.html"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/3br-in-amsterdam-ave.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3613 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "201 West 109th Street, Upper West Side, New York, NY 10025, United States",
+            "addressLocality": "201 West 109th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10025"
+        },
+        "name": "3BR in Amsterdam Ave!",
+        "description": "Situated in New York, 4 km from Metropolitan Museum of Art and 4.8 km from Strawberry Fields, 3BR in Amsterdam Ave! offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.8026032,-73.9645396&zoom=15&size=1600x1200&center=40.8026032,-73.9645396&client=gme-booking&channel=booking-frontend&signature=SV_-E9JmFQp4TG1Q0rgkes4Cr4o=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487988627.jpg?k=299e408eb197a9bb03a19a0866cb6ab738a740fddce2f4e42521b8a7d964651a&o=&hp=1"
+    }
+]

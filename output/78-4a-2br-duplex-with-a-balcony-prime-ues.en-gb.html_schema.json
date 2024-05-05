@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "address": {
+            "addressLocality": "East 78th Street 315",
+            "streetAddress": "East 78th Street 315, Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10075",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "name": "78-4A 2BR Duplex with a Balcony Prime UES",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/478342720.jpg?k=49115316c0373a04f47e14740dca585d31e7203902bc8b9dd7374efa62d1dd66&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/78-4a-2br-duplex-with-a-balcony-prime-ues.en-gb.html",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.3 km from Metropolitan Museum of Art and 3 km from Strawberry Fields, 78-4A 2BR Duplex with a Balcony Prime UES features...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7724250,-73.9545481&size=1600x1200&zoom=15&sensor=false&center=40.7724250,-73.9545481&client=gme-booking&channel=booking-frontend&signature=e9zuI6z_uAg9gegJcYStJX9NTyg="
+    }
+]

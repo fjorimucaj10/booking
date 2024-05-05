@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3256 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "5 West 8th Street, Greenwich Village, New York, NY 10011, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "5 West 8th Street",
+            "postalCode": "NY 10011",
+            "addressRegion": "New York State"
+        },
+        "name": "The Marlton Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/28650948.jpg?k=860f4ffc085b34bcf30d7cd12fea25d590b98f969d7992539266dd6137560709&o=&hp=1",
+        "description": "Located in the heart of Greenwich Village and housed in a restored historic building, this Manhattan boutique hotel features free WiFi access and on-site...",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1118,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7325453,-73.9968760&markers=color:blue%7c40.7325453,-73.9968760&zoom=15&client=gme-booking&channel=booking-frontend&signature=bOdohhwUD4NjpdEYOAs8O3X9hKs=",
+        "url": "https://www.booking.com/hotel/us/the-marlton.en-gb.html",
+        "@type": "Hotel"
+    }
+]

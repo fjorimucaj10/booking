@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7709351,-73.9575882&zoom=15&size=1600x1200&center=40.7709351,-73.9575882&client=gme-booking&channel=booking-frontend&signature=fAhGJPNmiyo0eQYuV7aNYCfrkWo=",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "240 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressLocality": "240 East 75th Street",
+            "addressRegion": "New York State",
+            "postalCode": "10021"
+        },
+        "url": "https://www.booking.com/hotel/us/240-15-luxury-studio-prime-location-w-d.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.4 km from Metropolitan Museum of Art and 1.9 km from Central Park, 240-15 Luxury Studio Prime Location W&D offers air conditioning.",
+        "name": "240-15 Luxury Studio Prime Location W&D",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535375499.jpg?k=0fada232e05a72cd663cdda48bb1746457345df24aa2ac67d7c98de44cba033b&o=&hp=1",
+        "priceRange": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "Chelsea, New York, 10011, United States",
+            "addressCountry": "USA",
+            "postalCode": "10011"
+        },
+        "url": "https://www.booking.com/hotel/us/chelsea-1br-w-balcony-doorman-gym-nyc-158.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Chelsea 1BR w Balcony Doorman Gym NYC-158",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/441389305.jpg?k=a971d288a9cdd6aedd7410b1285b38a837b8b27e93b6a9fd0cd7cfca145f7433&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7383733,-73.9967525&center=40.7383733,-73.9967525&client=gme-booking&channel=booking-frontend&signature=9XPlkECjGEk5p3wAVME7TySzx50=",
+        "description": "Situated in New York, 1.2 km from NYU - New York University and 1."
+    }
+]

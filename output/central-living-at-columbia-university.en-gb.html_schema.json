@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "544 Cathedral Parkway, Upper West Side, New York, NY 10025, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "544 Cathedral Parkway",
+            "postalCode": "NY 10025"
+        },
+        "aggregateRating": {
+            "reviewCount": 3,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.7
+        },
+        "url": "https://www.booking.com/hotel/us/central-living-at-columbia-university.en-gb.html",
+        "description": "Located in New York, 3.9 km from Metropolitan Museum of Art and 4.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500081072.jpg?k=17d60252352b40746c1876ceae08b006e31fc13aed11ba27cda130baf33aad89&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8036428,-73.9658374&size=1600x1200&sensor=false&markers=color:blue%7c40.8036428,-73.9658374&zoom=15&client=gme-booking&channel=booking-frontend&signature=eZNd9E3upPDLz9XT9bd3PHvI41M=",
+        "priceRange": "Prices for upcoming dates start at \u00a3608 per night (We Price Match)",
+        "name": "Central Living at Columbia university",
+        "@context": "http://schema.org"
+    }
+]

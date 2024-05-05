@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "131 Madison Avenue, NoMad, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "addressLocality": "131 Madison Avenue",
+            "postalCode": "NY 10016"
+        },
+        "url": "https://www.booking.com/hotel/us/aka-nomad.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3259 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "Hotel AKA NoMad",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/494974695.jpg?k=b2e210e8fd1cd95ed57d9d5895afdfd578124aee0e2eb2c2db80df9afaa798c2&o=&hp=1",
+        "description": "Hotel AKA NoMad invites you to experience sophisticated style and residential comfort in the heart of Manhattan\u2019s Design District, surrounded by the city\u2019s...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7457350,-73.9843288&sensor=false&center=40.7457350,-73.9843288&client=gme-booking&channel=booking-frontend&signature=e7HVIPC7YHVO60ieLYLReU5ZC3U=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 333,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5
+        }
+    }
+]

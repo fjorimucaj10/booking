@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.8009069,-73.9695499&center=40.8009069,-73.9695499&sensor=false&client=gme-booking&channel=booking-frontend&signature=j511jkodK_LBbmTlj_izwgV6_yY=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440945255.jpg?k=647bce623bff1e655083210b1c4e21316ff58018fb1e8827fa305139c1bcf4df&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "name": "UWS 2br w elevator doorman gym nr Central Park NYC-952",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "postalCode": "10025",
+            "streetAddress": "Upper West Side, New York, 10025, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/uws-2br-w-elevator-doorman-gym-nr-central-park-nyc-952.en-gb.html",
+        "description": "Situated in New York, 3.9 km from Metropolitan Museum of Art and 3."
+    }
+]

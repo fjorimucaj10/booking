@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.6,
+            "reviewCount": 2203,
+            "@type": "AggregateRating"
+        },
+        "name": "Hilton Garden Inn New York - Times Square Central",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484630793.jpg?k=de3ed46f500b60f0ed42b90f5afa3484b175998e607bb971b8c2fef009714e9c&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-times-square-central.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7552200,-73.9857147&center=40.7552200,-73.9857147&zoom=15&client=gme-booking&channel=booking-frontend&signature=GCZWU0nWDhhL4L5m7ooqoFtWfvA=",
+        "description": "Offering a restaurant and a fitness centre, Hilton Garden Inn New York - Times Square Central is located in New York. Free WiFi is available.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "136 West 42nd Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "streetAddress": "136 West 42nd Street, New York, NY 10036, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

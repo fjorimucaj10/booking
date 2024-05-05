@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "Midtown East, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "postalCode": "10036"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/4br-luxury-penthouse-grand-opening-promotion.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7554039,-73.9794756&zoom=15&sensor=false&markers=color:blue%7c40.7554039,-73.9794756&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=I-k765VN55SwJxG1M90Dna1hUd8=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 9.6,
+            "reviewCount": 7,
+            "@type": "AggregateRating"
+        },
+        "description": "In a central area of New York, located within a short distance of New York Public Library and Radio City Music Hall, PH 1, Luxury 4 Bedroom Apartment Near...",
+        "name": "PH 1, Luxury 4 Bedroom Apartment Near Radio City Musical, NYC",
+        "priceRange": "Prices for upcoming dates start at \u00a31,590 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/480827598.jpg?k=e101d83730c61d7625a6ea2ad1ee03f95dfe585a16c56b82848aa573741c62cf&o=&hp=1"
+    }
+]

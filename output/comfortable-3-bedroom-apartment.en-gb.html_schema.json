@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7342266,-73.9988775&size=1600x1200&center=40.7342266,-73.9988775&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZAm7ytw07jXacwHvpJ2W3wlLfv4=",
+        "name": "Comfortable 3 Bedroom Apartment",
+        "priceRange": "Prices for upcoming dates start at \u00a31,721 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498057724.jpg?k=1c5ac29d71c59517cba72076be126c0a7555fe0be95f55f0f71dd4dfe33daf90&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "88 West 9th Street",
+            "postalCode": "NY 10011",
+            "addressRegion": "New York State",
+            "streetAddress": "88 West 9th Street, Greenwich Village, New York, NY 10011, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/comfortable-3-bedroom-apartment.en-gb.html",
+        "description": "Located in New York, 1.3 km from Flatiron Building and 1.6 km from Bloomingdales, Comfortable 3 Bedroom Apartment offers air conditioning."
+    }
+]

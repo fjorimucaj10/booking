@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "reviewCount": 5831,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "addressLocality": "142 West 49th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "142 West 49th Street, New York, NY 10019, United States"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/radio-city-apartments.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7598975,-73.9829595&center=40.7598975,-73.9829595&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=ORFA7NeyuUcjSxp_ZfZwGBd-FZs=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/35204354.jpg?k=0d56772035c5637da2ca6c532284588559da542d3c847c1f3e0f435ecf02e927&o=&hp=1",
+        "name": "Radio City Apartments",
+        "description": "Located 483 metres from Rockefeller Center, this Manhattan hotel offers free WiFi and rooms equipped with a kitchenette and cable TV."
+    }
+]

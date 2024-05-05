@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475004163.jpg?k=db248ae78d578d44fb6a781af930226573b864f5ac6b2473a1b2966b66106482&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7563378,-73.9822170&markers=color:blue%7c40.7563378,-73.9822170&client=gme-booking&channel=booking-frontend&signature=bcZ9W7AdC1iTuwOiVJO67Qe-QQ8=",
+        "priceRange": "Prices for upcoming dates start at \u00a3411 per night (We Price Match)",
+        "address": {
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "addressLocality": "70 West 45th Street",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "name": "Luxurious 1BD Apartment Steps from Times Square",
+        "description": "Located in a central area of New York, 500 metres from Radio City Music Hall, Luxurious 1BD Apartment Steps from Times Square provides air-conditioned...",
+        "url": "https://www.booking.com/hotel/us/luxurious-1bd-apartment-steps-from-times-square.en-gb.html"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Fidi 1br w doorman wd nr south st seaport NYC-1306 is set in the Wall Street - Financial District district of New York, 1.8 km from Brooklyn Bridge, 1.",
+        "name": "Fidi 1br w doorman wd nr south st seaport NYC-1306",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10038",
+            "streetAddress": "New York, 10038, United States",
+            "addressLocality": "",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7084932,-74.0064920&zoom=15&sensor=false&size=1600x1200&center=40.7084932,-74.0064920&client=gme-booking&channel=booking-frontend&signature=UHHHl9q4IitCqHUUJ5XXdxAXqos=",
+        "url": "https://www.booking.com/hotel/us/fidi-1br-w-doorman-wd-nr-south-st-seaport-nyc-1306.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/508076302.jpg?k=c3221c5995ed919e5cbeda7a3aa904cfbec2eb4913af412ca8d24ab1eb0584a5&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

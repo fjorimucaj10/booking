@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-ludlow.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3284 per night (We Price Match)",
+        "description": "Featuring spectacular views of the skyscrapers and bridges of New York City, this hotel is located in the Lower East Side neighbourhood of Manhattan.",
+        "address": {
+            "streetAddress": "180 Ludlow Street, Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "addressCountry": "USA",
+            "addressLocality": "180 Ludlow Street"
+        },
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1187,
+            "ratingValue": 8.9,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7217610,-73.9872180&markers=color:blue%7c40.7217610,-73.9872180&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=7Vq77dtLJ-I_8H0BjoMr9sm0O8I=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/53269790.jpg?k=b0d0ba5397f4d3c4bd195fcf0d33802b9628b2c05aa7a230e2db0b929c30624c&o=&hp=1",
+        "name": "The Ludlow Hotel"
+    }
+]

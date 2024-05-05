@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "West 48th Street 444",
+            "streetAddress": "West 48th Street 444, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10036"
+        },
+        "priceRange": null,
+        "name": "444-2E Modern 2BR Hell's Kitchen",
+        "url": "https://www.booking.com/hotel/us/444-2e-modern-2br-hells-kitchen.en-gb.html",
+        "description": "Located in New York, 1 km from Broadway Theatre and 1.4 km from Carnegie Hall, 444-2E Modern 2BR Hell's Kitchen offers air conditioning. It is set 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7629644,-73.9920309&size=1600x1200&zoom=15&center=40.7629644,-73.9920309&sensor=false&client=gme-booking&channel=booking-frontend&signature=vLdFj46eqF6_h64HX9wVePMExZs=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/514224939.jpg?k=3940f4f9f6880e3120a8fac2d97565ee6daabd0b50d96efafc2f59081585c819&o=&hp=1"
+    }
+]

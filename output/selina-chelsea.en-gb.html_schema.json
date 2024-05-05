@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "518 West 27th Street, Chelsea, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressLocality": "518 West 27th Street",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/selina-chelsea.en-gb.html",
+        "description": "Boasting 2 gourmet restaurants, this 4-star hotel has modern rooms.",
+        "name": "Selina Chelsea",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7506118,-74.0033685&size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7506118,-74.0033685&client=gme-booking&channel=booking-frontend&signature=ac1oB8Njvt_wqrmCu87LIqf_6BY=",
+        "aggregateRating": {
+            "reviewCount": 267,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.2
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3219 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/320700370.jpg?k=2a5226173c341a35a5f7ad6f9f81e812bb7e790b2f3eb6095a1d029f27d29a5d&o=&hp=1"
+    }
+]

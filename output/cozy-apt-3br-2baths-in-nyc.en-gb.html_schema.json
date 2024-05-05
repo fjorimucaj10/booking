@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466825867.jpg?k=c8229bfc6fee8faed8d025c2d959a165299d988156f82055a47ceb5533da5742&o=&hp=1",
+        "name": "Cozy Apt 3BR/2Baths in NYC",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7972163,-73.9404080&zoom=15&markers=color:blue%7c40.7972163,-73.9404080&client=gme-booking&channel=booking-frontend&signature=ElWWN_vpgM30H2pJGLuTrHhxwrc=",
+        "url": "https://www.booking.com/hotel/us/cozy-apt-3br-2baths-in-nyc.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,199 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Located in New York, 3.3 km from Metropolitan Museum of Art and 3.5 km from Columbia University, Cozy Apt 3BR/2Baths in NYC offers air conditioning.",
+        "address": {
+            "addressLocality": "East 115th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "East 115th Street, East Harlem, New York, NY 10029, United States",
+            "postalCode": "NY 10029"
+        }
+    }
+]

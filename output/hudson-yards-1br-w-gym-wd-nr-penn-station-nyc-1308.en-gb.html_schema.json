@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/511757807.jpg?k=811feb66bc1cd30bed42a5c3add5c9834436662ea0cbbff9fcf6f5e135112865&o=&hp=1",
+        "name": "Hudson Yards 1br w gym wd nr penn station NYC-1308",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7530110,-73.9959340&center=40.7530110,-73.9959340&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=u_yg09-FOVvLzeRltQ3f2krsorE=",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hell's Kitchen, New York, 10001, United States",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10001"
+        },
+        "description": "Set in New York, 500 metres from Madison Square Garden and less than 1 km from Jacob K.",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/hudson-yards-1br-w-gym-wd-nr-penn-station-nyc-1308.en-gb.html"
+    }
+]

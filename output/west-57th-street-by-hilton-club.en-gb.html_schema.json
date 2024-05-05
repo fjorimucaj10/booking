@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3297 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.7,
+            "bestRating": 10,
+            "reviewCount": 98,
+            "@type": "AggregateRating"
+        },
+        "name": "Hilton Club West 57th Street New York",
+        "url": "https://www.booking.com/hotel/us/west-57th-street-by-hilton-club.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7645046,-73.9779780&size=1600x1200&center=40.7645046,-73.9779780&sensor=false&client=gme-booking&channel=booking-frontend&signature=zqklUiDEUnuPDb3YWxUfOIrMkAg=",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "102 West 57th Street",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "streetAddress": "102 West 57th Street, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485684824.jpg?k=c2a8ed259153240fad961d81aa4af6eac4b5a7988d4654e45d66510571341536&o=&hp=1",
+        "description": "The luxury shops of Fifth Avenue and scenic Central Park are only steps from this Midtown Manhattan hotel, offering spacious studio and suite..."
+    }
+]

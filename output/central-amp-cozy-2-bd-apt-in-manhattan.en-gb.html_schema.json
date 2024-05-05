@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8020642,-73.9652663&markers=color:blue%7c40.8020642,-73.9652663&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=YpaElirVPAA01DhM_dlDlo5KHoQ=",
+        "name": "Central & Cozy 2 BD APT In Manhattan",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/central-amp-cozy-2-bd-apt-in-manhattan.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "137 West 108th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10025",
+            "streetAddress": "137 West 108th Street, Upper West Side, New York, 10025, United States"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.4,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 7
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3318 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/516066122.jpg?k=3bdb15e7f186c2d40885bd867af62a8df93015a9bc7a862251b48661eacf2fe8&o=&hp=1",
+        "description": "Central & Cozy 2 BD APT In Manhattan is situated in the Upper West Side district of New York, 3.5 km from Metropolitan Museum of Art, 3."
+    }
+]

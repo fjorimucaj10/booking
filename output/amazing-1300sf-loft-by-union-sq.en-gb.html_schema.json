@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3318 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7326290,-73.9892628&center=40.7326290,-73.9892628&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dPnvWG8I3tf6gMlyUIkoIyM07gI=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/544923354.jpg?k=bd205209812329512db14a5173ee5e66eadd8c89e1d219f49841d5e958039da3&o=&hp=1",
+        "description": "Amazing 1300sf Loft By Union Sq features a patio and is situated in New York, within just 1.5 km of Bloomingdales and 1 km of Flatiron Building.",
+        "url": "https://www.booking.com/hotel/us/amazing-1300sf-loft-by-union-sq.en-gb.html",
+        "address": {
+            "streetAddress": "East 12th Street 111, East Village, New York, 10003, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "East 12th Street 111",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10003"
+        },
+        "name": "Amazing 1300sf Loft By Union Sq",
+        "@context": "http://schema.org"
+    }
+]

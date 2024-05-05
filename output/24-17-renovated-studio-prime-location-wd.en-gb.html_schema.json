@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "postalCode": "10010",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "241 East 24th Street",
+            "addressRegion": "New York State"
+        },
+        "name": "24-17 Renovated Studio Prime Location WD",
+        "@context": "http://schema.org",
+        "description": "Located in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, 24-17 Renovated Studio Prime Location WD offers...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7389107,-73.9808273&size=1600x1200&center=40.7389107,-73.9808273&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=eOBdIN4Bm3QvZpgOV-pjhcjrzds=",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/24-17-renovated-studio-prime-location-wd.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410846084.jpg?k=e77f574c8e8df5aead7d88a429c1c7c384a42cfb3cc51bae5323eb4b0a1982b1&o=&hp=1"
+    }
+]

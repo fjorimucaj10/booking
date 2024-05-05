@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 9.0,
+            "@type": "AggregateRating",
+            "reviewCount": 1
+        },
+        "description": "Located in New York, 1.2 km from Central Park and 1.",
+        "url": "https://www.booking.com/hotel/us/e-60s-townhouse-comfortable-quiet-easy-to-manage-3-bedrooms-w-gym-that-can-also.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7645285,-73.9658761&sensor=false&size=1600x1200&zoom=15&center=40.7645285,-73.9658761&client=gme-booking&channel=booking-frontend&signature=1ykFXJnKpc9Q9vykJdtz7RxiQsw=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504485600.jpg?k=0c3904c09487224b7ef8b7351f077f32082822b7467fa836208bb39a45fdcdb5&o=&hp=1",
+        "name": "E 60s Townhouse comfortable, quiet, easy to manage 3 bedrooms w gym that can also be a 4th bedroom",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "162 East 63rd Street, Upper East Side, New York, NY 10065, United States",
+            "addressLocality": "162 East 63rd Street",
+            "postalCode": "NY 10065",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel"
+    }
+]

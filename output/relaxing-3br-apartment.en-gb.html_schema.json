@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in the heart of New York, less than 1 km from Jacob K.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/relaxing-3br-apartment.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "streetAddress": "515 9th Avenue, Hell's Kitchen, New York, NY 10018, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "515 9th Avenue",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7565028,-73.9944862&size=1600x1200&sensor=false&zoom=15&center=40.7565028,-73.9944862&client=gme-booking&channel=booking-frontend&signature=SyiVJE14SyOvUa3nnxdLZcROqk8=",
+        "name": "Relaxing 3BR Apartment",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498079344.jpg?k=32db5270bc2eb75665eb9f45b5419a6bf9b5d684ed32f2a38bce78ee067ce3c0&o=&hp=1"
+    }
+]

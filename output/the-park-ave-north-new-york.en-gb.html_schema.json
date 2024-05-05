@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-park-ave-north-new-york.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.8078807,-73.9376235&sensor=false&center=40.8078807,-73.9376235&zoom=15&client=gme-booking&channel=booking-frontend&signature=iZsjLJtBwvD3uvmIsEfAjcx04Kg=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/62116886.jpg?k=dbc5185dd17bd9e95f8c893e2d37f264eece38b218051d940947225878923812&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "65 East 129th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10035",
+            "addressCountry": "USA",
+            "streetAddress": "65 East 129th Street, East Harlem, New York, NY 10035, United States",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "reviewCount": 679,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.6
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3130 per night (We Price Match)",
+        "name": "The Park Ave North",
+        "description": "Set 2 km from Columbia University, The Park Ave North features free WiFi. The property is around 2.6 km from Yankee Stadium and 3."
+    }
+]

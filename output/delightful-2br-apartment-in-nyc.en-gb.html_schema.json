@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/delightful-2br-apartment-in-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490524430.jpg?k=46b6188033cb1b1a51dbf97a9f38cecc335175396318e7a198d5495e12ad4f83&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Delightful 2BR Apartment in NYC!",
+        "description": "Delightful 2BR Apartment in NYC! is set in the SoHo district of New York, 300 metres from Bloomingdales, 1.1 km from NYU - New York University and 2.",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7216389,-73.9966443&center=40.7216389,-73.9966443&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=mfRGHmgGeAXl6w27wma2yjmNNlw=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "205 Mulberry Street",
+            "postalCode": "NY 10012",
+            "streetAddress": "205 Mulberry Street, SoHo, New York, NY 10012, United States",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 1.0,
+            "reviewCount": 1
+        }
+    }
+]

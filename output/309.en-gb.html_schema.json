@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/309.en-gb.html",
+        "@type": "Hotel",
+        "description": "Situated in the trendy Meatpacking District, this hotel is within walking distance of several Manhattan attractions and offers complimentary WiFi.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/25370528.jpg?k=4b16797e4979dd0cbbca397c5423257b75160cb8ae3827fd5109c3e0a2e8293b&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 6.1,
+            "reviewCount": 1434,
+            "@type": "AggregateRating"
+        },
+        "name": "Hotel 309",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7401236,-74.0031163&markers=color:blue%7c40.7401236,-74.0031163&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=I8MreggIiT9RX8j6aGOannGNNYU=",
+        "address": {
+            "addressLocality": "309 West 14th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "309 West 14th Street, Chelsea, New York, NY 10014, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10014"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3190 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

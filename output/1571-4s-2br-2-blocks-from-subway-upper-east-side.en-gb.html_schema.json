@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7743797,-73.9485855&center=40.7743797,-73.9485855&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=31YZtVh_-99KJjIpFUZXS66Cho4=",
+        "priceRange": null,
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/1571-4s-2br-2-blocks-from-subway-upper-east-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503705137.jpg?k=726210a78a86896da8ae070208caff9ffcea86cecc8b002b62d281d0d680c7f0&o=&hp=1",
+        "address": {
+            "addressLocality": "1571 York Avenue",
+            "streetAddress": "1571 York Avenue, Upper East Side, New York, 10028, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10028",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "Situated in New York, 3.2 km from Central Park and 4 km from Rockefeller Center, 1571-4S 2BR 2 blocks from Subway Upper East Side offers air conditioning.",
+        "@context": "http://schema.org",
+        "name": "1571-4S 2BR 2 blocks from Subway Upper East Side"
+    }
+]

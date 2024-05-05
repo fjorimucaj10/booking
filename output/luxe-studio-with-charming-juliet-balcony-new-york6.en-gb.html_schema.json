@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 1.8 km from Central Park and 1.8 km from St Patrick's Cathedral, Luxe Studio with Charming Juliet Balcony offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/513035629.jpg?k=a89b9f18463c686140699a920342c85efe772394c7d796875b6a36fdc719f78d&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Luxe Studio with Charming Juliet Balcony",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7620741,-73.9613995&zoom=15&center=40.7620741,-73.9613995&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=JBIWEzWc9vAvE10fp78oyXUOmUw=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "341 E 62nd St, New York, NY 10065, USA",
+            "streetAddress": "341 E 62nd St, New York, NY 10065, USA, Upper East Side, New York, 10065, United States",
+            "postalCode": "10065",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/luxe-studio-with-charming-juliet-balcony-new-york6.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3255 per night (We Price Match)"
+    }
+]

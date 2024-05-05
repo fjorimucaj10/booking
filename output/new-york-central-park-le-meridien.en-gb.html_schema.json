@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3258 per night (We Price Match)",
+        "name": "Le Meridien New York, Central Park by Marriott",
+        "url": "https://www.booking.com/hotel/us/new-york-central-park-le-meridien.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/459756029.jpg?k=89612e171b70781283e521a9ffe28f9a153ce5f36f34d8d34c884f2cd63d873f&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 552,
+            "ratingValue": 7.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Located 322 metres from Central Park and 1.3 km from Times Square, Le M\u00e9ridien New York, Central Park offers rooms and suites in Midtown Manhattan.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7644940,-73.9784470&sensor=false&center=40.7644940,-73.9784470&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=5Xj7hF-whZEJxv0ZfgUlxQBuZTA=",
+        "address": {
+            "addressLocality": "120 West 57th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "120 West 57th Street, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019"
+        },
+        "@context": "http://schema.org"
+    }
+]

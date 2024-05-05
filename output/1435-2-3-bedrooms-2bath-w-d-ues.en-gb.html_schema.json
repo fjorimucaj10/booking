@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Set in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 1435-2 3 Bedrooms 2Bath W D UES offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/1435-2-3-bedrooms-2bath-w-d-ues.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7706801,-73.9573166&sensor=false&center=40.7706801,-73.9573166&zoom=15&client=gme-booking&channel=booking-frontend&signature=1h4cVxHJcZzj6fpD4exByYVvgWk=",
+        "name": "1435-2 3 Bedrooms 2Bath W D UES",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503703270.jpg?k=44518c0f0854dac1a9553ad7ea7751fabb8a3b10a97a97ab59a00582e6d9bd10&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10021",
+            "addressLocality": "1435 2nd Avenue",
+            "streetAddress": "1435 2nd Avenue, Upper East Side, New York, 10021, United States"
+        },
+        "priceRange": null,
+        "@type": "Hotel"
+    }
+]

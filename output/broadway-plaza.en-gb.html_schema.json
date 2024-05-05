@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3184 per night (We Price Match)",
+        "address": {
+            "streetAddress": "1155 Broadway, NoMad, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressLocality": "1155 Broadway",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/broadway-plaza.en-gb.html",
+        "@type": "Hotel",
+        "name": "Broadway Plaza Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7444253,-73.9890039&center=40.7444253,-73.9890039&client=gme-booking&channel=booking-frontend&signature=KM68RqeacrQlQcghGQKcPF6hCJc=",
+        "aggregateRating": {
+            "reviewCount": 823,
+            "bestRating": 10,
+            "ratingValue": 8.7,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/266361378.jpg?k=8ec9b7e3f92b57bbcf796a9542e85e60b6a22babb6943127639479178efc2430&o=&hp=1",
+        "description": "Featuring modern art reproductions throughout the property, Broadway Plaza Hotel is located in the NoMad neighbourhood in New York, 400 metres from the..."
+    }
+]

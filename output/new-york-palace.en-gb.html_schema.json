@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/new-york-palace.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/51410533.jpg?k=54c069a15e872c81b5dbd3f07066cf318247fb58c1c2d42e35f8dbe6f07479ff&o=&hp=1",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "reviewCount": 491,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressLocality": "455 Madison Avenue",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "streetAddress": "455 Madison Avenue, Midtown East, New York, NY 10022, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7579659,-73.9749189&center=40.7579659,-73.9749189&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=XAjZapX0TGKuRkwV5xkxGX8rvmg=",
+        "priceRange": "Prices for upcoming dates start at \u00a3556 per night (We Price Match)",
+        "name": "Lotte New York Palace",
+        "description": "With free transfers to Wall Street and Broadway theatres available twice a day, the Lotte New York Palace is located across the street from St."
+    }
+]

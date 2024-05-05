@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Refinery Hotel - New York",
+        "url": "https://www.booking.com/hotel/us/the-refinery.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3336 per night (We Price Match)",
+        "address": {
+            "streetAddress": "63 West 38th Street, New York, NY 10018, United States",
+            "addressLocality": "63 West 38th Street",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.4,
+            "reviewCount": 520,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "description": "This New York City hotel is located in Manhattan and is 10 minutes\u2019 walk to Times Square.  The Refinery Hotel has free Wi-Fi available in public areas.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7521357,-73.9857008&sensor=false&size=1600x1200&markers=color:blue%7c40.7521357,-73.9857008&zoom=15&client=gme-booking&channel=booking-frontend&signature=pT21LRRyrLQG0Fv5EecsYnoy-z4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/221664461.jpg?k=0f7157999b024beea7e5d77c510217e05c95d4692ba838e60d1e2a6dfa5d0bfe&o=&hp=1"
+    }
+]

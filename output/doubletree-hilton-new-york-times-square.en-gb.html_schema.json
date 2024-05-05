@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3173 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505886270.jpg?k=b0c73a725ff7fe810424bf5227acb970fc13c2016d4efbc1268c8ea411011156&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7537640,-73.9926500&zoom=15&center=40.7537640,-73.9926500&client=gme-booking&channel=booking-frontend&signature=JCy7qERw_5sLZD82VvfuqBMTDNM=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 6002,
+            "ratingValue": 7.9
+        },
+        "description": "DoubleTree by Hilton New York Times Square South features air-conditioned rooms with cable TV in the Hell's Kitchen district of New York.",
+        "url": "https://www.booking.com/hotel/us/doubletree-hilton-new-york-times-square.en-gb.html",
+        "address": {
+            "streetAddress": "525 8th Avenue, Hell's Kitchen, New York, NY 10018, United States",
+            "postalCode": "NY 10018",
+            "addressLocality": "525 8th Avenue",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "DoubleTree by Hilton New York Times Square South",
+        "@type": "Hotel"
+    }
+]

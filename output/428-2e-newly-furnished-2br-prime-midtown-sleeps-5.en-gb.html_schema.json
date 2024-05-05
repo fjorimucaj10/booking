@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7619858,-73.9916611&size=1600x1200&center=40.7619858,-73.9916611&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=K9Q9ivqPHbPwgz25Si9XKhBhHis=",
+        "name": "428-2E Newly furnished 2BR Prime Midtown sleeps 5",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550739131.jpg?k=a27f8046a07ca7f874157b7d2caf88140ca0c70e7689bd7e9562383dc77e20a4&o=&hp=1",
+        "@type": "Hotel",
+        "description": "In a central area of New York, set within a short distance of Jacob K.",
+        "url": "https://www.booking.com/hotel/us/428-2e-newly-furnished-2br-prime-midtown-sleeps-5.en-gb.html",
+        "address": {
+            "postalCode": "10036",
+            "streetAddress": "428 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "428 West 47th Street",
+            "addressCountry": "USA"
+        }
+    }
+]

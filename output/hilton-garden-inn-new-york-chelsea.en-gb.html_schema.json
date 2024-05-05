@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7466032,-73.9914310&sensor=false&markers=color:blue%7c40.7466032,-73.9914310&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=wwcRaeYGQiV2QAA0mk76hOPK7gk=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "addressLocality": "121 West 28th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "121 West 28th Street, Chelsea, New York, NY 10001, United States"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.9,
+            "@type": "AggregateRating",
+            "reviewCount": 4380
+        },
+        "name": "Hilton Garden Inn New York/Manhattan-Chelsea",
+        "description": "Within walking distance to many popular Manhattan attractions, this Chelsea hotel is situated in the city's flower district and offers spacious...",
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474333598.jpg?k=ebdddb5ac43e88d551304fef9df7e68463f52712b094c26faa7802b7b660c482&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-chelsea.en-gb.html",
+        "@type": "Hotel"
+    }
+]

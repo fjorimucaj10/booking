@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "70 West 45th Street",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "Perfectly located 2BD near Times Square with Gym",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475009841.jpg?k=6b9b21daf1a5a8b54b4554fbaa55939ab2e2590c8389702df550f43392dd15d8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/perfectly-located-2bd-near-times-square-with-gym.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7563378,-73.9822170&size=1600x1200&markers=color:blue%7c40.7563378,-73.9822170&zoom=15&client=gme-booking&channel=booking-frontend&signature=6e2-XDoF2A3qp6D_iau4x4mxZlU=",
+        "description": "Situated right in the centre of New York, 500 metres from Radio City Music Hall, Perfectly located 2BD near Times Square with Gym features air-conditioned..."
+    }
+]

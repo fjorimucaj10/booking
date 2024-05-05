@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "2178 Broadway, Upper West Side, New York, NY 10024, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10024",
+            "addressLocality": "2178 Broadway",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/arthouse-hotel.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3220 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "Arthouse Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7821662,-73.9803363&size=1600x1200&center=40.7821662,-73.9803363&sensor=false&client=gme-booking&channel=booking-frontend&signature=jtKuS7bE3ys02EOXWv5OkyDXCMM=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1769,
+            "ratingValue": 7.9,
+            "@type": "AggregateRating"
+        },
+        "description": "Greeted by custom artwork, an original fireplace and a 1920\u2019s elevator system in lobby, guests at this century-old hotel in Upper West Side will be 650...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/76840959.jpg?k=6cf157d5ffdaeebe9831669fe22a489939b518d2c8fb6538b09e79160df79ac3&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 482,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/j-e-house-new-york-new-york.en-gb.html",
+        "name": "JW Marriott Essex House New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3499 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "With an ideal location on Central Park, this luxurious Midtown Manhattan hotel offers elegant on-site dining options.",
+        "address": {
+            "postalCode": "NY 10019",
+            "streetAddress": "160 Central Park South, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "160 Central Park South",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7664071,-73.9783730&size=1600x1200&center=40.7664071,-73.9783730&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZmT7kPaKfKXtLDKX0VGfMy8rBac=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520923079.jpg?k=358fb1f925f393a4bd5928809342c1b3f98e7a055a54e196d98d9b0e5ac1d4ea&o=&hp=1"
+    }
+]

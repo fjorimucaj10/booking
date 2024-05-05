@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3144 per night (We Price Match)",
+        "address": {
+            "addressLocality": "230 East 51st Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "230 East 51st Street, Midtown East, New York, NY 10022, United States"
+        },
+        "aggregateRating": {
+            "reviewCount": 10704,
+            "ratingValue": 7.8,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=40.7559105,-73.9690780&markers=color:blue%7c40.7559105,-73.9690780&client=gme-booking&channel=booking-frontend&signature=Si-TiI_o-ZwA5kL003iVT-3HXX0=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/109025578.jpg?k=d1962ec8f93b0df93c79a69bea94426254cd88845a790ac7dd82d46c6e1e36af&o=&hp=1",
+        "name": "Pod 51",
+        "description": "This Manhattan Hotel is less than 1 km from Rockefeller Center.",
+        "url": "https://www.booking.com/hotel/us/pod.en-gb.html"
+    }
+]

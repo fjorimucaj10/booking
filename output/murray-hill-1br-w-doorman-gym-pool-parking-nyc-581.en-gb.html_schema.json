@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10016",
+            "addressRegion": "New York State",
+            "streetAddress": "Murray Hill, New York, 10016, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/murray-hill-1br-w-doorman-gym-pool-parking-nyc-581.en-gb.html",
+        "@type": "Hotel",
+        "name": "Murray Hill 1BR w Doorman Gym Pool Parking NYC-581",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/458341925.jpg?k=75dd8d49b73f17f31f61d30499d88e7f8ffb4d95fd7ede2073fd208b4479c6e9&o=&hp=1",
+        "description": "Set in New York, 500 metres from Chrysler Building, 700 metres from Grand Central Station and less than 1 km from New York Public Library, Murray Hill 1BR...",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7488486,-73.9731852&size=1600x1200&markers=color:blue%7c40.7488486,-73.9731852&client=gme-booking&channel=booking-frontend&signature=y1lQMMZcc4JVxHr1XnNuhWNkenE="
+    }
+]

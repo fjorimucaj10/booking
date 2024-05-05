@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7193642,-73.9851151&center=40.7193642,-73.9851151&sensor=false&client=gme-booking&channel=booking-frontend&signature=8Ow3ZBTNkty0zcoaNOGBkSQ9EsM=",
+        "description": "69-3D Prime Lower East East BRAND NEW 1br Apt is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "name": "69-3D Prime Lower East East BRAND NEW 1br Apt",
+        "url": "https://www.booking.com/hotel/us/69-3d-prime-lower-east-east-brand-new-1br-apt.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3372 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10002",
+            "addressLocality": "69 Clinton Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530193984.jpg?k=8da743edbf692c65df151659f1756ffc157fefac8620d84553dfb6a0d6789999&o=&hp=1"
+    }
+]

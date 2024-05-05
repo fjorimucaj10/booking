@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500422606.jpg?k=fc6bdd63cc8460d3ef211c651298c9878de36057364908fc2d0c5a3a2b548802&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/120-east-39th.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016 ",
+            "addressRegion": "New York State",
+            "streetAddress": "120 East 39th Street, Murray Hill, New York, NY 10016 , United States",
+            "addressLocality": "120 East 39th Street"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7496984,-73.9781852&zoom=15&sensor=false&markers=color:blue%7c40.7496984,-73.9781852&client=gme-booking&channel=booking-frontend&signature=e2q2aRHlFhDFfFemVzHapeFZqT4=",
+        "@context": "http://schema.org",
+        "name": "Tuscany by LuxUrban",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2264,
+            "ratingValue": 7.4,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "description": "This boutique hotel in the Murray Hill neighborhood of Manhattan is 325 metres from Grand Central Station."
+    }
+]

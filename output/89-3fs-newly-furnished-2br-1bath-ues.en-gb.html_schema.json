@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "East 89th Street 235",
+            "postalCode": "10128",
+            "streetAddress": "East 89th Street 235, Upper East Side, New York, 10128, United States"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531719012.jpg?k=f81a3135a4e657325d64c9aff96d4f69ea869ca01bc6cb32fd168ba8b67637a8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/89-3fs-newly-furnished-2br-1bath-ues.en-gb.html",
+        "name": "89-3FS Newly Furnished 2br 1bath UES",
+        "description": "Situated in New York, 3.2 km from Central Park and 3.2 km from Strawberry Fields, 89-3FS Newly Furnished 2br 1bath UES offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7800477,-73.9505824&markers=color:blue%7c40.7800477,-73.9505824&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=AN1wWmT2QXVYgJQ0HhJnwsYTd0g="
+    }
+]

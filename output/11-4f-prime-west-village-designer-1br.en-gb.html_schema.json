@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532381846.jpg?k=d74beb8e3a547263fbc1216d769957721be47d1ffc4664bf5a3db384cc7570b4&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/11-4f-prime-west-village-designer-1br.en-gb.html",
+        "address": {
+            "postalCode": "10011",
+            "addressRegion": "New York State",
+            "addressLocality": "101 West 11th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "101 West 11th Street, Greenwich Village, New York, 10011, United States",
+            "addressCountry": "USA"
+        },
+        "name": "11-4F Prime west village designer 1BR",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7354050,-73.9982986&zoom=15&size=1600x1200&sensor=false&center=40.7354050,-73.9982986&client=gme-booking&channel=booking-frontend&signature=TE9fmISH5ACG-F89fCkeswhwVOM=",
+        "description": "Set in New York, 1.8 km from The High Line and 1.2 km from Flatiron Building, 11-4F Prime west village designer 1BR offers air conditioning.",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3483 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7626621,-73.9756831&sensor=false&zoom=15&center=40.7626621,-73.9756831&client=gme-booking&channel=booking-frontend&signature=2p9zZ7FqNrUw7eayPftZ5WE33tg=",
+        "url": "https://www.booking.com/hotel/us/the-whitby.en-gb.html",
+        "name": "The Whitby Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/106790872.jpg?k=7812a9b32ae2fe35ebd2625af2ba65e6437f71414db040477bfda7d03abc8e0b&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10019",
+            "streetAddress": "18 West 56th Street, New York, NY 10019, United States",
+            "addressLocality": "18 West 56th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "description": "Situated in upper midtown Manhattan, 483 metres from the Central Park, the Whitby Hotel is a short distance away from stores such as Saks Fifth Avenue and...",
+        "priceRange": "Prices for upcoming dates start at \u00a3821 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 154,
+            "ratingValue": 9.3
+        },
+        "@type": "Hotel"
+    }
+]

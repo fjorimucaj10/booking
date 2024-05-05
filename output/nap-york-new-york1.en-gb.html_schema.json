@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Nap York Central Park Sleep Station is situated conveniently in New York, and offers a shared lounge and free WiFi.",
+        "address": {
+            "streetAddress": "940 8th Avenue, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "940 8th Avenue"
+        },
+        "url": "https://www.booking.com/hotel/us/nap-york-new-york1.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7656650,-73.9832320&sensor=false&markers=color:blue%7c40.7656650,-73.9832320&client=gme-booking&channel=booking-frontend&signature=Pey8f1cdJT3qOU5hvo0iQT24fi0=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/430526231.jpg?k=6667752051b8af588800fa3079343d63793186312a4b48762fe04cc228946394&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a385 per night (We Price Match)",
+        "name": "Nap York Central Park Sleep Station",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 4031,
+            "ratingValue": 8.2,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

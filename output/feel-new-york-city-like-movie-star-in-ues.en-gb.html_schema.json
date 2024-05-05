@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550313873.jpg?k=6fbf1549e5e569c5a6eb6695a868bd028aa09e71051b3d32c57d0b2c93806e47&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3394 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7746710,-73.9588396&zoom=15&sensor=false&center=40.7746710,-73.9588396&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=h39oPXokDNfD-eqgmzThtPl3Ivs=",
+        "name": "Feel New York City like Movie star in UES",
+        "description": "Feel New York City like Movie star in UES is situated in the Upper East Side district of New York, 800 metres from Metropolitan Museum of Art, 1.",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "150 East 79th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10075",
+            "streetAddress": "150 East 79th Street, Upper East Side, New York, NY 10075, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/feel-new-york-city-like-movie-star-in-ues.en-gb.html"
+    }
+]

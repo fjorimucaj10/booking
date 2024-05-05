@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.8,
+            "bestRating": 10,
+            "reviewCount": 219
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465562313.jpg?k=a01751dd1237827b44f0edf8a0be12d296de1d21376ea5e732439835a4ffdc4f&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/w-new-york-union-square.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3285 per night (We Price Match)",
+        "address": {
+            "streetAddress": "201 Park Avenue South, Union Square, New York, NY 10003, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "201 Park Avenue South",
+            "postalCode": "NY 10003"
+        },
+        "description": "Two blocks from the 14th Street \u2013 Union Square subway station, this downtown Manhattan hotel features brown accented rooms with a 42-inch flat-screen TV.",
+        "name": "W New York - Union Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7366647,-73.9887719&center=40.7366647,-73.9887719&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=jOLPln9ryNF1NoFf87A32PZCnUg="
+    }
+]

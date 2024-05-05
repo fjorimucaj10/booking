@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "338 East 14th Street, Gramercy, New York, 10003, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10003",
+            "@type": "PostalAddress",
+            "addressLocality": "338 East 14th Street",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/338-3b-union-square-newly-reno-sleeps-3.en-gb.html",
+        "name": "338-3B union square Newly Reno Sleeps 3",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3671 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7322388,-73.9837723&zoom=15&size=1600x1200&markers=color:blue%7c40.7322388,-73.9837723&client=gme-booking&channel=booking-frontend&signature=e_Eo7pINi07Ag4_yOL2LFRRYUng=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530098908.jpg?k=629e709b5660337450411e72ca3099fb0b2c26b8a5424fd5aa83c9f2b6d419a2&o=&hp=1",
+        "description": "Located in New York, 1.5 km from NYU - New York University and 2 km from Bloomingdales, 338-3B union square Newly Reno Sleeps 3 offers air conditioning."
+    }
+]

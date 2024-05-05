@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466123026.jpg?k=15dbbf517e229608ce24fa5a6a1ee1011257345ff18e8f9336372e1c2bb68b7e&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3261 per night (We Price Match)",
+        "description": "Boasting a hot tub, Private one bedroom one bathroom is situated in New York. It is set less than 1 km from Flatiron Building and features a shared...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7399138,-73.9818064&center=40.7399138,-73.9818064&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=M0ODncqB1ui8nt4BmUed0ktLYVo=",
+        "url": "https://www.booking.com/hotel/us/private-room-new-york2.en-gb.html",
+        "address": {
+            "addressLocality": "210 East 25th Street 1FW",
+            "streetAddress": "210 East 25th Street 1FW, Gramercy, New York, NY 10010, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10010"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "reviewCount": 9
+        },
+        "name": "Private one bedroom one bathroom"
+    }
+]

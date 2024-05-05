@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7233278,-73.9917039&size=1600x1200&center=40.7233278,-73.9917039&client=gme-booking&channel=booking-frontend&signature=ys9HAjCCn-NINyb9msslDicH8FY=",
+        "address": {
+            "postalCode": "10002",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "streetAddress": "Lower East Side, New York, 10002, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/les-2br-w-doorman-wd-gym-nr-park-nyc-1325.en-gb.html",
+        "priceRange": null,
+        "name": "LES 2br w doorman wd gym nr park NYC-1325",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/511448215.jpg?k=41d054ce9b9a41baabb973d4d87698fe35bdacd1c2966055f5b367e78da8e8c1&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1 km from NYU - New York University and 2."
+    }
+]

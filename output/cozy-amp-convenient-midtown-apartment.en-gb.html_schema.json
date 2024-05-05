@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "10016",
+            "streetAddress": "East 35th Street, Kips Bay, New York, 10016, United States",
+            "addressCountry": "USA",
+            "addressLocality": "East 35th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488854367.jpg?k=3425f6598b0a7bd6f97bf3204f597b8581d825bd8c4cc5148f2944bcfb15e1bb&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7442442,-73.9749776&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7442442,-73.9749776&client=gme-booking&channel=booking-frontend&signature=S8_CJYPcl9f9K0kO6loBn1NUhJA=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/cozy-amp-convenient-midtown-apartment.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3408 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 16,
+            "ratingValue": 7.9,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "Cozy & Convenient Midtown Apartment!",
+        "@context": "http://schema.org",
+        "description": "Cozy & Convenient Midtown Apartment! is located in the Kips Bay district of New York, 1.1 km from Empire State Building, 1."
+    }
+]

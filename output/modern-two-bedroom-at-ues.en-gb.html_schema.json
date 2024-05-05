@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3591 per night (We Price Match)",
+        "name": "Modern Two Bedroom At UES",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10065",
+            "streetAddress": "148 East 63rd Street, Upper East Side, New York, NY 10065, United States",
+            "addressLocality": "148 East 63rd Street",
+            "addressRegion": "New York State"
+        },
+        "description": "Situated in New York, 1.4 km from St Patrick's Cathedral and 1.6 km from Rockefeller Center, Modern Two Bedroom At UES offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501894609.jpg?k=4d392dd15fd39d88def061b5adf2ae85f5d88e3a622b035cf4f550a17d45a7b1&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/modern-two-bedroom-at-ues.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7643633,-73.9659645&center=40.7643633,-73.9659645&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=SZNbNM4MgflDrU_B93rYMOzS5w8=",
+        "@context": "http://schema.org"
+    }
+]

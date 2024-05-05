@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/manhattan-broadway-apartment.en-gb.html",
+        "description": "Located in New York, 700 metres from Madison Square Garden and 800 metres from Penn Station, Midtown Nest 1 bedroom Self Serviced Apartment offers air...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7471979,-73.9878199&sensor=false&zoom=15&markers=color:blue%7c40.7471979,-73.9878199&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=2o-buLrty1wmYY2hVetSD9S6Jm8=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/515308175.jpg?k=2fa16efbcbaefc07fac8d0da31ad64bcba8062b516b9a849ece7d8d8aa77f94e&o=&hp=1",
+        "name": "Midtown Nest 1 bedroom Self Serviced Apartment",
+        "address": {
+            "addressLocality": "38 West 31st Street",
+            "addressRegion": "New York State",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "priceRange": null
+    }
+]

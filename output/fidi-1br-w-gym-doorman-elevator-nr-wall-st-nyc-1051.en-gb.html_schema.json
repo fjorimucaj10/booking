@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466245577.jpg?k=002b2b001ae714c0d3e09029bbb636b8fd739883327de1486ebc0b69cf2fc401&o=&hp=1",
+        "description": "FiDi 1br w gym doorman elevator nr Wall St NYC-1051 is located in the Wall Street - Financial District district of New York, 1.8 km from Brooklyn Bridge,...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7084932,-74.0064920&zoom=15&center=40.7084932,-74.0064920&sensor=false&client=gme-booking&channel=booking-frontend&signature=aL12srDP3UXagyQnYosN5YR9tCQ=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/fidi-1br-w-gym-doorman-elevator-nr-wall-st-nyc-1051.en-gb.html",
+        "name": "FiDi 1br w gym doorman elevator nr Wall St NYC-1051",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "New York, 10038, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10038"
+        },
+        "priceRange": null,
+        "@type": "Hotel"
+    }
+]

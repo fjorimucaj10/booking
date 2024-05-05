@@ -1,0 +1,26 @@
+[
+    {
+        "description": "In the Hell's Kitchen district of New York, close to Jacob K.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7587073,-73.9907621&size=1600x1200&markers=color:blue%7c40.7587073,-73.9907621&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=_Do5bbcArFLQQpHGkdxEkhSr2Xg=",
+        "address": {
+            "addressLocality": "400 W 42nd Street",
+            "streetAddress": "400 W 42nd Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "name": "TIME SQUARE 42nd Street Private Room",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/516468473.jpg?k=eb857bfd31d4d36f47858e6a41c2729f3e7784c7e9168779ea5bbdc4da5c3526&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/time-square-43rd-st-private-room.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 4.6,
+            "bestRating": 10,
+            "reviewCount": 25
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3127 per night (We Price Match)"
+    }
+]

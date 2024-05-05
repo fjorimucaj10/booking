@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/15062313.jpg?k=489d6e1f3ea3123c69c67ffb4d501d922462851ea2ec17f80b8cf88dde8f8dbc&o=&hp=1",
+        "name": "Hotel 31 Extended Stay",
+        "description": ".Newly renovated Extended Stay Hotel 31 is conveniently Located in the heart of New York City on 31st Street between Lexington and Park Avenue South..",
+        "priceRange": "Prices for upcoming dates start at \u00a3104 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10016",
+            "addressCountry": "USA",
+            "streetAddress": "120 East 31 Street, NoMad, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "120 East 31 Street"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7446234,-73.9817552&center=40.7446234,-73.9817552&client=gme-booking&channel=booking-frontend&signature=Bef2ZzY2UzV5kRFxQ9KIrFQj5hA=",
+        "aggregateRating": {
+            "reviewCount": 208,
+            "ratingValue": 7.9,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/31.en-gb.html"
+    }
+]

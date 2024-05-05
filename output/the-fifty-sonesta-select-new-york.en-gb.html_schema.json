@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1095
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "155 E. 50th Street, Midtown East, New York, NY 10022, United States",
+            "addressLocality": "155 E. 50th Street",
+            "postalCode": "NY 10022",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "description": "Ideally located in Midtown Manhattan, this pet-friendly luxury hotel is 2 km from Times Square and the United Nations Headquarters.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7560663,-73.9710961&size=1600x1200&center=40.7560663,-73.9710961&sensor=false&client=gme-booking&channel=booking-frontend&signature=fLhMMkrX43jKO7LbN8nOciKmswk=",
+        "url": "https://www.booking.com/hotel/us/the-fifty-sonesta-select-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/156569095.jpg?k=afcbcc020b88c535f7ddba19f716a6113f5f41ae53b3ad7a40a8b41857402513&o=&hp=1",
+        "name": "The Fifty Sonesta New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3200 per night (We Price Match)"
+    }
+]

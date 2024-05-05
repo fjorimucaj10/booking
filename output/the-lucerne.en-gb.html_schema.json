@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-lucerne.en-gb.html",
+        "address": {
+            "streetAddress": "201 West 79th Street, Upper West Side, New York, NY 10024, United States",
+            "postalCode": "NY 10024",
+            "addressLocality": "201 West 79th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3167 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7833665,-73.9785969&sensor=false&markers=color:blue%7c40.7833665,-73.9785969&client=gme-booking&channel=booking-frontend&signature=67oHHuf-4NVFixFO9Uqih8ieT-g=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/65908175.jpg?k=62b2c98c5a57e01dfbb62da183983f2b29ecbcf963f395f3323d4e126b1cc587&o=&hp=1",
+        "description": "This hotel is 150 metres from the 79th street metro station and 325 metres from the Museum of Natural History.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1725,
+            "bestRating": 10,
+            "ratingValue": 8.5
+        },
+        "name": "Hotel Lucerne"
+    }
+]

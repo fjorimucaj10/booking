@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3376 per night (We Price Match)",
+        "name": "House of NYC",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7882475,-73.9717194&markers=color:blue%7c40.7882475,-73.9717194&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=DcVzY9uKMlrMAv05ae_zl_kaM80=",
+        "description": "Located in New York, 1.7 km from Strawberry Fields and 2.1 km from Lincoln Center, House of NYC offers air conditioning. The property is set 2.",
+        "url": "https://www.booking.com/hotel/us/house-of-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/523893175.jpg?k=a1d602e1cecbfbb5bffdddcae7906d6e98d9ea8284684b9d6de4e60040a8e8a7&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "107 West 88th Street",
+            "postalCode": "NY 10024",
+            "streetAddress": "107 West 88th Street, Upper West Side, New York, NY 10024, United States"
+        }
+    }
+]

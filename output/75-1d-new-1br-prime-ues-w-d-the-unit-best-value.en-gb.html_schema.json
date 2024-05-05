@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "addressLocality": "244 East 75th Street"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412853648.jpg?k=9b905fbed31bc6d2db3d9412ddef4cb116212203b293ff0dad053493b48370b7&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3434 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7707710,-73.9574814&markers=color:blue%7c40.7707710,-73.9574814&client=gme-booking&channel=booking-frontend&signature=o3YWhKs5215L2cjnC8oSlT4ITY8=",
+        "name": "75-1D New 1BR prime UES W D the unit Best Value",
+        "description": "Located in New York, 1.9 km from Central Park and 2.",
+        "url": "https://www.booking.com/hotel/us/75-1d-new-1br-prime-ues-w-d-the-unit-best-value.en-gb.html"
+    }
+]

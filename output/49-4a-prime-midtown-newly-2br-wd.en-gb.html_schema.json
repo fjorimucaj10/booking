@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7546425,-73.9704381&size=1600x1200&sensor=false&center=40.7546425,-73.9704381&client=gme-booking&channel=booking-frontend&signature=HVQAD28YEoUGJxcrd-JkqzyImzk=",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "East 49th Street 220",
+            "@type": "PostalAddress",
+            "postalCode": "10017",
+            "streetAddress": "East 49th Street 220, Midtown East, New York, 10017, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "49-4A Prime Midtown newly 2BR WD",
+        "description": "Right in the heart of New York, situated within a short distance of Chrysler Building and Top of the Rock, 49-4A Prime Midtown newly 2BR WD offers free...",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/49-4a-prime-midtown-newly-2br-wd.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532354075.jpg?k=62e55190b0128e08713341649525b40c1911d07b7c53728aa4eaaa8504864c54&o=&hp=1"
+    }
+]

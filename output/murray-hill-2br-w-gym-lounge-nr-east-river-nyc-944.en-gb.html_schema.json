@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/murray-hill-2br-w-gym-lounge-nr-east-river-nyc-944.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "Murray Hill, New York, 10016, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10016",
+            "addressLocality": ""
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431141717.jpg?k=6d62f250c7f5d6a0fcbd406c25f26e9873b50448b8367640cc85707046d9fda0&o=&hp=1",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7438390,-73.9735030&center=40.7438390,-73.9735030&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=wsOJHJz1Lr_XbK4zFbVuMuVFHHc=",
+        "name": "Murray Hill 2br w gym lounge nr East River NYC-944",
+        "@type": "Hotel",
+        "description": "Offering city views, Murray Hill 2br w gym lounge nr East River NYC-944 is an accommodation located in New York, 1.2 km from Chrysler Building and 1."
+    }
+]

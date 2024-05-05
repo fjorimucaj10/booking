@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3429 per night (We Price Match)",
+        "address": {
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "addressLocality": "38 West 31st Street"
+        },
+        "name": "Hotel and the City, Rooftop City View",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 92,
+            "bestRating": 10,
+            "ratingValue": 8.5
+        },
+        "description": "Set within the NoMad district in New York, Hotel and the City, Rooftop City View has air conditioning, a terrace, and city views.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/405571882.jpg?k=fead1a7b75fea57328b9581d521976060802d3c80ecb335282727be8b52c6fe3&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/and-the-city-rooftop-city-view.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7472110,-73.9878074&sensor=false&size=1600x1200&center=40.7472110,-73.9878074&zoom=15&client=gme-booking&channel=booking-frontend&signature=UT31v5UT2MGF8RP_Ykej2fpREN0="
+    }
+]

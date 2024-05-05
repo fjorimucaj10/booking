@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/giraffe.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "streetAddress": "365 Park Avenue South At 26th St., NoMad, New York, NY 10016, United States",
+            "addressLocality": "365 Park Avenue South At 26th St.",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "Located in the NoMad neighborhood, this boutique New York City hotel is within 10 minutes\u2019 walk of Union Square Park and Chelsea.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7421970,-73.9847043&zoom=15&markers=color:blue%7c40.7421970,-73.9847043&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=WnREAMFG7Q9zyDc410CWDUkrSUg=",
+        "name": "Hotel Giraffe by Library Hotel Collection",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 322,
+            "bestRating": 10,
+            "ratingValue": 8.8
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3329 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/8929927.jpg?k=5fdb87e4a5d27c2639395fc584d2b65d2325f0dad6833d8aa56f8449729b3e28&o=&hp=1"
+    }
+]

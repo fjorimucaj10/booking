@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7182820,-74.0019860&markers=color:blue%7c40.7182820,-74.0019860&sensor=false&client=gme-booking&channel=booking-frontend&signature=xpYKkJQeuV_MkHlT8UpYdSQTvdY=",
+        "@context": "http://schema.org",
+        "name": "Walker Hotel Tribeca",
+        "address": {
+            "streetAddress": "77 Walker Street, Chinatown, New York, NY 10013, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "77 Walker Street",
+            "postalCode": "NY 10013",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/walker-tribeca.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)",
+        "description": "Featuring a fitness centre, bar and views of city, Walker Hotel Tribeca is set in New York, 600 metres from Bloomingdales.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/248889126.jpg?k=942a04d282cd30e6cff1b29659c3ef814fbe1d316d281e140292ff504d33a8a8&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "reviewCount": 1691
+        }
+    }
+]

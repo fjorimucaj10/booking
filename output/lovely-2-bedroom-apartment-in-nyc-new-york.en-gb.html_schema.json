@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10002",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "50 Pike Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "50 Pike Street",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531167696.jpg?k=b8c8ea93bc051612b852baf214f2fffd90043f85b3ddc27a83a2b11c58b6e161&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7121168,-73.9926990&markers=color:blue%7c40.7121168,-73.9926990&zoom=15&client=gme-booking&channel=booking-frontend&signature=tsku_MBY10xdfbIE-ztjLVjKZAk=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "name": "Lovely 2 Bedroom Apartment in NYC!",
+        "description": "Situated in New York, 2.5 km from Brooklyn Bridge and 2 km from One World Trade Center, Lovely 2 Bedroom Apartment in NYC! offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/lovely-2-bedroom-apartment-in-nyc-new-york.en-gb.html"
+    }
+]

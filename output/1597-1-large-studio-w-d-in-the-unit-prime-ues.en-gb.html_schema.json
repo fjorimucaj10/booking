@@ -1,0 +1,20 @@
+[
+    {
+        "name": "1597-1 Large studio W D in the unit prime UES",
+        "priceRange": "Prices for upcoming dates start at \u00a3646 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545867496.jpg?k=c359359cef5b9d5675ae691ddbf70a5eed7d7af1572b179eed4401b8cc41e561&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1597-1-large-studio-w-d-in-the-unit-prime-ues.en-gb.html",
+        "description": "Located in New York, 1.5 km from Metropolitan Museum of Art and 3.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7749268,-73.9481632&markers=color:blue%7c40.7749268,-73.9481632&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=XmVw8W1JhEPr-hV32H4bRMLeYGs=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10028",
+            "addressLocality": "York Avenue 1597",
+            "addressRegion": "New York State",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States"
+        }
+    }
+]

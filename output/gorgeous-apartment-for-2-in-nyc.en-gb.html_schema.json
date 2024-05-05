@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "41 East 76th Street",
+            "postalCode": "NY 10021",
+            "streetAddress": "41 East 76th Street, New York, NY 10021, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/gorgeous-apartment-for-2-in-nyc.en-gb.html",
+        "description": "Set in New York, 1.4 km from Central Park and 2.4 km from St Patrick's Cathedral, Gorgeous Apartment for 2 in NYC offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/553429477.jpg?k=66cf0f5cd0e6b60e200fe47770299e208788f450cb26c3db9bbb3dca1deb83dd&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7743448,-73.9629647&sensor=false&zoom=15&size=1600x1200&center=40.7743448,-73.9629647&client=gme-booking&channel=booking-frontend&signature=qQtaUzzIXmVczbo9FH5eEcQmLH4=",
+        "name": "Gorgeous Apartment for 2 in NYC",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated right in the centre of New York, less than 1 km from Broadway Theatre, Hells Kitchen 1BR w Doorman nr Central Park NYC-525 features...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/447736378.jpg?k=858a36d7b2feb94cb2f985b516d255d72ccb2145946b90a4d8469666ab2eda01&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7677879,-73.9917410&size=1600x1200&markers=color:blue%7c40.7677879,-73.9917410&client=gme-booking&channel=booking-frontend&signature=01691B1qelvGz2tOOJmlbtwr-1Q=",
+        "url": "https://www.booking.com/hotel/us/hells-kitchen-1br-w-doorman-nr-central-park-nyc-525.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "10019",
+            "streetAddress": "Hell's Kitchen, New York, 10019, United States",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "name": "Hells Kitchen 1BR w Doorman nr Central Park NYC-525",
+        "priceRange": null,
+        "@type": "Hotel"
+    }
+]

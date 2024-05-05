@@ -1,0 +1,20 @@
+[
+    {
+        "name": "E Village 1br w gym wd doorman nr Union Sq NYC-278",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/522545974.jpg?k=d0eb7572f1c8cfbde38843bb9ffd3ab5acde8ee5cc0eee59aea9121eedeaff47&o=&hp=1",
+        "description": "Set in New York, 1.5 km from Bloomingdales and 1.3 km from Flatiron Building, E Village 1br w gym wd doorman nr Union Sq NYC-278 offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/e-village-1br-w-gym-wd-doorman-nr-union-sq-nyc-278.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7309909,-73.9884436&size=1600x1200&sensor=false&zoom=15&center=40.7309909,-73.9884436&client=gme-booking&channel=booking-frontend&signature=Jin4kOYg-mJ9ujwQNi0SZYMlImo=",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "",
+            "streetAddress": "East Village, New York, 10003, United States",
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Featuring free WiFi, The Renwick offers luxury residential-style accommodation in Midtown Manhattan, 400 metres from Bryant Park.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2060,
+            "ratingValue": 8.2,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "118 East 40th Street, Murray Hill, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "118 East 40th Street",
+            "postalCode": "NY 10016"
+        },
+        "name": "The Renwick",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/62412250.jpg?k=7389247a6dbefb943abdb9c9e9e4bc29f4dbd0e38b07e4bf0e3483632c14ec58&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3212 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7503060,-73.9775140&sensor=false&center=40.7503060,-73.9775140&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=gQWbtyrRsAJOiAaBfd-ycBNPr3g=",
+        "url": "https://www.booking.com/hotel/us/the-renwick.en-gb.html"
+    }
+]

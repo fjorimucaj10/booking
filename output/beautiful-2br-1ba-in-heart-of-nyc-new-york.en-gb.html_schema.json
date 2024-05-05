@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Beautiful 2BR/1BA in Heart of NYC",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "466 10th Avenue",
+            "addressRegion": "New York State",
+            "streetAddress": "466 10th Avenue, Hudson Yards, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/beautiful-2br-1ba-in-heart-of-nyc-new-york.en-gb.html",
+        "description": "Beautiful 2BR/1BA in Heart of NYC is set in the Hudson Yards district of New York, 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489026186.jpg?k=2247d1bb28a18aa62ca55f253d7d1837668ba61671170bc3f0d170599f2e476e&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7560175,-73.9976901&size=1600x1200&center=40.7560175,-73.9976901&client=gme-booking&channel=booking-frontend&signature=q9pCwr95w1WWBF_hgyjMROZuZ4Q=",
+        "priceRange": "Prices for upcoming dates start at \u00a3464 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "3 Bed Modern Condo Stay on Central Park!",
+        "description": "3 Bed Modern Condo Stay on Central Park! is located in the Central New York City district of New York, less than 1 km from Rockefeller Center, a 12-minute...",
+        "priceRange": "Prices for upcoming dates start at \u00a32,832 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "10 Central Park South",
+            "addressRegion": "New York State",
+            "streetAddress": "10 Central Park South, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498204300.jpg?k=cee85aed88b1f92392517f8706562e59b867fbdd00e1bc27a316483c7aaaefb2&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/3-bed-modern-condo-stay-on-central-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7647453,-73.9743479&zoom=15&size=1600x1200&center=40.7647453,-73.9743479&sensor=false&client=gme-booking&channel=booking-frontend&signature=N9rJwc4EPHJCzRfjztNljbXVEbo=",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Lovely 2 Bedroom Apartment",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506201805.jpg?k=aaa0533cbaa4bb9864ba379565409d617f3f52a814a9c4c5c25a96707af29708&o=&hp=1",
+        "address": {
+            "streetAddress": "330 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "addressLocality": "330 East 56th Street",
+            "postalCode": "NY 10022",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7578532,-73.9645975&center=40.7578532,-73.9645975&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=8uIokcldTtaPaqxNIb3v9lQjXxM=",
+        "description": "Located in the centre of New York, 1.3 km from St Patrick's Cathedral, Lovely 2 Bedroom Apartment provides air-conditioned accommodation with free WiFi and...",
+        "url": "https://www.booking.com/hotel/us/lovely-2-bedroom-apartment-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Sanctuary Hotel New York is a boutique hotel located 140 meters from Times Square and within 322 meters of Radio City Music Hall.",
+        "name": "Sanctuary Hotel New York",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3234 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/105395680.jpg?k=dee44bd9bed542dcaa05a2bdb51aeb1373ce448f445082aaf75fa7d3b1e04306&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "132 West 47th Street",
+            "streetAddress": "132 West 47th Street, New York, NY 10036, United States",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1292
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7585038,-73.9832760&zoom=15&markers=color:blue%7c40.7585038,-73.9832760&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=jjezw6RO7IlLexBVtQSaLNAK0wc=",
+        "url": "https://www.booking.com/hotel/us/sanctuary-new-york.en-gb.html"
+    }
+]

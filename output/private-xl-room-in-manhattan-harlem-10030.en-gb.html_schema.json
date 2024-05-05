@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/private-xl-room-in-manhattan-harlem-10030.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3114 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "NY Room with shared bathroom request reservation IG APTNY24",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/443790548.jpg?k=41dd6e179cf83ec2dbb3112a5e081f924b3a059b053b7cd8a08ce9c3782b2f18&o=&hp=1",
+        "description": "Situated in New York, 2.4 km from Yankee Stadium and 3.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "137 West 141st Street, Harlem, New York, NY 10030, United States",
+            "addressLocality": "137 West 141st Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10030",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 9.0,
+            "reviewCount": 12,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.8189743,-73.9400464&sensor=false&center=40.8189743,-73.9400464&client=gme-booking&channel=booking-frontend&signature=KyubShq0Fk4yFv8h26TuHuigMdU="
+    }
+]

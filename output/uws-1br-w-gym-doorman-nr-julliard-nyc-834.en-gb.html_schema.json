@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-gym-doorman-nr-julliard-nyc-834.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/450223768.jpg?k=f9ecb8e1689295580c0c63cb0abe4cef555356ac9b115f3779d94457880d50f6&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10069, United States",
+            "postalCode": "10069",
+            "addressRegion": "New York State"
+        },
+        "name": "UWS 1BR w Gym Doorman nr Julliard NYC-834",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7775972,-73.9884665&markers=color:blue%7c40.7775972,-73.9884665&zoom=15&client=gme-booking&channel=booking-frontend&signature=wbUPMdSUB1Iuv48PPKkw2dRifpo=",
+        "priceRange": null,
+        "description": "Offering city views, UWS 1BR w Gym Doorman nr Julliard NYC-834 is an accommodation situated in New York, 1.5 km from Strawberry Fields and 1."
+    }
+]

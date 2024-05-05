@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7898636,-73.9487305&markers=color:blue%7c40.7898636,-73.9487305&client=gme-booking&channel=booking-frontend&signature=knJMeL4DbQVGQIZOlh0QC2ZgbhQ=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3315 per night (We Price Match)",
+        "description": "Situated in New York, 3.4 km from Columbia University and 3.",
+        "name": "102-2A Specious 2BR Best Value Near Cntrl Park",
+        "url": "https://www.booking.com/hotel/us/102-2a-specious-2br-best-value-near-cntrl-park.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "122 East 102nd Street, East Harlem, New York, 10029, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "122 East 102nd Street",
+            "postalCode": "10029",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532729427.jpg?k=d07fa939e8978f831708679c4a63bf69cd653348f51a2f169d0e61df1fdfbc13&o=&hp=1"
+    }
+]

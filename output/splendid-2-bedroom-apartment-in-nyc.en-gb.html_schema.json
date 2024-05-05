@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7679852,-73.9828046&center=40.7679852,-73.9828046&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=T_fwfPEYH_Frp2MB40NFhky3zhE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520543926.jpg?k=4665c88b1f2be9e4d71a2477358d1a7e495f2bd3e5f242aa46db5b8cc3bdf8bb&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/splendid-2-bedroom-apartment-in-nyc.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "streetAddress": "991 8th Avenue, Upper West Side, New York, NY 10019, United States",
+            "addressLocality": "991 8th Avenue",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "Splendid 2 Bedroom apartment in NYC!",
+        "description": "Located in a central area of New York, 500 metres from Carnegie Hall, Splendid 2 Bedroom apartment in NYC!",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3612 per night (We Price Match)"
+    }
+]

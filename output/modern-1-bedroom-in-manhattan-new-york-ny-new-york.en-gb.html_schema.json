@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "1908 3rd Avenue, East Harlem, New York, NY 10029, United States",
+            "addressCountry": "USA",
+            "addressLocality": "1908 3rd Avenue",
+            "postalCode": "NY 10029"
+        },
+        "url": "https://www.booking.com/hotel/us/modern-1-bedroom-in-manhattan-new-york-ny-new-york.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3131 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/510149341.jpg?k=96790abb66829ad50e98a619f339dbedea97d5ae42023516074426917c7d8f48&o=&hp=1",
+        "description": "Modern 1-bedroom in Manhattan-New York, NY in New York features accommodation with free WiFi, 2.6 km from Metropolitan Museum of Art, 3.",
+        "name": "Modern 1-bedroom in Manhattan-New York, NY",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7915931,-73.9446999&sensor=false&center=40.7915931,-73.9446999&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=4uiBVfPG8RJYF4pbc9hYtV_uAaw="
+    }
+]

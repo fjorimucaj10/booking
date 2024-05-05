@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10018",
+            "addressLocality": "273 West 38th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "273 West 38th Street, New York, NY 10018, United States"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 597,
+            "ratingValue": 6.7
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3134 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7546399,-73.9911637&zoom=15&sensor=false&markers=color:blue%7c40.7546399,-73.9911637&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=EIhivQ_IjQa_lzLuaIiE7Migyzo=",
+        "description": "Doxie Hotel is just a 4 minutes' walk from the 34th Street-Penn Station subway and the Port Authority Bus Terminal.",
+        "url": "https://www.booking.com/hotel/us/manhattan-broadway.en-gb.html",
+        "@type": "Hotel",
+        "name": "Doxie Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/223783060.jpg?k=17cbbb49c43f2beabee1d8c82f7c5b80d3dc476179b37347d5d83c4abefb255e&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

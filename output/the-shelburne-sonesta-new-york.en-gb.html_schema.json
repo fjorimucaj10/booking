@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.9,
+            "reviewCount": 1642
+        },
+        "@type": "Hotel",
+        "description": "This East Side hotel, in Manhattan's Murray Hill neighborhood, is 483 metres from Grand Central Station. The hotel features a fitness centre.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/204973403.jpg?k=985c03664ac96988b6d503063ee3d828e0bd087a637e141e3d7d0927cac1c742&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3232 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-shelburne-sonesta-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7484320,-73.9777772&sensor=false&markers=color:blue%7c40.7484320,-73.9777772&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=MXDw5NVdpAfhsYFlgaVa_INomFg=",
+        "name": "The Shelburne Sonesta New York",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016",
+            "addressLocality": "303 Lexington Avenue",
+            "addressRegion": "New York State",
+            "streetAddress": "303 Lexington Avenue, Murray Hill, New York, NY 10016, United States"
+        }
+    }
+]

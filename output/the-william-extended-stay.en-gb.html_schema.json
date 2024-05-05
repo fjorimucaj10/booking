@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/408972106.jpg?k=2441346a2e6dda506d27e98045a395b93d02cebf9a26bd572765141b775499db&o=&hp=1",
+        "description": "This modern and elegant design hotel offers self-catering accommodation with free Wi-Fi and panoramic views of New York City.",
+        "url": "https://www.booking.com/hotel/us/the-william-extended-stay.en-gb.html",
+        "name": "The William powered by Sonder",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7505207,-73.9802179&zoom=15&size=1600x1200&center=40.7505207,-73.9802179&client=gme-booking&channel=booking-frontend&signature=GzrWyxGLKXWkn-6omvqVO9pQJpo=",
+        "priceRange": "Prices for upcoming dates start at \u00a3241 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "reviewCount": 388
+        },
+        "address": {
+            "postalCode": "NY 10016",
+            "@type": "PostalAddress",
+            "addressLocality": "24 East 39th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "24 East 39th Street, Murray Hill, New York, NY 10016, United States"
+        }
+    }
+]

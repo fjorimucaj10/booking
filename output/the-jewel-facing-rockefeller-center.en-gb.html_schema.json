@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "11 West 51 Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressLocality": "11 West 51 Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/289774271.jpg?k=dd8d7dc1eb80565bc36dd8d9ea23c5ca3755a59feb54ffcbd7f6fa3595f210ab&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 2887,
+            "ratingValue": 8.6,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3211 per night (We Price Match)",
+        "description": "Featuring an on-site gym, this Midtown Manhattan hotel is across from Rockefeller Center and NBC Studios.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7597568,-73.9779237&zoom=15&markers=color:blue%7c40.7597568,-73.9779237&client=gme-booking&channel=booking-frontend&signature=ImbHE09fWEcVGkKecMBScKzpwCM=",
+        "name": "The Jewel Hotel, New York",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-jewel-facing-rockefeller-center.en-gb.html"
+    }
+]

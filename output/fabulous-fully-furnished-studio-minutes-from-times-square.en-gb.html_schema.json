@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/172540827.jpg?k=b2465d95053e587fa108c5f92da2b1bf84e53dcf293d9964a2bef901dcbd5ecc&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/fabulous-fully-furnished-studio-minutes-from-times-square.en-gb.html",
+        "priceRange": null,
+        "address": {
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "517 Manhattan Avenue #4, Harlem, New York, NY 10027, United States",
+            "addressLocality": "517 Manhattan Avenue #4"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 15,
+            "bestRating": 10,
+            "ratingValue": 9.3
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.8086300,-73.9545500&size=1600x1200&zoom=15&center=40.8086300,-73.9545500&client=gme-booking&channel=booking-frontend&signature=BkkL-AF2qljqH5A0I8wsgvB-cFM=",
+        "description": "Located in New York, 1 km from Columbia University and 4.1 km from Metropolitan Museum of Art, Fabulous Fully Furnished Studio Minutes From Times Square!",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Fabulous Fully Furnished Studio Minutes From Times Square!"
+    }
+]

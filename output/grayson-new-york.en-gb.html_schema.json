@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/grayson-new-york.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524193052.jpg?k=678d8cd7590fb49a9477c477cb80ffe6c4d896e59294f932040e0add3378f42c&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.3,
+            "bestRating": 10,
+            "reviewCount": 574
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7520000,-73.9838700&sensor=false&zoom=15&size=1600x1200&center=40.7520000,-73.9838700&client=gme-booking&channel=booking-frontend&signature=5Avg891aOXqvI9C-PzryOtQBFgQ=",
+        "description": "Attractively set in the centre of New York, Grayson Hotel features air-conditioned rooms, a fitness centre, free WiFi and a terrace.",
+        "name": "Grayson Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3263 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressLocality": "30 W 39th Street",
+            "streetAddress": "30 W 39th Street, New York, NY 10018, United States",
+            "addressRegion": "New York State"
+        }
+    }
+]

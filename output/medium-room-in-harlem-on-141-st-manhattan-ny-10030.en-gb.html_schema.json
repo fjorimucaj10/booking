@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "description": "Set in New York, the recently renovated NYJungle room with shared bathroom offers accommodation 2.4 km from Yankee Stadium and 3.",
+        "url": "https://www.booking.com/hotel/us/medium-room-in-harlem-on-141-st-manhattan-ny-10030.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8189743,-73.9400464&size=1600x1200&zoom=15&sensor=false&center=40.8189743,-73.9400464&client=gme-booking&channel=booking-frontend&signature=rCTVcUZwvAIvRQcHGZnPuHBGfg4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454891670.jpg?k=7fad7e9c0b5c34907759bb9b76a99a63992aefeb8d617f842e506235630aa58c&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10030",
+            "streetAddress": "137 West 141st Street, Harlem, New York, NY 10030, United States",
+            "addressLocality": "137 West 141st Street",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "reviewCount": 13,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "NYJungle room with shared bathroom"
+    }
+]

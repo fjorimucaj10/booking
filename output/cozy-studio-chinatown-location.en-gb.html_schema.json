@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3329 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/cozy-studio-chinatown-location.en-gb.html",
+        "address": {
+            "postalCode": "NY 10012",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "201 Mulberry Street",
+            "addressCountry": "USA",
+            "streetAddress": "201 Mulberry Street, SoHo, New York, NY 10012, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490517659.jpg?k=1562d682e17ea3809b119f174619652300471a48fa0392a7f89d45df4e1fd2d6&o=&hp=1",
+        "description": "Cozy Studio Chinatown! Location! is situated in the SoHo district of New York, 400 metres from Bloomingdales, 1.1 km from NYU - New York University and 2.",
+        "@type": "Hotel",
+        "name": "Cozy Studio Chinatown! Location!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7215521,-73.9967131&zoom=15&size=1600x1200&center=40.7215521,-73.9967131&sensor=false&client=gme-booking&channel=booking-frontend&signature=0hGjBeBMjRAw5nK7Vy4L5vY7YsQ="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7604361,-73.9685230&zoom=15&sensor=false&markers=color:blue%7c40.7604361,-73.9685230&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=xsgS18APhesTOVIqIdlOEOWIYto=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/441461078.jpg?k=c04cc6c907b723044d056431b3b08af51205417e91c33055f71789ddf62c0a6b&o=&hp=1",
+        "name": "Sutton Place 1BR w Gym Pool DM nr Central Pk NYC-463",
+        "url": "https://www.booking.com/hotel/us/sutton-place-1br-w-gym-pool-dm-nr-central-pk-nyc-463.en-gb.html",
+        "description": "Set in the centre of New York, less than 1 km from St Patrick's Cathedral and a 13-minute walk from Rockefeller Center, Sutton Place 1BR w Gym Pool DM nr...",
+        "priceRange": null,
+        "address": {
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "Midtown East, New York, 10022, United States",
+            "postalCode": "10022",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

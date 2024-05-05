@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/313379033.jpg?k=4811204ec30b9b947a9beb87f5e165410a9795664909581a163ee12063e60790&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7325439,-73.9860561&zoom=15&center=40.7325439,-73.9860561&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=oBihj5M7XIxLyjZsGOO4W55b2rs=",
+        "name": "4 Bedroom NYC Apartment",
+        "url": "https://www.booking.com/hotel/us/2000-sq-ft-luxury-4bd-union-square-apartment.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 7,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "East 14th Street",
+            "addressRegion": "New York State",
+            "postalCode": "10003",
+            "streetAddress": "East 14th Street, East Village, New York, 10003, United States",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "4 Bedroom NYC Apartment is set in the East Village district of New York, 1.3 km from NYU - New York University, 1.8 km from Bloomingdales and 1.",
+        "priceRange": "Prices for upcoming dates start at \u00a3812 per night (We Price Match)"
+    }
+]

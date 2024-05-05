@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "description": "Ideally set in the centre of New York, Stylish 1BD near Bryant Park with Washer and Dryer offers a balcony, air conditioning, free WiFi and TV.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "70 West 45th Street",
+            "addressCountry": "USA",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/stylish-1bd-near-bryant-park-with-washer-and-dryer.en-gb.html",
+        "name": "Stylish 1BD near Bryant Park with Washer and Dryer",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475005168.jpg?k=e5830d94e51bbacf7f61afc59b16da7f93c7277ff7c0648fd575da285427732c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7563378,-73.9822170&markers=color:blue%7c40.7563378,-73.9822170&sensor=false&client=gme-booking&channel=booking-frontend&signature=ghKG_ZigegGoNKc3jld89KD8Xnk="
+    }
+]

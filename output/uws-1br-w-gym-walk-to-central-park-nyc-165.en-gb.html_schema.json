@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "UWS 1BR w Gym Walk to Central Park NYC-165 is located in the Upper West Side district of New York, 2.3 km from Lincoln Center, 2.",
+        "name": "UWS 1BR w Gym Walk to Central Park NYC-165",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7896900,-73.9744000&sensor=false&zoom=15&markers=color:blue%7c40.7896900,-73.9744000&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=6ln7b7Zs7tLofuJlh31dojHh1ks=",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-gym-walk-to-central-park-nyc-165.en-gb.html",
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "postalCode": "10024",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10024, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454668295.jpg?k=6b6e72f4fc6b0aaaf16f5ae9c8426c90774e7b4f13398710fdd3c6e74d481b30&o=&hp=1"
+    }
+]

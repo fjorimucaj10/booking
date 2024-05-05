@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505878532.jpg?k=150d97d95decb8fa57fd556ad46d5d6a0f1247d2155dbd7e9b586f8b054383b7&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "New Prime Gramercy Subway W D in unit",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "East 24th Street 241",
+            "streetAddress": "East 24th Street 241, Gramercy, New York, 10010, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10010"
+        },
+        "description": "Situated in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, New Prime Gramercy Subway W D in unit offers...",
+        "url": "https://www.booking.com/hotel/us/new-prime-gramercy-subway-w-d-in-unit.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7389101,-73.9808275&zoom=15&center=40.7389101,-73.9808275&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=wSyPv1N9Sw6dcDuT3D8TafIn-2E=",
+        "@type": "Hotel"
+    }
+]

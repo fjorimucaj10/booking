@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "@type": "AggregateRating",
+            "reviewCount": 3941,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/27970519.jpg?k=e56432adeabd4a215cf02448d8441644c9da1e6c95c197560ff4827062f82d8d&o=&hp=1",
+        "description": "Located less than 1 km from Penn Station, Leo House features a dining room, garden and free WiFi throughout the property.",
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7457037,-73.9997663&markers=color:blue%7c40.7457037,-73.9997663&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=rqFBO1oDs2u7sEcxf7M-0nKp2GM=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/leo-house.en-gb.html",
+        "name": "Leo House",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "332 West 23rd Street",
+            "@type": "PostalAddress",
+            "streetAddress": "332 West 23rd Street, Chelsea, New York, NY 10011, United States"
+        },
+        "@type": "Hotel"
+    }
+]

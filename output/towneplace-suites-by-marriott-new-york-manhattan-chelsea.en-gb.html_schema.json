@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/453296376.jpg?k=6b418b6dd678c8aa02e1361e2540fc6c670489f7a6bbf5aae62b3dc59b5014f4&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.1,
+            "reviewCount": 5889
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "140 West 28th Street, Chelsea, New York, NY 10001, United States",
+            "addressLocality": "140 West 28th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA"
+        },
+        "name": "TownePlace Suites by Marriott New York Manhattan/Chelsea",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7467900,-73.9924100&zoom=15&size=1600x1200&center=40.7467900,-73.9924100&client=gme-booking&channel=booking-frontend&signature=5A3oGk8rFUFXIOe_bouJwAa1ia0=",
+        "@type": "Hotel",
+        "description": "Featuring 4-star accommodation, TownePlace Suites by Marriott New York Manhattan/Chelsea is situated in New York, 600 metres from Madison Square Garden and...",
+        "url": "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-new-york-manhattan-chelsea.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3172 per night (We Price Match)"
+    }
+]

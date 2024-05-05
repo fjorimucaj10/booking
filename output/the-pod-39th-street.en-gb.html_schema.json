@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 10997,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/227628314.jpg?k=97943a69cdb871b4a0063770f6dc9119c953dbddc663830f94f09e786d4bb54f&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/the-pod-39th-street.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3168 per night (We Price Match)",
+        "description": "Featuring a restaurant, a lounge and a seasonal rooftop bar, this hotel is 483 metres from Grand Central Terminal. All rooms are equipped with free WiFi.",
+        "address": {
+            "streetAddress": "145 East 39th Street, Murray Hill, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "addressLocality": "145 East 39th Street",
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7493092,-73.9766388&markers=color:blue%7c40.7493092,-73.9766388&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sp2N6q2Nf5YUnQY8MZEJBRlI2AE=",
+        "name": "Pod 39"
+    }
+]

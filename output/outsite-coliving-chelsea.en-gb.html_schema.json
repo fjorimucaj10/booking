@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/outsite-coliving-chelsea.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3212 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7449070,-73.9999710&center=40.7449070,-73.9999710&client=gme-booking&channel=booking-frontend&signature=Zs-xIxtL3g4Pz86XsTnmP2d-0Ns=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "318 West 22nd Street",
+            "streetAddress": "318 West 22nd Street, Chelsea, New York, NY 10011, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/426488568.jpg?k=82cb8d4eb8968e78657a114b2f7175723220ef3ba9d5316ff1643fee031de53e&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Set in New York, less than 1 km from Penn Station, Outsite Chelsea offers air-conditioned rooms and a shared lounge.",
+        "name": "Outsite Chelsea",
+        "aggregateRating": {
+            "reviewCount": 74,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4
+        }
+    }
+]

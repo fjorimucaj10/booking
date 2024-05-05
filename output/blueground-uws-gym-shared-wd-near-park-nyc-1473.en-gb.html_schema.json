@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/blueground-uws-gym-shared-wd-near-park-nyc-1473.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7911888,-73.9737101&sensor=false&center=40.7911888,-73.9737101&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=NKShXiILuJ7lNqt9suIoCtiY5gQ=",
+        "address": {
+            "postalCode": "10024",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "@type": "Hotel",
+        "description": "Offering city views, Blueground UWS gym shared wd near park NYC-1473 is an accommodation located in New York, 2.2 km from Metropolitan Museum of Art and 2.",
+        "name": "Blueground UWS gym shared wd near park NYC-1473",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550286657.jpg?k=49a05eeec462ce746fe0fa43b97052313b895fea985d2a412e092dc8895804ae&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

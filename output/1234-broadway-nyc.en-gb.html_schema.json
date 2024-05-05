@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/435590894.jpg?k=d8c3d5f0ef570b815ef0f197bb6064948b7215b8a9794e4285ab179f664b6a71&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7472082,-73.9879451&zoom=15&markers=color:blue%7c40.7472082,-73.9879451&client=gme-booking&channel=booking-frontend&signature=Vo4kxboe6uYmCGPuA2PuQqgb3Jg=",
+        "name": "NYC Empire Apartments",
+        "description": "Offering city views, NYC Empire Apartments is an accommodation located in New York, 800 metres from Penn Station and 500 metres from Macy's.",
+        "priceRange": "Prices for upcoming dates start at \u00a3259 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressLocality": "38 West 31st Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "reviewCount": 697,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/1234-broadway-nyc.en-gb.html"
+    }
+]

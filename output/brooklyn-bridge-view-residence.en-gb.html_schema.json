@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "15 Cliff Street 17a, New York, NY 10038, United States",
+            "postalCode": "NY 10038",
+            "@type": "PostalAddress",
+            "addressLocality": "15 Cliff Street 17a",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520141486.jpg?k=95869e3e1f8b898e9d04c2eb4816f7cc35fba74eb4654661422ef875dea1236a&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7084008,-74.0056138&center=40.7084008,-74.0056138&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=N7gQuY6z7a6lGhWwDAAIez5Yan8=",
+        "description": "Set in New York, less than 1 km from National September 11 Memorial & Museum and a 12-minute walk from One World Trade Center, Brooklyn bridge view...",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/brooklyn-bridge-view-residence.en-gb.html",
+        "name": "Brooklyn bridge view residence",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

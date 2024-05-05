@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/stunning-2-bed-2-ba-at-ues.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3683 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506075314.jpg?k=0de7de6f99e635b781d8e480d5da5ba52a7dacf3f80f5a5115483b74e7803e17&o=&hp=1",
+        "name": "Stunning 2 BED 2 BA At UES",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7578881,-73.9645911&size=1600x1200&zoom=15&center=40.7578881,-73.9645911&sensor=false&client=gme-booking&channel=booking-frontend&signature=w1TfHhpo56jBOWT45a0GUctMZr0=",
+        "address": {
+            "addressLocality": "328 East 56th Street",
+            "streetAddress": "328 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022",
+            "addressCountry": "USA"
+        },
+        "description": "In a central area of New York, located within a short distance of St Patrick's Cathedral and Rockefeller Center, Stunning 2 BED 2 BA At UES offers free..."
+    }
+]

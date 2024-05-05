@@ -1,0 +1,20 @@
+[
+    {
+        "name": "75-1A NEW Prime UES W D in unit Elevator",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3419 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7707911,-73.9575008&size=1600x1200&zoom=15&center=40.7707911,-73.9575008&sensor=false&client=gme-booking&channel=booking-frontend&signature=LfL-F1Y-Qki_jP-goewI1dBk7co=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412822852.jpg?k=80c3dfc681a8a1ebacb081e3a101208a5c746384aa269cef5cc7dd0b4128d76a&o=&hp=1",
+        "description": "Set in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-1A NEW Prime UES W D in unit Elevator offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/75-1a-new-prime-ues-w-d-in-unit-elevator.en-gb.html",
+        "address": {
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10021",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "244 East 75th Street"
+        }
+    }
+]

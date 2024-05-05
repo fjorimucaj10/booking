@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 8.7,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 5588
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/404068964.jpg?k=dfcdef6f6d54aa6f88357ae8cc2de897cd2ac27ee694a462b1acce9d195611e0&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/arlo-midtown.en-gb.html",
+        "@type": "Hotel",
+        "name": "Arlo Midtown",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "351 West 38th Street, Hell's Kitchen, New York, 10018, United States",
+            "addressCountry": "USA",
+            "postalCode": "10018",
+            "addressLocality": "351 West 38th Street",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3221 per night (We Price Match)",
+        "description": "Arlo Midtown has free bikes, fitness centre, a shared lounge and terrace in New York.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7557630,-73.9938590&markers=color:blue%7c40.7557630,-73.9938590&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=zYWZPnfwJe-ryRnWTF5B7DLf6cA="
+    }
+]

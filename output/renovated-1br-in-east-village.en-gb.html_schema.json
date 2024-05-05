@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "name": "Renovated 1br in East Village",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7291336,-73.9836625&zoom=15&markers=color:blue%7c40.7291336,-73.9836625&client=gme-booking&channel=booking-frontend&signature=DfAisOgxnN2fLEySDpDCckNKYiw=",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "East 11th Street 402",
+            "@type": "PostalAddress",
+            "postalCode": "10009",
+            "streetAddress": "East 11th Street 402, East Village, New York, 10009, United States",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/528271888.jpg?k=bb6da76745153a68549cc040e3660e6bd7c6e614bb04e227884c73ec0cd2efdf&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/renovated-1br-in-east-village.en-gb.html",
+        "description": "Renovated 1br in East Village is located in the East Village district of New York, 1.9 km from Bloomingdales, 1.7 km from Flatiron Building and 2."
+    }
+]

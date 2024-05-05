@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "reviewCount": 1054
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3313 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/edition-the-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7591750,-73.9843170&center=40.7591750,-73.9843170&client=gme-booking&channel=booking-frontend&signature=OtXFAaJEXG-kpnC3Pk2RV8_fF28=",
+        "name": "The Times Square EDITION New York",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "20 Times Square, 701 7th Avenue at West 47th Street",
+            "streetAddress": "20 Times Square, 701 7th Avenue at West 47th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/513600884.jpg?k=0beb8883ac36c7179ab804e6499b058769951ac3ae22325d2dd2f22ff41ed23d&o=&hp=1",
+        "description": "The Times Square EDITION introduces the next generation of modern luxury."
+    }
+]

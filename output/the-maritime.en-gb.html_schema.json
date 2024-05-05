@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located in New York City\u2019s Chelsea neighborhood, this hotel is across from Chelsea Market and less than 1 km from Chelsea Piers.",
+        "name": "The Maritime Hotel",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-maritime.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/69912682.jpg?k=abd0c04d7bdf3772f0c4121137dd1a7e028438d59e4d429f52b613bd6c659ebd&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.7,
+            "reviewCount": 771,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7422082,-74.0039619&sensor=false&center=40.7422082,-74.0039619&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=iyhtIEZZFTArHLkOEIF35snoMak=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "363 West 16th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "363 West 16th Street, Chelsea, New York, NY 10011, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3221 per night (We Price Match)"
+    }
+]

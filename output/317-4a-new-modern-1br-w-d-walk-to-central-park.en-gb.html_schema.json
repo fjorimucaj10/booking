@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/317-4a-new-modern-1br-w-d-walk-to-central-park.en-gb.html",
+        "name": "317-4A NEW Modern 1BR W&D Walk to Central Park",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/464414495.jpg?k=fd44755f7a10c7fce7f6de118c92e90723d818a3259dabd90614952e754c8e33&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7724040,-73.9544678&size=1600x1200&sensor=false&center=40.7724040,-73.9544678&client=gme-booking&channel=booking-frontend&signature=AlN-VsvqHSLeWeT7qUyhKbveFkg=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.3 km from Metropolitan Museum of Art and 3 km from Strawberry Fields, 317-4A NEW Modern 1BR W&D Walk to Central Park offers air...",
+        "priceRange": "Prices for upcoming dates start at \u00a3412 per night (We Price Match)",
+        "address": {
+            "streetAddress": "East 78th Street 317, Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10075",
+            "addressCountry": "USA",
+            "addressLocality": "East 78th Street 317"
+        }
+    }
+]

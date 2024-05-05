@@ -1,0 +1,26 @@
+[
+    {
+        "name": "World Center Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 3787
+        },
+        "url": "https://www.booking.com/hotel/us/world-center.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10006",
+            "@type": "PostalAddress",
+            "streetAddress": "144 Washington Street, New York, NY 10006, United States",
+            "addressLocality": "144 Washington Street",
+            "addressRegion": "New York State"
+        },
+        "description": "This New York City hotel is opposite of Memorial Plaza and within 650 metres of Battery Park.",
+        "priceRange": "Prices for upcoming dates start at \u00a3178 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/81472122.jpg?k=1b5933dbafac3626ca110604d4b7a03ff4de69c8467c0480c5637fb72de2ea42&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7098144,-74.0138519&sensor=false&markers=color:blue%7c40.7098144,-74.0138519&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qw2S8OvEkTbK3po3Nwx-YFrWKfg="
+    }
+]

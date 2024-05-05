@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3977 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/3br-penthouse-with-massive-private-rooftop-new-york1.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501148612.jpg?k=a33c04ccc384e68336347cdb8dff6bf134d58cad80944d55d34c355c7a31797f&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10065",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "341 East 62nd Street, New York, New York, United States, Upper East Side, New York, 10065, United States",
+            "addressLocality": "341 East 62nd Street, New York, New York, United States"
+        },
+        "description": "Well set in the Upper East Side district of New York, 3BR Penthouse with Massive Private Rooftop is set 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7620386,-73.9614103&size=1600x1200&sensor=false&markers=color:blue%7c40.7620386,-73.9614103&zoom=15&client=gme-booking&channel=booking-frontend&signature=T0Y_GvTjAHgpFhe5JAuFOSKAlGg=",
+        "name": "3BR Penthouse with Massive Private Rooftop"
+    }
+]

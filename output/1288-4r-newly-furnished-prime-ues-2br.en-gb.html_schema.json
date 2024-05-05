@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7659072,-73.9569948&markers=color:blue%7c40.7659072,-73.9569948&sensor=false&client=gme-booking&channel=booking-frontend&signature=3Pem_J_RX6osVFBUtrBUNCUcw8c=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442453723.jpg?k=06d053feda058707deb519daa03f1a470d4f8674c73dc0504b87aed72f93fce0&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "streetAddress": "1st Avenue 1288, Upper East Side, New York, 10021, United States",
+            "addressLocality": "1st Avenue 1288",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "1288-4R Newly furnished Prime UES 2BR",
+        "priceRange": null,
+        "description": "Situated in New York, 2.3 km from Metropolitan Museum of Art and 2.",
+        "url": "https://www.booking.com/hotel/us/1288-4r-newly-furnished-prime-ues-2br.en-gb.html"
+    }
+]

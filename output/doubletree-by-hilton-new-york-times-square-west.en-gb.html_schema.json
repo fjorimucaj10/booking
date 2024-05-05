@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485684555.jpg?k=08a87034b69b4ed6fdcea57bd9c1d1d642cd680c9a369e7249da234514d95ec9&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7568016,-73.9930699&center=40.7568016,-73.9930699&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=wPsHy--QG1PZwuPwFrs9kZ3U5bs=",
+        "description": "The DoubleTree by Hilton Hotel New York \u2013 Times Square West is within 1.5 km of Times Square, The Empire State Building and Jacob Javits Convention Centre.",
+        "priceRange": "Prices for upcoming dates start at \u00a3165 per night (We Price Match)",
+        "name": "Doubletree By Hilton New York Times Square West",
+        "aggregateRating": {
+            "reviewCount": 14665,
+            "ratingValue": 7.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "350 West 40th Street",
+            "streetAddress": "350 West 40th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/doubletree-by-hilton-new-york-times-square-west.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

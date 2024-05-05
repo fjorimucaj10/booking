@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/62-2b-renovated-1br-in-prime-upper-east-side.en-gb.html",
+        "name": "62-2B Renovated 1BR in Prime Upper East Side",
+        "description": "Located in New York, 1.4 km from St Patrick's Cathedral and 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531752538.jpg?k=4876d8ec8b61381672e72f9d578c5fdd089e96c4153f825deaffe517f462b258&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7640038,-73.9662247&sensor=false&center=40.7640038,-73.9662247&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=Gx3EPejNsFQssHMjt-4q1kZZXv0=",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "151 East 62nd Street, Upper East Side, New York, 10065, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "151 East 62nd Street",
+            "postalCode": "10065"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3460 per night (We Price Match)"
+    }
+]

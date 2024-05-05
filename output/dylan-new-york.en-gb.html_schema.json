@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 7.8,
+            "@type": "AggregateRating",
+            "reviewCount": 2953,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/82038353.jpg?k=27e97b200656ea4d2137516f47634020cac6dff681c2c3a9451737910be4d47c&o=&hp=1",
+        "description": "In Midtown Manhattan, this 4-star hotel is one block from the Grand Central-42nd Street Subway Station and a 15-minute walk to Times Square.",
+        "priceRange": "Prices for upcoming dates start at \u00a3226 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/dylan-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "streetAddress": "52 East 41st Street, Murray Hill, New York, NY 10017, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "52 East 41st Street",
+            "addressRegion": "New York State"
+        },
+        "name": "Dylan Hotel NYC",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7517614,-73.9790361&center=40.7517614,-73.9790361&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=4RXeZt_YWF4Lu0kDtaoGzjCWbf8="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10038",
+            "addressRegion": "New York State",
+            "streetAddress": "24 John Street, New York, NY 10038, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "24 John Street"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/182925563.jpg?k=3d3773ea13f884880e681d05a244bde2c3ec9b62be7edd4b4ea4f5e1dac5e8d4&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7096726,-74.0086147&center=40.7096726,-74.0086147&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=X8FVyXtm1mLGaQNFqSOEB5RXARc=",
+        "name": "Artezen Hotel",
+        "description": "Set in New York, 1.2 km from National September 11 Memorial & Museum, Artezen Hotel has a fitness centre and rooms with free WiFi access. Located around 1.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/artezen.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3237 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "reviewCount": 1058,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-4B NEW Quality 1br W&D in unit SKYLIGHTS offers air conditioning.",
+        "name": "78-4B NEW Quality 1br W&D in unit SKYLIGHTS",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411305285.jpg?k=90cf8b575515c1dc46a48a3e25047993ab31ac5fff82fa4dd336aa3170a17567&o=&hp=1",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7724266,-73.9545517&center=40.7724266,-73.9545517&client=gme-booking&channel=booking-frontend&signature=7hh5ZlrXPKAhvwqLunURxrg1Jkg=",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10075",
+            "addressCountry": "USA",
+            "addressLocality": "315 East 78th Street",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/78-4b-new-quality-1br-w-d-in-unit-skylights.en-gb.html"
+    }
+]

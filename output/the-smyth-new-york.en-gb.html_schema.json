@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3378 per night (We Price Match)",
+        "name": "Smyth Tribeca",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10007",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "85 West Broadway, Tribeca, New York, NY 10007, United States",
+            "addressLocality": "85 West Broadway"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-smyth-new-york.en-gb.html",
+        "description": "City Hall Park is within a 5-minute walk from the hotel.",
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "reviewCount": 640,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7152102,-74.0091580&zoom=15&center=40.7152102,-74.0091580&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=-ZI99Sv718NR3L2mbb5OXXbRt28=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/353774080.jpg?k=29d001ead4e02458483a2326395c7f49590c64e94b10cb1ad446919f7c86fd2d&o=&hp=1"
+    }
+]

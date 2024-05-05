@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Midtown West 2br w gym roofdeck nr Hudson NYC-1395",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519148282.jpg?k=2aab13bc259d2182ee574aa75c8ff956cea56c64f36d06b073ec7ef6b4ec09a3&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/midtown-west-2br-w-gym-roofdeck-nr-hudson-nyc-1395.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7611640,-73.9977410&markers=color:blue%7c40.7611640,-73.9977410&zoom=15&client=gme-booking&channel=booking-frontend&signature=3V5U_aD3-IcAVCGK2wRL0sQQTsc=",
+        "description": "Set in the centre of New York, 600 metres from Jacob K. Javits Convention Center and 1.",
+        "address": {
+            "postalCode": "10036",
+            "addressLocality": "",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "priceRange": null
+    }
+]

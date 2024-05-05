@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3136 per night (We Price Match)",
+        "name": "Cozy Room at a shared Apartment East Village",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545281752.jpg?k=9a8ec5766c3bf1e91f187c25176568aa16ebb42713d02e48a9652a04fe42f061&o=&hp=1",
+        "address": {
+            "addressLocality": "307 East 14th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10003",
+            "streetAddress": "307 East 14th Street, East Village, New York, NY 10003, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/cozy-room-east-village.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.3 km from NYU - New York University and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7315778,-73.9848317&size=1600x1200&zoom=15&markers=color:blue%7c40.7315778,-73.9848317&sensor=false&client=gme-booking&channel=booking-frontend&signature=UO1zwEGHh-YVwrGXkyJ2wVPb7lI="
+    }
+]

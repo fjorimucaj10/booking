@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3223 per night (We Price Match)",
+        "name": "Romer Hell's Kitchen",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7631300,-73.9857250&markers=color:blue%7c40.7631300,-73.9857250&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=DOPPCDKgWuc0LZ2k5dJNDiNkFqQ=",
+        "aggregateRating": {
+            "reviewCount": 963,
+            "ratingValue": 8.7,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/492030917.jpg?k=c1f464007229821686ac6ca17ff2244cd4576f2b37b6345a3445ecaae823d744&o=&hp=1",
+        "address": {
+            "streetAddress": "851 8th Avenue, Hell's Kitchen, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "851 8th Avenue",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/romer-hell-39-s-kitchen.en-gb.html",
+        "description": "Located in New York, 300 metres from Broadway Theatre, Romer Hell's Kitchen provides accommodation with a fitness centre, private parking, a restaurant and...",
+        "@type": "Hotel"
+    }
+]

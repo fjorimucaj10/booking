@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/luxurious-3-br-2ba-beautifully-renovated-loft.en-gb.html",
+        "address": {
+            "addressLocality": "201 East 24th Street",
+            "streetAddress": "201 East 24th Street, Gramercy, New York, NY 10010, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10010",
+            "addressCountry": "USA"
+        },
+        "name": "Luxurious 3 BR/2BA Beautifully Renovated Loft",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498035978.jpg?k=25f0c083534ef7d51fbff3d1adce2f0e78cc43a99abce3f73d06a4a734990513&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "description": "Set in New York, 1.4 km from Empire State Building and 1.6 km from Chrysler Building, Luxurious 3 BR/2BA Beautifully Renovated Loft offers air...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7395368,-73.9822509&size=1600x1200&zoom=15&center=40.7395368,-73.9822509&client=gme-booking&channel=booking-frontend&signature=_QAyJYMsfwYHlAkvGQfqRMxzJaM="
+    }
+]

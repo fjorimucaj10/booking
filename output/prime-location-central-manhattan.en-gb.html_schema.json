@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Situated in the centre of New York, less than 1 km from St Patrick's Cathedral and a 11-minute walk from Rockefeller Center, Prime Location- Central...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7562102,-73.9680208&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7562102,-73.9680208&client=gme-booking&channel=booking-frontend&signature=mhXtO0RswnWASSFZUU6gBf0H6Gw=",
+        "name": "Prime Location- Central Manhattan",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "252 East 52nd Street, Midtown East, New York, NY 10022, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "addressLocality": "252 East 52nd Street"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/prime-location-central-manhattan.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 3.0,
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "bestRating": 10
+        },
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/515160423.jpg?k=ded7dadc385e70a2600c4e2824dde7f3cf450b26cb499406dc6af5748d79ffa0&o=&hp=1"
+    }
+]

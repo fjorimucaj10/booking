@@ -1,26 +1,26 @@
 [
     {
-        "url": "https://www.booking.com/hotel/de/landhotel-bohrerhof.de.html",
-        "@type": "Hotel",
+        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0175 pro Nacht (Wir bieten den gleichen Preis) ",
         "description": "Die Unterkunft Landhotel Bohrerhof, die in Feldkirch, 22 km von Messe Freiburg entfernt gelegen ist, verf\u00fcgt \u00fcber \u00dcbernachtungsm\u00f6glichkeiten mit einem...",
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431494605.jpg?k=ea88a98579c0537822663f4fdc1ab0121997bf710dcd9ad7b6b601a618bdea11&o=&hp=1",
-        "aggregateRating": {
-            "ratingValue": 9.3,
-            "reviewCount": 1217,
-            "@type": "AggregateRating",
-            "bestRating": 10
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "79258",
+            "addressRegion": "Baden-W\u00fcrttemberg",
+            "addressLocality": "Zum Bohrerhof 1",
+            "@type": "PostalAddress",
+            "streetAddress": "Zum Bohrerhof 1, 79258 Feldkirch, Deutschland",
+            "addressCountry": "Deutschland"
         },
         "name": "Landhotel Bohrerhof",
-        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=47.9374390,7.6446630&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c47.9374390,7.6446630&client=gme-booking&channel=booking-frontend&signature=dG-FIiRm4Dm0pX73as08rwOnCHM=",
-        "address": {
-            "@type": "PostalAddress",
-            "addressCountry": "Deutschland",
-            "addressRegion": "Baden-W\u00fcrttemberg",
-            "streetAddress": "Zum Bohrerhof 1, 79258 Feldkirch, Deutschland",
-            "addressLocality": "Zum Bohrerhof 1",
-            "postalCode": "79258"
-        },
-        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a0162 pro Nacht (Wir bieten den gleichen Preis) ",
-        "@context": "http://schema.org"
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431494605.jpg?k=ea88a98579c0537822663f4fdc1ab0121997bf710dcd9ad7b6b601a618bdea11&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=47.9374390,7.6446630&markers=color:blue%7c47.9374390,7.6446630&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=IttE87gkOPkk8RQ_-_uXMKQY9VI=",
+        "url": "https://www.booking.com/hotel/de/landhotel-bohrerhof.de.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1230,
+            "bestRating": 10,
+            "ratingValue": 9.3
+        }
     }
 ]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7303304,-73.9880526&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7303304,-73.9880526&client=gme-booking&channel=booking-frontend&signature=U6_qiDSPPQ7ewotRjQPAUZp14pQ=",
+        "aggregateRating": {
+            "ratingValue": 7.4,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 5
+        },
+        "description": "Featuring free WiFi throughout the property, Park Ave Apartments Mid Town is located in New York, 700 metres from Empire State Building.",
+        "url": "https://www.booking.com/hotel/us/park-ave-apartments-mid-town.en-gb.html",
+        "@type": "Hotel",
+        "name": "Park Ave Apartments Midtown Next to Times Square",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/407671262.jpg?k=dfd1a4f4c7ff5e7763a7419afb4f13565f51e626b4225be45f0e421c9c7027e5&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3398 per night (We Price Match)",
+        "address": {
+            "postalCode": "10003",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "streetAddress": "East Village, New York, 10003, United States"
+        }
+    }
+]

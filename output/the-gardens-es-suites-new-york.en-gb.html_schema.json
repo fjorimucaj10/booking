@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "215 E. 64th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10065",
+            "addressCountry": "USA",
+            "streetAddress": "215 E. 64th Street, Upper East Side, New York, NY 10065, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3431 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-gardens-es-suites-new-york.en-gb.html",
+        "name": "The Gardens Sonesta ES Suites New York",
+        "aggregateRating": {
+            "reviewCount": 758,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.2
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7643624,-73.9632896&center=40.7643624,-73.9632896&client=gme-booking&channel=booking-frontend&signature=j2wPZv0rIyavfHY7Kx6vuhI5zkg=",
+        "@context": "http://schema.org",
+        "description": "This Upper East Side, Manhattan design hotel is within 1 km of Central Park.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/196254857.jpg?k=3d08e6c7e33f91b950aafddf8ca498d45aa025040cdbb475619236223094735d&o=&hp=1"
+    }
+]

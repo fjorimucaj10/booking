@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "1st Avenue 1290",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "streetAddress": "1st Avenue 1290, Upper East Side, New York, 10021, United States"
+        },
+        "name": "1290-13 Newly Renovated 2 Bedrooms in UES",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7660428,-73.9570781&markers=color:blue%7c40.7660428,-73.9570781&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=I82_26-tSULd9ggdaS2MZvGy6us=",
+        "description": "1290-13 Newly Renovated 2 Bedrooms in UES is situated in the Upper East Side district of New York, 2.3 km from Metropolitan Museum of Art, 3.",
+        "url": "https://www.booking.com/hotel/us/1290-13-newly-renovated-2-bedrooms-in-ues.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500703590.jpg?k=6b2c1472d5bfeebf10ded627c26f1bd3aecfd5027f63b183ccbd5fc40306ede1&o=&hp=1",
+        "priceRange": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3406 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542668249.jpg?k=bd94a6ad26dcd73b8eea4af52246334e28bdb75834687e69d0e1ef535932d579&o=&hp=1",
+        "name": "Furnished Comfy Studio in Kips Bay!",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "34 East 32nd Street, New York, NY 10016, United States",
+            "addressLocality": "34 East 32nd Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7460146,-73.9833113&size=1600x1200&zoom=15&markers=color:blue%7c40.7460146,-73.9833113&client=gme-booking&channel=booking-frontend&signature=QQd1MeRrTcLVibNnH2OFOFZhYOg=",
+        "description": "Located in New York, less than 1 km from Grand Central Station and a 9-minute walk from Macy's, Furnished Comfy Studio in Kips Bay! offers air...",
+        "url": "https://www.booking.com/hotel/us/furnished-comfy-studio-in-kips-bay.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/187492902.jpg?k=3b9b6db96331059438a902a3287bcc4e5d5bfa1cfde2e0fcc68f636f0596cd29&o=&hp=1",
+        "description": "INNSIDE New York NoMad is located 644 metres from Madison Square Park and less than 1 km from the Empire State Building.",
+        "name": "INNSiDE by Meli\u00e1 New York Nomad",
+        "priceRange": "Prices for upcoming dates start at \u00a3211 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/innside-by-melia-newyork-nomad.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "bestRating": 10,
+            "reviewCount": 975,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7459827,-73.9925692&markers=color:blue%7c40.7459827,-73.9925692&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=A9FpkL60I4XQ1-n0XqHrnGC_ImA=",
+        "address": {
+            "addressLocality": "132 West 27th Street",
+            "postalCode": "NY 10001",
+            "streetAddress": "132 West 27th Street, Chelsea, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        }
+    }
+]

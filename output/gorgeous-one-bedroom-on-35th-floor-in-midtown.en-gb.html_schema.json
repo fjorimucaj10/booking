@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/gorgeous-one-bedroom-on-35th-floor-in-midtown.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3411 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Located in the centre of New York, 500 metres from Radio City Music Hall, Gorgeous One-Bedroom on 35th floor in Midtown provides air-conditioned...",
+        "address": {
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "70 West 45th Street",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7563378,-73.9822170&markers=color:blue%7c40.7563378,-73.9822170&client=gme-booking&channel=booking-frontend&signature=bcZ9W7AdC1iTuwOiVJO67Qe-QQ8=",
+        "name": "Gorgeous One-Bedroom on 35th floor in Midtown",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475010915.jpg?k=d401901ca67dfbce58c3c90283a0ebeb275af06c003ba5e4ee3767686cca8e1d&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7629644,-73.9920309&zoom=15&markers=color:blue%7c40.7629644,-73.9920309&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=aZn-CYBiEhDADy-bk3mHHKPcW9Q=",
+        "priceRange": null,
+        "description": "Set in New York, 1 km from Broadway Theatre and 1.4 km from Carnegie Hall, 444-3E Contemporary 1BR in Hell's Kitchen offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/472318550.jpg?k=5f652860b9086065f476ddbda40cc2ac7a690ef2075676a4300a4c96e3d1726a&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/444-3e-contemporary-1br-in-hells-kitchen.en-gb.html",
+        "name": "444-3E Contemporary 1BR in Hell's Kitchen",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "streetAddress": "West 48th Street 444, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "West 48th Street 444",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7613110,-73.9859207&center=40.7613110,-73.9859207&client=gme-booking&channel=booking-frontend&signature=P2EHC812a4Top6WMUnLT6JyUATo=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 552,
+            "ratingValue": 8.6
+        },
+        "url": "https://www.booking.com/hotel/us/mayfair-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/516314896.jpg?k=2eec047428b1a786e9e64e8d97b1883e54590d505501674b04d6c08f324031d9&o=&hp=1",
+        "name": "The Historic Mayfair Hotel Times Square, Ascend Hotel Collection",
+        "description": "The newly renovated Historic Mayfair Hotel in the NYC Theater District Located in the heart of Manhattan\u2019s Theater District and just a short walk from...",
+        "priceRange": "Prices for upcoming dates start at \u00a3133 per night (We Price Match)",
+        "address": {
+            "addressLocality": "242 West 49th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "242 West 49th Street, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019"
+        },
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Solita Soho Hotel",
+        "address": {
+            "addressLocality": "159 Grand Street",
+            "addressCountry": "USA",
+            "streetAddress": "159 Grand Street, Little Italy, New York, NY 10013, United States",
+            "postalCode": "NY 10013",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/solita-soho-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3184 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.7,
+            "bestRating": 10,
+            "reviewCount": 1116
+        },
+        "@type": "Hotel",
+        "description": "Situated within 400 metres of Bloomingdales and 1.4 km of NYU - New York University, Solita Soho Hotel features rooms with air conditioning and a private...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/265010568.jpg?k=4d0c3c33cbfde6ee8d73aa25c3f7db1de012b37f49b3f64ccf9ec0db16e404b3&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7198050,-73.9989460&center=40.7198050,-73.9989460&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=vYmVyxzcTrWCKEPmAPs0qnU6sGM="
+    }
+]

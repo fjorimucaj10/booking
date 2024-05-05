@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Aliz Hotel Times Square",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7561230,-73.9917410&center=40.7561230,-73.9917410&client=gme-booking&channel=booking-frontend&signature=yt8mkFIxD03-okgfSUhKLFOTG5I=",
+        "priceRange": "Prices for upcoming dates start at \u00a3180 per night (We Price Match)",
+        "address": {
+            "addressLocality": "310 West 40th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "streetAddress": "310 West 40th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/165926360.jpg?k=4e14213358d83e3ab5dacbcfad5965eb8312473e01ae05d2a008c4b03fc96e3c&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "reviewCount": 5371
+        },
+        "url": "https://www.booking.com/hotel/us/the-aliz-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Offering free WiFi and a two-story rooftop bar and lounge with views of the Manhattan skyline."
+    }
+]

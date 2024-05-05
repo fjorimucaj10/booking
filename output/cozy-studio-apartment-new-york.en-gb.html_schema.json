@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Cozy Studio Apartment in New York offers accommodation with free WiFi, 1 km from Rockefeller Center, 1 km from Carnegie Hall and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7608460,-73.9697100&zoom=15&size=1600x1200&markers=color:blue%7c40.7608460,-73.9697100&client=gme-booking&channel=booking-frontend&signature=QxLELs8fYSpSyHkAPISuwD44frk=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10022",
+            "@type": "PostalAddress",
+            "addressLocality": "128 East 57th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "128 East 57th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3459 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506221644.jpg?k=e2c08761bd531edb69485f3e8f9a7e00e9423a9445e228d01860cf01708b0fd6&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/cozy-studio-apartment-new-york.en-gb.html",
+        "name": "Cozy Studio Apartment"
+    }
+]

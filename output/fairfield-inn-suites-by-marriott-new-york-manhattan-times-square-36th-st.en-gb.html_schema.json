@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Times Square South",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461629300.jpg?k=e9ff14ac9f2424a8de2b90bb99f073ebf04387099430181f67bac5d7b7d4ea4c&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-suites-by-marriott-new-york-manhattan-times-square-36th-st.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "338 West 36th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressLocality": "338 West 36th Street"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7540110,-73.9939720&size=1600x1200&center=40.7540110,-73.9939720&client=gme-booking&channel=booking-frontend&signature=AWXMhFCg3S4r469ftT8rwNLiVeM=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3141 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 6757
+        },
+        "description": "Attractively set in the Hell's Kitchen district of New York, Fairfield Inn & Suites by Marriott New York Manhattan/Times Square South is situated 600..."
+    }
+]

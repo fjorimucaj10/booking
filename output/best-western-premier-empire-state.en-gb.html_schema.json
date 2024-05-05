@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Best Western Premier Empire State Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3135 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressLocality": "16 E 30th St",
+            "streetAddress": "16 E 30th St, NoMad, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/best-western-premier-empire-state.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/354597395.jpg?k=67fe55da030153d6d534e819dfe5b86a995758f05cb44c28e0d878365a833a8c&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "@type": "AggregateRating",
+            "reviewCount": 1377,
+            "bestRating": 10
+        },
+        "description": "In a prime location in the NoMad district of New York, Best Western Premier Empire State Hotel is located 400 metres from Empire State Building, 800 metres...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7454110,-73.9854890&sensor=false&zoom=15&size=1600x1200&center=40.7454110,-73.9854890&client=gme-booking&channel=booking-frontend&signature=9vuy6Bz9UZ-E7iX52bJ-20cRwrc="
+    }
+]

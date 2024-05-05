@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "149 East 62nd Street",
+            "postalCode": "10065",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "149 East 62nd Street, Upper East Side, New York, 10065, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "Set in New York, 1.3 km from Central Park and 1.4 km from St Patrick's Cathedral, 62-3A NEW Prime UES W D in unit Walk 2 C park offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3685 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/62-3a-new-prime-ues-w-d-in-unit-walk-2-c-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7639961,-73.9662628&markers=color:blue%7c40.7639961,-73.9662628&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=1XfwBeDzSv7y3nhbHQrrr-iLYbM=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534561368.jpg?k=c98c2cc7775f88fbddb12796992ff8ad7c769a9682abb742407948dd814eb0d8&o=&hp=1",
+        "name": "62-3A NEW Prime UES W D in unit Walk 2 C park",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

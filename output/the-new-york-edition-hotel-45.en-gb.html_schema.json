@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10010",
+            "@type": "PostalAddress",
+            "addressLocality": "5 Madison Avenue",
+            "streetAddress": "5 Madison Avenue, Flatiron District, New York, NY 10010, United States"
+        },
+        "@type": "Hotel",
+        "name": "The New York EDITION",
+        "priceRange": "Prices for upcoming dates start at \u00a3580 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-new-york-edition-hotel-45.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7411292,-73.9877709&markers=color:blue%7c40.7411292,-73.9877709&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=7i2iW9pdV4Nr_VxGj62C9_yjPs8=",
+        "description": "Located in the iconic landmark Metropolitan Life Clock Tower 22 metres from Madison Square Park, The The New York EDITION offers an award-winning...",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 77,
+            "ratingValue": 8.3
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442692694.jpg?k=241e1680536d41f2eabf48f1dd9186822ef980c0276a6f4b1ff23b2ffbeb5d02&o=&hp=1"
+    }
+]

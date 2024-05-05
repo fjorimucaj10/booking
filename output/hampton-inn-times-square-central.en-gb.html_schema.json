@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Offering a fitness centre, Hampton Inn Times Square Central is located in New York.",
+        "name": "Hampton Inn Times Square Central",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484673703.jpg?k=dcda7b183ad6da32e4803237a8b44b5c02a17168ff5a9de4b5d4ce631ce7004c&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3176 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7557502,-73.9885571&zoom=15&sensor=false&center=40.7557502,-73.9885571&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ivpCNer91oz5hMmARGdXdv-V2AY=",
+        "address": {
+            "addressLocality": "220 West 41st Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "streetAddress": "220 West 41st Street, New York, NY 10036, United States",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/hampton-inn-times-square-central.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 3055,
+            "ratingValue": 8.2,
+            "@type": "AggregateRating"
+        }
+    }
+]

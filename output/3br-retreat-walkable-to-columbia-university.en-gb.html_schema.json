@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/3br-retreat-walkable-to-columbia-university.en-gb.html",
+        "description": "3BR Retreat Walkable to Columbia University is located in the Harlem district of New York, 4 km from Metropolitan Museum of Art, 4 km from Strawberry...",
+        "name": "3BR Retreat Walkable to Columbia University",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.8065536,-73.9568022&markers=color:blue%7c40.8065536,-73.9568022&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qRFNWlVQ370X94Uc0XgM9fgIMLQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503671932.jpg?k=30464286720bb066e438bea251998916b23df64de6670f2d268c4e7a9254f76f&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "Harlem, New York, 10026, United States",
+            "postalCode": "10026",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": ""
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3549 per night (We Price Match)"
+    }
+]

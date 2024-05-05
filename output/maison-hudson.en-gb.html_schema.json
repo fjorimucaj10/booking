@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "401 West Street, Greenwich Village, New York, NY 10014, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "401 West Street",
+            "postalCode": "NY 10014",
+            "addressRegion": "New York State"
+        },
+        "description": "Set in New York, 1.7 km from The High Line, Maison Hudson features views of the river.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539979465.jpg?k=9911ad6ceccc7607f869faea3c7478f904f246013fa83fab6153cb973f1f1eea&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a32,026 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/maison-hudson.en-gb.html",
+        "name": "Maison Hudson",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7336467,-74.0097873&zoom=15&sensor=false&markers=color:blue%7c40.7336467,-74.0097873&client=gme-booking&channel=booking-frontend&signature=St3cUpDd-OgWe86bo4g7HndR9pE="
+    }
+]

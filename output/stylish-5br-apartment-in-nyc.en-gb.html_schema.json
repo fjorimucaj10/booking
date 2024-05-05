@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3998 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7997130,-73.9536277&zoom=15&center=40.7997130,-73.9536277&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ZdX0mjJ12sx1d8Lx4s6risMDa7s=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505042037.jpg?k=bfa030196e4b6ac58ed1a56b7d022b67feee64cf98e119cf123f736de7d59e2e&o=&hp=1",
+        "description": "Stylish 5BR Apartment in NYC! is set in the Harlem district of New York, 1.5 km from Columbia University, 3 km from Metropolitan Museum of Art and 3.",
+        "address": {
+            "postalCode": "NY 10026",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "137 West 111th Street, Harlem, New York, NY 10026, United States",
+            "addressLocality": "137 West 111th Street",
+            "addressRegion": "New York State"
+        },
+        "name": "Stylish 5BR Apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/stylish-5br-apartment-in-nyc.en-gb.html"
+    }
+]

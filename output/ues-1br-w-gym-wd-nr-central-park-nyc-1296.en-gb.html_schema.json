@@ -1,0 +1,20 @@
+[
+    {
+        "name": "UES 1BR w Gym WD nr Central Park NYC-1296",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504622347.jpg?k=55d6cf6fcfc21c2171144a1f9dcaaabbd007ddf20387b7726dffa53b60529991&o=&hp=1",
+        "address": {
+            "postalCode": "10128",
+            "addressLocality": "",
+            "streetAddress": "East Harlem, New York, 10128, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/ues-1br-w-gym-wd-nr-central-park-nyc-1296.en-gb.html",
+        "description": "Offering city views, UES 1BR w Gym WD nr Central Park NYC-1296 is an accommodation located in New York, 3.6 km from Strawberry Fields and 4.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7855906,-73.9495843&zoom=15&size=1600x1200&center=40.7855906,-73.9495843&client=gme-booking&channel=booking-frontend&signature=RgmCrZ0F68mFsIekgw-8JWRjp5g=",
+        "@context": "http://schema.org"
+    }
+]

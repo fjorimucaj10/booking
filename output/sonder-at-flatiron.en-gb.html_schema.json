@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 64,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.1
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7441239,-73.9893144&zoom=15&markers=color:blue%7c40.7441239,-73.9893144&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=PiVNHIB4SRzxJO4WVAiy9axnLd4=",
+        "url": "https://www.booking.com/hotel/us/sonder-at-flatiron.en-gb.html",
+        "name": "Sonder Flatiron",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519210857.jpg?k=66baec1c4267d7aaee0f4d83b95c865c9f983fc5a1cb06994be8d72f7f69e446&o=&hp=1",
+        "description": "Conveniently situated in the NoMad district of New York, Sonder Flatiron is situated 700 metres from Empire State Building, 1.",
+        "address": {
+            "streetAddress": "9 West 26th Street, NoMad, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10010",
+            "addressCountry": "USA",
+            "addressLocality": "9 West 26th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3292 per night (We Price Match)"
+    }
+]

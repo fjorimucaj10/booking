@@ -1,0 +1,26 @@
+[
+    {
+        "description": "This New York City hotel is located in Chinatown, 500 metres to Little Italy. Every guest room offers a flat-screen TV, refrigerator and free WiFi.",
+        "priceRange": "Prices for upcoming dates start at \u00a3203 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7153012,-73.9995195&center=40.7153012,-73.9995195&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=4W_2JGqLVGCUd15cO3aJqwRAsB0=",
+        "name": "Hotel Mulberry",
+        "url": "https://www.booking.com/hotel/us/mulberry.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 685
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/2859372.jpg?k=1c29b54d1cd36567089d1dc18e32a0da5dfaa8187388b8a56ea5ec3778f7ea8f&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013",
+            "addressLocality": "52 Mulberry Street",
+            "addressCountry": "USA",
+            "streetAddress": "52 Mulberry Street, Chinatown, New York, NY 10013, United States",
+            "addressRegion": "New York State"
+        }
+    }
+]

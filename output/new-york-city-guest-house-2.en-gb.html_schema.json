@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 9.3,
+            "reviewCount": 8,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/new-york-city-guest-house-2.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3117 per night (We Price Match)",
+        "name": "New York City Guest House 2",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/514329457.jpg?k=e9710a950b0f5035f57f82bef6397d8c4c7925a61dfe3a45eba59dca6d29b526&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.8105730,-73.9417150&sensor=false&center=40.8105730,-73.9417150&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=fjjJbjgIjEwDE3CLNIJkKs6lRVs=",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 3.8 km from Columbia University and 4.9 km from Metropolitan Museum of Art, New York City Guest House 2 offers air conditioning.",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "47 West 130th Street, Harlem, New York, NY 10037, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10037",
+            "addressRegion": "New York State",
+            "addressLocality": "47 West 130th Street"
+        }
+    }
+]

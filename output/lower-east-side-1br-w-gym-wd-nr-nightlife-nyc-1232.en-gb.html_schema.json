@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7213930,-73.9851608&markers=color:blue%7c40.7213930,-73.9851608&zoom=15&client=gme-booking&channel=booking-frontend&signature=D7db5Jjz-nlB4L1MXhNC3iCiCfU=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520438556.jpg?k=4d2e338ec7db7df97b4f2da2650fc110c109856429e2e6aaeca1c741090b1c3f&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.5 km from Bloomingdales and 1.",
+        "name": "Lower East Side 1br w gym wd nr nightlife NYC-1232",
+        "address": {
+            "streetAddress": "Lower East Side, New York, 10002, United States",
+            "postalCode": "10002",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "url": "https://www.booking.com/hotel/us/lower-east-side-1br-w-gym-wd-nr-nightlife-nyc-1232.en-gb.html"
+    }
+]

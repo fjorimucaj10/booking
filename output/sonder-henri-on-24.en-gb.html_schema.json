@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sonder Henri on 24",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/370390987.jpg?k=f43d64af961cc32cf665e1c084ea9998b0149872b745728c9c3ea241bf43bc58&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "37 West 24th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "37 West 24th Street, Flatiron District, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10010"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3274 per night (We Price Match)",
+        "description": "Located within 400 metres of Flatiron Building and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7432587,-73.9910218&zoom=15&center=40.7432587,-73.9910218&client=gme-booking&channel=booking-frontend&signature=rjfJ7-UmgXCrANe86Fjp783IfI0=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 214,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/sonder-henri-on-24.en-gb.html",
+        "@type": "Hotel"
+    }
+]

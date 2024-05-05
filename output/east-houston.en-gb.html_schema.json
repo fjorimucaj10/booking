@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Featuring a rooftop terrace overlooking Manhattan, this hotel is located 350 metres from the subway station.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/east-houston.en-gb.html",
+        "name": "The Ridge",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/172335800.jpg?k=2702a7413c64ed24937151522bf5c9d61f45999ee85a676ece57773065505b00&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7229464,-73.9893465&center=40.7229464,-73.9893465&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=f5Gdo7wV0d55Vt31rXYm-6QhSB0=",
+        "priceRange": "Prices for upcoming dates start at \u00a3186 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 925,
+            "ratingValue": 7.0
+        },
+        "address": {
+            "postalCode": "NY 10002",
+            "addressLocality": "151 East Houston Street",
+            "streetAddress": "151 East Houston Street, Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org"
+    }
+]

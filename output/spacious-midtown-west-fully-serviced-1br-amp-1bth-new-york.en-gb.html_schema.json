@@ -1,0 +1,20 @@
+[
+    {
+        "name": "PlanURstay - Spacious Midtown West Fully-Serviced - 1BR & 1BTH",
+        "description": "Set in New York, 600 metres from Rockefeller Center and 600 metres from Museum of Modern Art, PlanURstay - Spacious Midtown West Fully-Serviced - 1BR &...",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533103373.jpg?k=11efa04a2679e0678958a2b772014d49a90b00195bbb9a3a0e26aa903f7c040a&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/spacious-midtown-west-fully-serviced-1br-amp-1bth-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7614270,-73.9825840&markers=color:blue%7c40.7614270,-73.9825840&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=HKhYBMpgxJcvKJAJjMW9Hp5X1KM=",
+        "priceRange": "Prices for upcoming dates start at \u00a3233 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "150 West 51st Street",
+            "streetAddress": "150 West 51st Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State"
+        }
+    }
+]

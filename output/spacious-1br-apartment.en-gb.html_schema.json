@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, less than 1 km from Grand Central Station and a 9-minute walk from Macy's, Spacious 1BR Apartment offers air conditioning.",
+        "@type": "Hotel",
+        "name": "Spacious 1BR Apartment",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/spacious-1br-apartment.en-gb.html",
+        "address": {
+            "streetAddress": "34 East 32nd Street, New York, NY 10016, United States",
+            "postalCode": "NY 10016",
+            "addressLocality": "34 East 32nd Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543599358.jpg?k=2f76c3478bf2ace2f939bb25f6a478f7d807cfa4ac3fa67b50bfd81429b6fe96&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7460146,-73.9833113&sensor=false&size=1600x1200&zoom=15&center=40.7460146,-73.9833113&client=gme-booking&channel=booking-frontend&signature=Dp7p1_AR2sobtjadExEsPAoHhZ8="
+    }
+]

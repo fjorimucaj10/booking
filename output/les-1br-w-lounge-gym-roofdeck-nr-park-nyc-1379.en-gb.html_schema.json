@@ -1,0 +1,20 @@
+[
+    {
+        "name": "LES 1br w lounge gym roofdeck nr park NYC-1379",
+        "@type": "Hotel",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7173363,-73.9863085&size=1600x1200&zoom=15&center=40.7173363,-73.9863085&sensor=false&client=gme-booking&channel=booking-frontend&signature=SBQUZihRz_F8rJtKkyLSohrATSA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545464960.jpg?k=788a89beec9e2b4d89f9ddc2e8b95229c79bb751d5d13d9a4ddb17b1440fdb2d&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Set in New York, 1.4 km from Bloomingdales and 2.7 km from NYU - New York University, LES 1br w lounge gym roofdeck nr park NYC-1379 offers air-conditioned...",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10002",
+            "addressLocality": "",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/les-1br-w-lounge-gym-roofdeck-nr-park-nyc-1379.en-gb.html"
+    }
+]

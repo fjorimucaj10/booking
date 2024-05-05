@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.8,
+            "reviewCount": 3650,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-express-nyc-herald-square-36th-st.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/230333272.jpg?k=e6a5f6762197c3f9b3a28d4149b9d6f56ccc1ea68d4bbc6603bfdc68c9cb0a23&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7506313,-73.9859589&zoom=15&sensor=false&size=1600x1200&center=40.7506313,-73.9859589&client=gme-booking&channel=booking-frontend&signature=BLsvQdC6TfYBzP1Kju0lgprYz54=",
+        "name": "Holiday Inn Express - Times Square South, an IHG Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "60 West 36th Street , New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "60 West 36th Street",
+            "postalCode": "NY 10018"
+        },
+        "description": "Within 8 minutes' walk of Times Square and the Empire State Building, Holiday Inn Express - Times Square South is located in the Fashion District in New...",
+        "priceRange": "Prices for upcoming dates start at \u00a3181 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Omni Berkshire Place",
+        "address": {
+            "streetAddress": "21 East 52nd Street, Midtown East, New York, NY 10022, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "addressLocality": "21 East 52nd Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3278 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/omni-bershire-place.en-gb.html",
+        "description": "Located within 644 metres from Rockefeller Center and Radio City Music Hall, this family-friendly Manhattan hotel is 805 metres from Central Park.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1258,
+            "ratingValue": 8.7
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7593434,-73.9749652&sensor=false&size=1600x1200&markers=color:blue%7c40.7593434,-73.9749652&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZScpafR5sYNeKbbZ2z-P9DKYFDg=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/374719752.jpg?k=411f644444794cccf5ae66da63c427f2cc11105c4fec016a47927842777ba80e&o=&hp=1"
+    }
+]

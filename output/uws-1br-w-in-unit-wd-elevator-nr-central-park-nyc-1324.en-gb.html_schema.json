@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/509775293.jpg?k=ca4e9eda038b9c2437cd9b88cc03cae2d4b58c6212debc28edcefa70a9fbb732&o=&hp=1",
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "postalCode": "10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10025, United States"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Offering city views, UWS 1br w in-unit wd elevator nr central park NYC-1324 is an accommodation situated in New York, 2.",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-in-unit-wd-elevator-nr-central-park-nyc-1324.en-gb.html",
+        "name": "UWS 1br w in-unit wd elevator nr central park NYC-1324",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7954761,-73.9666112&center=40.7954761,-73.9666112&zoom=15&client=gme-booking&channel=booking-frontend&signature=SbActHsdtD6u6IuswwqjIS2HzFw="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, 24-5 Furnished Studio W D Prime Gramercy offers air...",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10010",
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "addressLocality": "241 East 24th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "name": "24-5 Furnished Studio W D Prime Gramercy",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3365 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531815652.jpg?k=d492262448f5e65ef85e528c2125cec08e768d46af3eca65c9a4633eb86d0e5e&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/24-5-furnished-studio-w-d-prime-gramercy.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7389107,-73.9808273&sensor=false&center=40.7389107,-73.9808273&zoom=15&client=gme-booking&channel=booking-frontend&signature=YcjpizlOlXVNlidwGQksQ8G-K-k="
+    }
+]

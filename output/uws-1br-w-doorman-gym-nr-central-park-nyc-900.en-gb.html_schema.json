@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7911888,-73.9737101&sensor=false&size=1600x1200&markers=color:blue%7c40.7911888,-73.9737101&zoom=15&client=gme-booking&channel=booking-frontend&signature=1llpOF8rBtgozZb7ewnXTp-fo14=",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-doorman-gym-nr-central-park-nyc-900.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "postalCode": "10024",
+            "streetAddress": "Upper West Side, New York, 10024, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439358244.jpg?k=084f37789a93a81d47e7f787535e98dd2b7aac9b0778a033474491e1a264935d&o=&hp=1",
+        "description": "Offering city views, UWS 1br w doorman gym nr Central Park NYC-900 is an accommodation set in New York, 2.2 km from Metropolitan Museum of Art and 2.",
+        "@type": "Hotel",
+        "priceRange": null,
+        "name": "UWS 1br w doorman gym nr Central Park NYC-900"
+    }
+]

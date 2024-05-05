@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/mandarin-oriental.en-gb.html",
+        "name": "Mandarin Oriental, New York",
+        "description": "Located in Columbus Circle\u2019s Deutsche Bank Center, this hotel is a 2-minute walk from Central Park.",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3785 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/174729191.jpg?k=71c9703882d9db471ada507725fcc606fb876e40dd8d3ae5bede99526934b264&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 8.6,
+            "@type": "AggregateRating",
+            "reviewCount": 320,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7690439,-73.9828750&size=1600x1200&markers=color:blue%7c40.7690439,-73.9828750&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=w5Hil5wlNJg-pm5e_seC2W2QeIM=",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "80 Columbus Circle",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10023",
+            "streetAddress": "80 Columbus Circle, Upper West Side, New York, NY 10023, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

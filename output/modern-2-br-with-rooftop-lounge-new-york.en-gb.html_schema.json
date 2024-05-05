@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "810 Columbus Avenue",
+            "streetAddress": "810 Columbus Avenue, Upper West Side, New York, NY 10025, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/modern-2-br-with-rooftop-lounge-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,199 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461488246.jpg?k=c088fd344e78a3698cf373bc3774e2d5bfaa9a13a143f4c995bf80e9a22a4ae6&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Boasting accommodation with a balcony, Modern 2 BR with Rooftop Lounge is set in New York.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7953669,-73.9657014&markers=color:blue%7c40.7953669,-73.9657014&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=yM9rEzE0OfHuJzeTxA6s5l-N-aU=",
+        "name": "Modern 2 BR with Rooftop Lounge",
+        "@context": "http://schema.org"
+    }
+]

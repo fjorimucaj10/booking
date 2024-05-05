@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484773554.jpg?k=17b3249d5fddd02e62542574e24b1fb9bd97189932962f932a2ac17d16fec03e&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "325 West 33rd Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "325 West 33rd Street, Hell's Kitchen, New York, NY 10001, United States",
+            "postalCode": "NY 10001"
+        },
+        "description": "The Midtown Manhattan hotel is located adjacent to Madison Square Garden and Penn Station.",
+        "priceRange": "Prices for upcoming dates start at \u00a3177 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-amp-suites-by-marriott-new-york-midtown-manhattan-penn-station.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7525431,-73.9966804&center=40.7525431,-73.9966804&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=7NoiGHwhF-_xvgIYWIGbyOX8UQg=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 5270,
+            "ratingValue": 8.2
+        }
+    }
+]

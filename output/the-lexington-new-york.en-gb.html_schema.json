@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7550239,-73.9729878&markers=color:blue%7c40.7550239,-73.9729878&client=gme-booking&channel=booking-frontend&signature=GRcDaJczwkzk5mFsdxbCiC9zopo=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-lexington-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3192 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 455,
+            "ratingValue": 7.9,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "postalCode": "NY 10017",
+            "streetAddress": "511 Lexington Avenue at 48th Street, Midtown East, New York, NY 10017, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "511 Lexington Avenue at 48th Street",
+            "addressCountry": "USA"
+        },
+        "name": "The Lexington Hotel, Autograph Collection",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/434772121.jpg?k=3553ae0e23e953566bd4896f6af0fbafc1f292cbe540c0e5060c52de804ef381&o=&hp=1",
+        "description": "This modern hotel is 700 metres from Grand Central Station and 270 metres from the 51st Street subway."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "addressLocality": "55 West 44th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "55 West 44th Street, New York, NY 10036, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/36715440.jpg?k=525b7e1639f77f3fac947494e3db323c8b8ad264019e5e2e752373c56d5bff2f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7557879,-73.9822280&zoom=15&sensor=false&markers=color:blue%7c40.7557879,-73.9822280&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=7ZLa7UQNtasor2WGFiSYfxjQ3tk=",
+        "priceRange": "Prices for upcoming dates start at \u00a3181 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2088,
+            "ratingValue": 7.2,
+            "bestRating": 10
+        },
+        "description": "Located 325 metres from the lights of Times Square and Broadway, this Midtown Manhattan hotel features a restaurant.",
+        "name": "City Club Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/city-club.en-gb.html",
+        "@type": "Hotel"
+    }
+]

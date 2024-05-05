@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7193642,-73.9851151&sensor=false&size=1600x1200&center=40.7193642,-73.9851151&client=gme-booking&channel=booking-frontend&signature=RhvqDCHM6sI4f7OzUsvnV2Wgxlg=",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "69 Clinton Street",
+            "addressCountry": "USA",
+            "postalCode": "10002"
+        },
+        "name": "69-2A PRIME Lower East Side 1br Apt Brand New",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410845343.jpg?k=add67436f976a3cf79cf4f67a12dc9a1c97471d67fc9724b6a1ec964cbc46259&o=&hp=1",
+        "priceRange": null,
+        "description": "69-2A PRIME Lower East Side 1br Apt Brand New is situated in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "url": "https://www.booking.com/hotel/us/69-2a-prime-lower-east-side-1br-apt-brand-new.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

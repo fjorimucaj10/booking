@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/doubletree-hilton-new-york-midtown-fifth-avenue.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "bestRating": 10,
+            "reviewCount": 417,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7599295,-73.9783528&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7599295,-73.9783528&client=gme-booking&channel=booking-frontend&signature=m7kcvRwxsCZfnwyoiEcII15GYoI=",
+        "description": "Offering a restaurant and a fitness centre,  DoubleTree by Hilton New York Midtown Fifth Ave is located within walking distance of Times Square and Central...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489199887.jpg?k=1fac4f9e8f95608b5d05e4612849e8155d797481bce0cde20085199f94fe13e1&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "25 West 51st Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressLocality": "25 West 51st Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3165 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "DoubleTree by Hilton New York Midtown Fifth Ave"
+    }
+]

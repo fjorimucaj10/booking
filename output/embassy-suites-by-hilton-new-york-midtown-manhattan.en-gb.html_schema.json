@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Embassy Suites By Hilton New York Manhattan Times Square",
+        "description": "Featuring free WiFi and a fitness centre, Embassy Suites By Hilton New York Midtown Manhattan offers pet-friendly accommodation in New York.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/embassy-suites-by-hilton-new-york-midtown-manhattan.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 4505,
+            "ratingValue": 7.8,
+            "bestRating": 10
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "60 West 37th Street",
+            "streetAddress": "60 West 37th Street, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541740625.jpg?k=6b65457e627c13a0dd254695cd02c617d52246113239b154a6f7319ec93238f1&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7511130,-73.9851150&size=1600x1200&zoom=15&center=40.7511130,-73.9851150&sensor=false&client=gme-booking&channel=booking-frontend&signature=oSsn5iiIlmskYoOIsg1Er4WLrUE=",
+        "priceRange": "Prices for upcoming dates start at \u00a3206 per night (We Price Match)"
+    }
+]

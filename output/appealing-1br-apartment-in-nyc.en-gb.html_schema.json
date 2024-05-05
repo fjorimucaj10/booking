@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505233520.jpg?k=07b8d5b4bf2d49ea1210d10e565e5b2c9dbeff9eaec9d528d960916302b5142b&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7640453,-73.9780729&center=40.7640453,-73.9780729&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Cp5o4-SfL9V_CB-W4I8qQzl1TEU=",
+        "url": "https://www.booking.com/hotel/us/appealing-1br-apartment-in-nyc.en-gb.html",
+        "name": "Appealing 1BR apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3350 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 10.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "115 West 56th Street",
+            "streetAddress": "115 West 56th Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in a central area of New York, 200 metres from Carnegie Hall, Appealing 1BR apartment in NYC!",
+        "@type": "Hotel"
+    }
+]

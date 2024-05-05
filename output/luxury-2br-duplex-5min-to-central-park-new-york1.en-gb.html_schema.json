@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "ratingValue": 10.0,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/luxury-2br-duplex-5min-to-central-park-new-york1.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501147788.jpg?k=c32ec3b5b4f53ed84d82bd30e4ba4f643a61d05ae7d714e6afa896f722137e65&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "341 E 62nd St, New York, NY 10065, USA",
+            "postalCode": "10065",
+            "@type": "PostalAddress",
+            "streetAddress": "341 E 62nd St, New York, NY 10065, USA, Upper East Side, New York, 10065, United States",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7620304,-73.9614210&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7620304,-73.9614210&client=gme-booking&channel=booking-frontend&signature=CYQ2PEdKKvVYDQ6RYdRFIZAupuI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3645 per night (We Price Match)",
+        "name": "Luxury 2BR Duplex 5min to Central Park",
+        "description": "Ideally located in the Upper East Side district of New York, Luxury 2BR Duplex 5min to Central Park is located 1."
+    }
+]

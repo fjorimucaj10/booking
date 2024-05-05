@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411495879.jpg?k=aef07e820d9c46f4e61fb3c860d882ed9a95c01e0a2d538f7adf42f432395e15&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "428-3R Spacious Prime Midtown 2BR Newly furnished",
+        "description": "In the centre of New York, located within a short distance of Jacob K.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7619860,-73.9916642&zoom=15&markers=color:blue%7c40.7619860,-73.9916642&client=gme-booking&channel=booking-frontend&signature=F5LG3q5cjiMkmSqVlyJ7Cf0OsY0=",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "428 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "addressLocality": "428 West 47th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/428-3r-spacious-prime-midtown-2br-newly-furnished.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3265 per night (We Price Match)"
+    }
+]

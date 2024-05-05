@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.9,
+            "reviewCount": 460,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7471015,-73.9870922&size=1600x1200&zoom=15&center=40.7471015,-73.9870922&client=gme-booking&channel=booking-frontend&signature=WP2RR3sqOlfzk-osOT_U71Txl2M=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/89345876.jpg?k=0b23860ac957333921fbdcc6fd96e78981c67a937c3393d0fa2cbef8b0fb82f5&o=&hp=1",
+        "description": "Located between Broadway and 5th Avenue, Life Hotel is surrounded with dining options.",
+        "url": "https://www.booking.com/hotel/us/herald-square.en-gb.html",
+        "name": "Life Hotel New York",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "19 West 31st Street, NoMad, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressLocality": "19 West 31st Street",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3180 per night (We Price Match)"
+    }
+]

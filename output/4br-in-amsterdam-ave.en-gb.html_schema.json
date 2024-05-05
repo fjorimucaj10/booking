@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 3.8 km from Metropolitan Museum of Art and 4.7 km from Strawberry Fields, 4BR in Amsterdam Ave offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/4br-in-amsterdam-ave.en-gb.html",
+        "@type": "Hotel",
+        "name": "4BR in Amsterdam Ave",
+        "address": {
+            "addressLocality": "506 West 110th Street",
+            "streetAddress": "506 West 110th Street, Upper West Side, New York, NY 10025, United States",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488002294.jpg?k=56d923fc69689c5193e1a1f85c9c369863062b674e50be24b2fa79155c095b88&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3925 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.8031263,-73.9646492&center=40.8031263,-73.9646492&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=7UJA8ehj_1ROwrQM9OHRPldthgg="
+    }
+]

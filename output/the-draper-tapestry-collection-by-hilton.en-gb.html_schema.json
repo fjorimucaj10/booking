@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Attractively set in the Fifth Avenue district of New York, The Draper New York, Tapestry Collection by Hilton is located 600 metres from Macy's, 500 metres...",
+        "@context": "http://schema.org",
+        "name": "The Draper New York, Tapestry Collection by Hilton",
+        "aggregateRating": {
+            "reviewCount": 1448,
+            "ratingValue": 8.4,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7507360,-73.9842650&size=1600x1200&markers=color:blue%7c40.7507360,-73.9842650&zoom=15&client=gme-booking&channel=booking-frontend&signature=92hP0UyAxh8P8VdSuvSBmSwEx2w=",
+        "url": "https://www.booking.com/hotel/us/the-draper-tapestry-collection-by-hilton.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "4-6 West 37th Street, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "4-6 West 37th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3163 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503317445.jpg?k=9ca26eb8f77f82e8fe15e572bb6daa05ef622e78cf824160ef3b91afb184911e&o=&hp=1"
+    }
+]

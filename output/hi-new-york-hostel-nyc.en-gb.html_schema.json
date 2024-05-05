@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/hi-new-york-hostel-nyc.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "891 Amsterdam Avenue, Upper West Side, New York, NY 10025, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10025",
+            "addressLocality": "891 Amsterdam Avenue"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7988328,-73.9666584&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7988328,-73.9666584&client=gme-booking&channel=booking-frontend&signature=j2XCbcl42YOx0OIxisNv36fvGC4=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/13011414.jpg?k=b4a7abf7571240c023c7e503b3353f34f138dba78c3440748c574d7f5204d536&o=&hp=1",
+        "name": "HI New York City Hostel",
+        "description": "This uptown New York hostel is 1 block from Broadway Street and a 10-minute walk to Central Park. It features free Wi-Fi, a movie lounge, and a large...",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 15010,
+            "ratingValue": 8.2,
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a351 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

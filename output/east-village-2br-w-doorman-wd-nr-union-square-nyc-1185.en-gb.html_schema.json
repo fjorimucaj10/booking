@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "East Village, New York, 10003, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "postalCode": "10003"
+        },
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/477536689.jpg?k=4f576ec8f3590fdda61a8d91bafbc7da1fc00f00ee3c2582e3d1a625fd6e8d40&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7306570,-73.9886510&size=1600x1200&center=40.7306570,-73.9886510&sensor=false&client=gme-booking&channel=booking-frontend&signature=qSNmpmAy9denbN0hZG9yfJ5NpWo=",
+        "name": "East Village 2br w doorman wd nr Union Square NYC-1185",
+        "url": "https://www.booking.com/hotel/us/east-village-2br-w-doorman-wd-nr-union-square-nyc-1185.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.4 km from Bloomingdales and 1."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7546394,-73.9734559&sensor=false&markers=color:blue%7c40.7546394,-73.9734559&client=gme-booking&channel=booking-frontend&signature=CzivTihCw0rlbDvsckmOTTiJMOg=",
+        "description": "Located in the centre of New York, 400 metres from Chrysler Building, Gorgeous Apt for 2! Heart of Manhattan!",
+        "url": "https://www.booking.com/hotel/us/gorgeous-apt-for-2-heart-of-manhattan.en-gb.html",
+        "@type": "Hotel",
+        "name": "Gorgeous Apt for 2! Heart of Manhattan!",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542660871.jpg?k=0b7ce336771ed177a25bf70a309108875feac171e18675ea95afc7093c376958&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "121 East 47th Street",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "streetAddress": "121 East 47th Street, Midtown East, New York, NY 10017, United States"
+        }
+    }
+]

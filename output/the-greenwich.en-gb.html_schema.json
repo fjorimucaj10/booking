@@ -1,0 +1,26 @@
+[
+    {
+        "description": "This New York City hotel is located in the city\u2019s Tribeca neighborhood.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7199470,-74.0099607&zoom=15&size=1600x1200&markers=color:blue%7c40.7199470,-74.0099607&sensor=false&client=gme-booking&channel=booking-frontend&signature=q9zoyWVeHBFCl_L6-tD-tAcvv5U=",
+        "address": {
+            "streetAddress": "377 Greenwich Street, Tribeca, New York, NY 10013, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013",
+            "addressLocality": "377 Greenwich Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3894 per night (We Price Match)",
+        "name": "The Greenwich Hotel",
+        "url": "https://www.booking.com/hotel/us/the-greenwich.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/153450482.jpg?k=f0b3ec31884d3c8982495b77c8e347869d4e33841da7b93571075129dba1a614&o=&hp=1",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 91
+        }
+    }
+]

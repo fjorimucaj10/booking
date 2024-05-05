@@ -1,0 +1,20 @@
+[
+    {
+        "name": "75-3A 3Br Duplex Prime UES WD in unit Sleeps 6",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534287250.jpg?k=ca47df52f013c37af248e6410ace2deb295b69b894e7792e73247e7f4152777e&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7707901,-73.9575043&markers=color:blue%7c40.7707901,-73.9575043&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=jD1YCZImd0K3-KxqdVrXR_Kxw4Y=",
+        "description": "75-3A 3Br Duplex Prime UES WD in unit Sleeps 6 is situated in the Upper East Side district of New York, 2.7 km from St Patrick's Cathedral, 2.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/75-3a-3br-duplex-prime-ues-wd-in-unit-sleeps-6.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3846 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "addressLocality": "244 East 75th Street",
+            "addressRegion": "New York State"
+        }
+    }
+]

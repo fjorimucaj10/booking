@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "10019",
+            "addressRegion": "New York State",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressCountry": "USA",
+            "addressLocality": "809 9th Avenue",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/431890860.jpg?k=1dacf705fe482e5729483de896194037d926ad958cc2ab98d79a0b4e112dfeec&o=&hp=1",
+        "description": "Featuring air-conditioned accommodation with a patio, 809-3B Columbus Circle W D new BLDG Balcony is located in New York.",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7658048,-73.9875795&zoom=15&size=1600x1200&center=40.7658048,-73.9875795&client=gme-booking&channel=booking-frontend&signature=A2FWzW9IOEzXvHyoh55yiGOrOmE=",
+        "url": "https://www.booking.com/hotel/us/809-3b-columbus-circle-w-d-new-bldg-balcony.en-gb.html",
+        "priceRange": null,
+        "name": "809-3B Columbus Circle W D new BLDG Balcony"
+    }
+]

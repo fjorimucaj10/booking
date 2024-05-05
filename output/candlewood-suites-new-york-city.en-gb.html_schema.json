@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/candlewood-suites-new-york-city.en-gb.html",
+        "name": "Candlewood Suites NYC -Times Square, an IHG Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7561871,-73.9930353&size=1600x1200&sensor=false&markers=color:blue%7c40.7561871,-73.9930353&client=gme-booking&channel=booking-frontend&signature=Wup1lPj7gMgSvK2npFwhzLry3Xo=",
+        "aggregateRating": {
+            "ratingValue": 7.5,
+            "reviewCount": 1965,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/247999108.jpg?k=c15cb51c844fd914d959d7802da52f8b9344a8f0e0a0671c4f396490636764b3&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Just a 5-minute walk from Times Square, this all-suite Manhattan hotel features an on-site 24-hour convenience store and suites equipped with free Wi-Fi, a...",
+        "priceRange": "Prices for upcoming dates start at \u00a3207 per night (We Price Match)",
+        "address": {
+            "addressLocality": "339 West 39th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State",
+            "streetAddress": "339 West 39th Street, Hell's Kitchen, New York, NY 10018, United States"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3561 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7273566,-73.9998512&markers=color:blue%7c40.7273566,-73.9998512&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=u-DlP5JLyZQ2BEUNwsel3MFer_U=",
+        "description": "Prime Studio Greenwich Village! is located in the Greenwich Village district of New York, 400 metres from NYU - New York University, 700 metres from...",
+        "url": "https://www.booking.com/hotel/us/prime-studio-greenwich-village.en-gb.html",
+        "address": {
+            "streetAddress": "492 LaGuardia Place, Greenwich Village, New York, NY 10012, United States",
+            "postalCode": "NY 10012",
+            "addressLocality": "492 LaGuardia Place",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "name": "Prime Studio Greenwich Village!",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488233015.jpg?k=a8c826704fb6300dc523e9b38027eb6dfd8feb802f4afee935a04d7ec679f742&o=&hp=1"
+    }
+]

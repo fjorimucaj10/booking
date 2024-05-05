@@ -1,0 +1,20 @@
+[
+    {
+        "description": "In a central area of New York, set within a short distance of Broadway Theatre and Carnegie Hall, 809-6B 2BR Duplex Breathtaking Views Beauty offers free...",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/809-6b-new-2br-duplex-breathtaking-views-beauty.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7658424,-73.9876175&markers=color:blue%7c40.7658424,-73.9876175&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=Zmcs5-jS1fn56nsC-ic9jEUmEtQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410852043.jpg?k=f54d0cea8e762fab83eec9249c377e3420145d8191d33976ea6eefecb3261605&o=&hp=1",
+        "name": "809-6B 2BR Duplex Breathtaking Views Beauty",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressCountry": "USA",
+            "postalCode": "10019",
+            "addressLocality": "809 9th Avenue"
+        }
+    }
+]

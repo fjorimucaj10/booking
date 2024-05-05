@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&size=1600x1200&markers=color:blue%7c40.7749268,-73.9481632&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=cHkGjXBQzTTIl378lR4wuzL6zfE=",
+        "@type": "Hotel",
+        "name": "1597-10 New Studio Upper East Side W&D in unit",
+        "description": "Situated in New York, 1.5 km from Metropolitan Museum of Art and 3.",
+        "url": "https://www.booking.com/hotel/us/1597-10-new-studio-upper-east-side-w-d-in-unit.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10028",
+            "addressLocality": "York Avenue 1597"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503397857.jpg?k=e88d839fe31960bcd8a8654147b2e24c86187aa1afd06760e8d08c4ee3f6e6ad&o=&hp=1"
+    }
+]

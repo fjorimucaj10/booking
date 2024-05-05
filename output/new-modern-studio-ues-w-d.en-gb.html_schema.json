@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7708602,-73.9576469&size=1600x1200&markers=color:blue%7c40.7708602,-73.9576469&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=jcEqPOMx_106Q0DBqag4IsClRps=",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "East 75th Street 240, Upper East Side, New York, 10021, United States",
+            "addressLocality": "East 75th Street 240",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10021"
+        },
+        "description": "Set in New York, 1.4 km from Metropolitan Museum of Art and 1.9 km from Central Park, New Modern Studio UES W D offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/514819230.jpg?k=2ee7e3ca536ae81fc5ba32857bc6f40f4fc0ee0421809ebd910cc22f30f78581&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/new-modern-studio-ues-w-d.en-gb.html",
+        "name": "New Modern Studio UES W D",
+        "@type": "Hotel"
+    }
+]

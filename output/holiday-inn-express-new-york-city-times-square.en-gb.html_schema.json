@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3193 per night (We Price Match)",
+        "description": "Times Square and the theaters of Broadway are only a 10-minute walk from this centrally located Manhattan hotel.",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2837,
+            "@type": "AggregateRating",
+            "ratingValue": 6.3
+        },
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "343 West 39th Street",
+            "streetAddress": "343 West 39th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7562710,-73.9931858&sensor=false&markers=color:blue%7c40.7562710,-73.9931858&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=jGWYlq4U9T_VTwkyyocptVxyu6U=",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-express-new-york-city-times-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/244174998.jpg?k=7c83b40a13b0c9e902c58ceeb8de395e175c34a221056c1741d3175fac64c764&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Holiday Inn Express - Times Square, an IHG Hotel"
+    }
+]

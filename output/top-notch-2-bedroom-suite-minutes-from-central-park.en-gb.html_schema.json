@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Situated in New York, 1.9 km from St Patrick's Cathedral and 2.",
+        "name": "Top Notch 2 Bedroom Suite Minutes From Central Park",
+        "priceRange": "Prices for upcoming dates start at \u00a31,751 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10065",
+            "addressCountry": "USA",
+            "addressLocality": "East 62nd Street 341",
+            "addressRegion": "New York State",
+            "streetAddress": "East 62nd Street 341, Upper East Side, New York, 10065, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/top-notch-2-bedroom-suite-minutes-from-central-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7620811,-73.9613996&zoom=15&markers=color:blue%7c40.7620811,-73.9613996&sensor=false&client=gme-booking&channel=booking-frontend&signature=-cv4HiTO6R3dqF8QOx7ecRnDjeY=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 1.0,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/492639009.jpg?k=498966cf8cabccb6f73a7c17e77f82e8b2dbad7dec618aff16d08a1d8ffc7326&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7651441,-73.9713630&markers=color:blue%7c40.7651441,-73.9713630&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=UJcihK0-3QNNQuBbV2ljXZ_PkaU=",
+        "@type": "Hotel",
+        "name": "The Pierre, A Taj Hotel, New York",
+        "description": "The Pierre, A Taj Hotel is located across from Central Park at 61st Street.",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-pierre-a-taj.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 758,
+            "bestRating": 10,
+            "ratingValue": 8.4
+        },
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10065",
+            "@type": "PostalAddress",
+            "streetAddress": "Two East 61st Street at 5th Avenue, Upper East Side, New York, NY 10065, United States",
+            "addressCountry": "USA",
+            "addressLocality": "Two East 61st Street at 5th Avenue"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/526585784.jpg?k=9837d4bba0792db3c6c0661293e3052b7b6fcc28917d307d1bf9d7ad305ef41e&o=&hp=1"
+    }
+]

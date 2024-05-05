@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7600030,-73.9703990&size=1600x1200&center=40.7600030,-73.9703990&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=XYQ_w3ard9NPH3Li5gkiOUNeP24=",
+        "url": "https://www.booking.com/hotel/us/concorde-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3256 per night (We Price Match)",
+        "description": "Featuring a fitness centre and free WiFi, Concorde Hotel New York is situated in New York, 750 metres from Museum of Modern Art and St Patrick's Cathedral.",
+        "aggregateRating": {
+            "ratingValue": 8.7,
+            "reviewCount": 1878,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/181023010.jpg?k=6098360ff25ae1ee88b540233ccc6170143259bbfc38bdda6e003e15620562a5&o=&hp=1",
+        "name": "Concorde Hotel New York",
+        "address": {
+            "addressLocality": "127 East 55th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "127 East 55th Street, Midtown East, New York, NY 10022, United States",
+            "postalCode": "NY 10022",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

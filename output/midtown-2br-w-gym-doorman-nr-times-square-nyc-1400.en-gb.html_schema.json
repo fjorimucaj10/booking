@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Midtown 2br w gym doorman nr Times Square NYC-1400",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/midtown-2br-w-gym-doorman-nr-times-square-nyc-1400.en-gb.html",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7607614,-73.9861055&center=40.7607614,-73.9861055&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=xBV9j02Wd08yjgQeFFvK_rCrhXY=",
+        "description": "Set in the centre of New York, 700 metres from Radio City Music Hall and less than 1 km from Rockefeller Center, Midtown 2br w gym doorman nr Times Square...",
+        "address": {
+            "streetAddress": "New York, 10036, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519147677.jpg?k=5da63fae72aa55b6b2af489714345ee96a7d860dca9a17f5bc82fa3a65e6899b&o=&hp=1"
+    }
+]

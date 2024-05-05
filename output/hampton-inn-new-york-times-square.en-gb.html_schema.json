@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Attractively set in the centre of New York, Hampton Inn by Hilton New York Times Square features free WiFi throughout the property and a bar.",
+        "url": "https://www.booking.com/hotel/us/hampton-inn-new-york-times-square.en-gb.html",
+        "address": {
+            "streetAddress": "150 W 48th Street, New York, NY 10017, United States",
+            "addressLocality": "150 W 48th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497078479.jpg?k=8965b3bf38e34e73ae2744f024ec96fa7cc145fbb809e9f0af519c1e6e53c4af&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7595350,-73.9831700&size=1600x1200&center=40.7595350,-73.9831700&zoom=15&client=gme-booking&channel=booking-frontend&signature=P8PQI6yFmbffpsxtwqlv-bSJQyw=",
+        "@type": "Hotel",
+        "name": "Hampton Inn by Hilton New York Times Square",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.7,
+            "@type": "AggregateRating",
+            "reviewCount": 434
+        }
+    }
+]

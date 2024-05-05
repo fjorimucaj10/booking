@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "postalCode": "10024",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10024, United States"
+        },
+        "name": "UWS 1BR w Gym WD Doorman nr Central Park NYC-377",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465219066.jpg?k=99960d29d46c0439e195b40013cf85f7df69d7dab58c10345763c169635eb58a&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7911888,-73.9737101&markers=color:blue%7c40.7911888,-73.9737101&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=Szt-xuwHu3VpphyGXcXYcqG4zKA=",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-gym-wd-doorman-nr-central-park-nyc-377.en-gb.html",
+        "description": "Offering city views, UWS 1BR w Gym WD Doorman nr Central Park NYC-377 is an accommodation set in New York, 2.2 km from Metropolitan Museum of Art and 2."
+    }
+]

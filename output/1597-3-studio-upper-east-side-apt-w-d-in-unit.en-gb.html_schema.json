@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "York Avenue 1597",
+            "@type": "PostalAddress",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10028",
+            "addressCountry": "USA"
+        },
+        "description": "Situated in New York, 1.5 km from Metropolitan Museum of Art and 3.",
+        "name": "1597-3 Studio Upper East Side Apt W&D in unit",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537804843.jpg?k=61a9e54ea8dc24bc67251d959c41f51e9186dc89aa8c09275045c6d4faf426b3&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1597-3-studio-upper-east-side-apt-w-d-in-unit.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3382 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7749268,-73.9481632&zoom=15&center=40.7749268,-73.9481632&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ymB6QqHr_d9IKR5_OOZHmmh-is8=",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7495287,-73.9798519&zoom=15&markers=color:blue%7c40.7495287,-73.9798519&sensor=false&client=gme-booking&channel=booking-frontend&signature=4TO0pPv0H4EVS-T6oA2nkVVMrLI=",
+        "description": "This Japanese-style hotel is located 500 metres from Grand Central Station and features a rotating repertoire of gallery pieces in the lobby.",
+        "url": "https://www.booking.com/hotel/us/the-kitano-new-york.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "reviewCount": 784,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "The Prince Kitano New York",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State",
+            "addressLocality": "66 Park Avenue",
+            "streetAddress": "66 Park Avenue, Murray Hill, New York, NY 10016, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3285 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505299553.jpg?k=8a709024207bf565356c1b01cdcf2fec29f87016c554be41f71de783491a4127&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

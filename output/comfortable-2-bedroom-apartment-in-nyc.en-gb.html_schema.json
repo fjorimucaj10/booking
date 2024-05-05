@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/comfortable-2-bedroom-apartment-in-nyc.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "223 East 64th Street, Upper East Side, New York, NY 10065, United States",
+            "addressLocality": "223 East 64th Street",
+            "postalCode": "NY 10065"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Comfortable 2 Bedroom Apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3459 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520365356.jpg?k=1d5b08ca741cd29ea24d5b425993ba4deb2df2fddef24e2d34e5e5a346e6013c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7642505,-73.9627080&zoom=15&sensor=false&markers=color:blue%7c40.7642505,-73.9627080&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=gYE4dyAHb2PO0AHuu8kVe3nZJPU=",
+        "description": "Located in New York, 1.8 km from St Patrick's Cathedral and 1.9 km from Rockefeller Center, Comfortable 2 Bedroom Apartment in NYC! offers air..."
+    }
+]

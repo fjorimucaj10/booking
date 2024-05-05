@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/new-york-manhattan-times-square-west.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3208 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2700,
+            "@type": "AggregateRating",
+            "ratingValue": 8.2
+        },
+        "name": "Courtyard by Marriott Times Square West",
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressLocality": "307 West 37th Street",
+            "streetAddress": "307 West 37th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "This Midtown Manhattan hotel is 643.7 metres away from the Penn Station and is a 8 minutes' walk from Times Square.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465568829.jpg?k=9a3306464a42255934a95d33d331359420eec954e33733924f3a4c7665e89698&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7544280,-73.9926168&sensor=false&zoom=15&center=40.7544280,-73.9926168&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=mOahQPuHyJdzvkJw8WtCveGQqVM=",
+        "@context": "http://schema.org"
+    }
+]

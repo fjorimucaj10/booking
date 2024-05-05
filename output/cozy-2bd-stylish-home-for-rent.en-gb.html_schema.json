@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7225607,-73.9925518&zoom=15&sensor=false&markers=color:blue%7c40.7225607,-73.9925518&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=j6qe1vcaOhAIKWfaav4-LUDd9j0=",
+        "description": "Situated in New York, 1.1 km from NYU - New York University and 2.8 km from One World Trade Center, Cozy 2BD Stylish Home for Rent offers air conditioning.",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541914117.jpg?k=0e506de6e1631b8ae0235186600544dfd7e8b9c48ad87d944957c12fdd53d33f&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/cozy-2bd-stylish-home-for-rent.en-gb.html",
+        "address": {
+            "addressLocality": "215 Chrystie Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "streetAddress": "215 Chrystie Street, Lower East Side, New York, NY 10002, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "Cozy 2BD Stylish Home for Rent"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/496718760.jpg?k=608ceb5268219094ffb5f99c00dd1b869daf59485ca2ce071c49a9bd2feeba4f&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7644335,-73.9742464&center=40.7644335,-73.9742464&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=xr17QlZ7VRdNXgk3ZiqmW4Afs7Q=",
+        "address": {
+            "streetAddress": "768 5th Avenue, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "addressLocality": "768 5th Avenue",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 533
+        },
+        "description": "Located at the crossroads of Central Park and 5th Avenue, this internationally renowned Manhattan hotel is steps away from world class shopping.",
+        "url": "https://www.booking.com/hotel/us/the-plaza.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3926 per night (We Price Match)",
+        "name": "The Plaza"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "addressLocality": "West 48th Street 444",
+            "addressRegion": "New York State",
+            "streetAddress": "West 48th Street 444, Hell's Kitchen, New York, 10036, United States"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7629644,-73.9920309&markers=color:blue%7c40.7629644,-73.9920309&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=wf7rKN0S3r5YTwuiQcDSquSwsl4=",
+        "name": "444-2C Newly renovated 1BR in Hell's Kitchen",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550048166.jpg?k=eb3c7188c8cc91dcdd5cd61d3dbce91996c1d39dd3565f4a5e8db81a69fc0ac2&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/444-2c-newly-renovated-1br-in-hells-kitchen.en-gb.html",
+        "description": "Situated in New York, 1 km from Broadway Theatre and 1.4 km from Carnegie Hall, 444-2C Newly renovated 1BR in Hell's Kitchen offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3670 per night (We Price Match)"
+    }
+]

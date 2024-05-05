@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/1597-phn-ph-duplex-private-outdoor-deck-w-d.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&markers=color:blue%7c40.7749268,-73.9481632&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=a1YTTLhBx4Qfpv8uMLJ6ZCTl7jo=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/552449004.jpg?k=79015be6d0bf660c7c7cfd80c7de894ade2b0e00d07a1ee71f569da061a70943&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "York Avenue 1597",
+            "@type": "PostalAddress",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "postalCode": "10028",
+            "addressCountry": "USA"
+        },
+        "description": "Situated in New York, 1.5 km from Metropolitan Museum of Art and 3.",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "@type": "Hotel",
+        "name": "1597-PHN PH Duplex -Private Outdoor Deck W D"
+    }
+]

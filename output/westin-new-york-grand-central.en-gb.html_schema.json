@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "212 East 42nd Street",
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "streetAddress": "212 East 42nd Street, Murray Hill, New York, NY 10017, United States",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7503598,-73.9737837&size=1600x1200&sensor=false&center=40.7503598,-73.9737837&zoom=15&client=gme-booking&channel=booking-frontend&signature=X83BTerWvR6Le-WJXoWQ7suPlJk=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465574606.jpg?k=0ed82342a20fbc371ff33aa65a13941b7e5db92f66a87028725c0e1fa8794373&o=&hp=1",
+        "name": "The Westin New York Grand Central",
+        "description": "Located in Manhattan, this New York City Westin is 165 metres from Grand Central Terminal and is 500 metres from the United Nations.",
+        "url": "https://www.booking.com/hotel/us/westin-new-york-grand-central.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 824,
+            "ratingValue": 8.1
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3240 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

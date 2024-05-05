@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 138,
+            "ratingValue": 7.5
+        },
+        "url": "https://www.booking.com/hotel/us/beautiful-midtown-east-suites-by-sonder.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7481310,-73.9749710&center=40.7481310,-73.9749710&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=UcJzdbHVISrYHDVAUK11mYkQCgM=",
+        "description": "Sonder at The Nash provides accommodation within 1.5 km of the centre of New York, with free WiFi, and a kitchen with a dishwasher, an oven and a...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530877046.jpg?k=c86c5c8058a339075bca420c454a32d6464b6eb161c05264ce097ac728a98073&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3272 per night (We Price Match)",
+        "name": "Sonder at The Nash",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "222 East 39th Street, Murray Hill, New York, NY 10016, United States",
+            "addressLocality": "222 East 39th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "@type": "PostalAddress"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7181677,-73.9862322&size=1600x1200&zoom=15&center=40.7181677,-73.9862322&sensor=false&client=gme-booking&channel=booking-frontend&signature=nlKsNQo988If32v5VS8REsma4Vs=",
+        "@context": "http://schema.org",
+        "description": "This New York City hotel is just 3.2 km from the World Trade Center.  Free Wi-Fi and on-site dining options are available.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/246903121.jpg?k=ca3616edddfa4256fb80f0712ebb796cb1d4548838c3245565a77f2ed30e81b2&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3144 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-lower-east-side.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "addressCountry": "USA",
+            "streetAddress": "150 Delancey Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "150 Delancey Street"
+        },
+        "name": "Holiday Inn Lower East Side, an IHG Hotel",
+        "aggregateRating": {
+            "reviewCount": 1177,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0
+        },
+        "@type": "Hotel"
+    }
+]

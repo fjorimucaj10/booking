@@ -1,0 +1,26 @@
+[
+    {
+        "description": "The HGU New York is housed in a restored 1905 Beaux Arts structure, and is equipped with modern amenities.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/64385781.jpg?k=c46b0f4bf154559baa02f45c4c21c69bf5d2416b9ee935e793379718aa0139c1&o=&hp=1",
+        "@type": "Hotel",
+        "name": "HGU New York",
+        "url": "https://www.booking.com/hotel/us/grandunionhotel.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3162 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7460641,-73.9831506&markers=color:blue%7c40.7460641,-73.9831506&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=38WSIKaKin7sHb63FxGODwhPTog=",
+        "address": {
+            "addressLocality": "34 East 32nd Street",
+            "postalCode": "NY 10016",
+            "addressCountry": "USA",
+            "streetAddress": "34 East 32nd Street, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.6,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2027
+        }
+    }
+]

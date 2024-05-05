@@ -1,0 +1,20 @@
+[
+    {
+        "description": "69-4D Trendy Lower East Side 1B BRAND NEW is situated in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530104397.jpg?k=94d9a85693a7e5dd5350f42f68c3c0dba3f494cd957fe7648672285020f94783&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "address": {
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "69 Clinton Street",
+            "postalCode": "10002"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7193642,-73.9851151&zoom=15&markers=color:blue%7c40.7193642,-73.9851151&sensor=false&client=gme-booking&channel=booking-frontend&signature=_ksfc2oZ_mRw_qx2GQpLNPlIO7A=",
+        "url": "https://www.booking.com/hotel/us/69-4d-trendy-lower-east-side-1b-brand-new.en-gb.html",
+        "name": "69-4D Trendy Lower East Side 1B BRAND NEW"
+    }
+]

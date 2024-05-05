@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3119 per night (We Price Match)",
+        "name": "American Dream",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7393150,-73.9831730&zoom=15&size=1600x1200&center=40.7393150,-73.9831730&client=gme-booking&channel=booking-frontend&signature=OHwyKCg1mTlPtks2C7hklfYRvgs=",
+        "url": "https://www.booking.com/hotel/us/american-dream-new-york.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "168 East 24th Street, Gramercy, New York, NY 10010, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10010",
+            "addressCountry": "USA",
+            "addressLocality": "168 East 24th Street",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/181481306.jpg?k=89e0b8498eebb303b8bfa8adeb8fc17c13e94a48b3fed1c651310e7d1564c53c&o=&hp=1",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 422,
+            "bestRating": 10
+        },
+        "description": "Set within 700 metres of Flatiron Building and 1.4 km of Empire State Building, American Dream offers rooms with air conditioning and a shared bathroom in..."
+    }
+]

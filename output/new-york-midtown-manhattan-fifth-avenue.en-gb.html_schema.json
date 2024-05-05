@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue",
+        "url": "https://www.booking.com/hotel/us/new-york-midtown-manhattan-fifth-avenue.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 978
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7510923,-73.9845876&markers=color:blue%7c40.7510923,-73.9845876&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=r6WxjQ7HiviB-ZC3hi108Oh_1bM=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439511964.jpg?k=0976ed7c191eb956f76ab38fb53909bd4eb43c8c53ff3b4aa11b5c935eba9b3e&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "25 West 37th St, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State",
+            "addressLocality": "25 West 37th St",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3171 per night (We Price Match)",
+        "description": "This Manhattan SpringHill Suites by Marriott is located 483 metres from the Empire State Building and 805 metres from the Madison Square Garden."
+    }
+]

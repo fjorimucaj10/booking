@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531093317.jpg?k=91e48203a5aa896119e4ba12fa4ac21c8601649749e2e9150bbdcc5295f8499e&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/modern-2-bedroom-apartment-in-midtown-west.en-gb.html",
+        "description": "Set 800 metres from Times Square and 1 km from Jacob K.",
+        "@context": "http://schema.org",
+        "name": "Modern 2 Bedroom Apartment in Midtown West",
+        "priceRange": "Prices for upcoming dates start at \u00a3675 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "addressLocality": "573 9th Avenue",
+            "streetAddress": "573 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7581428,-73.9930404&center=40.7581428,-73.9930404&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=MT81lX_4w5gO-6ojT43yJVg-f4E="
+    }
+]

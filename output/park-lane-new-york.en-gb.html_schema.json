@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/park-lane-new-york.en-gb.html",
+        "description": "Park Lane New York is a deluxe hotel with a European ambiance, providing views over Central Park and the New York skyline.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/336418375.jpg?k=47a9d1f136cea4b248de582d3b4d7fbb72f29e5df47121ec420531b0ea71ea25&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&center=40.7650085,-73.9753836&markers=color:blue%7c40.7650085,-73.9753836&client=gme-booking&channel=booking-frontend&signature=idGiD_4HUb3EQulYm1QcAOxvF_w=",
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 3921,
+            "@type": "AggregateRating"
+        },
+        "name": "Park Lane New York",
+        "address": {
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "36 Central Park South, New York, NY 10019, United States",
+            "addressLocality": "36 Central Park South"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3434 per night (We Price Match)"
+    }
+]

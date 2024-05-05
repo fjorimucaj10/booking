@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/422375111.jpg?k=22bce87a0340c93aa7b30d9d6124dd31031d46cfc8db439c5e9d2950ac6f0a9f&o=&hp=1",
+        "description": "Rustic Sunset is located in the Harlem district of New York, 3.7 km from Columbia University, 5.3 km from Metropolitan Museum of Art and 6.",
+        "priceRange": "Prices for upcoming dates start at \u00a3120 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10030",
+            "streetAddress": "101 West 140th Street 33, Harlem, New York, NY 10030, United States",
+            "addressLocality": "101 West 140th Street 33",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/rustic-sunset.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8179990,-73.9416805&size=1600x1200&markers=color:blue%7c40.8179990,-73.9416805&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=En_7sfpq3XgzUmc0MA1ncHCS7sY=",
+        "name": "Rustic Sunset",
+        "aggregateRating": {
+            "reviewCount": 9,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.3
+        },
+        "@context": "http://schema.org"
+    }
+]

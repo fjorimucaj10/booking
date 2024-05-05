@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Unique 3BR in NYC",
+        "priceRange": "Prices for upcoming dates start at \u00a3651 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "307 East 118th Street",
+            "postalCode": "NY 10035",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "307 East 118th Street, East Harlem, New York, NY 10035, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7978735,-73.9363036&zoom=15&markers=color:blue%7c40.7978735,-73.9363036&client=gme-booking&channel=booking-frontend&signature=mqFFmkNlL4UCVk3ulZLFuO42Wb4=",
+        "description": "Located in New York, 4.4 km from Yankee Stadium and 4.7 km from Metropolitan Museum of Art, Unique 3BR in NYC offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488008886.jpg?k=a4b20d1eabde4e52b6a973aafadae119edfe4dd757516d3a5bef808082e3bf20&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/unique-3br-in-nyc.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

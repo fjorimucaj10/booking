@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505272093.jpg?k=53c0777c9f567f37beafc84cf6cadde62ab78229da362a28fba3231d17d32674&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Heavenly 1BR apartment in NYC",
+        "url": "https://www.booking.com/hotel/us/heavenly-1br-apartment-in-nyc.en-gb.html",
+        "description": "Set in New York, 1.4 km from Central Park and 2.4 km from St Patrick's Cathedral, Heavenly 1BR apartment in NYC offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3353 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7744160,-73.9631559&center=40.7744160,-73.9631559&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=TsCJKqBGZN9BKBR1NxNkse3pmlA=",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "35 East 76th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "35 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021"
+        }
+    }
+]

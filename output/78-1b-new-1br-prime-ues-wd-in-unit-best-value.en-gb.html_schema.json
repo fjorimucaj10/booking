@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "315 East 78th Street",
+            "postalCode": "10075",
+            "@type": "PostalAddress",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.0,
+            "reviewCount": 1,
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7724266,-73.9545517&sensor=false&center=40.7724266,-73.9545517&zoom=15&client=gme-booking&channel=booking-frontend&signature=Vz8Ce8Ue1tYn7XmLTcF0QWidp78=",
+        "name": "78-1B New 1BR prime UES WD in unit BEST VALUE",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/78-1b-new-1br-prime-ues-wd-in-unit-best-value.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411302186.jpg?k=5aa421ae6f2be628eb9da2715ae4da79c5e043629ec4a6334ccc39335334640c&o=&hp=1",
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-1B New 1BR prime UES WD in unit BEST VALUE offers air conditioning.",
+        "priceRange": null
+    }
+]

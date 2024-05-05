@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/studio-plus-47-in-perfect-location.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/325617249.jpg?k=5fed2a6f234f5cba06859e2940409a22bdcfdd2e5d784672136b319e6f740a93&o=&hp=1",
+        "description": "Offering city views, STUDIO PLUS, Next to the Korea-Town is an accommodation situated in New York, 700 metres from Madison Square Garden and 800 metres...",
+        "aggregateRating": {
+            "reviewCount": 78,
+            "bestRating": 10,
+            "ratingValue": 7.1,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7472080,-73.9879450&zoom=15&center=40.7472080,-73.9879450&client=gme-booking&channel=booking-frontend&signature=xQplivLDREzC1lkUtLQmzpStIcg=",
+        "name": "STUDIO PLUS, Next to the Korea-Town",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "38 West 31st Street",
+            "postalCode": "NY 10001",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3246 per night (We Price Match)"
+    }
+]

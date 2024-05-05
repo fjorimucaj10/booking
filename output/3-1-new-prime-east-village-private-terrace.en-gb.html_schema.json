@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7251091,-73.9883118&zoom=15&center=40.7251091,-73.9883118&client=gme-booking&channel=booking-frontend&signature=q0h-rVUMkmoUutiaaQeomP5uwNU=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530061560.jpg?k=de4b8c7bf4a35dd4d2d9976e31720bf3d2a9253f316bd29680b7541757b688de&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/3-1-new-prime-east-village-private-terrace.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3445 per night (We Price Match)",
+        "description": "Featuring air-conditioned accommodation with a patio, 3-1 New Prime East Village Private Terrace is located in New York. The property is situated 1.",
+        "address": {
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "streetAddress": "77 East 3rd Street, East Village, New York, 10003, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "77 East 3rd Street",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "name": "3-1 New Prime East Village Private Terrace"
+    }
+]

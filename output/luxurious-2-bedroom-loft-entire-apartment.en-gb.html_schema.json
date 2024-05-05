@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 800 metres from Flatiron Building and 1.",
+        "name": "Luxurious 2 Bedroom Loft Entire Apartment",
+        "url": "https://www.booking.com/hotel/us/luxurious-2-bedroom-loft-entire-apartment.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,837 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "East 16th Street, Gramercy, New York, NY 10003, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "East 16th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10003"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7353151,-73.9878180&center=40.7353151,-73.9878180&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=6_lDtxWFEhfV_91mOiDViDpdJXI=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482869107.jpg?k=cf12e60583f9c26d5818f2ea57c50ee617b9a7885acbdedfca53307d4726e5a6&o=&hp=1"
+    }
+]

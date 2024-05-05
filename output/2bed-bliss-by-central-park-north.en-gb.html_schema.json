@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.8019861,-73.9550406&zoom=15&markers=color:blue%7c40.8019861,-73.9550406&sensor=false&client=gme-booking&channel=booking-frontend&signature=xFeFRVPdhO9S0WxGgkKIbO5S5iA=",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "237 West 113th Street, Harlem, New York, 10026, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10026",
+            "addressLocality": "237 West 113th Street"
+        },
+        "name": "2Bed Bliss by Central Park North",
+        "description": "Situated in New York, 3.5 km from Strawberry Fields and 3.6 km from Metropolitan Museum of Art, 2Bed Bliss by Central Park North offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/514285302.jpg?k=eb27c8fdc3d6bd80e8cbdca12df9eca555538b9f84bed55dac46d9087779efe8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/2bed-bliss-by-central-park-north.en-gb.html"
+    }
+]

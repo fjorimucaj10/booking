@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3391 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "201 East 24th Street",
+            "streetAddress": "201 East 24th Street, Gramercy, New York, NY 10010, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10010",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/warm-1-bedroom-apt-in-manhattan-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497860566.jpg?k=6517b7e87e141729936ecc6f073b2d980973393a5ed701cab2abbd75bce124b1&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Set in New York, 1.4 km from Empire State Building and 1.6 km from Chrysler Building, Warm 1-Bedroom Apt in Manhattan offers air conditioning.",
+        "name": "Warm 1-Bedroom Apt in Manhattan",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7395368,-73.9822509&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7395368,-73.9822509&client=gme-booking&channel=booking-frontend&signature=bVLNMmuARSXnJl20Oy0Fg02M2xs="
+    }
+]

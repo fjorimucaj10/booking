@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/331711469.jpg?k=395b04dcb4d714920b56132745281bcb2c194e414b57250d3b1488336e472b29&o=&hp=1",
+        "name": "Pendry Manhattan West",
+        "description": "A new side of the city. Where elegance and ease comingle.",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 164,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 9.3
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/pendry-manhattan-west.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7533910,-73.9985890&center=40.7533910,-73.9985890&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=wZz9C8aKWqnrxPOnUf-_iurxAh8=",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "438 West 33rd Street, Hudson Yards, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressLocality": "438 West 33rd Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3582 per night (We Price Match)"
+    }
+]

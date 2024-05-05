@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Inspiring Urban Life, Times square Apartments",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533102936.jpg?k=7cfdb6c03d7b12151f0a0fb24968dd04e8797141b200284b52d94533bae59db4&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10019",
+            "streetAddress": "300 52nd Street, Hell's Kitchen, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "300 52nd Street",
+            "@type": "PostalAddress"
+        },
+        "description": "Located in the centre of New York, 200 metres from Broadway Theatre and 600 metres from Carnegie Hall, Inspiring Urban Life, Times square Apartments offers...",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7635447,-73.9851925&size=1600x1200&zoom=15&center=40.7635447,-73.9851925&sensor=false&client=gme-booking&channel=booking-frontend&signature=YYPjwvIFLA3GlMqO7tdyafJ6m5o=",
+        "priceRange": "Prices for upcoming dates start at \u00a3579 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/central-living-in-manhattan-times-square-apartments.en-gb.html"
+    }
+]

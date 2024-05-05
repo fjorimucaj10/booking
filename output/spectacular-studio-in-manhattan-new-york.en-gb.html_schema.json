@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7578690,-73.9644641&size=1600x1200&zoom=15&sensor=false&center=40.7578690,-73.9644641&client=gme-booking&channel=booking-frontend&signature=l4QP-mabjoF_41uoVVdITegzn58=",
+        "priceRange": "Prices for upcoming dates start at \u00a3380 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518052485.jpg?k=7877bf166fe466e14c41bb1cfd64acfc284e6ed8d53cae9db2bc2c3e594fab99&o=&hp=1",
+        "description": "Located in the centre of New York, 1.3 km from St Patrick's Cathedral, Spectacular Studio in Manhattan provides air-conditioned accommodation with free...",
+        "name": "Spectacular Studio in Manhattan",
+        "address": {
+            "addressLocality": "334 East 56th Street",
+            "postalCode": "NY 10022",
+            "streetAddress": "334 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/spectacular-studio-in-manhattan-new-york.en-gb.html"
+    }
+]

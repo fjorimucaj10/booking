@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498099098.jpg?k=2b82544e0ee4ca515c0e7953c15a9fe05634f9341bc819822820a410b6b1147d&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "name": "Newly Renovated 3 Bedroom Apartment",
+        "url": "https://www.booking.com/hotel/us/newly-renovated-3-bedroom-apartment-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7523461,-73.9859951&zoom=15&markers=color:blue%7c40.7523461,-73.9859951&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=XrzJrMPERrzSF4NbtsDl5PYHZ-0=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "streetAddress": "101 West 38th Street, New York, NY 10018, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "101 West 38th Street",
+            "@type": "PostalAddress"
+        },
+        "description": "Located in the centre of New York, 400 metres from Bryant Park, Newly Renovated 3 Bedroom Apartment provides air-conditioned accommodation with free WiFi..."
+    }
+]

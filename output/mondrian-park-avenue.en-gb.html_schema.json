@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Mondrian Park Avenue is located in New York, 550 metres from Empire State Building in the NoMad district.",
+        "priceRange": "Prices for upcoming dates start at \u00a3211 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1333,
+            "bestRating": 10,
+            "ratingValue": 6.6
+        },
+        "url": "https://www.booking.com/hotel/us/mondrian-park-avenue.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "444 Park Avenue South",
+            "streetAddress": "444 Park Avenue South, NoMad, New York, NY 10016, United States",
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/110860662.jpg?k=3d699f0cf0813d76171811144c3fb92da1e687c36c562d055da03ea6c916b03b&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7448004,-73.9836611&zoom=15&sensor=false&size=1600x1200&center=40.7448004,-73.9836611&client=gme-booking&channel=booking-frontend&signature=Y639cJkwZt2KwCSBuVJqtjkSpo8=",
+        "name": "Mondrian Park Avenue"
+    }
+]

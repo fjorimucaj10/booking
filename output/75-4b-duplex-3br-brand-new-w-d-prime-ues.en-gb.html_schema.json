@@ -1,0 +1,20 @@
+[
+    {
+        "name": "75-4B Duplex 3BR Brand new W D Prime UES",
+        "description": "Located in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-4B Duplex 3BR Brand new W D Prime UES offers air conditioning.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7707710,-73.9574814&zoom=15&center=40.7707710,-73.9574814&sensor=false&client=gme-booking&channel=booking-frontend&signature=yjkuI54Btyg7xGURn_z7HF-AbPA=",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/75-4b-duplex-3br-brand-new-w-d-prime-ues.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541152163.jpg?k=90ff63c37a6b7c74227342d7871a362a30b94f9d5f1dbcfb89775975632ff995&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressLocality": "244 East 75th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10021"
+        }
+    }
+]

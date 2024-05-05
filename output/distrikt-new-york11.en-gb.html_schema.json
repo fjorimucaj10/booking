@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Distrikt Hotel New York City, Tapestry Collection by Hilton",
+        "url": "https://www.booking.com/hotel/us/distrikt-new-york11.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "342 W 40th St",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "342 W 40th St, Hell's Kitchen, New York, NY 10018, United States",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7568325,-73.9927849&markers=color:blue%7c40.7568325,-73.9927849&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=jcwOuH1dne4EQ4L7xpkiE8BmLgU=",
+        "aggregateRating": {
+            "reviewCount": 341,
+            "@type": "AggregateRating",
+            "ratingValue": 7.5,
+            "bestRating": 10
+        },
+        "description": "Offering Free WiFi and an on-site restaurant, Distrikt Hotel is 800 metres from the Restaurant Row and Times Square. The Jacob K.",
+        "priceRange": "Prices for upcoming dates start at \u00a3172 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/486044742.jpg?k=a36fbe87904daa8b85402a2ef9d2184b02e08968422712a8d0cb53443b40dd17&o=&hp=1"
+    }
+]

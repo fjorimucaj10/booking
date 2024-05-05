@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7733271,-73.9552732&size=1600x1200&markers=color:blue%7c40.7733271,-73.9552732&client=gme-booking&channel=booking-frontend&signature=Mznz7OvLfyr9eFlbnA1iHpt6dMI=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating",
+            "reviewCount": 4
+        },
+        "description": "Modern NY Style 2BD Apartment in Upper East Side Manhattan is situated in the Upper East Side district of New York, 2.4 km from Central Park, 2.",
+        "priceRange": "Prices for upcoming dates start at \u00a3367 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/527034196.jpg?k=c3260f4e7de3880f92ed5131f14fcf94d7ba51b1b9422de012aa616713234a84&o=&hp=1",
+        "name": "Modern NY Style 2BD Apartment in Upper East Side Manhattan",
+        "url": "https://www.booking.com/hotel/us/modern-ny-style-apartment-in-upper-east-side-manhattan.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "postalCode": "10028",
+            "addressCountry": "USA",
+            "streetAddress": "Upper East Side, New York, 10028, United States"
+        },
+        "@type": "Hotel"
+    }
+]

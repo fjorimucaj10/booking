@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/332148585.jpg?k=1a3b55cb8465fd59d8d2dd3030c27031db458b00042cb436bc3a412b8ac2a49a&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "112 West 136th Street, Harlem, New York, NY 10030, United States",
+            "postalCode": "NY 10030",
+            "addressLocality": "112 West 136th Street"
+        },
+        "name": "136TH UNIT 1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.8149700,-73.9412289&markers=color:blue%7c40.8149700,-73.9412289&sensor=false&client=gme-booking&channel=booking-frontend&signature=exzOKLjcHQgRg6XfRQ_DzfEsdmA=",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.8,
+            "reviewCount": 6,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "description": "In a prime location in the Harlem district of New York, 136TH UNIT 1 is located 2.5 km from Yankee Stadium, 3.8 km from Columbia University and 4.",
+        "url": "https://www.booking.com/hotel/us/136th-unit-1.en-gb.html"
+    }
+]

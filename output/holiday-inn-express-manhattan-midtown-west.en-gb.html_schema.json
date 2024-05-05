@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7641089,-73.9945064&size=1600x1200&zoom=15&center=40.7641089,-73.9945064&sensor=false&client=gme-booking&channel=booking-frontend&signature=hZE7oJMgOU3nDOPMw9r46ue3RtE=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-express-manhattan-midtown-west.en-gb.html",
+        "address": {
+            "streetAddress": "538 West 48th Street , Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressLocality": "538 West 48th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/230332572.jpg?k=992fbaa45f2e0c53d33f57c3abb6a6d0a45e70e614daad8e6b9532d1fe5d6882&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 1362,
+            "ratingValue": 7.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Located in Hell\u2019s Kitchen, this Manhattan hotel is just 15 minutes\u2019 walk from Times Square. It boasts a daily continental breakfast.",
+        "@type": "Hotel",
+        "name": "Holiday Inn Express Manhattan Midtown West, an IHG Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3150 per night (We Price Match)"
+    }
+]

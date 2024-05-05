@@ -1,0 +1,26 @@
+[
+    {
+        "name": "NoMo SoHo",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/99274565.jpg?k=094f2071307c2e8323d15b2167d4436f333c81f88d89f0d1dd8338d120e525b2&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10013",
+            "@type": "PostalAddress",
+            "streetAddress": "9 Crosby Street, SoHo, New York, NY 10013, United States",
+            "addressLocality": "9 Crosby Street",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "reviewCount": 1136,
+            "bestRating": 10,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7198189,-74.0000194&zoom=15&markers=color:blue%7c40.7198189,-74.0000194&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=HORpaAnBt_f_31fBkNAYCKxMPto=",
+        "@type": "Hotel",
+        "description": "Located in New York City's trendy SoHo district, this hotel is inspired by the Jean Cocteau Film, \"La Belle et la B\u00eate\" and offers a fitness centre, bar...",
+        "url": "https://www.booking.com/hotel/us/nomo-soho.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3233 per night (We Price Match)"
+    }
+]

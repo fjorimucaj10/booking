@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 145,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7,
+            "bestRating": 10
+        },
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "27 Barclay Street, Tribeca, New York, NY 10007, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "27 Barclay Street",
+            "postalCode": "NY 10007"
+        },
+        "description": "Four Seasons Hotel New York Downtown is located in the heart of Downtown Manhattan in TriBeCa, less than 700 meters from the iconic Brooklyn Bridge and...",
+        "url": "https://www.booking.com/hotel/us/four-seasons-new-york-downtown.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Four Seasons Hotel New York Downtown",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/243381317.jpg?k=90b26a005fe03865c6cda409b4470db1a2438f642bd5300396ee4e01a4a752b7&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7130380,-74.0087770&center=40.7130380,-74.0087770&client=gme-booking&channel=booking-frontend&signature=QpPDT8ughR7P5vVhnw2tU1qj6-I=",
+        "priceRange": "Prices for upcoming dates start at \u00a3808 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/510713162.jpg?k=b0c1899fafb64738f5eaee0c5f895ae1d466d1fe5a9d66a891c5c43b7431e2a8&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3781 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 9.2,
+            "bestRating": 10,
+            "reviewCount": 13,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "streetAddress": "1 W 28th Street, NoMad, New York, NY 10001, United States",
+            "addressLocality": "1 W 28th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "Located in New York and with Flatiron Building reachable within 500 metres, The Fifth Avenue Hotel provides concierge services, non-smoking rooms, a...",
+        "name": "The Fifth Avenue Hotel",
+        "url": "https://www.booking.com/hotel/us/the-fifth-avenue-new-york.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7449130,-73.9875253&center=40.7449130,-73.9875253&sensor=false&client=gme-booking&channel=booking-frontend&signature=Z1hzqE-g-DPArMuMuSkFyQQYLnU="
+    }
+]

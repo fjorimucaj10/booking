@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/89-2rn-1br-2beds-ues-perfect-for-shares.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540136338.jpg?k=045e14cb54dbdc375046227ffa27f4948e93d3c5656921bf8b2a62f97ce65a8a&o=&hp=1",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "description": "Set in New York, 3.2 km from Central Park and 3.2 km from Strawberry Fields, 89-2RN 1Br 2beds UES Perfect for shares offers air conditioning.",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10128",
+            "addressLocality": "235 East 89th Street",
+            "streetAddress": "235 East 89th Street, Upper East Side, New York, 10128, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7800477,-73.9505824&markers=color:blue%7c40.7800477,-73.9505824&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=1gDXV-cEfP7d-mvlKXfecnkCIi4=",
+        "name": "89-2RN 1Br 2beds UES Perfect for shares"
+    }
+]

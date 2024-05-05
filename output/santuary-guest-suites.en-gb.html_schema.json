@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Sanctuary NYC Retreats",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/53039527.jpg?k=fc87083f3fd475a48168c62d3034178435feaad77daf6c63e381273bcee35c42&o=&hp=1",
+        "description": "Located on Manhattan\u2019s Lower East Side, this retreat-style, limited-amenity accommodation boasts an on-site yoga studio, Stanton Street Yoga, with free...",
+        "aggregateRating": {
+            "reviewCount": 872,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.9
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7198880,-73.9831634&sensor=false&markers=color:blue%7c40.7198880,-73.9831634&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=FMfETjrKYKiX-j1jfANMhc3Y5X8=",
+        "priceRange": "Prices for upcoming dates start at \u00a3280 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "streetAddress": "196A Stanton Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "196A Stanton Street",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/santuary-guest-suites.en-gb.html"
+    }
+]

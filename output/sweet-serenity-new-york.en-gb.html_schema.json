@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/sweet-serenity-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,988 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7211158,-73.9925492&size=1600x1200&zoom=15&markers=color:blue%7c40.7211158,-73.9925492&client=gme-booking&channel=booking-frontend&signature=svLuuQWyvhy7Vp7lO6eUR5vNeI0=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/428762279.jpg?k=9515243ee1b5283f4fba6e3880f9d62f6eea1f30f03a4e24b5ad6ae33edfe0cf&o=&hp=1",
+        "name": "Sweet Serenity",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "15 Rivington Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "@type": "PostalAddress",
+            "streetAddress": "15 Rivington Street, Lower East Side, New York, NY 10002, United States"
+        },
+        "description": "Featuring air-conditioned accommodation with a rooftop pool, pool view and a terrace, Sweet Serenity is located in New York."
+    }
+]

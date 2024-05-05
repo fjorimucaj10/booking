@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7555116,-73.9879847&zoom=15&size=1600x1200&markers=color:blue%7c40.7555116,-73.9879847&sensor=false&client=gme-booking&channel=booking-frontend&signature=mpkurjvs0krSQSvplrh8NEPH5XI=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/69063746.jpg?k=7984ec5158ac7046397a6f20489948a0d2709c55c04230e4b482247690582b60&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10036",
+            "streetAddress": "206 West 41th Street, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "206 West 41th Street",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/41-at-times-square.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3136 per night (We Price Match)",
+        "description": "Set in New York's vibrant Garment District, just steps from the focal Times Square, Hotel Shocard Broadway, Times Square is a modern facility with a retro...",
+        "name": "Hotel Shocard Broadway, Times Square",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2259
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

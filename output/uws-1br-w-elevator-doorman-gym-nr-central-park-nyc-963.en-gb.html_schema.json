@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-elevator-doorman-gym-nr-central-park-nyc-963.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": null,
+        "description": "UWS 1br w elevator doorman gym nr Central Park NYC-963 is set in the Upper West Side district of New York, 1.6 km from Central Park, 1.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10023, United States",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "postalCode": "10023",
+            "addressCountry": "USA"
+        },
+        "name": "UWS 1br w elevator doorman gym nr Central Park NYC-963",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545177995.jpg?k=47e3863352d96837996733b7f75dbf8fda1e90c8fbb196aa71df5f3aa3eae5ef&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7796854,-73.9826586&markers=color:blue%7c40.7796854,-73.9826586&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=umIrLVJs_LYw73LBBB9ccUPvVro="
+    }
+]

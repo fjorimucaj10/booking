@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Gorgeous 2 Bedroom apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/gorgeous-2-bedroom-apartment-in-nyc.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7642650,-73.9784800&center=40.7642650,-73.9784800&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Ale3-TMGz4Y7SjBupjAS5jOsKe8=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520351973.jpg?k=5d6ad2fe6db486984e452d407dba45a1e72310209083bc3be8fd09f9ff285cbe&o=&hp=1",
+        "description": "Situated right in the heart of New York, 200 metres from Carnegie Hall, Gorgeous 2 Bedroom apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressLocality": "123 West 56th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "123 West 56th Street, New York, NY 10019, United States"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&markers=color:blue%7c40.7362804,-73.9965852&center=40.7362804,-73.9965852&sensor=false&client=gme-booking&channel=booking-frontend&signature=hU39e-4LngCG5skA1TfbtUI0CYU=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "52 West 13th Steet",
+            "streetAddress": "52 West 13th Steet, Greenwich Village, New York, NY 10011, United States",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3345 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 1168,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/90101456.jpg?k=0014aa90aa6159cd83b781965d8de21829acb5fe6fa81000051e8dcb82473f00&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/walker-hotel-greenwich-village.en-gb.html",
+        "name": "Walker Hotel Greenwich Village",
+        "description": "Nestled in Manhattan\u2019s Greenwich Village, this boutique hotel is 805 metres from New York University and Washington Square Park."
+    }
+]

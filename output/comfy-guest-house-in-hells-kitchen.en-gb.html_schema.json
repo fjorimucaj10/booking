@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/529417113.jpg?k=17c1c86234d0312ab31d63b6fd795870e3debce5a59f5bfbf4ab031aded806e8&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Comfy Guest House in Hell's Kitchen",
+        "description": "Located in the centre of New York, 500 metres from Broadway Theatre and less than 1 km from Carnegie Hall, Comfy Guest House in Hell's Kitchen offers free...",
+        "url": "https://www.booking.com/hotel/us/comfy-guest-house-in-hells-kitchen.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7651373,-73.9880763&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7651373,-73.9880763&client=gme-booking&channel=booking-frontend&signature=1xswcAthWWjr_eh_662yI6obFT0=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "787 9th Avenue, Hell's Kitchen, New York, NY 10019, United States",
+            "addressLocality": "787 9th Avenue",
+            "postalCode": "NY 10019"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.4,
+            "reviewCount": 9,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3180 per night (We Price Match)"
+    }
+]

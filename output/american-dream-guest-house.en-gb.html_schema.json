@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "532 West 48th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "532 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/american-dream-guest-house.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 3,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532129198.jpg?k=933e261e68ee0ae751cf02af7da146a1ba164116b87f9d3d988c1f301eff58e7&o=&hp=1",
+        "name": "American Dream Guest House",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7639482,-73.9943859&markers=color:blue%7c40.7639482,-73.9943859&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=WqhvzFIq-2OLiSiRG1uBYEW_4Ew=",
+        "description": "Offering inner courtyard views and a garden, American Dream Guest House offers accommodation conveniently located in New York, within a short distance of..."
+    }
+]

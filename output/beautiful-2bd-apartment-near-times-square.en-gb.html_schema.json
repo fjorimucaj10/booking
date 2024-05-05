@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/beautiful-2bd-apartment-near-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475010016.jpg?k=2245b9f20a542ef0d596aebaf1533f30c726f4540483a118659e1bd059b05b05&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "70 West 45th Street",
+            "postalCode": "10036",
+            "@type": "PostalAddress",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7563378,-73.9822170&size=1600x1200&center=40.7563378,-73.9822170&client=gme-booking&channel=booking-frontend&signature=a7VIOElJyy8tk1pDfE4YutVxceI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3518 per night (We Price Match)",
+        "name": "Beautiful 2BD Apartment near Times Square",
+        "description": "Set right in the centre of New York, 500 metres from Radio City Music Hall, Beautiful 2BD Apartment near Times Square offers air-conditioned accommodation...",
+        "@type": "Hotel"
+    }
+]

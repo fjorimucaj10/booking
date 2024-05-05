@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7473209,-73.9878645&zoom=15&size=1600x1200&center=40.7473209,-73.9878645&sensor=false&client=gme-booking&channel=booking-frontend&signature=wJkNo1ymdIuVDyxP0-TNlx4sGAI=",
+        "name": "Studio Plus - Cozy Apartments",
+        "aggregateRating": {
+            "reviewCount": 70,
+            "bestRating": 10,
+            "ratingValue": 6.6,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/cozy-studio-09-near-empire-state-bldg.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressLocality": "38 West 31st Street",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3240 per night (We Price Match)",
+        "description": "Studio Plus Apartment offers studios and apartments with fully-equipped kitchens.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/44627750.jpg?k=b3c6b005c8cc442b1d11ef8439f29716131ebad627274ff17292091bcbe8534a&o=&hp=1"
+    }
+]

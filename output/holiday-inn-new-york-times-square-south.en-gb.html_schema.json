@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/holiday-inn-new-york-times-square-south.en-gb.html",
+        "description": "Featuring free WiFi, Holiday Inn New York - Times Square South offers accommodation in Midtown Manhattan, 400 metres from the Theater District.",
+        "aggregateRating": {
+            "reviewCount": 2134,
+            "@type": "AggregateRating",
+            "ratingValue": 7.7,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "name": "Holiday Inn New York City - Times Square, an IHG Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/234143542.jpg?k=46d34405343b58850b010e09a264d7396e3e22b2b2c3f4f8f6a75e92f92f94df&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3143 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7551310,-73.9913400&center=40.7551310,-73.9913400&zoom=15&client=gme-booking&channel=booking-frontend&signature=aRF6LoucWvYwWDJ_Hq8IqNfezkM=",
+        "address": {
+            "addressLocality": "585 8th Avenue",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "585 8th Avenue, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Comfortable 5Br in Midtown East!",
+        "url": "https://www.booking.com/hotel/us/comfortable-5br-in-midtown-east.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,390 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7618209,-73.9657103&sensor=false&markers=color:blue%7c40.7618209,-73.9657103&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=uYTOgla9zKHBGS19z8v9vgYnySE=",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.5 km from Rockefeller Center and 1.5 km from Carnegie Hall, Comfortable 5Br in Midtown East! offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488150476.jpg?k=d3f1f6d1d18f8bb4cfb02b35224b67877adb6a12a4a087bf929a7289cbadcacd&o=&hp=1",
+        "address": {
+            "addressLocality": "206 East 60th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "streetAddress": "206 East 60th Street, Upper East Side, New York, NY 10022, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

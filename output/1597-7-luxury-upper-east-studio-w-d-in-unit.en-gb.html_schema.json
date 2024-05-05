@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "York Avenue 1597",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10028"
+        },
+        "url": "https://www.booking.com/hotel/us/1597-7-luxury-upper-east-studio-w-d-in-unit.en-gb.html",
+        "description": "Set in New York, 1.5 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1597-7 Luxury Upper East Studio W&D in unit offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&zoom=15&size=1600x1200&markers=color:blue%7c40.7749268,-73.9481632&sensor=false&client=gme-booking&channel=booking-frontend&signature=dIJWYFz7GzJ2lc6-1gBis0JWH6c=",
+        "@type": "Hotel",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539558012.jpg?k=8c85dd045a661ee49abacf1a77451327ca65cc08a252cbb74cc638e9800c6620&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "1597-7 Luxury Upper East Studio W&D in unit"
+    }
+]

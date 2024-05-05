@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "The Beekman Tower, Trademark Collection by Wyndham has a fitness centre, shared lounge, a restaurant and bar in New York.",
+        "priceRange": "Prices for upcoming dates start at \u00a3300 per night (We Price Match)",
+        "name": "The Beekman Tower, Trademark Collection by Wyndham",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7534010,-73.9661740&sensor=false&markers=color:blue%7c40.7534010,-73.9661740&client=gme-booking&channel=booking-frontend&signature=miYFZygF0Q1zxU1oEl-h3mm9HUc=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/211998971.jpg?k=4f167ca97338a4c284ede80882c333e0ae266dc6d0ca7055e8831d35e32cf8c3&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10017",
+            "addressLocality": "3 Mitchell Place",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "3 Mitchell Place, Midtown East, New York, NY 10017, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/the-beekman-tower-new-york.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 1155
+        }
+    }
+]

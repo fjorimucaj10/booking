@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439533996.jpg?k=eeecc592bbb173fe3cf49f1227b41b77644ddfd07fd3fc33e3069378673f05eb&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/pestana-cr7-times-square.en-gb.html",
+        "description": "Attractively located in the centre of New York, Pestana CR7 Times Square features air-conditioned rooms, a fitness centre, free WiFi and a shared lounge.",
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressLocality": "338 West 39th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "338 West 39th Street, Hell's Kitchen, New York, NY 10018, United States"
+        },
+        "@type": "Hotel",
+        "name": "Pestana CR7 Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=40.7559790,-73.9932420&markers=color:blue%7c40.7559790,-73.9932420&client=gme-booking&channel=booking-frontend&signature=oAYtp20qwMI70cvPybSWWO3U_fI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3181 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.2,
+            "reviewCount": 2312
+        }
+    }
+]

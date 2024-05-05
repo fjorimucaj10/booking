@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3967 per night (We Price Match)",
+        "description": "Designer Three Bd Apartment In NYC is located in the Hell's Kitchen district of New York, 1 km from Jacob K. Javits Convention Center, 1.",
+        "name": "Designer Three Bd Apartment In NYC",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7581984,-73.9930145&markers=color:blue%7c40.7581984,-73.9930145&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=dB6ZZvmEcFkL4sPkyhDhrl5L13Y=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/designer-three-bd-apartment-in-nyc.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "577 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "addressLocality": "577 9th Avenue"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503341264.jpg?k=5d47f8d65a9223b0c23edaaf3ccbe43adc18d4e6930a34d61f1f2dff6f3b6c4d&o=&hp=1"
+    }
+]

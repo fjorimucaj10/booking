@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 7857,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.1
+        },
+        "name": "MOXY NYC Times Square",
+        "description": "MOXY NYC Times Square, offers pet-friendly accommodation, and features free WiFi and a fitness centre. Macy's is 200 metres from the property.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "485 7th Avenue",
+            "streetAddress": "485 7th Avenue, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018"
+        },
+        "url": "https://www.booking.com/hotel/us/moxy-nyc-times-square.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3186 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439518262.jpg?k=2edc66d2106bc195af841eb2c136a7488a031b7745e5085e1cc665b4814124df&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7524190,-73.9893750&markers=color:blue%7c40.7524190,-73.9893750&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=jrrV-gtUlmouUgxIQPPQeWqijJw="
+    }
+]

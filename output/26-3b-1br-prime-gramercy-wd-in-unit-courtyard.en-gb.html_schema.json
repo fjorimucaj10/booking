@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411279950.jpg?k=a90f02646f171aa8de041a755781c9114b3ced9155006ff47ad4affa09ea9c0e&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7400932,-73.9802551&sensor=false&markers=color:blue%7c40.7400932,-73.9802551&zoom=15&client=gme-booking&channel=booking-frontend&signature=-PY7Dfvl8502CM0wlhMUu8yQ6iU=",
+        "url": "https://www.booking.com/hotel/us/26-3b-1br-prime-gramercy-wd-in-unit-courtyard.en-gb.html",
+        "address": {
+            "addressLocality": "240 East 26th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "240 East 26th Street, Kips Bay, New York, 10010, United States",
+            "addressCountry": "USA",
+            "postalCode": "10010",
+            "addressRegion": "New York State"
+        },
+        "name": "26-3B 1BR prime gramercy WD in unit Courtyard",
+        "priceRange": "Prices for upcoming dates start at \u00a3234 per night (We Price Match)",
+        "description": "26-3B 1BR prime gramercy WD in unit Courtyard is located in the Kips Bay district of New York, 1.4 km from Empire State Building, 1."
+    }
+]

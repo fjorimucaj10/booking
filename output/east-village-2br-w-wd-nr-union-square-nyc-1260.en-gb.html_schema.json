@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.7 km from Bloomingdales and 1.1 km from Flatiron Building, East Village 2br w wd nr union square NYC-1260 offers air conditioning.",
+        "name": "East Village 2br w wd nr union square NYC-1260",
+        "address": {
+            "streetAddress": "East Village, New York, 10003, United States",
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/east-village-2br-w-wd-nr-union-square-nyc-1260.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501529758.jpg?k=7c5bf6d7ec34b4a11b0a88737d4c31ce40d9789d41a8ca5567058f61c6d56261&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7324098,-73.9874788&zoom=15&size=1600x1200&center=40.7324098,-73.9874788&sensor=false&client=gme-booking&channel=booking-frontend&signature=y-jNX1MO6ZZTyaZPJ-mDtLt5glc="
+    }
+]

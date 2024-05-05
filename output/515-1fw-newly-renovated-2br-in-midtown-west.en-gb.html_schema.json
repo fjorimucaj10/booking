@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/515-1fw-newly-renovated-2br-in-midtown-west.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7639766,-73.9934938&center=40.7639766,-73.9934938&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=fBZ1KnxK6sXKmwk-SQWCGFNL2ZU=",
+        "description": "Right in the centre of New York, situated within a short distance of Times Square and Radio City Music Hall, 515-1FW Newly renovated 2br in Midtown West...",
+        "priceRange": null,
+        "address": {
+            "streetAddress": "West 48th Street 515, Hell's Kitchen, New York, 10036, United States",
+            "addressLocality": "West 48th Street 515",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "name": "515-1FW Newly renovated 2br in Midtown West",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542855367.jpg?k=4a14652f2cbdb243ba224addef19c03aa8457b7bc301e25805ab898375334a80&o=&hp=1"
+    }
+]

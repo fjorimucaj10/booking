@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442485870.jpg?k=a35680adcea44f065fbfdb1b38a9e4137e510cf1d23e7567e905c7aa2c16d5d4&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/elegant-east-side.en-gb.html",
+        "address": {
+            "addressLocality": "160 East 88th Street",
+            "postalCode": "NY 10128",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "160 East 88th Street, Upper East Side, New York, NY 10128, United States"
+        },
+        "description": "Ideally located in the Upper East Side district of New York, Elegant East Side is set 3.2 km from Central Park, 3.2 km from Strawberry Fields and 4.",
+        "@type": "Hotel",
+        "name": "Elegant East Side",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7805587,-73.9544731&center=40.7805587,-73.9544731&client=gme-booking&channel=booking-frontend&signature=DddsnBnFAC7XivOVO2ITOXVD57E="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7461779,-73.9915600&sensor=false&size=1600x1200&center=40.7461779,-73.9915600&client=gme-booking&channel=booking-frontend&signature=vEvFfRYC9ey1Oz0ozzHJLDFbWuA=",
+        "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea",
+        "address": {
+            "addressLocality": "116 West 28th Street",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "streetAddress": "116 West 28th Street, Chelsea, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "reviewCount": 1000,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.7
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)",
+        "description": "The non-smoking Fairfield Inn Manhattan offers bright rooms with cable flat-screen TV and work desk, just one block from Broadway.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461595242.jpg?k=a5cd43d1df02e3153d6e9575007af96e89d0155d4c0b6454b88d6191317efec8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-new-york-manhattan-chelsea.en-gb.html"
+    }
+]

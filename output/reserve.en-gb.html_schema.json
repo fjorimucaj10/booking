@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Holiday Inn Wall Street, an IHG Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3172 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7089682,-74.0090923&zoom=15&size=1600x1200&markers=color:blue%7c40.7089682,-74.0090923&client=gme-booking&channel=booking-frontend&signature=NU2WZ3bRg45_RsuD6o5ZvHyw62E=",
+        "address": {
+            "postalCode": "NY 10038",
+            "addressCountry": "USA",
+            "addressLocality": "51 Nassau Street",
+            "addressRegion": "New York State",
+            "streetAddress": "51 Nassau Street, New York, NY 10038, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "This New York City hotel is a 2-minute walk from Wall Street Subway Station and 350 metres from New York Stock Exchange on Wall Street.",
+        "url": "https://www.booking.com/hotel/us/reserve.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/246921176.jpg?k=098855ae4458adfc008f67d31bd2bed4e5c8d1d7c2673266cb3ece514e49c3eb&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 809,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.1
+        }
+    }
+]

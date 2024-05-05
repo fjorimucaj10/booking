@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502620067.jpg?k=b38b5ad8361657ab0be0359eff1e9665ed3888d93d124f51ef59df7921b581dd&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/stunning-1bd-1ba-at-ues.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "23 East 77th Street",
+            "postalCode": "NY 10075",
+            "streetAddress": "23 East 77th Street, Upper East Side, New York, NY 10075, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "Stunning 1BD 1BA At UES is located in the Upper East Side district of New York, 1.4 km from Central Park, 2.3 km from Rockefeller Center and 2.",
+        "name": "Stunning 1BD 1BA At UES",
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7753327,-73.9634007&sensor=false&markers=color:blue%7c40.7753327,-73.9634007&client=gme-booking&channel=booking-frontend&signature=UDfwGJjP3khTFuIIcPcGyVBWfII="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "name": "Hotel Edison Times Square",
+        "address": {
+            "addressLocality": "228 West 47th Street",
+            "streetAddress": "228 West 47th Street, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7596825,-73.9863504&center=40.7596825,-73.9863504&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=0Ct3MM76IxIv0DPwLbli7KTBRkE=",
+        "description": "Ideally located in Times Square, this Manhattan hotel has been around since 1930.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539568331.jpg?k=8d43f344e8e6104ace7e81bdc4501ed368ed0df03156c565a8609a9935edd7af&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/edison-triumph-group.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 15091,
+            "ratingValue": 7.4,
+            "@type": "AggregateRating"
+        }
+    }
+]

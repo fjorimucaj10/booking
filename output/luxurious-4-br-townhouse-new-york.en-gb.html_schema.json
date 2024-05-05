@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "131 East 34th Street",
+            "addressCountry": "USA",
+            "streetAddress": "131 East 34th Street, Murray Hill, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016"
+        },
+        "description": "Set in New York, 800 metres from Grand Central Station and less than 1 km from Macy's, Luxurious 4 BR townhouse offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/luxurious-4-br-townhouse-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7466518,-73.9797894&zoom=15&markers=color:blue%7c40.7466518,-73.9797894&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=GGlXcxqHq4-b1defSsMkUXEyT0o=",
+        "name": "Luxurious 4 BR townhouse",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/456811491.jpg?k=df540b098bfb9aa44913aeafb1a91fbf30f6e1e48a3e0818036c4e6c902050bb&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a31,387 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

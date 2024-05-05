@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8005569,-73.9666801&zoom=15&sensor=false&size=1600x1200&center=40.8005569,-73.9666801&client=gme-booking&channel=booking-frontend&signature=G6cZza_Rlcy-PcCkOdAJOsoKdNg=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487769895.jpg?k=1d05706af35eb12712c95b43db18874a40d64a50871e1c42a27d30acf832009d&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1br-in-upper-west-side.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3328 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "1BR in Upper West Side",
+        "description": "Situated in New York, 3.3 km from Metropolitan Museum of Art and 3.4 km from Strawberry Fields, 1BR in Upper West Side offers air conditioning.",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "206 West 106th Street, Upper West Side, New York, NY 10025, United States",
+            "postalCode": "NY 10025",
+            "addressLocality": "206 West 106th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        }
+    }
+]

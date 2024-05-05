@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/56846525.jpg?k=d1afb912aae4f4e428fb605eb0d001db4ed25d08a234321d2327e2d15057aab9&o=&hp=1",
+        "name": "Executive Hotel Le Soleil New York",
+        "url": "https://www.booking.com/hotel/us/executive-le-soleil.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3214 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "38 West 36th Street, New York, NY 10018, United States",
+            "addressLocality": "38 West 36th Street",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 3850,
+            "ratingValue": 8.4,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7503358,-73.9854140&markers=color:blue%7c40.7503358,-73.9854140&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=14HdkKkNE9lsBQf_uHbYlCHHBW4=",
+        "description": "Featuring luxury boutique rooms and suites, Executive Hotel Le Soleil is located in New York, 450 metres from Bryant Park. Free WiFi access is available."
+    }
+]

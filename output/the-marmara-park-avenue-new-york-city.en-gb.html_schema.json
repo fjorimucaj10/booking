@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "The Marmara Park Avenue",
+        "url": "https://www.booking.com/hotel/us/the-marmara-park-avenue-new-york-city.en-gb.html",
+        "address": {
+            "streetAddress": "114 East 32nd Street, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "114 East 32nd Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3293 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/58485551.jpg?k=01f9875a1295fe69dc134a735913bfb4dea78e948be56b61309ca0da6f4d2344&o=&hp=1",
+        "description": "Featuring an on-site wine bar, this Manhattan hotel offers free WiFi access and rooms with a flat-screen TV.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7453465,-73.9816676&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7453465,-73.9816676&client=gme-booking&channel=booking-frontend&signature=Ih1EpoPHo4RpIgaciiQreMc1Ef0=",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 388
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7184301,-73.9926727&markers=color:blue%7c40.7184301,-73.9926727&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=P_gcaJiCEzSaTFmjiCIXfVMigZ8=",
+        "description": "Situated in New York, 1.6 km from NYU - New York University and 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/480422997.jpg?k=6940fdb414d1435018ab4ec3d31307a48c6f3ebb83f8a909df6bbcd7851216e8&o=&hp=1",
+        "address": {
+            "postalCode": "10002",
+            "streetAddress": "Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Amazing LES 1BR w WD nr parks NYC-803",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/amazing-les-1br-w-wd-nr-parks-nyc-803.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3140 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7517080,-73.9711853&zoom=15&size=1600x1200&center=40.7517080,-73.9711853&sensor=false&client=gme-booking&channel=booking-frontend&signature=VRsVjhY7v9KfrGRQPfO_Cu-W_3A=",
+        "url": "https://www.booking.com/hotel/us/aya.en-gb.html",
+        "address": {
+            "streetAddress": "837 2nd Avenue, Midtown East, New York, NY 10017, United States",
+            "postalCode": "NY 10017",
+            "addressLocality": "837 2nd Avenue",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 260,
+            "ratingValue": 8.3,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532689627.jpg?k=7987168c9f2605f920185e5ab9f3c2df1485f88b4eb73169b8e6473773075525&o=&hp=1",
+        "description": "Attractively set in the Midtown East district of New York, Little Charlie Hotel is situated 700 metres from Grand Central Station, 1.",
+        "name": "Little Charlie Hotel"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, less than 1 km from Penn Station and a 15-minute walk from Flatiron Building, 3BR Chelsea in NYC offers air conditioning.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "405 West 23rd Street",
+            "streetAddress": "405 West 23rd Street, Chelsea, New York, NY 10011, United States",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3604 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/3br-chelsea-in-nyc.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487958840.jpg?k=e30e7f83c497339d5469b45665825a58e74674c16f6d7b0dd8e7390d407d2783&o=&hp=1",
+        "name": "3BR Chelsea in NYC",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7467765,-74.0015965&zoom=15&size=1600x1200&markers=color:blue%7c40.7467765,-74.0015965&client=gme-booking&channel=booking-frontend&signature=w9FOWr6eBwv8Bkzw0i5lR48cL7U="
+    }
+]

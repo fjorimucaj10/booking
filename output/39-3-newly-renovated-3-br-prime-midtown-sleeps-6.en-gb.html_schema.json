@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532592165.jpg?k=9cf9752319d37a9400034f3bcc25adff42250b0918a836f363116e4e3d219dd0&o=&hp=1",
+        "address": {
+            "streetAddress": "359 West 39th Street, Hell's Kitchen, New York, 10018, United States",
+            "postalCode": "10018",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "359 West 39th Street",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7564964,-73.9936905&size=1600x1200&markers=color:blue%7c40.7564964,-73.9936905&client=gme-booking&channel=booking-frontend&signature=6bTxGVJ7u1puu44UFkuvc-0MIcA=",
+        "url": "https://www.booking.com/hotel/us/39-3-newly-renovated-3-br-prime-midtown-sleeps-6.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3697 per night (We Price Match)",
+        "name": "39-3 Newly renovated 3 BR Prime midtown sleeps 6",
+        "description": "Set in New York, 1 km from Macy's and less than 1 km from Times Square, 39-3 Newly renovated 3 BR Prime midtown sleeps 6 provides accommodation with...",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

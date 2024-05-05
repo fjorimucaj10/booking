@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hyatt Centric Midtown 5th Avenue New York",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "16 East 39th St",
+            "@type": "PostalAddress",
+            "streetAddress": "16 East 39th St, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7509700,-73.9814200&size=1600x1200&zoom=15&markers=color:blue%7c40.7509700,-73.9814200&client=gme-booking&channel=booking-frontend&signature=hC5DyxbxTyzAp2iM5oqC8POxn9A=",
+        "description": "Well situated in New York, Hyatt Centric Midtown 5th Avenue New York offers air-conditioned rooms, a fitness centre, free WiFi and a terrace.",
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/hyatt-centric-39th-5th-new-york.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 681,
+            "bestRating": 10,
+            "ratingValue": 8.0
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/419753105.jpg?k=615344506956e58371e1f4ae7150ebef9aa8dc14c7b8afaef85dc9e81fbadae0&o=&hp=1"
+    }
+]

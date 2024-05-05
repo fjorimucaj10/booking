@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cozy bright studio - Soho/Greenwich Village - 30+Days Only",
+        "url": "https://www.booking.com/hotel/us/cozy-bright-studio-soho-47-greenwich-village-30-days-only.en-gb.html",
+        "priceRange": null,
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "134 Sullivan Street Studio 3rd Floor, SoHo, New York, NY 10012, United States",
+            "addressLocality": "134 Sullivan Street Studio 3rd Floor",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10012"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/299076445.jpg?k=596dab433e7c506f02ae9a8252ab5472c1898c64910f9f875f89970eb222256c&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7268395,-74.0023417&markers=color:blue%7c40.7268395,-74.0023417&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=aRFD44NEn4THbEhI9fEE5B6InDs=",
+        "description": "Set in New York, 700 metres from NYU - New York University and 700 metres from Bloomingdales, Cozy bright studio - Soho/Greenwich Village - 30+Days Only...",
+        "@type": "Hotel"
+    }
+]

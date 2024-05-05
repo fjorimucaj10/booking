@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7583799,-73.9929429&markers=color:blue%7c40.7583799,-73.9929429&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=A9LK7DjCilpqcZ19EzKvqVXVRxs=",
+        "url": "https://www.booking.com/hotel/us/modern-2-bed-one-bath-at-west-side.en-gb.html",
+        "address": {
+            "addressLocality": "581 9th Avenue",
+            "streetAddress": "581 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036"
+        },
+        "name": "Modern 2 Bed One Bath At West Side",
+        "priceRange": "Prices for upcoming dates start at \u00a3659 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 2,
+            "ratingValue": 5.5,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533759496.jpg?k=9eeb2a052f89aa89aa4e4cec0fd21a2398e97ed9213f519752a5f19aab7720da&o=&hp=1",
+        "description": "In the centre of New York, located within a short distance of Times Square and Jacob K.",
+        "@type": "Hotel"
+    }
+]

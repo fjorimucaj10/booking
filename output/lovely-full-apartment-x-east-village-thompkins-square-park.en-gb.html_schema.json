@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520900051.jpg?k=2fad6e89b8f3367427dc1e56c6770c4e07c9f45ba04d614b68270ca16f9a91ee&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/lovely-full-apartment-x-east-village-thompkins-square-park.en-gb.html",
+        "address": {
+            "addressLocality": "211 East 4th Street #2",
+            "postalCode": "NY 10009",
+            "addressRegion": "New York State",
+            "streetAddress": "211 East 4th Street #2, East Village, New York, NY 10009, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3210 per night (We Price Match)",
+        "description": "Located in New York, 1.3 km from NYU - New York University and 1.",
+        "name": "Lovely Full Apartment x East Village (Thompkins Square Park)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7238986,-73.9835654&center=40.7238986,-73.9835654&zoom=15&client=gme-booking&channel=booking-frontend&signature=aCVkKQMs6UZ69C2sw4GHpjJ2OrM="
+    }
+]

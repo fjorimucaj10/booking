@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/538167533.jpg?k=030ae07a442014334deb1efbce19748b73d5a5e24cec1e9f65d8b5757e1be50f&o=&hp=1",
+        "description": "Situated in New York, 1.2 km from Rockefeller Center and 1.",
+        "name": "52-3DE Newly renovated 2BR BTH Midtown East",
+        "address": {
+            "streetAddress": "East 52nd Street 340, Midtown East, New York, 10022, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "East 52nd Street 340",
+            "addressRegion": "New York State",
+            "postalCode": "10022"
+        },
+        "priceRange": null,
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7552414,-73.9661799&center=40.7552414,-73.9661799&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=bVXh4gII6CeV9YCA8KKVMF6zW9M=",
+        "url": "https://www.booking.com/hotel/us/52-3de-newly-renovated-2br-bth-midtown-east.en-gb.html"
+    }
+]

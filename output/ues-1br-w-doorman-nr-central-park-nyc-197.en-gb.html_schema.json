@@ -1,0 +1,20 @@
+[
+    {
+        "name": "UES 1BR w Doorman nr Central Park NYC-197",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/464566665.jpg?k=9920f9da65c1fbed8b135e4d3f2ec7b39b7470fe7c4af9c7c634c604f31d4e1e&o=&hp=1",
+        "description": "Offering city views, UES 1BR w Doorman nr Central Park NYC-197 is an accommodation located in New York, 3.8 km from Rockefeller Center and 3.",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "streetAddress": "Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ues-1br-w-doorman-nr-central-park-nyc-197.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7723353,-73.9509810&sensor=false&zoom=15&markers=color:blue%7c40.7723353,-73.9509810&client=gme-booking&channel=booking-frontend&signature=2rZM6PlICcy6PIz1CyCrt9U509Q="
+    }
+]

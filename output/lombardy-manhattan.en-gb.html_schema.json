@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3281 per night (We Price Match)",
+        "description": "Located 805 metres from Central Park, this Manhattan hotel features free WiFi. The 59th Street subway station is 500 metres away.",
+        "address": {
+            "postalCode": "NY 10022",
+            "streetAddress": "111 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "addressLocality": "111 East 56th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/lombardy-manhattan.en-gb.html",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 8.4,
+            "reviewCount": 822,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7608392,-73.9705647&sensor=false&center=40.7608392,-73.9705647&zoom=15&client=gme-booking&channel=booking-frontend&signature=0x0pxkHzB8SF_h083DLczqUMr6A=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/226092786.jpg?k=3764ca576a81dded80bb06d49a1286233af1d1869ca2c4344b8bca2bed0dbc54&o=&hp=1",
+        "name": "Lombardy Hotel",
+        "@type": "Hotel"
+    }
+]

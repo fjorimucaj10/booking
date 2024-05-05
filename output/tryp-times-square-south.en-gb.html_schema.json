@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/186137464.jpg?k=c24484753d2e211f310352708aac171ddc757549f3fbdcb875e1c256eade2f60&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3164 per night (We Price Match)",
+        "name": "TRYP by Wyndham New York City Times Square - Midtown",
+        "description": "Located just a 5-minute walk from Penn Station, this contemporary Manhattan hotel features free Wi-Fi and a modern restaurant.",
+        "url": "https://www.booking.com/hotel/us/tryp-times-square-south.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7537083,-73.9946506&center=40.7537083,-73.9946506&sensor=false&client=gme-booking&channel=booking-frontend&signature=4H40m8jtI_D7w1ef7Kb_gSkvNmk=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 3109,
+            "bestRating": 10,
+            "ratingValue": 7.1
+        },
+        "address": {
+            "postalCode": "NY 10001",
+            "addressLocality": "345 West 35 Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "345 West 35 Street, Hell's Kitchen, New York, NY 10001, United States"
+        }
+    }
+]

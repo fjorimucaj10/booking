@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.1,
+            "reviewCount": 1116
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7446260,-73.9855290&zoom=15&center=40.7446260,-73.9855290&client=gme-booking&channel=booking-frontend&signature=qw3R17uBQ6rfoylfYI3_Plb498Q=",
+        "name": "The James New York - NoMad",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/380402605.jpg?k=4b8f2f824a02081dc110b95bd35824bd5e756c2675db43433708ad4f74738d7f&o=&hp=1",
+        "description": "Find your balance in NoMad. Experience sanctuary and scene at The James New York \u2013 NoMad, located on the corner of 29th Street and Madison Avenue.",
+        "priceRange": "Prices for upcoming dates start at \u00a3260 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "22 East 29th Street",
+            "streetAddress": "22 East 29th Street, NoMad, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016"
+        },
+        "url": "https://www.booking.com/hotel/us/the-james-new-york-nomad-ny.en-gb.html"
+    }
+]

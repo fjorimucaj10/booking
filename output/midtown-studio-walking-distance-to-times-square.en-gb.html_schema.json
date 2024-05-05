@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/midtown-studio-walking-distance-to-times-square.en-gb.html",
+        "address": {
+            "postalCode": "10036",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "name": "Midtown Studio - Walking Distance to Times Square",
+        "aggregateRating": {
+            "ratingValue": 5.7,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 4
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7612495,-73.9918976&center=40.7612495,-73.9918976&client=gme-booking&channel=booking-frontend&signature=pgEh43MqL_ELmpE3-h6bi8LL3VM=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Set in a central area of New York, 800 metres from Times Square, Midtown Studio - Walking Distance to Times Square offers air-conditioned accommodation...",
+        "priceRange": "Prices for upcoming dates start at \u00a3309 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474143843.jpg?k=affa82e2f603248e96f29768421016a0063cf6b9150744ee5414fabf418f47a4&o=&hp=1"
+    }
+]

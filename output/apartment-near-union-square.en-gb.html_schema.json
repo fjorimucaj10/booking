@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "76 East 13th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "76 East 13th Street, Union Square, New York, NY 10003, United States",
+            "postalCode": "NY 10003"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7335644,-73.9903310&size=1600x1200&zoom=15&center=40.7335644,-73.9903310&sensor=false&client=gme-booking&channel=booking-frontend&signature=VJfB5Cu5scU_Z7ohU9E81S51AS8=",
+        "@type": "Hotel",
+        "description": "Set in New York, 1.5 km from Bloomingdales and less than 1 km from Flatiron Building, Apartment near Union Square offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532323272.jpg?k=f0336a466c3f85ecf6377615ec315da8d6f844dd7a3bc330c2d851d81389bafa&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3293 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2,
+            "ratingValue": 10.0,
+            "bestRating": 10
+        },
+        "name": "Apartment near Union Square",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/apartment-near-union-square.en-gb.html"
+    }
+]

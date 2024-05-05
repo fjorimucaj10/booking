@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "244 West 109th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "244 West 109th Street, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10025"
+        },
+        "url": "https://www.booking.com/hotel/us/budget-upper-west-side-apartment-near-columbia-university.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/495410920.jpg?k=f6cc8f4c54666c5a8c51b05cd83dde5beeb1b065105491ed17805f5a3d3b144b&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 9.0,
+            "reviewCount": 1,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Central Living at Columbia university is situated in the Upper West Side district of New York, 3.8 km from Metropolitan Museum of Art, 4.",
+        "name": "Central Living at Columbia university",
+        "priceRange": "Prices for upcoming dates start at \u00a3301 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.8030176,-73.9663587&size=1600x1200&markers=color:blue%7c40.8030176,-73.9663587&client=gme-booking&channel=booking-frontend&signature=B58cKeljPeYYbP6WGqJ2YFoZ7Yg=",
+        "@context": "http://schema.org"
+    }
+]

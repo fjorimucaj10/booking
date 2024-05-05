@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/bryant-park.en-gb.html",
+        "description": "Located in central Manhattan and across the street from Bryant Park, this boutique hotel offers complimentary WiFi and gym.",
+        "address": {
+            "addressLocality": "40 West 40th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "streetAddress": "40 West 40th Street, New York, NY 10018, United States",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3318 per night (We Price Match)",
+        "name": "Bryant Park Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.8,
+            "reviewCount": 1166,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7529332,-73.9838413&markers=color:blue%7c40.7529332,-73.9838413&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=40EhNZolU_FlwUUUzkCgVR-3F5s=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/403821394.jpg?k=6c47aae00c909553b3cff81a4258fd185235585df84cf31314ea6fc679b3567e&o=&hp=1"
+    }
+]

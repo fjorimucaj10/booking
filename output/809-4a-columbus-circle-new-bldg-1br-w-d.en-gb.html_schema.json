@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850648.jpg?k=899a6e0d513f09013fc45c0137e539ed0218b71aa9675c92dac8269cc9ed6fb0&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3438 per night (We Price Match)",
+        "description": "In the Hell's Kitchen district of New York, close to Carnegie Hall, 809-4A Columbus Circle New BLDG 1BR W D has free WiFi and a washing machine.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7657700,-73.9874649&zoom=15&sensor=false&markers=color:blue%7c40.7657700,-73.9874649&client=gme-booking&channel=booking-frontend&signature=5_7PVtxPcuASKuU8ynL_3TIgS9g=",
+        "url": "https://www.booking.com/hotel/us/809-4a-columbus-circle-new-bldg-1br-w-d.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10019",
+            "addressCountry": "USA",
+            "addressLocality": "809 ninth avenue",
+            "streetAddress": "809 ninth avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressRegion": "New York State"
+        },
+        "name": "809-4A Columbus Circle New BLDG 1BR W D",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a31,472 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Set in New York, 2.7 km from Flatiron Building and 1.4 km from Empire State Building, 3 BR with Splendid River views offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/457601945.jpg?k=be92695721d4d3c04aa5edce86be3094e8c4dd9aa08c6e05356cb4126a990963&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "addressLocality": "400 East 35th Street",
+            "streetAddress": "400 East 35th Street, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7437724,-73.9719589&zoom=15&size=1600x1200&markers=color:blue%7c40.7437724,-73.9719589&client=gme-booking&channel=booking-frontend&signature=mz65aJdj2rxswtH7_1rKKJcIBM4=",
+        "url": "https://www.booking.com/hotel/us/3-br-with-splendid-river-views.en-gb.html",
+        "name": "3 BR with Splendid River views"
+    }
+]

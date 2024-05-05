@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10024",
+            "addressLocality": "209 West 87th Street",
+            "streetAddress": "209 West 87th Street, Upper West Side, New York, NY 10024, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "Located in New York, 1.9 km from Strawberry Fields and 2.1 km from Lincoln Center, Sylish 1 Bedroom Apartment in NYC! offers air conditioning.",
+        "@type": "Hotel",
+        "name": "Sylish 1 Bedroom Apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520631320.jpg?k=15e33fc98ad56c473e02cb5f1f19622df36cd66435c641316ae2852dd7c8672b&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7889054,-73.9750543&size=1600x1200&sensor=false&center=40.7889054,-73.9750543&zoom=15&client=gme-booking&channel=booking-frontend&signature=sIHtH9gDJ1w-g8nAFuyOpyPGDd4=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/sylish-1-bedroom-apartment-in-nyc.en-gb.html"
+    }
+]

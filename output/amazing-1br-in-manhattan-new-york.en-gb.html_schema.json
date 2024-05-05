@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Amazing 1Br in Manhattan",
+        "description": "Situated in New York, 1.4 km from Lincoln Center and 1.9 km from Central Park, Amazing 1Br in Manhattan offers air conditioning. The property is located 2.",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10024",
+            "streetAddress": "108 West 80th Street, Upper West Side, New York, NY 10024, United States",
+            "addressLocality": "108 West 80th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489091328.jpg?k=74b411d09a908ee3406eefff55c4fafb92353ef17a683bc2931bde7635f035e8&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3467 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7828414,-73.9758174&markers=color:blue%7c40.7828414,-73.9758174&sensor=false&client=gme-booking&channel=booking-frontend&signature=urOu2REC9QzrCOMryiokutn2MPI=",
+        "url": "https://www.booking.com/hotel/us/amazing-1br-in-manhattan-new-york.en-gb.html"
+    }
+]

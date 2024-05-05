@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "53 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "53 East 76th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3668 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "ratingValue": 3.0,
+            "bestRating": 10
+        },
+        "name": "Amazing 2 Bedroom Apartment At UES",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/amazing-2-bedroom-apartment-at-ues.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7742251,-73.9628048&sensor=false&markers=color:blue%7c40.7742251,-73.9628048&zoom=15&client=gme-booking&channel=booking-frontend&signature=R1cfw_4JotITV7hnnvI_rscB4f4=",
+        "description": "Amazing 2 Bedroom Apartment At UES is set in the Upper East Side district of New York, 1.5 km from Central Park, 2.4 km from St Patrick's Cathedral and 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503407347.jpg?k=a0d50905466f745ce18e780fab95f5cb61d25655a18f52ce2bf043e4b1dd1a72&o=&hp=1"
+    }
+]

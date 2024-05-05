@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524489007.jpg?k=01c5dc6fd2f06c64eb77b591b05199107565815851e4c6f0a9e61e99e93129e1&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-manhattan-at-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "The Manhattan at Times Square enjoys a central Manhattan location with Times Square 322 metres away and Rockefeller Centre at 645 metres from the property.",
+        "address": {
+            "postalCode": "NY 10019",
+            "streetAddress": "790 7th Avenue, New York, NY 10019, United States",
+            "addressLocality": "790 7th Avenue",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7621722,-73.9830559&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7621722,-73.9830559&client=gme-booking&channel=booking-frontend&signature=tBmtffkibE3Y-f3tmFQ4BwRCTV4=",
+        "aggregateRating": {
+            "reviewCount": 7277,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 5.6
+        },
+        "name": "The Manhattan at Times Square",
+        "@type": "Hotel"
+    }
+]

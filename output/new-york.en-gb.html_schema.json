@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/519844120.jpg?k=16eb7080c14667acf017425c87de00940d14577a8145a2f446c8ab397131bba0&o=&hp=1",
+        "name": "Sofitel New York",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 975,
+            "ratingValue": 7.6
+        },
+        "description": "This midtown Manhattan hotel is within a 7-minute walk from Times Square and several subway stations.",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3312 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7557026,-73.9819363&markers=color:blue%7c40.7557026,-73.9819363&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ng72r2MNxwsWMxVxKHcxqq90fCA=",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "45 West 44th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressLocality": "45 West 44th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/new-york.en-gb.html"
+    }
+]

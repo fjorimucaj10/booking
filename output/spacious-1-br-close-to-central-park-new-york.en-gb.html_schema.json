@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 1.5 km from One World Trade Center and 1.7 km from Bloomingdales, Spacious 1 BR close to Central Park offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7102233,-73.9992489&center=40.7102233,-73.9992489&client=gme-booking&channel=booking-frontend&signature=SAHHc3temKhvvcM5vgN4f0S4XbU=",
+        "url": "https://www.booking.com/hotel/us/spacious-1-br-close-to-central-park-new-york.en-gb.html",
+        "name": "Spacious 1 BR close to Central Park",
+        "address": {
+            "postalCode": "NY 10038",
+            "streetAddress": "7 Saint James Place, New York, NY 10038, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "7 Saint James Place",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490267454.jpg?k=14223c53c703324b4022618b80c0003469350901f8a1588711ff062cb372f60c&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3351 per night (We Price Match)"
+    }
+]

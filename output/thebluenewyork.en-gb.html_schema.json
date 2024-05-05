@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/310186718.jpg?k=0db03188b270db8ecf8ff658ad06e509629cb21060aed77702bfe2894cbef399&o=&hp=1",
+        "name": "Hotel and the City, Empire State Building",
+        "description": "Offering a shared lounge and city view, Hotel and the City, Empire State Building is located in New York, 700 metres from Madison Square Garden and 800...",
+        "address": {
+            "postalCode": "NY 10001",
+            "streetAddress": "38 west 31st street, NoMad, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "38 west 31st street",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3256 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/thebluenewyork.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7472110,-73.9878074&markers=color:blue%7c40.7472110,-73.9878074&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=nS_jw8g3tCrIlkL1gwzNDW2xG4o=",
+        "aggregateRating": {
+            "reviewCount": 1221,
+            "bestRating": 10,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel"
+    }
+]

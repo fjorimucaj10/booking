@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537077651.jpg?k=1c2bfbf9c3666acf1c1a47370b370befa2c11320645cd58707fd5046ac0d259e&o=&hp=1",
+        "description": "THE CENTRAL PARK EAST by THE MUSEUM MILE in New York offers accommodation with free WiFi, 2.3 km from Metropolitan Museum of Art, 3.",
+        "name": "THE CENTRAL PARK EAST by THE MUSEUM MILE",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-central-park-east-by-the-museum-mile.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3188 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7914984,-73.9467373&zoom=15&markers=color:blue%7c40.7914984,-73.9467373&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qNB_teLNUja8bvYgbtfoEU1xBz8=",
+        "address": {
+            "streetAddress": "154 East 105th Street, East Harlem, New York, NY 10029, United States",
+            "postalCode": "NY 10029",
+            "addressCountry": "USA",
+            "addressLocality": "154 East 105th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "123 West 44th Street",
+            "streetAddress": "123 West 44th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/76919268.jpg?k=833f60d5e06be6f765b64393899cc016162bcd75ca140beb1ae121cded4ed081&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 211,
+            "ratingValue": 8.6
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7567946,-73.9842664&zoom=15&markers=color:blue%7c40.7567946,-73.9842664&client=gme-booking&channel=booking-frontend&signature=kJLgxkv2zlJACmnCzwFwrN-hwqU=",
+        "@context": "http://schema.org",
+        "description": "AKA\u2019s luxury furnished apartments in Times Square provide a peaceful, private retreat in the heart of one of the world\u2019s most iconic cities.",
+        "priceRange": "Prices for upcoming dates start at \u00a3407 per night (We Price Match)",
+        "name": "AKA Times Square",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/aka-times-square.en-gb.html"
+    }
+]

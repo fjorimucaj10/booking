@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7936400,-73.9730300&markers=color:blue%7c40.7936400,-73.9730300&client=gme-booking&channel=booking-frontend&signature=t-d5Tnjs01lqNqkxKqKbIuulwcA=",
+        "url": "https://www.booking.com/hotel/us/blueground-uw-gym-doorman-nr-central-park-nyc-1441.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Blueground UW gym doorman nr Central Park NYC-1441",
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10025, United States",
+            "postalCode": "10025"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534076873.jpg?k=a01d3ca9f9527f4138c9c23e8a76c928ba309cfdd7f168543fc90b64aa810353&o=&hp=1",
+        "description": "Offering city views, Blueground UW gym doorman nr Central Park NYC-1441 is an accommodation set in New York, 2.5 km from Strawberry Fields and 2."
+    }
+]

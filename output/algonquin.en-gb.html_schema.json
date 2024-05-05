@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Boasting a rich history of notable guests, this hotel is located in Manhattan, within a 7 minute walk of Times Square and Grand Central Station.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7559484,-73.9822876&center=40.7559484,-73.9822876&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=5trSNoUqT72QsnFu3uAE00gGZMY=",
+        "url": "https://www.booking.com/hotel/us/algonquin.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3233 per night (We Price Match)",
+        "address": {
+            "streetAddress": "59 West 44th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressLocality": "59 West 44th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461595569.jpg?k=199208558469d3f746dffb041cef2b613f3f46cb95e9d3e30eb72818a621187f&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "The Algonquin Hotel Times Square, Autograph Collection",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.1,
+            "reviewCount": 134,
+            "@type": "AggregateRating"
+        }
+    }
+]

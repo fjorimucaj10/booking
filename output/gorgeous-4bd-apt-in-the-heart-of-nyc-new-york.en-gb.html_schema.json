@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Gorgeous 4BD apt in the heart of NYC is situated in the Harlem district of New York, 3.8 km from Metropolitan Museum of Art, 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/514154931.jpg?k=fa7e8f872299b9c25ad8da9252929df38f0189e361a34059bcd6f02dd096a632&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Gorgeous 4BD apt in the heart of NYC",
+        "address": {
+            "addressLocality": "373 Manhattan Avenue",
+            "postalCode": "10026",
+            "streetAddress": "373 Manhattan Avenue, Harlem, New York, 10026, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/gorgeous-4bd-apt-in-the-heart-of-nyc-new-york.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 6,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 5.5
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3313 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8049763,-73.9570401&zoom=15&sensor=false&size=1600x1200&center=40.8049763,-73.9570401&client=gme-booking&channel=booking-frontend&signature=JRM9ljg_iHmNXvOc0d6SCBgbhSU="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475015054.jpg?k=642d6d23f4bc334c1b008d7ab26e2febe0da368c136e81a16bb4f13e03649cd1&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10001",
+            "streetAddress": "132 West 26th Street 8, Chelsea, New York, 10001, United States",
+            "addressLocality": "132 West 26th Street 8",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7451757,-73.9929060&sensor=false&center=40.7451757,-73.9929060&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=EryVimjUMEPdxUICWAtrBcDddO0=",
+        "url": "https://www.booking.com/hotel/us/stylish-penthouse-with-ceiling-to-floor-windows.en-gb.html",
+        "description": "Located in New York, less than 1 km from Madison Square Garden and a 10-minute walk from Penn Station, Stylish Penthouse with Ceiling to Floor Windows...",
+        "name": "Stylish Penthouse with Ceiling to Floor Windows",
+        "priceRange": null
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "New York City GuestHouse",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 12
+        },
+        "description": "Located within 3.1 km of Yankee Stadium and 3.8 km of Columbia University, New York City GuestHouse provides rooms with air conditioning and a private...",
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/new-york-city-guesthouse.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10037",
+            "streetAddress": "49 West 130th Street, Harlem, New York, NY 10037, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "49 West 130th Street",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.8105766,-73.9417800&zoom=15&center=40.8105766,-73.9417800&client=gme-booking&channel=booking-frontend&signature=vOTvOaUYqUi49BFA8kwVwS3dwTs=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535429494.jpg?k=02505234271780016d776ba3ff85e563c132f759de52032831465d2b3452a8ff&o=&hp=1"
+    }
+]

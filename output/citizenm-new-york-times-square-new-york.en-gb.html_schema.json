@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.6,
+            "reviewCount": 3787
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3212 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/267120053.jpg?k=c7b756d37479abc632d41b09d15c925efa1de89f08216ff41f49eb209a89c7c8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/citizenm-new-york-times-square-new-york.en-gb.html",
+        "address": {
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "218 West 50th Street, New York, NY 10019, United States",
+            "addressLocality": "218 West 50th Street"
+        },
+        "description": "Located right in the heart of Manhattan, this hotel is just 1 minute's walk from Times Square and within 5 minutes' walk of Central Park and Columbus...",
+        "@type": "Hotel",
+        "name": "citizenM New York Times Square",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7615732,-73.9850216&markers=color:blue%7c40.7615732,-73.9850216&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=ta5q0TP7Y_0Og0FOR0I4jPhm3pA="
+    }
+]

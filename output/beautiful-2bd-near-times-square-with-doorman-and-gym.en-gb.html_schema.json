@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated right in the heart of New York, 500 metres from Radio City Music Hall, Beautiful 2BD near Times Square with Doorman and Gym features...",
+        "url": "https://www.booking.com/hotel/us/beautiful-2bd-near-times-square-with-doorman-and-gym.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3472 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "70 West 45th Street",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10036"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7563378,-73.9822170&center=40.7563378,-73.9822170&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=j7r0n1UQydxnbchr_bx6YYZUJVQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475004403.jpg?k=743e0a2888b5fc0135998fdc11e4575b3a721f157c4c4ba4473c5060510b5c4c&o=&hp=1",
+        "name": "Beautiful 2BD near Times Square with Doorman and Gym"
+    }
+]

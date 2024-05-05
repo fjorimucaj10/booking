@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Gorgeous 2 bedroom in Tribeca",
+        "priceRange": "Prices for upcoming dates start at \u00a3854 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505654582.jpg?k=5bd8e238e4d0e8800b29277f3141b5dcbf1cee457b34614a8752632497836867&o=&hp=1",
+        "description": "In a prime location in the Tribeca district of New York, Gorgeous 2 bedroom in Tribeca is situated less than 1 km from National September 11 Memorial &...",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2,
+            "ratingValue": 10.0,
+            "bestRating": 10
+        },
+        "address": {
+            "addressLocality": "130 Duane Street",
+            "addressCountry": "USA",
+            "streetAddress": "130 Duane Street, Tribeca, New York, NY 10013, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7158452,-74.0074501&size=1600x1200&sensor=false&center=40.7158452,-74.0074501&client=gme-booking&channel=booking-frontend&signature=vI0tyPSae06sDLmLPpXzLiLobso=",
+        "url": "https://www.booking.com/hotel/us/gorgeous-2-bedroom-in-tribeca.en-gb.html"
+    }
+]

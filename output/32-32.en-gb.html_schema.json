@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hotel 32 32",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/182776866.jpg?k=00d46321803212ac3ade06fb10f73d7c952ead5c075236f4fd143489befcc620&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3175 per night (We Price Match)",
+        "description": "32 32 Hotel boasts privileged central location in New York City, only 300 metres from the Empire State Building and 2 km from Grand Central Station.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7461404,-73.9833585&sensor=false&size=1600x1200&markers=color:blue%7c40.7461404,-73.9833585&client=gme-booking&channel=booking-frontend&signature=3F5Q5QuToPnk3-Gjg7rG3ExptRA=",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 6.8,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 720
+        },
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressLocality": "32 East 32nd Street",
+            "streetAddress": "32 East 32nd Street, New York, NY 10016, United States",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/32-32.en-gb.html"
+    }
+]

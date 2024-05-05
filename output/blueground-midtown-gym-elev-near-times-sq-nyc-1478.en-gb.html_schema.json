@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "New York, 10018, United States",
+            "postalCode": "10018",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "description": "Offering city views, Blueground Midtown gym elev near Times Sq NYC-1478 is an accommodation set in New York, less than 1 km from Bryant Park and a 7-minute...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551042782.jpg?k=f90f8efc077d110181fb274d0a88af490c43624ef53af7bbdb110bb1de6181d9&o=&hp=1",
+        "name": "Blueground Midtown gym elev near Times Sq NYC-1478",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7526200,-73.9897520&center=40.7526200,-73.9897520&client=gme-booking&channel=booking-frontend&signature=pqUCkM5XE3yFV0EWZ4hghR3qwRU=",
+        "url": "https://www.booking.com/hotel/us/blueground-midtown-gym-elev-near-times-sq-nyc-1478.en-gb.html"
+    }
+]

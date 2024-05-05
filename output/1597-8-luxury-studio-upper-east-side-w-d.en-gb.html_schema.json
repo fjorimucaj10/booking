@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411288516.jpg?k=e59dd5f7dff94072293bcc70f2e3d3695d903bddaeecbe6624ff0b9813689592&o=&hp=1",
+        "description": "Situated in New York, 3.2 km from Central Park and 4.1 km from Rockefeller Center, 1597-8 Luxury STUDIO Upper East Side W&D offers air conditioning.",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3370 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7749268,-73.9481632&center=40.7749268,-73.9481632&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=TUyxIe74qzkF1GdI3A6nHfu4kB8=",
+        "url": "https://www.booking.com/hotel/us/1597-8-luxury-studio-upper-east-side-w-d.en-gb.html",
+        "name": "1597-8 Luxury STUDIO Upper East Side W&D",
+        "address": {
+            "postalCode": "10028",
+            "addressLocality": "1597 York Avenue",
+            "addressRegion": "New York State",
+            "streetAddress": "1597 York Avenue, Upper East Side, New York, 10028, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel"
+    }
+]

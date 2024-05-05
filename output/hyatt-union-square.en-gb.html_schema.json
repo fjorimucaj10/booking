@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.7,
+            "reviewCount": 276
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7333047,-73.9898154&sensor=false&zoom=15&markers=color:blue%7c40.7333047,-73.9898154&client=gme-booking&channel=booking-frontend&signature=CNumrbZK-dMi2H-a1uwIXxjWMrg=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10003",
+            "addressLocality": "134 Fourth Avenue (corner of 13th Street and Fourth Avenue)",
+            "@type": "PostalAddress",
+            "streetAddress": "134 Fourth Avenue (corner of 13th Street and Fourth Avenue), Union Square, New York, NY 10003, United States",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/hyatt-union-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/225505130.jpg?k=52d1e0a23801aafc44168f148ce0f7a5d54da13e176320c63f737472446f5c5f&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3283 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Hyatt Union Square New York",
+        "description": "Located 322 metres from the Union Square Park, the Hyatt Union Square New York offers complimentary WiFi.",
+        "@context": "http://schema.org"
+    }
+]

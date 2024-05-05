@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 5579,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-new-york-manhattan-times-sqaure.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461625054.jpg?k=77210004c3c03edb566cb43541547c7d3015f6d4d7fcad8812999022e1168f29&o=&hp=1",
+        "description": "Stay in the center of it all, Times Square. The Fairfield by Marriott New York Manhattan/Times Square blends stylish comfort with extraordinary amenities.",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "330 West 40th Street",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "streetAddress": "330 West 40th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7565153,-73.9924827&sensor=false&markers=color:blue%7c40.7565153,-73.9924827&client=gme-booking&channel=booking-frontend&signature=hbAm0XKuZTmJPvtlw8yq3YtCV00=",
+        "priceRange": "Prices for upcoming dates start at \u00a3212 per night (We Price Match)",
+        "name": "Fairfield Inn & Suites By Marriott New York Manhattan/Times Square"
+    }
+]

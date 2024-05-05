@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7389107,-73.9808273&center=40.7389107,-73.9808273&zoom=15&client=gme-booking&channel=booking-frontend&signature=eWbneHAvCAQIxKJp2gFOqOjZg3U=",
+        "url": "https://www.booking.com/hotel/us/24-6-gramercy-area-newly-reno-studio-w-d-in-unit.en-gb.html",
+        "name": "24-6 Gramercy area Newly reno Studio W D in unit",
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "241 East 24th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10010"
+        },
+        "@context": "http://schema.org",
+        "description": "Situated in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, 24-6 Gramercy area Newly reno Studio W D in...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503707958.jpg?k=655d0897d32935b0d916f2b66e7d13aeb926dac58a6f52605ea8d7d11b42bc88&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7505102,-73.9857705&size=1600x1200&zoom=15&center=40.7505102,-73.9857705&sensor=false&client=gme-booking&channel=booking-frontend&signature=Ww0gN_9IJZMTZAnf64wJIS9UiA4=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3166 per night (We Price Match)",
+        "description": "Just 5 minutes\u2019 walk from the Empire State Building, this Manhattan hotel offers free Wi-Fi and modern rooms equipped with a flat-screen TV.",
+        "name": "Hyatt Place New York/Midtown-South",
+        "url": "https://www.booking.com/hotel/us/hyatt-place-new-york.en-gb.html",
+        "address": {
+            "addressLocality": "52 West 36th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "streetAddress": "52 West 36th Street, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "@type": "AggregateRating",
+            "reviewCount": 3190,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535387426.jpg?k=6f0deb4482d3d30b47e305d0af4478054503a1e5a272bbe5ee797ad6e21b5e90&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

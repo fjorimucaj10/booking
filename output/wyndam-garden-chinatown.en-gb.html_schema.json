@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/wyndam-garden-chinatown.en-gb.html",
+        "description": "Located in Chinatown, this Wyndham hotel is 1.2 km SoHo. The hotel offers free Wi-Fi access and has an on-site restaurant and bar.",
+        "priceRange": "Prices for upcoming dates start at \u00a3182 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressRegion": "New York State",
+            "streetAddress": "93 Bowery Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "93 Bowery Street",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "reviewCount": 718,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.5
+        },
+        "name": "Wyndham Garden Chinatown",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/257291851.jpg?k=e58d430c6e58c3a1977adabfbfccd7614c67f6c871bae3d4f0f02ee0296cc023&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7170338,-73.9953312&sensor=false&zoom=15&center=40.7170338,-73.9953312&client=gme-booking&channel=booking-frontend&signature=xpAZNjkBXUGhVgC8G5LYCbzOcpQ="
+    }
+]

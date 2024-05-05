@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7516290,-73.9912590&size=1600x1200&markers=color:blue%7c40.7516290,-73.9912590&zoom=15&client=gme-booking&channel=booking-frontend&signature=jhf9VjNtkqBq2UEawKER52FlIik=",
+        "aggregateRating": {
+            "reviewCount": 1393,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4
+        },
+        "url": "https://www.booking.com/hotel/us/renaissance-new-york-midtown.en-gb.html",
+        "name": "Renaissance New York Midtown Hotel",
+        "description": "Set in New York, Renaissance New York Midtown Hotel features free WiFi.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "218 West 35th Street, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "addressLocality": "218 West 35th Street",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461830185.jpg?k=e4597bfa553e466f0a8324e9f013ebe12c7213cad1146f77d912fbd0f79f138b&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3240 per night (We Price Match)"
+    }
+]

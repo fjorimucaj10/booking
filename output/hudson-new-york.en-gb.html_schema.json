@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3151 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5.5,
+            "reviewCount": 2,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/549516912.jpg?k=9240e3681a9f15d43d5256186b3357cd6f8440a30c2067e561ed5037730b4c14&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/hudson-new-york.en-gb.html",
+        "description": "Set in the centre of New York, less than 1 km from Macy's, HUDSON offers air-conditioned rooms and free WiFi.",
+        "address": {
+            "addressLocality": "330 West 36th Street",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "330 West 36th Street, Hell's Kitchen, New York, NY 10018, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7547713,-73.9959715&markers=color:blue%7c40.7547713,-73.9959715&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=W0YF8nKBajOHEaDe63-Afd7KmFQ=",
+        "name": "HUDSON"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Unique 2BD Apartment in Perfect Location next to Time Square",
+        "description": "In the Hell's Kitchen district of New York, close to Broadway Theatre, Unique 2BD Apartment in Perfect Location next to Time Square features free WiFi and...",
+        "priceRange": "Prices for upcoming dates start at \u00a3376 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 3,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.0
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536697207.jpg?k=6e9e33cb3ab9e167f9f50df5de19ff94ae62762358ddef03dc856be98000e4a0&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7622018,-73.9878513&zoom=15&sensor=false&markers=color:blue%7c40.7622018,-73.9878513&client=gme-booking&channel=booking-frontend&signature=J4ndvlpcJjENxDTe3zpcXVish-E=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "West 49th Street z-b, Hell's Kitchen, New York, 10019, United States",
+            "postalCode": "10019",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "West 49th Street z-b"
+        },
+        "url": "https://www.booking.com/hotel/us/unique-2bd-apartment-in-perfect-location-of-hells-kitchen.en-gb.html",
+        "@type": "Hotel"
+    }
+]

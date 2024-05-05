@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-harlem-getaway-new-york12.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "3.1 km from Yankee Stadium, The Harlem Getaway is located in New York and provides free WiFi and express check-in and check-out.",
+        "priceRange": "Prices for upcoming dates start at \u00a3218 per night (We Price Match)",
+        "name": "The Harlem Getaway",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "reviewCount": 384,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465885945.jpg?k=1cbabdaf0cda929b04f7aa65bd8a0a8f5fb4b917728c68c854bfa232e6175e5e&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "@type": "PostalAddress",
+            "addressLocality": "133 West 130th Street",
+            "streetAddress": "133 West 130th Street, Harlem, New York, NY 10027, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.8117210,-73.9445350&markers=color:blue%7c40.8117210,-73.9445350&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dfIff8arz_BLHT62gUncdlHd8iw="
+    }
+]

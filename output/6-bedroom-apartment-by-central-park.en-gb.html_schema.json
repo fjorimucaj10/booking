@@ -1,0 +1,20 @@
+[
+    {
+        "name": "6-Bedroom Apartment by Central Park",
+        "@type": "Hotel",
+        "description": "Located in New York, 1.1 km from Columbia University and 3.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.8002002,-73.9650461&markers=color:blue%7c40.8002002,-73.9650461&sensor=false&client=gme-booking&channel=booking-frontend&signature=kA0VmXNjWylg38yBiBO_1n0idEs=",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10025",
+            "addressCountry": "USA",
+            "streetAddress": "West 106th Street, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "West 106th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482877167.jpg?k=89da6bf4ceee508c98fe255e373571af8728ec9b865b61b8c58b8adaaa08fd1d&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/6-bedroom-apartment-by-central-park.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,562 per night (We Price Match)"
+    }
+]

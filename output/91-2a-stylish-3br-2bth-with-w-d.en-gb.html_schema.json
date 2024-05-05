@@ -1,0 +1,20 @@
+[
+    {
+        "name": "91-2A Stylish 3BR 2Bth with W D",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/527040821.jpg?k=f56d661791ea4a3c45c450cb27d1066a15671bec0d960c733a44e84607a4765f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7827919,-73.9540178&zoom=15&markers=color:blue%7c40.7827919,-73.9540178&client=gme-booking&channel=booking-frontend&signature=-qctjtkJ6pz2DvBNgtqbbEFL4NQ=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10128",
+            "addressLocality": "East 91st Street 118",
+            "streetAddress": "East 91st Street 118, Upper East Side, New York, 10128, United States",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "description": "Located in New York, 1.1 km from Metropolitan Museum of Art and 2.9 km from Central Park, 91-2A Stylish 3BR 2Bth with W D offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/91-2a-stylish-3br-2bth-with-w-d.en-gb.html",
+        "priceRange": null
+    }
+]

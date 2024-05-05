@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Offering city views, Chelsea 1br w doorman elevator nr High Line NYC-601 is an accommodation set in New York, 1.",
+        "url": "https://www.booking.com/hotel/us/chelsea-1br-w-doorman-elevator-nr-high-line-nyc-601.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7422500,-73.9989070&size=1600x1200&sensor=false&markers=color:blue%7c40.7422500,-73.9989070&zoom=15&client=gme-booking&channel=booking-frontend&signature=LqJDlaxyt5Iam6y1bd_6fu2I7z0=",
+        "name": "Chelsea 1br w doorman elevator nr High Line NYC-601",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/525353107.jpg?k=833f5e1c2d4d52265b65af3ef1bf42a971964fbad295daf5a461e6131169ce68&o=&hp=1",
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "Chelsea, New York, 10011, United States",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "postalCode": "10011"
+        }
+    }
+]

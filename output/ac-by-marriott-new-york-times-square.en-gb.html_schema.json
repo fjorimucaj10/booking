@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 740,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.3
+        },
+        "@context": "http://schema.org",
+        "description": "Ideally set in New York, AC Hotel by Marriott New York Times Square offers air-conditioned rooms, a restaurant, free WiFi and a bar.",
+        "url": "https://www.booking.com/hotel/us/ac-by-marriott-new-york-times-square.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "260 West 40th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "streetAddress": "260 West 40th Street, New York, NY 10018, United States"
+        },
+        "name": "AC Hotel by Marriott New York Times Square",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/430809047.jpg?k=701130aec3f7ffd7abc570fd2baf043f7130359025e69aad2600c6d034c3c446&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7554330,-73.9901810&zoom=15&sensor=false&markers=color:blue%7c40.7554330,-73.9901810&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=n3wQ2N_tSaP2FgBmVvtuzE-ZYNY="
+    }
+]

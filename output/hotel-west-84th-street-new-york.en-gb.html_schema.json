@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 6.8,
+            "@type": "AggregateRating",
+            "reviewCount": 1087,
+            "bestRating": 10
+        },
+        "description": "Located less than 1 km from Times Square, Comfort Inn Manhattan - Midtown West offers a complimentary breakfast every morning.",
+        "name": "Comfort Inn Manhattan - Midtown West",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "548 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressLocality": "548 West 48th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7643604,-73.9946379&sensor=false&markers=color:blue%7c40.7643604,-73.9946379&client=gme-booking&channel=booking-frontend&signature=VzmqsOLeuSGiXDZxPRK4rhIoeAs=",
+        "url": "https://www.booking.com/hotel/us/hotel-west-84th-street-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542688922.jpg?k=c3b7a4fa694d80ca3abe60eb2386ac83531e5a974a37efc369f17daaa135b031&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3125 per night (We Price Match)"
+    }
+]

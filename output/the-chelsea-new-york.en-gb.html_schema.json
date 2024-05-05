@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-chelsea-new-york.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "222 West 23rd Street, Chelsea, New York, NY 10011, United States",
+            "addressLocality": "222 West 23rd Street",
+            "postalCode": "NY 10011"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 9.3,
+            "reviewCount": 1058
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461591207.jpg?k=a6cd67948d3261e10e6d2d3a9c7395d917ac7ea64f1924a4f88aa4c92ffac440&o=&hp=1",
+        "description": "Located in New York and with Flatiron Building reachable within 800 metres, The Hotel Chelsea provides concierge services, allergy-free rooms, a fitness...",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3396 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7443340,-73.9968730&center=40.7443340,-73.9968730&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Ex3g9YUJieI8CX6abbbpHuTprgE=",
+        "name": "The Hotel Chelsea"
+    }
+]

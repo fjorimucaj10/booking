@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "New York, 10036, United States",
+            "postalCode": "10036",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/midtown-2br-w-doorman-nr-theater-district-nyc-1349.en-gb.html",
+        "name": "Midtown 2br w doorman nr theater district NYC-1349",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512594021.jpg?k=08141ae35b8d4e291556d2e57442d8def1e4a3e12d0cfceb74d068da74cb90d1&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7607614,-73.9861055&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7607614,-73.9861055&client=gme-booking&channel=booking-frontend&signature=WCtBob-7lkf4Xn6SEBV84JJwE0w=",
+        "description": "Located in the centre of New York, 700 metres from Radio City Music Hall and less than 1 km from Rockefeller Center, Midtown 2br w doorman nr theater...",
+        "priceRange": null
+    }
+]

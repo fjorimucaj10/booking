@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7564630,-73.9922856&center=40.7564630,-73.9922856&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=NjO7aS001BINwp9tZGfNnOncvAk=",
+        "url": "https://www.booking.com/hotel/us/four-points-by-sheraton-midtown-times-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465570403.jpg?k=6149e8ce44df92e31925af76a6b6377d6854039225f380ca90c3d2ae3813b735&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "streetAddress": "326 West 40th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "326 West 40th Street"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2181,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Four Points by Sheraton Midtown - Times Square",
+        "description": "Located 966 metres from the Theatre District and 644 metres from Times Square, this property features a restaurant and a fitness centre."
+    }
+]

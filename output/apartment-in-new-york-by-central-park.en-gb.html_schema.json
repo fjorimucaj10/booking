@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 9.0,
+            "@type": "AggregateRating",
+            "reviewCount": 2
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7990324,-73.9410567&markers=color:blue%7c40.7990324,-73.9410567&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dQo1G9ocMJcJXCxvLhtjupdJCCk=",
+        "description": "Apartment in New York By Central Park is set in the East Harlem district of New York, 5 km from Strawberry Fields, 5 km from Yankee Stadium and 5.",
+        "url": "https://www.booking.com/hotel/us/apartment-in-new-york-by-central-park.en-gb.html",
+        "name": "Apartment in New York By Central Park",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10035",
+            "addressRegion": "New York State",
+            "addressLocality": "156 East 117th Street",
+            "streetAddress": "156 East 117th Street, East Harlem, New York, NY 10035, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3478 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537976185.jpg?k=2f7a532ef05168dd09ffe4b9e821b7ee61256ad60513af317b15e6c5653eef85&o=&hp=1"
+    }
+]

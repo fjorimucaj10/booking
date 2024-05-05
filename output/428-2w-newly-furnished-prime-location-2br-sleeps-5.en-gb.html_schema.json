@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "In a central area of New York, located within a short distance of Jacob K.",
+        "url": "https://www.booking.com/hotel/us/428-2w-newly-furnished-prime-location-2br-sleeps-5.en-gb.html",
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "428 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "428 West 47th Street",
+            "postalCode": "10036",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7619858,-73.9916611&markers=color:blue%7c40.7619858,-73.9916611&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=3_muFahaLw_VWPdDesl7d-RvK08=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412853893.jpg?k=abc4bb09cf8be7525a9e8587f7278a073a1526484f12fb1bccb56f94962960aa&o=&hp=1",
+        "name": "428-2W Newly Furnished Prime Location 2BR Sleeps 5"
+    }
+]

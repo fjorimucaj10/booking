@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7181969,-74.0039905&center=40.7181969,-74.0039905&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=j91Q1aSuYNG_ORNlr0fj1lvwMtI=",
+        "description": "Located in New York, 700 metres from Bloomingdales and 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/493045175.jpg?k=78fb91d0b6f4bed66126df47a0088e0bc1545347691a790f0ce1b97e68a4fef6&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Rasila SoHo",
+        "address": {
+            "addressLocality": "55 White Street 6",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "55 White Street 6, Tribeca, New York, NY 10013, United States",
+            "postalCode": "NY 10013",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/rasila-stars.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

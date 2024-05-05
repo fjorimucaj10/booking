@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7578995,-73.9645827&markers=color:blue%7c40.7578995,-73.9645827&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=dJfpHEyQYKOwu4bU2tdVeXve1ZQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/509090372.jpg?k=dc9f215d62456fea95b8812dd9aa8db87bad8c498edb9096392340b4fb266888&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/unique-studio-apartment-at-east-side.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "328 East 56th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022",
+            "streetAddress": "328 East 56th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "description": "Located in New York, 1.5 km from Rockefeller Center and 1.6 km from Carnegie Hall, Unique Studio Apartment At East Side offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3390 per night (We Price Match)",
+        "name": "Unique Studio Apartment At East Side"
+    }
+]

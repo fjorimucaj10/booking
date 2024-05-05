@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in the heart of New York, 500 metres from Radio City Music Hall, Stylish 2BD with Washer and Dryer near Times Square offers air-conditioned...",
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)",
+        "address": {
+            "addressLocality": "70 West 45th Street",
+            "postalCode": "10036",
+            "@type": "PostalAddress",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475007751.jpg?k=550a3ee1ec779e21d6414031b148cf37c39b77983ceb7eabad45e5eac40ca70c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7563378,-73.9822170&zoom=15&sensor=false&size=1600x1200&center=40.7563378,-73.9822170&client=gme-booking&channel=booking-frontend&signature=VMYGazNNPpO498ZiLuDFV_-YOiA=",
+        "url": "https://www.booking.com/hotel/us/stylish-2bd-with-washer-and-dryer-near-times-square.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Stylish 2BD with Washer and Dryer near Times Square"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/221949430.jpg?k=38ca0285839cbe4d1ebf22b9c99f30522c945ce87ecadfb0fde771ca4ac14abc&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "addressLocality": "2 E. 55th Street, NY NY 10022",
+            "streetAddress": "2 E. 55th Street, NY NY 10022, Midtown East, New York, NY 10022, United States",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7616670,-73.9749140&zoom=15&sensor=false&size=1600x1200&center=40.7616670,-73.9749140&client=gme-booking&channel=booking-frontend&signature=ix7a8f8N-5rf0JUwbPPMrcyGDgw=",
+        "url": "https://www.booking.com/hotel/us/5th-amp-55th-residence-club.en-gb.html",
+        "description": "Well located in the centre of New York, 5th & 55th Residence Club provides air-conditioned rooms, a fitness centre, free WiFi and a restaurant.",
+        "name": "5th & 55th Residence Club",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 4,
+            "ratingValue": 10.0
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,264 per night (We Price Match)"
+    }
+]

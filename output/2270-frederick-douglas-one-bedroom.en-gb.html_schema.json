@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "210 WEST 122 STREET",
+            "streetAddress": "210 WEST 122 STREET, Harlem, New York, NY 10027, United States",
+            "postalCode": "NY 10027",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.8078690,-73.9516300&size=1600x1200&markers=color:blue%7c40.8078690,-73.9516300&zoom=15&client=gme-booking&channel=booking-frontend&signature=fuguZZ9S-w2BJubESRjkSIlkHzs=",
+        "priceRange": "Prices for upcoming dates start at \u00a3188 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Studio room is situated in the Harlem district of New York, 4 km from Yankee Stadium, 4.6 km from Strawberry Fields and 5.8 km from Central Park.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/549916588.jpg?k=663e37636ccbaed3d9d2e8deb2fff8d56df9fc5c137fafd7a7c86b4b8a21ebc2&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/2270-frederick-douglas-one-bedroom.en-gb.html",
+        "name": "Studio room"
+    }
+]

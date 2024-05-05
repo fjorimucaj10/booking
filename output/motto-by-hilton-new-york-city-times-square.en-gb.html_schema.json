@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/495964544.jpg?k=a9e0ee77c0c7acea78c5720b825941eab96e54880001fa9ad99e77c951011b27&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/motto-by-hilton-new-york-city-times-square.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Featuring a fitness centre, a restaurant as well as a bar, Motto By Hilton New York City Times Square is located in the centre of New York, 400 metres from...",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "reviewCount": 259,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7595350,-73.9831700&markers=color:blue%7c40.7595350,-73.9831700&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Rx36Q1UX0Wmf33OYdN-4lOHyZJA=",
+        "address": {
+            "streetAddress": "152 West 48th Street, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressLocality": "152 West 48th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3156 per night (We Price Match)",
+        "name": "Motto By Hilton New York City Times Square"
+    }
+]

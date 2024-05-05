@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7746710,-73.9588396&center=40.7746710,-73.9588396&client=gme-booking&channel=booking-frontend&signature=Ku3R-NuWDQcB9352yYogRFIJJIc=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502614971.jpg?k=0ea0f2f218c4602d960a9998a9af84b1e7b44d7c5332b07da8addf3dfec92c59&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "ratingValue": 2.0
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "150 East 79th Street",
+            "addressCountry": "USA",
+            "streetAddress": "150 East 79th Street, Upper East Side, New York, NY 10075, United States",
+            "postalCode": "NY 10075",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "name": "Designer 2BD 1BA In Upper East side",
+        "description": "Designer 2BD 1BA In Upper East side is located in the Upper East Side district of New York, 1.9 km from Central Park, 1.7 km from Strawberry Fields and 2.",
+        "priceRange": "Prices for upcoming dates start at \u00a3645 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/designer-2bd-1ba-in-upper-east-side.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "11 Howard, SoHo, New York, NY 10013, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013",
+            "addressRegion": "New York State",
+            "addressLocality": "11 Howard",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3308 per night (We Price Match)",
+        "description": "Located close to Soho, Bowery, Chinatown and Little Italy neigbourhoods in Manhattan, 11 Howard, New York, a Member of Design Hotels offers free WiFi...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/81178218.jpg?k=c85d1847c36d7661f2384d5ff5160e6fb962d3b6f4f20a89c28a45ec4bde6a25&o=&hp=1",
+        "name": "11 Howard, New York, a Member of Design Hotels",
+        "url": "https://www.booking.com/hotel/us/11-howard.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7192070,-74.0000428&zoom=15&center=40.7192070,-74.0000428&client=gme-booking&channel=booking-frontend&signature=VVox6nvkVgrQ8hyrhF-S_n4VmdU=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 472,
+            "ratingValue": 7.6,
+            "bestRating": 10
+        }
+    }
+]

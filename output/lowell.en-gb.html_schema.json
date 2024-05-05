@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 9.2,
+            "reviewCount": 48,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/lowell.en-gb.html",
+        "@type": "Hotel",
+        "description": "The Lowell is a 17-story building established in 1927 and is located 321.8 metres from Central Park. The property is 50 metres from Madison Avenue.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/36978356.jpg?k=dfb468ffe035de88ea5dd92e2b94dcb8af5f030a71420c72cdec8eaee6e54cc3&o=&hp=1",
+        "name": "Lowell Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10065",
+            "addressCountry": "USA",
+            "addressLocality": "28 East 63rd Street",
+            "streetAddress": "28 East 63rd Street, Upper East Side, New York, NY 10065, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7657357,-73.9692541&size=1600x1200&sensor=false&center=40.7657357,-73.9692541&client=gme-booking&channel=booking-frontend&signature=qwmEcfkxm0GNNs9leR_6edCq0tM=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a31,096 per night (We Price Match)"
+    }
+]

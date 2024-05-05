@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.1,
+            "reviewCount": 1446,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress",
+            "streetAddress": "133 West 44th Street, New York, NY 10036, United States",
+            "addressLocality": "133 West 44th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/the-premier-new-york-new-york-city.en-gb.html",
+        "name": "Millennium Premier New York Times Square",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/397315293.jpg?k=b5acede83440706720d3991a6d9a0b4b764c73eaf796e8ebc8a42ef3cc73a7c6&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=40.7571164,-73.9848648&markers=color:blue%7c40.7571164,-73.9848648&client=gme-booking&channel=booking-frontend&signature=7yGGGoY-guJMMOLelpV1_eYTEAo=",
+        "@context": "http://schema.org",
+        "description": "Located just steps from Times Square, this Manhattan boutique hotel offers free WiFi access and 24-hour concierge services.",
+        "@type": "Hotel"
+    }
+]

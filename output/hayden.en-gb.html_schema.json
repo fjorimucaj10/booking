@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hotel Hayden New York",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "streetAddress": "127 West 28th Street, Chelsea, New York, NY 10001, United States",
+            "addressLocality": "127 West 28th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/89916002.jpg?k=691ec0dde369c986e1cfa3212db42ed72d84c12c17bd7432ed9b720a7a048dcc&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/hayden.en-gb.html",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2558,
+            "bestRating": 10,
+            "ratingValue": 7.1
+        },
+        "description": "Hotel Hayden is set in the Chelsea district in New York, 483 metres from Madison Square Garden and 644 metres from Macy's.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7468738,-73.9921530&size=1600x1200&center=40.7468738,-73.9921530&client=gme-booking&channel=booking-frontend&signature=1CrvzOdoHmWwUJUfJYgvWl-9u7U=",
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)"
+    }
+]

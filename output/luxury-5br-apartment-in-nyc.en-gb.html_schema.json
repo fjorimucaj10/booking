@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Luxury 5BR Apartment in NYC!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&center=40.7603232,-73.9897750&markers=color:blue%7c40.7603232,-73.9897750&client=gme-booking&channel=booking-frontend&signature=5dJLeuJMgsQFLYw_9A81-PnAmoU=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497889676.jpg?k=3c9ea78e3641bf79a81492ae84bd7656d1f5bfee71324a99de1d7c32a2d5324d&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a32,066 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "streetAddress": "346 West 46th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressLocality": "346 West 46th Street",
+            "addressCountry": "USA"
+        },
+        "description": "Set right in the centre of New York, 1.1 km from Radio City Music Hall, Luxury 5BR Apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/luxury-5br-apartment-in-nyc.en-gb.html"
+    }
+]

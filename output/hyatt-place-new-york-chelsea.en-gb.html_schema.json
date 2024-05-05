@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10011",
+            "@type": "PostalAddress",
+            "streetAddress": "140 West 24th Street, Chelsea, New York, NY 10011, United States",
+            "addressCountry": "USA",
+            "addressLocality": "140 West 24th Street",
+            "addressRegion": "New York State"
+        },
+        "description": "Hyatt Place New York Chelsea features an on-property Restaurant and Bar, The Placery, and 24 hour fitness centre.",
+        "priceRange": "Prices for upcoming dates start at \u00a3148 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/527246746.jpg?k=219b6b0ae907a23e63e5cbbebf517cb800c7cf114d4d7fbe72aa906c74800269&o=&hp=1",
+        "name": "Hyatt Place NYC Chelsea",
+        "url": "https://www.booking.com/hotel/us/hyatt-place-new-york-chelsea.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7453392,-73.9954437&size=1600x1200&sensor=false&zoom=15&center=40.7453392,-73.9954437&client=gme-booking&channel=booking-frontend&signature=E31AreNo0Gw0STUa1jG1WBsuRk4=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.9,
+            "reviewCount": 14975
+        },
+        "@type": "Hotel"
+    }
+]

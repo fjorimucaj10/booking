@@ -1,0 +1,26 @@
+[
+    {
+        "name": "The Broome",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 311,
+            "ratingValue": 8.8,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3297 per night (We Price Match)",
+        "description": "Featuring an open-air Moroccan-tiled courtyard, this 14 room boutique hotel is located in Manhattan's SoHo neighbourhood. Free WiFi access is available.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/21403464.jpg?k=eff835b997c325bb4cc1d1aff3a50cb0f6d7fb48e0e7d1e1aa2adcbfeac7bcd5&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7213567,-73.9993492&center=40.7213567,-73.9993492&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=2t6BYTHLP12HMRmWXVERfuiVunM=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "431 Broome Street, SoHo, New York, NY 10013, United States",
+            "addressCountry": "USA",
+            "addressLocality": "431 Broome Street",
+            "postalCode": "NY 10013",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-broome.en-gb.html"
+    }
+]

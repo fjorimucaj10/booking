@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474875286.jpg?k=bf3f44b7b9a4f9d6a7bb43fa00ecdac25b2c49b54979ddbb8f663c9ac5a90f82&o=&hp=1",
+        "address": {
+            "postalCode": "10128",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "Upper East Side, New York, 10128, United States",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/ues-1br-w-gym-nr-museums-art-galleries-nyc-1179.en-gb.html",
+        "name": "UES 1br w gym nr museums art galleries NYC-1179",
+        "priceRange": null,
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7800854,-73.9474989&sensor=false&zoom=15&size=1600x1200&center=40.7800854,-73.9474989&client=gme-booking&channel=booking-frontend&signature=Cn24Xh6Er5bSUx8xq-DvXCIa8oo=",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.8 km from Metropolitan Museum of Art and 3."
+    }
+]

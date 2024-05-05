@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7742251,-73.9628048&zoom=15&markers=color:blue%7c40.7742251,-73.9628048&client=gme-booking&channel=booking-frontend&signature=QtPW2TfOw5ncvkVB4pcfJ9QJ4d4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/509642522.jpg?k=490894f99d54bc1cb6e6251a2a6c7a8e04b9c7ed736aaeef600e8954f2b34076&o=&hp=1",
+        "address": {
+            "addressLocality": "53 East 76th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021",
+            "streetAddress": "53 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/amazing-3-bedroom-apartment-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Amazing 3 Bedroom Apartment is located in the Upper East Side district of New York, 1.5 km from Central Park, 2.4 km from St Patrick's Cathedral and 1.",
+        "name": "Amazing 3 Bedroom Apartment"
+    }
+]

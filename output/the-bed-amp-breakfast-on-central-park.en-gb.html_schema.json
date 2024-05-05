@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7994945,-73.9533199&center=40.7994945,-73.9533199&client=gme-booking&channel=booking-frontend&signature=hV1V4_3m2W1rrDmei501Q6V34CA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/355833168.jpg?k=dfcf2ac65ac30b48ca2f4ddaa0c9ebb4a5c894fb04cc61ffc56122fd5f1f66be&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-bed-amp-breakfast-on-central-park.en-gb.html",
+        "name": "The Central Park North",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3139 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "reviewCount": 505,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressLocality": "137 West 111th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10026",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "137 West 111th Street, Harlem, New York, NY 10026, United States"
+        },
+        "description": "Ideally located just 1 block from Central Park, The Central Park North offers free WiFi access. Columbia University is 1.6 km away."
+    }
+]

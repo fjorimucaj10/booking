@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Cozy 1BR in the Upper East Side is situated in the Upper East Side district of New York, 3.2 km from Central Park, 3.2 km from Strawberry Fields and 3.",
+        "url": "https://www.booking.com/hotel/us/cozy-1br-in-the-upper-east-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532853295.jpg?k=3cc7b01e899efc193dd8574a115962dda9b1620469b49dea509ecfc661c47551&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7800931,-73.9505166&sensor=false&markers=color:blue%7c40.7800931,-73.9505166&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=igDYOtkBm4SVxXSBRJ49wAPZIJc=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "2nd Avenue 1727, Upper East Side, New York, 10128, United States",
+            "addressLocality": "2nd Avenue 1727",
+            "addressRegion": "New York State",
+            "postalCode": "10128"
+        },
+        "priceRange": null,
+        "name": "Cozy 1BR in the Upper East Side",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "16 Warren Street",
+            "addressCountry": "USA",
+            "streetAddress": "16 Warren Street, Tribeca, New York, NY 10007, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10007"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489049163.jpg?k=f485e480a8750709066e06082fa864cee556e4c2b0caf75d0963baa212d25467&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3742 per night (We Price Match)",
+        "name": "4BR in the heart of Tribeca",
+        "description": "Located in New York, 800 metres from National September 11 Memorial & Museum and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7142040,-74.0075468&size=1600x1200&zoom=15&center=40.7142040,-74.0075468&sensor=false&client=gme-booking&channel=booking-frontend&signature=OMBbiavrKpKjRUhik8gLWUOxj98=",
+        "url": "https://www.booking.com/hotel/us/4br-in-the-heart-of-tribeca-new-york.en-gb.html"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.8081814,-73.9430314&sensor=false&size=1600x1200&markers=color:blue%7c40.8081814,-73.9430314&client=gme-booking&channel=booking-frontend&signature=J0ZBq8s_kbguXPRBA_2RZtcJx5M=",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "Central Harlem",
+            "postalCode": "NY 10027",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "Central Harlem, Harlem, New York, NY 10027, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518946292.jpg?k=29be4540f04be69d22bfbbd1e903af86783f9dbff685b2f78541f014af6cb088&o=&hp=1",
+        "description": "Offering garden views, Bright Designer Cottage in Historic Harlem is an accommodation located in New York, 3.3 km from Yankee Stadium and 4.",
+        "name": "Bright Designer Cottage in Historic Harlem",
+        "priceRange": "Prices for upcoming dates start at \u00a3450 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/bright-designer-cottage-in-historic-harlem.en-gb.html"
+    }
+]

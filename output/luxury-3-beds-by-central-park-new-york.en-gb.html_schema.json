@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "789 Columbus Avenue, Upper West Side, New York, NY 10025, United States",
+            "addressLocality": "789 Columbus Avenue"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,243 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/luxury-3-beds-by-central-park-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/457060375.jpg?k=5e57f67b28e117518d08b3f070056b3c09b49206dedf184dca76612f1347ce02&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7940396,-73.9653059&sensor=false&size=1600x1200&center=40.7940396,-73.9653059&client=gme-booking&channel=booking-frontend&signature=75zzStOvdBmV9rqZDNY7g9DN7l4=",
+        "description": "Boasting air-conditioned accommodation with a balcony, Luxury 3 Beds By Central Park is situated in New York. The property is set 2.",
+        "name": "Luxury 3 Beds By Central Park"
+    }
+]

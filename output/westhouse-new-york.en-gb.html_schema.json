@@ -1,0 +1,26 @@
+[
+    {
+        "name": "WestHouse Hotel New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3366 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/westhouse-new-york.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "201 West 55th Street",
+            "addressCountry": "USA",
+            "streetAddress": "201 West 55th Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019"
+        },
+        "aggregateRating": {
+            "reviewCount": 1573,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.1
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/99760688.jpg?k=c032cc0dbf582aaf8f8997817453dbc466590de897f60ec47f2b14a950009031&o=&hp=1",
+        "description": "Located in Midtown Manhattan, this hotel is an 8-minute walk from Times Square and a 3-minute walk from Central Park.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7645993,-73.9808903&zoom=15&sensor=false&markers=color:blue%7c40.7645993,-73.9808903&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=kntrx3GwCwJa_QZNu-LHvoalkuA="
+    }
+]

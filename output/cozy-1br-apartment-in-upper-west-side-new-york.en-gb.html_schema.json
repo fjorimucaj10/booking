@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10038",
+            "addressLocality": "7 Saint James Place",
+            "@type": "PostalAddress",
+            "streetAddress": "7 Saint James Place, New York, NY 10038, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490263384.jpg?k=06d1b112101ae55ea52c3f2273565891a723031d8ec89950fdc8eb7b063661e8&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3329 per night (We Price Match)",
+        "name": "Cozy 1BR Apartment in Upper West Side!",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/cozy-1br-apartment-in-upper-west-side-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7102233,-73.9992489&sensor=false&size=1600x1200&center=40.7102233,-73.9992489&client=gme-booking&channel=booking-frontend&signature=t40J7amJFWn7q3txlea5whPwUBc=",
+        "description": "Situated in New York, 1.5 km from One World Trade Center and 1.7 km from Bloomingdales, Cozy 1BR Apartment in Upper West Side! offers air conditioning."
+    }
+]

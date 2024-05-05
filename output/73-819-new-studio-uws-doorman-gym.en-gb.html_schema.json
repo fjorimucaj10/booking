@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7796761,-73.9825455&sensor=false&markers=color:blue%7c40.7796761,-73.9825455&client=gme-booking&channel=booking-frontend&signature=sI6CMHozjssZj6l44vhHMpbgeDU=",
+        "@type": "Hotel",
+        "name": "73-819 New Studio UWS Doorman Gym",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/549889420.jpg?k=08c736eec31baa86563dc1f35aa68132b96692c3f385f1c819af939fd75b0a02&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/73-819-new-studio-uws-doorman-gym.en-gb.html",
+        "description": "Set in New York, less than 1 km from Strawberry Fields and a 11-minute walk from Lincoln Center, 73-819 New Studio UWS Doorman Gym offers air conditioning.",
+        "address": {
+            "postalCode": "10023",
+            "@type": "PostalAddress",
+            "addressLocality": "West 73rd Street 238",
+            "addressRegion": "New York State",
+            "streetAddress": "West 73rd Street 238, Upper West Side, New York, 10023, United States",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3377 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Well located in the Central New York City district of New York, SpringHill Suites by Marriott New York Manhattan Times Square is located 800 metres from...",
+        "name": "SpringHill Suites by Marriott New York Manhattan Times Square",
+        "address": {
+            "addressLocality": "223 West 46 Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "streetAddress": "223 West 46 Street, New York, 10036, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/springhill-suites-by-marriott-new-york-manhattan-times-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550501406.jpg?k=d7fc74697bff4ec4918acce90d8fa5e2b2b046e1f8be83226833f9bf4b108cce&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3142 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 4.5,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7593800,-73.9863600&sensor=false&center=40.7593800,-73.9863600&client=gme-booking&channel=booking-frontend&signature=-HVOQ4xuG7vj8UcpdHypP30NnhY="
+    }
+]

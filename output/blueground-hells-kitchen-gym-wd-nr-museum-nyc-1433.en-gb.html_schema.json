@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/blueground-hells-kitchen-gym-wd-nr-museum-nyc-1433.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Blueground Hells Kitchen gym wd nr museum NYC-1433",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7615214,-73.9993486&size=1600x1200&center=40.7615214,-73.9993486&client=gme-booking&channel=booking-frontend&signature=NUijf4IAY8toX6EmCw2zYV3HL78=",
+        "priceRange": null,
+        "description": "Set in a central area of New York, 700 metres from Jacob K.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535486505.jpg?k=1b92b6a19e7fd34f7351c1c9e5f606a0cd36ad7dc31835e007f1d4c9e0033db5&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States"
+        }
+    }
+]

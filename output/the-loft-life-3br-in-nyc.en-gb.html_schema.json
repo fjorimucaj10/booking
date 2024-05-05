@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 3 km from Columbia University and 4.6 km from Central Park, The Loft Life 3BR in NYC! offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498230406.jpg?k=56b5c3c8659411c725ef459be9f71517ace5ee833c2a1dd718e313d1b5fc0a1a&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "The Loft Life 3BR in NYC!",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "address": {
+            "addressLocality": "135 East 110th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "135 East 110th Street, East Harlem, New York, NY 10029, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10029"
+        },
+        "url": "https://www.booking.com/hotel/us/the-loft-life-3br-in-nyc.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7950903,-73.9447432&markers=color:blue%7c40.7950903,-73.9447432&zoom=15&client=gme-booking&channel=booking-frontend&signature=xrt0z4VPWPq7uXcfPp8rejP3odc="
+    }
+]

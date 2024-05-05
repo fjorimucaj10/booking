@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512229840.jpg?k=57cf0335e7efab5b9661cdab2fd0dbe5d2953794633d26ab8df31b67803d2616&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "126 East 39th Street, Murray Hill, New York, NY 10016, United States",
+            "addressLocality": "126 East 39th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016"
+        },
+        "@type": "Hotel",
+        "priceRange": null,
+        "description": "Situated right in the heart of New York, 400 metres from Grand Central Station, Unique Place in NYC features air-conditioned accommodation with free WiFi...",
+        "name": "Unique Place in NYC",
+        "url": "https://www.booking.com/hotel/us/cozy-place-in-midtown-nyc.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7495604,-73.9780139&markers=color:blue%7c40.7495604,-73.9780139&client=gme-booking&channel=booking-frontend&signature=-G5h-NRQoZ-V_jQfj_BNlhE0JEI=",
+        "@context": "http://schema.org"
+    }
+]

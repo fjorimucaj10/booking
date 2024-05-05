@@ -1,60 +1,32 @@
 {
     "schema_classes": {
-        "Corporation": 1,
-        "WebSite": 1,
-        "Hotel": 6
+        "Hotel": 1007
     },
     "schema_classes_percentage": {
-        "Corporation": 12.5,
-        "WebSite": 12.5,
-        "Hotel": 75.0
+        "Hotel": 100.0
     },
     "schema_properties": {
-        "@context": 8,
-        "@type": 8,
-        "legalName": 1,
-        "url": 8,
-        "description": 7,
-        "address": 7,
-        "faxNumber": 1,
-        "logo": 1,
-        "founder": 1,
-        "foundingDate": 1,
-        "foundingLocation": 1,
-        "areaServed": 1,
-        "brand": 1,
-        "keywords": 1,
-        "parentOrganization": 1,
-        "sameAs": 1,
-        "potentialAction": 1,
-        "aggregateRating": 6,
-        "priceRange": 6,
-        "name": 6,
-        "image": 6,
-        "hasMap": 6
+        "url": 1007,
+        "@context": 1007,
+        "address": 1007,
+        "priceRange": 1007,
+        "description": 1007,
+        "hasMap": 1007,
+        "name": 1007,
+        "@type": 1007,
+        "image": 1007,
+        "aggregateRating": 497
     },
     "schema_properties_percentage": {
-        "@context": 10.0,
-        "@type": 10.0,
-        "legalName": 1.25,
-        "url": 10.0,
-        "description": 8.75,
-        "address": 8.75,
-        "faxNumber": 1.25,
-        "logo": 1.25,
-        "founder": 1.25,
-        "foundingDate": 1.25,
-        "foundingLocation": 1.25,
-        "areaServed": 1.25,
-        "brand": 1.25,
-        "keywords": 1.25,
-        "parentOrganization": 1.25,
-        "sameAs": 1.25,
-        "potentialAction": 1.25,
-        "aggregateRating": 7.5,
-        "priceRange": 7.5,
-        "name": 7.5,
-        "image": 7.5,
-        "hasMap": 7.5
+        "url": 10.53347280334728,
+        "@context": 10.53347280334728,
+        "address": 10.53347280334728,
+        "priceRange": 10.53347280334728,
+        "description": 10.53347280334728,
+        "hasMap": 10.53347280334728,
+        "name": 10.53347280334728,
+        "@type": 10.53347280334728,
+        "image": 10.53347280334728,
+        "aggregateRating": 5.198744769874477
     }
 }

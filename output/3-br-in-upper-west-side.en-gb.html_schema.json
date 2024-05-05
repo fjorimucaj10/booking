@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466281223.jpg?k=81ed5580ddba2b259d181ae5dd8030ae02e188832d8d6f40c8a1e4f8898c6d4a&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a31,515 per night (We Price Match)",
+        "description": "3 BR in Upper West Side is situated in the Upper West Side district of New York, 2.8 km from Metropolitan Museum of Art, 2.",
+        "url": "https://www.booking.com/hotel/us/3-br-in-upper-west-side.en-gb.html",
+        "name": "3 BR in Upper West Side",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7950157,-73.9677132&sensor=false&markers=color:blue%7c40.7950157,-73.9677132&zoom=15&client=gme-booking&channel=booking-frontend&signature=y1mfKp6YLYHx2RNdwf87VIu0n7E=",
+        "address": {
+            "streetAddress": "788 Columbus Avenue, Upper West Side, New York, NY 10025, United States",
+            "addressLocality": "788 Columbus Avenue",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10025"
+        },
+        "@context": "http://schema.org"
+    }
+]

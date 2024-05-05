@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/249547598.jpg?k=f03f99a9e738b277bb6843c61fb7837abcc3f79a7d5359cb4973682229737992&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3190 per night (We Price Match)",
+        "address": {
+            "streetAddress": "333 West 38th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "333 West 38th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018"
+        },
+        "name": "La Quinta by Wyndham Time Square South",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 3817,
+            "ratingValue": 8.3,
+            "@type": "AggregateRating"
+        },
+        "description": "Located in New York, less than 1 km from Macy's, La Quinta by Wyndham Time Square South provides air-conditioned rooms and a shared lounge.",
+        "url": "https://www.booking.com/hotel/us/la-quinta-by-wyndham-manhattan-midtown.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7554500,-73.9931100&markers=color:blue%7c40.7554500,-73.9931100&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=dkwAPzS5AN3oRr3EYKpTMSuBgps="
+    }
+]

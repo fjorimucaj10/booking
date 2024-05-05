@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7151930,-74.0091160&center=40.7151930,-74.0091160&client=gme-booking&channel=booking-frontend&signature=xdhsbBXS7Nurba-8JeSFr6egMhg=",
+        "description": "Situated in New York, 1.4 km from Bloomingdales and 700 metres from National September 11 Memorial & Museum, Luxurious 3 BR SOHO offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/luxurious-3-br-soho-new-york1.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,736 per night (We Price Match)",
+        "address": {
+            "addressLocality": "128 Chambers Street",
+            "streetAddress": "128 Chambers Street, Tribeca, New York, NY 10007, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10007",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502092400.jpg?k=20a14c21370876169ed56c8f3c76cc4870ea18594c45f5b8802c784355c0171e&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Luxurious 3 BR SOHO"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "streetAddress": "Upper East Side, New York, 10075, United States",
+            "postalCode": "10075"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7773147,-73.9631215&center=40.7773147,-73.9631215&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=U04OvzP38McAZXiOsHTaE84sOmo=",
+        "name": "UES 3br w balcony doorman nr Central Park NYC-1192",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485324782.jpg?k=ecf9c0eac55a08fb9364c753e017cd6f07a52383ec98c5ef68fe55daa1666639&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/ues-3br-w-balcony-doorman-nr-central-park-nyc-1192.en-gb.html",
+        "description": "Located in New York, 200 metres from Metropolitan Museum of Art and 1."
+    }
+]

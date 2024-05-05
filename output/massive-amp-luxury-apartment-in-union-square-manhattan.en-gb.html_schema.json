@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "Lavish Downtown Manhattan Oasis in Union Square",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.8 km from Bloomingdales and 1.1 km from Flatiron Building, Lavish Downtown Manhattan Oasis in Union Square offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7332174,-73.9864112&zoom=15&size=1600x1200&center=40.7332174,-73.9864112&sensor=false&client=gme-booking&channel=booking-frontend&signature=a_-Lb7HrHBcbPwlZjcUJol3pHuQ=",
+        "priceRange": "Prices for upcoming dates start at \u00a3333 per night (We Price Match)",
+        "address": {
+            "addressLocality": "201 East 14th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10003",
+            "streetAddress": "201 East 14th Street, Gramercy, New York, NY 10003, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546335812.jpg?k=f7930b48f278042990726a8781624c65415eb3b844a2a36881520313eb9aaba9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/massive-amp-luxury-apartment-in-union-square-manhattan.en-gb.html"
+    }
+]

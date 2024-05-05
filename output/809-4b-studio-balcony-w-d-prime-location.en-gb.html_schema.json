@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/809-4b-studio-balcony-w-d-prime-location.en-gb.html",
+        "description": "Boasting air-conditioned accommodation with a patio, 809-4B Studio Balcony W D Prime location is situated in New York.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850875.jpg?k=51f948009f9305dff7620255629c8118b3dfdbb809852f15b95347a44ce46dd9&o=&hp=1",
+        "@type": "Hotel",
+        "name": "809-4B Studio Balcony W D Prime location",
+        "priceRange": "Prices for upcoming dates start at \u00a3418 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7658119,-73.9875717&zoom=15&size=1600x1200&markers=color:blue%7c40.7658119,-73.9875717&client=gme-booking&channel=booking-frontend&signature=oqnMzV9hq_R11di05HGx_xGReAI=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10019",
+            "addressLocality": "809 9th Avenue",
+            "addressCountry": "USA"
+        }
+    }
+]

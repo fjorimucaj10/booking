@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "295 Broome Street, Lower East Side, New York, NY 10002, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressLocality": "295 Broome Street",
+            "addressRegion": "New York State"
+        },
+        "name": "Antique Victorian 2 Bedroom best Location",
+        "description": "Antique Victorian 2 Bedroom best Location is set in the Lower East Side district of New York, 1.6 km from NYU - New York University, 2.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7185251,-73.9922332&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7185251,-73.9922332&client=gme-booking&channel=booking-frontend&signature=np3AZaFO3AUteCOFHGcJVaFB6cA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/447880687.jpg?k=3373763b0b900917596ca4ff77208330f9cf31ac308978c9594493519f60a437&o=&hp=1",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/antique-victorian-2-bedroom-best-location.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 2,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.0
+        }
+    }
+]

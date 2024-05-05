@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7485820,-73.9956520&sensor=false&markers=color:blue%7c40.7485820,-73.9956520&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=CSZhReZkek89WbgA7zQPXCut9sE=",
+        "description": "Ideally located in the Chelsea district of New York, Chelsea Rooms NYC is set 300 metres from Penn Station, less than 1 km from Macy's and a 3-minute walk...",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/318878624.jpg?k=2dab6d40ddcfd73f1dfec252a2d7f1a02fa7b437728d869d9e078e6a084a7744&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3138 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "368 8th Avenue 2nd floor, Chelsea, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "addressLocality": "368 8th Avenue 2nd floor",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        },
+        "url": "https://www.booking.com/hotel/us/chelsea-rooms-nyc.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 578,
+            "bestRating": 10,
+            "ratingValue": 7.6
+        },
+        "name": "Chelsea Rooms NYC"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7473209,-73.9878645&center=40.7473209,-73.9878645&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=kqXrdGRkzh_x6VSdX-5_0leIyDQ=",
+        "priceRange": "Prices for upcoming dates start at \u00a3258 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating",
+            "reviewCount": 32
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/309108791.jpg?k=63c0c306f9086915cb49cf8f8932657f1cb416e675c034edfb5da3361d10bef3&o=&hp=1",
+        "description": "Studio Plus - One Bedroom APT offers studios and apartments with fully-equipped kitchens.",
+        "url": "https://www.booking.com/hotel/us/one-bedroom-apartment-700.en-gb.html",
+        "name": "Studio Plus - One-Bedroom APT",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "38 West 31st Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "149 East 39th Street",
+            "streetAddress": "149 East 39th Street, Murray Hill, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016",
+            "addressCountry": "USA"
+        },
+        "name": "Murray Hill East Suites",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/84564452.jpg?k=29f4bf65af1688fc2a2afc0f7d447a302a2fd3000a299962b9dcb590972b241b&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3171 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 49,
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/murray-hill-east-manhattan.en-gb.html",
+        "description": "Offering a fitness centre, Murray Hill East Suites is located in New York. Free WiFi access is available.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7492087,-73.9763955&size=1600x1200&zoom=15&center=40.7492087,-73.9763955&sensor=false&client=gme-booking&channel=booking-frontend&signature=ACEu7DUJtR-Ftj5EEoBJHsnSmoo=",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/newly-renovated-heart-of-lower-east-side-2br-1ba-5-min-walk-to-soho-1-block-to-w.en-gb.html",
+        "name": "NEWLY RENOVATED HEART OF LOWER EAST SIDE 2BR 1BA, 5 MIN WALK TO SOHO, 1 BLOCK TO WHOLE FOODS, WASHER DRYER!",
+        "priceRange": null,
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/323742210.jpg?k=d8ba6f6e6cc72a80dee4d68290eae2dcf57a92d9af18c945e8ddcad08fe4675b&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "229 Eldridge Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "streetAddress": "229 Eldridge Street, Lower East Side, New York, NY 10002, United States"
+        },
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1 km from Bloomingdales and 1.2 km from NYU - New York University, NEWLY RENOVATED HEART OF LOWER EAST SIDE 2BR 1BA, 5 MIN WALK TO...",
+        "aggregateRating": {
+            "reviewCount": 7,
+            "bestRating": 10,
+            "ratingValue": 5.6,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7223068,-73.9900653&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7223068,-73.9900653&client=gme-booking&channel=booking-frontend&signature=RZuiSuop9HzM6K5a2NOWBGVr1uA="
+    }
+]

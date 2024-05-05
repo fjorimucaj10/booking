@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7286868,-74.0028938&size=1600x1200&zoom=15&markers=color:blue%7c40.7286868,-74.0028938&sensor=false&client=gme-booking&channel=booking-frontend&signature=ElBcNAXZc6KqvdSTguzjyXthZN0=",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 7,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7
+        },
+        "priceRange": null,
+        "address": {
+            "postalCode": "10014",
+            "addressLocality": "6th Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "6th Avenue, Greenwich Village, New York, 10014, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "name": "Three Bedroom West Village Townhouse",
+        "url": "https://www.booking.com/hotel/us/three-bedroom-west-village-townhouse.en-gb.html",
+        "description": "Set in New York, 700 metres from NYU - New York University and less than 1 km from Bloomingdales, Three Bedroom West Village Townhouse offers...",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/499140954.jpg?k=283fc97471cd8a8e9cdd3ff4ab7c4ecdb47cac663c2c902c947b1fcc1619387c&o=&hp=1"
+    }
+]

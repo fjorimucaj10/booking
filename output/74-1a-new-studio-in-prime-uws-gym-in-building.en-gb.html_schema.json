@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/74-1a-new-studio-in-prime-uws-gym-in-building.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7816820,-73.9844951&sensor=false&zoom=15&markers=color:blue%7c40.7816820,-73.9844951&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=uAF_wwtbNo2sdZMPdbySJKj_CKs=",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.1 km from Strawberry Fields and 1.",
+        "name": "74-1A New Studio in Prime UWS - GYM In Building",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10023",
+            "addressCountry": "USA",
+            "streetAddress": "West 74th Street 317, Upper West Side, New York, 10023, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "West 74th Street 317"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546980055.jpg?k=4d0fc8c2b2022ff4884b1d598ce6bcac1e8cb9b507aa3dd9ee7d685b0519d73b&o=&hp=1"
+    }
+]

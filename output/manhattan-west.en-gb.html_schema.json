@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/228358430.jpg?k=58ee814d168f7790fb2bb0fbc6010a8195b78364b28086024dff2f212342331d&o=&hp=1",
+        "name": "Midtown West Hotel",
+        "description": "Conveniently located just a 1-minute walk from Penn Station, this Midtown West Hotel offers free WiFi access.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2205,
+            "ratingValue": 5.4,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7497199,-73.9953685&size=1600x1200&zoom=15&markers=color:blue%7c40.7497199,-73.9953685&client=gme-booking&channel=booking-frontend&signature=Rk_wDBEha33392NMW9dHEXdsROU=",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "303 West 30 Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "streetAddress": "303 West 30 Street, Hell's Kitchen, New York, NY 10001, United States",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3224 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/manhattan-west.en-gb.html",
+        "@type": "Hotel"
+    }
+]

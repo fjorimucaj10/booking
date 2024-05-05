@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "241 East 24th Street, Gramercy, New York, 10010, United States",
+            "addressLocality": "241 East 24th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10010"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7389107,-73.9808273&size=1600x1200&sensor=false&markers=color:blue%7c40.7389107,-73.9808273&client=gme-booking&channel=booking-frontend&signature=LRTp_rvMrCATxevGRYLAXSxjQ8s=",
+        "@type": "Hotel",
+        "description": "Boasting air-conditioned accommodation with a patio, 24-4 New Private Terrace W D Apt Prime Gramercy is situated in New York. The property is around 1.",
+        "priceRange": "Prices for upcoming dates start at \u00a3360 per night (We Price Match)",
+        "name": "24-4 New Private Terrace W D Apt Prime Gramercy",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540450201.jpg?k=f8ea9c9cccca8328d1aa2fbee84868dd1c91de1f1b9b5c657cca14d5b0f51e8f&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/24-4-new-private-terrace-w-d-apt-prime-gramercy.en-gb.html"
+    }
+]

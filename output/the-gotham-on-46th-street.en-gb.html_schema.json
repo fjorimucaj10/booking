@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/187524415.jpg?k=0263e71efd3f1e2f09cf053a85b7353a3fe1029f0b978876ad2750bc6d74f6f1&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1462,
+            "bestRating": 10,
+            "ratingValue": 8.4
+        },
+        "url": "https://www.booking.com/hotel/us/the-gotham-on-46th-street.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "16 East 46th Street, Midtown East, New York, NY 10017, United States",
+            "addressLocality": "16 East 46th Street",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "description": "Located between Madison and 5th Avenues, The Gotham offers boutique-style accommodation in Midtown Manhattan.",
+        "name": "The Gotham Hotel",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7555207,-73.9780642&sensor=false&zoom=15&center=40.7555207,-73.9780642&client=gme-booking&channel=booking-frontend&signature=saP-uMvJAX1YW3l5pDNWwTfMGHw=",
+        "priceRange": "Prices for upcoming dates start at \u00a3265 per night (We Price Match)"
+    }
+]

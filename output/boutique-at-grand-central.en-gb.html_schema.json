@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/167009602.jpg?k=0aecca11ef3128f04b1de1d00e7f1c6aebb34b4e6440f651aaa5bc9d0f3ee828&o=&hp=1",
+        "name": "Hotel Boutique at Grand Central",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 1828,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3204 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "128 E 45th St",
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "streetAddress": "128 E 45th St, Midtown East, New York, NY 10017, United States",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7530843,-73.9746958&size=1600x1200&zoom=15&markers=color:blue%7c40.7530843,-73.9746958&client=gme-booking&channel=booking-frontend&signature=vvDDxEd61t4U9CcqvdEcKZ0ptHs=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/boutique-at-grand-central.en-gb.html",
+        "description": "Offering a restaurant and a fitness centre, Hotel Boutique at Grand Central is a 2 minutes' walk from Grand Central Terminal in Midtown Manhattan."
+    }
+]

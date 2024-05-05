@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504783765.jpg?k=ce9657995d593413bb30b334e73c529323254ba70891225a95cb1898c6ae5638&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Featuring air-conditioned accommodation with a terrace, Two bedroom condo in Upper West Side is set in New York.",
+        "address": {
+            "postalCode": "NY 10025",
+            "addressCountry": "USA",
+            "addressLocality": "2524 Broadway",
+            "@type": "PostalAddress",
+            "streetAddress": "2524 Broadway, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7934157,-73.9721373&size=1600x1200&zoom=15&markers=color:blue%7c40.7934157,-73.9721373&client=gme-booking&channel=booking-frontend&signature=ePscZ3s5u2rDV8SausqNdivXmvQ=",
+        "url": "https://www.booking.com/hotel/us/two-bedroom-condo-in-upper-west-side.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3875 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "Two bedroom condo in Upper West Side"
+    }
+]

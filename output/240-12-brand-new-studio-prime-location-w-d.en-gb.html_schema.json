@@ -1,0 +1,20 @@
+[
+    {
+        "name": "240-12 BRAND NEW Studio Prime location W&D",
+        "description": "Set in New York, 1.4 km from Metropolitan Museum of Art and 1.9 km from Central Park, 240-12 BRAND NEW Studio Prime location W&D offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537492040.jpg?k=1972692cd5f434b49d9dd5b2a6d3008b7ec28bc5d39044681bae2aedf00cfc89&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/240-12-brand-new-studio-prime-location-w-d.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7709351,-73.9575882&size=1600x1200&sensor=false&center=40.7709351,-73.9575882&zoom=15&client=gme-booking&channel=booking-frontend&signature=tXtz5v449ma1gkdYGfiGM1mmj9c=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "240 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressLocality": "240 East 75th Street",
+            "@type": "PostalAddress",
+            "postalCode": "10021",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "priceRange": null
+    }
+]

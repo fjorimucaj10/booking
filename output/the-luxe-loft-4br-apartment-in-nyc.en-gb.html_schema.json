@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7590137,-73.9955566&markers=color:blue%7c40.7590137,-73.9955566&zoom=15&client=gme-booking&channel=booking-frontend&signature=hypDlPmElW-NMUdfQyG3D-lh7uM=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497947374.jpg?k=634e45eb0ac7fe45d628758e33d79f793abeb4ca8c7bed12e736be25550ea4af&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)",
+        "name": "The Luxe Loft 4BR Apartment in NYC!",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-luxe-loft-4br-apartment-in-nyc.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "562 10th Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "562 10th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "addressCountry": "USA"
+        },
+        "description": "Located in a central area of New York, 800 metres from Jacob K. Javits Convention Center, The Luxe Loft 4BR Apartment in NYC!"
+    }
+]

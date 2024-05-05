@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/top-notch-2br-in-upper-east-mins-to-central-park-new-york1.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7620822,-73.9613888&zoom=15&center=40.7620822,-73.9613888&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=a1eQu19IbKgsMe7lFUZ8Ea35lSg=",
+        "address": {
+            "addressLocality": "341 E 62nd St, New York, NY 10065, USA",
+            "addressCountry": "USA",
+            "postalCode": "10065",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": " 341 E 62nd St, New York, NY 10065, USA , Upper East Side, New York, 10065, United States"
+        },
+        "name": "Top Notch 2BR in Upper East Mins to Central Park",
+        "description": "Attractively located in the Upper East Side district of New York, Top Notch 2BR in Upper East Mins to Central Park is located 1.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501147270.jpg?k=101cc7571349931a234032c62c93f9417b45c6b22776944110f8da9238007e45&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3594 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

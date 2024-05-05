@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/454-3w-prime-location-2br-newly-furnished-sleeps-5.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412817575.jpg?k=1151f915c17991568b3685bdcc9df63082357876e62745e34846fd904a490ea3&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "454 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "addressLocality": "454 West 47th Street",
+            "postalCode": "10036",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7623978,-73.9926758&zoom=15&sensor=false&markers=color:blue%7c40.7623978,-73.9926758&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=WFPPH4K-g5WDV_hDSetJ4lo5YmE=",
+        "description": "Situated in New York, less than 1 km from Times Square and a 15-minute walk from Radio City Music Hall, 454-3W PRIME location 2BR Newly Furnished sleeps 5...",
+        "name": "454-3W PRIME location 2BR Newly Furnished sleeps 5"
+    }
+]

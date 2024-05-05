@@ -1,0 +1,20 @@
+[
+    {
+        "name": "69-5B I Stylish Lower East Side 1BR Apt BRAND NEW",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10002",
+            "addressCountry": "USA",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressLocality": "69 Clinton Street",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7193634,-73.9851120&sensor=false&size=1600x1200&markers=color:blue%7c40.7193634,-73.9851120&zoom=15&client=gme-booking&channel=booking-frontend&signature=-2qsf0qc4oTsOzgs6lTuUZC4nMQ=",
+        "url": "https://www.booking.com/hotel/us/69-5b-i-stylish-lower-east-side-1br-apt-brand-new.en-gb.html",
+        "description": "69-5B I Stylish Lower East Side 1BR Apt BRAND NEW is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532676716.jpg?k=e7b2e8d18084ae83b3d60b5375d1559f9ea84145a4a78328d5f5b88c289cd888&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

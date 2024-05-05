@@ -1,0 +1,26 @@
+[
+    {
+        "description": "In a prime location in the Flatiron District district of New York, The Flat NYC is located 300 metres from Flatiron Building, 1.",
+        "address": {
+            "postalCode": "NY 10010",
+            "streetAddress": "25 West 24th Street, Flatiron District, New York, NY 10010, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "25 West 24th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/387231340.jpg?k=504ee968b0bfdf12661bae35158cad69a27e76268f1e5ce029449d580006c5c7&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1675,
+            "ratingValue": 7.9
+        },
+        "name": "The Flat NYC",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-flat-nyc.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7430830,-73.9906520&center=40.7430830,-73.9906520&client=gme-booking&channel=booking-frontend&signature=Id8v5TsRYAi8iNjiTZleGrK29LQ="
+    }
+]

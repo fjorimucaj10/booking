@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Days Inn by Wyndham New York Chinatown",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/days-inn-by-wyndham-new-york-chinatown.en-gb.html",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7171030,-73.9927900&zoom=15&size=1600x1200&sensor=false&center=40.7171030,-73.9927900&client=gme-booking&channel=booking-frontend&signature=6f8qDe5XMZsRYLVIKV6rXfGAs7A=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524510421.jpg?k=4e53202776c2ece47570c4aae8660e4293aea133b383dfe3f041b05db180d1fb&o=&hp=1",
+        "description": "Located within 1.1 km of Bloomingdales and 1.8 km of NYU - New York University, Days Inn by Wyndham New York Chinatown provides rooms with air conditioning...",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "79 Eldridge St",
+            "addressCountry": "USA",
+            "streetAddress": "79 Eldridge St, Lower East Side, New York, 10002, United States",
+            "postalCode": "10002",
+            "@type": "PostalAddress"
+        }
+    }
+]

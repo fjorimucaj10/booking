@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7819554,-73.9819843&center=40.7819554,-73.9819843&client=gme-booking&channel=booking-frontend&signature=ckqJNFQg8F7_i9PAMBYW1AyTLtE=",
+        "name": "Cozy One Bedroom Apartment At UWS",
+        "description": "Cozy One Bedroom Apartment At UWS is set in the Upper West Side district of New York, 1.2 km from Lincoln Center, 1.9 km from Central Park and 2.",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/cozy-one-bedroom-apartment-at-uws.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503553731.jpg?k=e9d57777243acd591947acdbaad6cf39addc9c8f4ef8951e77ee5186bd34e814&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10023",
+            "@type": "PostalAddress",
+            "addressLocality": "248 West 76th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "248 West 76th Street, Upper West Side, New York, NY 10023, United States"
+        }
+    }
+]

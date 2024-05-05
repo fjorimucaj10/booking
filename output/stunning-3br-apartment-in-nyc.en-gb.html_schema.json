@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressLocality": "123 West 56th Street",
+            "streetAddress": "123 West 56th Street, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506061175.jpg?k=79e8d2622c6416bd953d93d2e39b51a5625501d95b3f865d2db301bb295aedb2&o=&hp=1",
+        "name": "Stunning 3BR Apartment in NYC!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7642650,-73.9784800&sensor=false&center=40.7642650,-73.9784800&client=gme-booking&channel=booking-frontend&signature=ScF67WJKjfuG5mRkZJFq7ATVyZg=",
+        "priceRange": "Prices for upcoming dates start at \u00a3561 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Situated right in the heart of New York, 200 metres from Carnegie Hall, Stunning 3BR Apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/stunning-3br-apartment-in-nyc.en-gb.html"
+    }
+]

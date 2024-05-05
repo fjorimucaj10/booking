@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "323 East 51st Street",
+            "streetAddress": "323 East 51st Street, Midtown East, New York, 10022, United States",
+            "postalCode": "10022",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/private-penthouse-w-roof-oasis.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518970956.jpg?k=d1c023dcee9211937a897a73a5fb9ebe66bb4407544c304d259d3e0b75362a04&o=&hp=1",
+        "name": "Private Penthouse w Roof Oasis",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7552948,-73.9670181&size=1600x1200&markers=color:blue%7c40.7552948,-73.9670181&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=bXd5ww-Ujf4cmtub85obUiNhEuc=",
+        "@type": "Hotel",
+        "description": "In the heart of New York, set within a short distance of St Patrick's Cathedral and Rockefeller Center, Private Penthouse w Roof Oasis offers free WiFi,..."
+    }
+]

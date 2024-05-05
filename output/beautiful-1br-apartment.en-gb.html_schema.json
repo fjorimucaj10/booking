@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543104542.jpg?k=5c576bc82dd140b3d1116333db0b2db70a2eca683f5cb6ce8199e9f31ac9874c&o=&hp=1",
+        "name": "Beautiful 1BR Apartment",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/beautiful-1br-apartment.en-gb.html",
+        "description": "Beautiful 1BR Apartment is located in the East Harlem district of New York, 3 km from Columbia University, 4.6 km from Central Park and 4.",
+        "address": {
+            "addressLocality": "135 East 110th Street",
+            "postalCode": "NY 10029",
+            "streetAddress": "135 East 110th Street, East Harlem, New York, NY 10029, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3361 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7950903,-73.9447432&size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7950903,-73.9447432&client=gme-booking&channel=booking-frontend&signature=LodE81gIEI_nVXFM-TgVA2IWsF8=",
+        "@context": "http://schema.org"
+    }
+]

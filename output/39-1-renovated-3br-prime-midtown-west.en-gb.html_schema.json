@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 1 km from Macy's and less than 1 km from Times Square, 39-1 Renovated 3BR Prime Midtown West provides accommodation with amenities such as...",
+        "@type": "Hotel",
+        "name": "39-1 Renovated 3BR Prime Midtown West",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7564969,-73.9936918&sensor=false&markers=color:blue%7c40.7564969,-73.9936918&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=-n9siEo-kVDTM142FX9qD6Hl9FQ=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/39-1-renovated-3br-prime-midtown-west.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3520 per night (We Price Match)",
+        "address": {
+            "addressLocality": "359 West 39th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "359 West 39th Street, Hell's Kitchen, New York, 10018, United States",
+            "addressCountry": "USA",
+            "postalCode": "10018",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535184232.jpg?k=2f9698df66ce2155681de28243e6cf6343ed0197e8abf8e57b2cde7048989323&o=&hp=1"
+    }
+]

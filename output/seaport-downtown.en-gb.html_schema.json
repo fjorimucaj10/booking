@@ -1,0 +1,26 @@
+[
+    {
+        "name": "33 Seaport Hotel New York",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "33 Peck Slip, New York, NY 10038, United States",
+            "postalCode": "NY 10038",
+            "addressCountry": "USA",
+            "addressLocality": "33 Peck Slip"
+        },
+        "description": "This hotel is located in Manhattan next to the Wall Street Financial District and is a 13-minute walk to Ground Zero.",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/seaport-downtown.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.6,
+            "reviewCount": 468
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7079814,-74.0014524&sensor=false&markers=color:blue%7c40.7079814,-74.0014524&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Cv_nIiH0Uc18TwL0YI6iL891jY4=",
+        "priceRange": "Prices for upcoming dates start at \u00a3339 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/460282320.jpg?k=f6d06474dd39260e9941d571e653b5cea9ee332abeffdf830e62a91378b6450c&o=&hp=1"
+    }
+]

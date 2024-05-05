@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Aloft New York Chelsea",
+        "description": "Located in New York and with Madison Square Garden reachable within 700 metres, Aloft New York Chelsea provides express check-in and check-out,...",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "132 West 28th Street",
+            "streetAddress": "132 West 28th Street, Chelsea, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7465831,-73.9920197&size=1600x1200&center=40.7465831,-73.9920197&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=4vEr0K_D_HKhGt_alpWFtckyqtM=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/516648048.jpg?k=8087fc22501d304338df416d4fc64d68f43ebd49d81b2c63ee4cf5364ca1b7c3&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3173 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 46,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.6
+        },
+        "url": "https://www.booking.com/hotel/us/aloft-new-york-chelsea.en-gb.html"
+    }
+]

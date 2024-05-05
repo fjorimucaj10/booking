@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "Elizabeth Street",
+            "addressRegion": "New York State",
+            "streetAddress": "Elizabeth Street, SoHo, New York, NY 10012, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10012"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Set in New York, 1 km from NYU - New York University and 2.8 km from One World Trade Center, APARTMENT NOLITA offers air conditioning.",
+        "name": "APARTMENT NOLITA",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/205429968.jpg?k=2d3ee688b7e56b6afe946a6a283a110635d7b495acd1efbeab74bebb700d3f70&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7230813,-73.9939225&markers=color:blue%7c40.7230813,-73.9939225&client=gme-booking&channel=booking-frontend&signature=0Wu-ZBEwp7FNuroN1J9ARyw-BWc=",
+        "url": "https://www.booking.com/hotel/us/apartment-nolita-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3451 per night (We Price Match)"
+    }
+]

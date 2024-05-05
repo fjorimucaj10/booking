@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10019",
+            "streetAddress": "33 West 55th Street, New York, NY 10019, United States",
+            "addressLocality": "33 West 55th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "name": "Shoreham Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "reviewCount": 2288,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3183 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/shoreham.en-gb.html",
+        "@type": "Hotel",
+        "description": "This hotel is located on 55th Street between 5th and 6th Avenue, in midtown Manhattan, 500 metres from Central Park.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/228177186.jpg?k=34a96fbc3d4ad283c3344d31c9dc8139ea0d7251f9567d0558c7b3eec7aa29f9&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7624213,-73.9763680&sensor=false&markers=color:blue%7c40.7624213,-73.9763680&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=L-ZOY6Md9kjn_hhbcZeeqblr1aU="
+    }
+]

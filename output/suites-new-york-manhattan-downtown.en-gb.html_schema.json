@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Fairfield Inn & Suites New York Manhattan/Downtown East",
+        "description": "Located in the Lower East Side area of Manhattan, this New York City hotel offers WiFi access and modern rooms that boast a flat-screen TV.",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 740,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/suites-new-york-manhattan-downtown.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/463651315.jpg?k=ae625077b09477f151577128a4dfcdc813a0d7cfaf0af7600046edfadb83d7bf&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "95 Henry Street",
+            "postalCode": "NY 10002",
+            "streetAddress": "95 Henry Street, Chinatown, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3155 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7131859,-73.9928932&markers=color:blue%7c40.7131859,-73.9928932&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=fW6njq4MvNGHX5ZsMSS8YX_riW4="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a31,438 per night (We Price Match)",
+        "description": "Large 3 bedroom in Flatiron is situated in the Union Square district of New York, 600 metres from Flatiron Building, 1.6 km from The High Line and 1.",
+        "url": "https://www.booking.com/hotel/us/large-3-bedroom-in-flatiron.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502324794.jpg?k=9c2d25da5f1a9c24f9205a5a377480812188918c93fa5e9082e9e4b81e0c1c63&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7386827,-73.9945612&markers=color:blue%7c40.7386827,-73.9945612&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=Udk9rSlwHgAfpgAloPzJEhzui3o=",
+        "address": {
+            "streetAddress": "46 West 17th Street, Union Square, New York, NY 10011, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "46 West 17th Street"
+        },
+        "name": "Large 3 bedroom in Flatiron"
+    }
+]

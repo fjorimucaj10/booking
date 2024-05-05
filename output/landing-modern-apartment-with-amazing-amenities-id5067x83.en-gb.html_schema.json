@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/landing-modern-apartment-with-amazing-amenities-id5067x83.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7233886,-73.9914980&size=1600x1200&zoom=15&center=40.7233886,-73.9914980&client=gme-booking&channel=booking-frontend&signature=iYZ2f3dpapulD5wkODghF4fH3A8=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/527952584.jpg?k=97cb9b4a64b418070959a6851900577a879d22899582d28ef415793de29cd4ef&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "229 Chrystie Street unit 0607 New York, NY 10002",
+            "addressCountry": "USA",
+            "postalCode": "10002",
+            "streetAddress": "229 Chrystie Street unit 0607 New York, NY 10002, Lower East Side, New York, 10002, United States"
+        },
+        "description": "Landing - Modern Apartment with Amazing Amenities (ID5067X83), a property with a fitness centre, is set in New York, 1 km from NYU - New York University,...",
+        "name": "Landing - Modern Apartment with Amazing Amenities (ID5067X83)"
+    }
+]

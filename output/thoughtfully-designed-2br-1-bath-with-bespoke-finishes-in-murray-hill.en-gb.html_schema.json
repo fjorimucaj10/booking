@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3785 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.3 km from Chrysler Building and 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/462178187.jpg?k=bbff5c986ff3de1327857d6981af0f7b90f1408eb240c543b2958af9e8f80587&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "400 East 35th Street, New York, NY 10016, United States",
+            "postalCode": "NY 10016",
+            "addressLocality": "400 East 35th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7438374,-73.9719804&markers=color:blue%7c40.7438374,-73.9719804&client=gme-booking&channel=booking-frontend&signature=x-vHDClTo0kej9U6_80F4mYQxzA=",
+        "name": "Thoughtfully designed 2BR 1 Bath with bespoke finishes in MURRAY HILL",
+        "url": "https://www.booking.com/hotel/us/thoughtfully-designed-2br-1-bath-with-bespoke-finishes-in-murray-hill.en-gb.html"
+    }
+]

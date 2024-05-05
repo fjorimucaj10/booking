@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 622,
+            "ratingValue": 8.4
+        },
+        "@context": "http://schema.org",
+        "name": "1 Hotel Central Park",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/53049771.jpg?k=3181c92d8444decea992d740fabec2380ec194864855ffc2b21fb27bb0f515be&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7648321,-73.9768231&size=1600x1200&zoom=15&center=40.7648321,-73.9768231&client=gme-booking&channel=booking-frontend&signature=EKM7LmRNG5mIkMfHBee_OiXhuJY=",
+        "priceRange": "Prices for upcoming dates start at \u00a3463 per night (We Price Match)",
+        "address": {
+            "addressLocality": "1414 Avenue of the Americas",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "streetAddress": "1414 Avenue of the Americas, New York, NY 10019, United States"
+        },
+        "description": "Offering a restaurant and a fitness centre, 1 Hotel Central Park is located in New York.",
+        "url": "https://www.booking.com/hotel/us/1-hotel-central-park.en-gb.html"
+    }
+]

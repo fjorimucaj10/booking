@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/cozy-apt-in-heart-manhattan-18.en-gb.html",
+        "address": {
+            "postalCode": "NY 10022",
+            "streetAddress": "305 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "addressLocality": "305 East 56th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "Cozy apt in heart Manhattan #18",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3220 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/517703530.jpg?k=1b990bb04b05a3bce93a6a9261b0cfc07a56f8966cea29dedcf3aa4e7243fb48&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7585599,-73.9651993&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7585599,-73.9651993&client=gme-booking&channel=booking-frontend&signature=KmFXZI_7C6QMWNDheMPy7lfbnFw=",
+        "description": "Located in the centre of New York, 1.3 km from St Patrick's Cathedral, Cozy apt in heart Manhattan #18 provides air-conditioned accommodation with free...",
+        "@type": "Hotel"
+    }
+]

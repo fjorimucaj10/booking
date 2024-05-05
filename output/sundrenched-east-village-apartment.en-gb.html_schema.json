@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/547824455.jpg?k=f6b6d6c4e0a23aaca9dd1dbfe929bc4e4619543b67c8bbb71d87db7ffdaacf77&o=&hp=1",
+        "description": "Situated in New York, 2.6 km from Bloomingdales and 3.3 km from United Nations Headquarters, Sundrenched East Village Apartment offers air conditioning.",
+        "name": "Sundrenched East Village Apartment",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7245359,-73.9756266&size=1600x1200&center=40.7245359,-73.9756266&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=WeMREx0_V1ZcqblpGAbFNxmH1T0=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/sundrenched-east-village-apartment.en-gb.html",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10009",
+            "addressCountry": "USA",
+            "addressLocality": "133 Avenue D 7",
+            "streetAddress": "133 Avenue D 7, East Village, New York, NY 10009, United States"
+        }
+    }
+]

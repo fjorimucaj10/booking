@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/trendy-2br-apartment-in-nyc.en-gb.html",
+        "name": "Trendy 2BR apartment in NYC!",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506079635.jpg?k=b6d0cf5c69b5819ff6d8fc054396ee1aaeb63d7d321a993268578377929a4a65&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7622594,-73.9837508&zoom=15&markers=color:blue%7c40.7622594,-73.9837508&client=gme-booking&channel=booking-frontend&signature=u6bDi71m_9RgCl6lZmbqaYY8kvk=",
+        "address": {
+            "postalCode": "NY 10019",
+            "addressLocality": "1651 Broadway",
+            "streetAddress": "1651 Broadway, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in a central area of New York, 200 metres from Broadway Theatre, Trendy 2BR apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3546 per night (We Price Match)"
+    }
+]

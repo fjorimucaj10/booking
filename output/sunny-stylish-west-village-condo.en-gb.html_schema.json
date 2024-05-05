@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Sunny Stylish West Village Condo",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 4,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.8
+        },
+        "description": "Sunny Stylish West Village Condo is situated in the Greenwich Village district of New York, less than 1 km from Bloomingdales, 1.",
+        "priceRange": "Prices for upcoming dates start at \u00a3641 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/sunny-stylish-west-village-condo.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7288593,-74.0028304&size=1600x1200&center=40.7288593,-74.0028304&client=gme-booking&channel=booking-frontend&signature=Qb0YTsOZ7q7BO3wjd61ExeMU1Kg=",
+        "address": {
+            "streetAddress": "6th Avenue, Greenwich Village, New York, 10012, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "6th Avenue",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10012"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504544338.jpg?k=a8bc99ab52d131c0fa00c5322c23c2b3b4d67cd6075da39283f3a5cb05467d79&o=&hp=1"
+    }
+]

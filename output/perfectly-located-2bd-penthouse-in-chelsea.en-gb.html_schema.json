@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "10001",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "132 West 26th Street 12",
+            "@type": "PostalAddress",
+            "streetAddress": "132 West 26th Street 12, Chelsea, New York, 10001, United States"
+        },
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475012977.jpg?k=175503b01b65836df4e122cf4a40d5b5e9bde7f552bfcf8bec468c19962d763a&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Situated in New York, less than 1 km from Madison Square Garden and a 10-minute walk from Penn Station, Perfectly located 2BD Penthouse in Chelsea offers...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7451757,-73.9929060&markers=color:blue%7c40.7451757,-73.9929060&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=KPXvJUp25HHCVUBOSn30tjEGo_o=",
+        "url": "https://www.booking.com/hotel/us/perfectly-located-2bd-penthouse-in-chelsea.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Perfectly located 2BD Penthouse in Chelsea"
+    }
+]

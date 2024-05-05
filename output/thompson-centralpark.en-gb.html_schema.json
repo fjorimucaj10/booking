@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/483618940.jpg?k=0a54b197ac934495548699dee4d5fc9ca1f7d68096b6aae93d0f83993bb20fa1&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Thompson Central Park New York, by Hyatt",
+        "url": "https://www.booking.com/hotel/us/thompson-centralpark.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 605,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3
+        },
+        "address": {
+            "streetAddress": "119 West 56th Street, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "119 West 56th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7641694,-73.9786009&center=40.7641694,-73.9786009&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=uEplq0HkEEVPVqfCrE9MXYn6yqU=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3443 per night (We Price Match)",
+        "description": "A New York Classic, Remastered. The property offers a combination of suites and rooms with varying views and low floor options."
+    }
+]

@@ -1,26 +1,26 @@
 [
     {
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/253646194.jpg?k=2147f23decd012c24ac9bcd70b1d8ad5903b65b24713986c077ca6495ca82b44&o=&hp=1",
-        "url": "https://www.booking.com/hotel/de/quot-la-mirabelle-quot.de.html",
-        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a072 pro Nacht (Wir bieten den gleichen Preis) ",
         "address": {
-            "addressCountry": "Deutschland",
-            "streetAddress": "Kirchstra\u00dfe 15, 79365 Rheinhausen, Deutschland",
-            "@type": "PostalAddress",
-            "addressRegion": "Baden-W\u00fcrttemberg",
+            "addressLocality": "Kirchstra\u00dfe 15",
             "postalCode": "79365",
-            "addressLocality": "Kirchstra\u00dfe 15"
+            "@type": "PostalAddress",
+            "addressCountry": "Deutschland",
+            "addressRegion": "Baden-W\u00fcrttemberg",
+            "streetAddress": "Kirchstra\u00dfe 15, 79365 Rheinhausen, Deutschland"
         },
-        "aggregateRating": {
-            "@type": "AggregateRating",
-            "reviewCount": 2725,
-            "ratingValue": 9.0,
-            "bestRating": 10
-        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c48.2258041,7.7124039&center=48.2258041,7.7124039&client=gme-booking&channel=booking-frontend&signature=FHmv-NM0yLoirLa1C-4RI44aUvE=",
         "description": "Das Hotel La Mirabelle begr\u00fc\u00dft Sie in Rheinhausen, 4 km vom Europa-Park entfernt.",
+        "url": "https://www.booking.com/hotel/de/quot-la-mirabelle-quot.de.html",
+        "@context": "http://schema.org",
         "name": "Hotel La Mirabelle",
         "@type": "Hotel",
-        "@context": "http://schema.org",
-        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c48.2258041,7.7124039&center=48.2258041,7.7124039&client=gme-booking&channel=booking-frontend&signature=2WLfLw00NCWTEGgpQuVWSrgaHec="
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/253646194.jpg?k=2147f23decd012c24ac9bcd70b1d8ad5903b65b24713986c077ca6495ca82b44&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 9.0,
+            "@type": "AggregateRating",
+            "reviewCount": 2754,
+            "bestRating": 10
+        },
+        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a083 pro Nacht (Wir bieten den gleichen Preis) "
     }
 ]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7578426,-73.9644836&zoom=15&center=40.7578426,-73.9644836&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=iIZM7h7G6fQ6nKijhqJ6XpLZQrs=",
+        "address": {
+            "streetAddress": "334 East 56th Street, Midtown East, New York, NY 10022, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "334 East 56th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506579626.jpg?k=142972554153ae4ea52de998be878e3400b29ef40007fd5b869a033eafb67797&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/modern-studio-apartment-at-east-side.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3397 per night (We Price Match)",
+        "name": "Modern Studio Apartment At East Side",
+        "@context": "http://schema.org",
+        "description": "Set in the heart of New York, 1.3 km from St Patrick's Cathedral, Modern Studio Apartment At East Side offers air-conditioned accommodation with free WiFi...",
+        "@type": "Hotel"
+    }
+]

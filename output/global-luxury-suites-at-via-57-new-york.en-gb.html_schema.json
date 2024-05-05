@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454170421.jpg?k=f45c235273323954c21cbe47a17fda4447873e947e468f9d05d6b1ca10c93e28&o=&hp=1",
+        "address": {
+            "streetAddress": "625 West 57th Street, Hell's Kitchen, New York, NY 10019, United States",
+            "addressLocality": "625 West 57th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/global-luxury-suites-at-via-57-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.3 km from Carnegie Hall and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7711006,-73.9923335&markers=color:blue%7c40.7711006,-73.9923335&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=IxYR0YfKHFS8ccDXv8A0lUJTr1M=",
+        "name": "Global Luxury Suites at Via 57",
+        "priceRange": "Prices for upcoming dates start at \u00a3274 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

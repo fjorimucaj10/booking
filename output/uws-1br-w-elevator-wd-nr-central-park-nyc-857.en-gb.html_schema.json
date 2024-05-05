@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-elevator-wd-nr-central-park-nyc-857.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/433844060.jpg?k=7088fa4b3d1429840df8b80f53fa3b9857f1d2bbd8bc54e7519fc3da6e1a2f36&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7815735,-73.9820628&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7815735,-73.9820628&client=gme-booking&channel=booking-frontend&signature=YnZG5hZmhl81fdZNN-MpmafP9NU=",
+        "name": "UWS 1BR w Elevator WD nr Central Park NYC-857",
+        "description": "Set in New York, 1.1 km from Lincoln Center and 1.8 km from Central Park, UWS 1BR w Elevator WD nr Central Park NYC-857 offers air conditioning.",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "postalCode": "10023",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10023, United States"
+        },
+        "priceRange": null
+    }
+]

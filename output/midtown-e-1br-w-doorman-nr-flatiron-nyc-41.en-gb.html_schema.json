@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7402195,-73.9795651&sensor=false&center=40.7402195,-73.9795651&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qly0OgGw8TArdDJuVZ4GxAmjJ1A=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/449891359.jpg?k=8eabd5e953d2af043874464b4542a4444aac935084218c203aa602dba4de898f&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "Kips Bay, New York, 10016, United States",
+            "postalCode": "10016",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/midtown-e-1br-w-doorman-nr-flatiron-nyc-41.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Midtown E 1BR w Doorman nr Flatiron NYC-41",
+        "description": "Offering city views, Midtown E 1BR w Doorman nr Flatiron NYC-41 is an accommodation situated in New York, 1.7 km from United Nations Headquarters and 1."
+    }
+]

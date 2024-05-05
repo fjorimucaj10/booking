@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7462880,-73.9907010&zoom=15&sensor=false&center=40.7462880,-73.9907010&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=IWEK24DEhzd9CJmhQIHrTU1Dj0I=",
+        "aggregateRating": {
+            "reviewCount": 1308,
+            "ratingValue": 8.2,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "description": "Offering a complimentary breakfast, Hyatt House New York/Chelsea is 644 metres from the Empire State Building.",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "815 Avenue of the Americas",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "815 Avenue of the Americas, Chelsea, New York, NY 10001, United States",
+            "postalCode": "NY 10001"
+        },
+        "url": "https://www.booking.com/hotel/us/hyatt-house-new-york-chelsea.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535391052.jpg?k=55e27719d48ec53959c422d14ed1db6b22193a80ab1f4b8dc92fd9818fe803bc&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3243 per night (We Price Match)",
+        "name": "Hyatt House New York/Chelsea",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Spacious Fully Furnished Harlem Apartment Near Morningside Park",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "addressLocality": "517 Manhattan Avenue #3",
+            "@type": "PostalAddress",
+            "streetAddress": "517 Manhattan Avenue #3, Harlem, New York, NY 10027, United States",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/spacious-fully-furnished-harlem-apartment-near-morningside-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8086300,-73.9545500&zoom=15&sensor=false&center=40.8086300,-73.9545500&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=DUqKkWI5CltUD9pASfYCa5iRjjk=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/169141810.jpg?k=71b1e63e33711b9d5d92c89b975cf82837f5566b0af5f457c3ac67b2d71685f6&o=&hp=1",
+        "description": "Located in New York, 1 km from Columbia University and 4.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 72,
+            "@type": "AggregateRating",
+            "ratingValue": 9.1
+        }
+    }
+]

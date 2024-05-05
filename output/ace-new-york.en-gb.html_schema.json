@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/82107763.jpg?k=db042709253bbeeea1ceddf50fe3819923f326dd1d5192998319144c80245ec6&o=&hp=1",
+        "name": "Ace Hotel New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3272 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "20 West 29th Street, NoMad, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressLocality": "20 West 29th Street",
+            "@type": "PostalAddress"
+        },
+        "description": "This boutique hotel is located in the center of Manhattan, only a 10-minute walk to Madison Square Garden.",
+        "url": "https://www.booking.com/hotel/us/ace-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7457837,-73.9882006&sensor=false&center=40.7457837,-73.9882006&client=gme-booking&channel=booking-frontend&signature=LDEEEv5buGCwbobj4fNUn_GueW8=",
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1646
+        }
+    }
+]

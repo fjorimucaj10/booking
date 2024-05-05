@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/luxurious-5-br-townhouse-new-york1.en-gb.html",
+        "name": "Luxurious 5 BR Townhouse",
+        "@type": "Hotel",
+        "description": "Luxurious 5 BR Townhouse features a balcony and is located in New York, within just 400 metres of Chrysler Building and 600 metres of Grand Central...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501597782.jpg?k=e2a6b5a0689aacc6440f630a8b1fd45745dabf4e31839beb028609b62fa8062f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7482943,-73.9783341&zoom=15&center=40.7482943,-73.9783341&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=VBBcff4XusO3pq4n0Ioo_RuD6p4=",
+        "priceRange": "Prices for upcoming dates start at \u00a31,736 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressLocality": "131 East 37th Street",
+            "streetAddress": "131 East 37th Street, Murray Hill, New York, NY 10016, United States",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org"
+    }
+]

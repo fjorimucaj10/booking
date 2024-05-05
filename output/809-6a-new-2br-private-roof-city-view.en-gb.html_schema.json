@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/809-6a-new-2br-private-roof-city-view.en-gb.html",
+        "description": "In the heart of New York, set within a short distance of Broadway Theatre and Carnegie Hall, 809-6A NEW 2BR Private Roof & City View offers free WiFi, air...",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531808034.jpg?k=04420193a3d5bd0b4d3a25b807dcb2dcb4699487a1f09652e9576bf769b5d6fb&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7658424,-73.9876175&sensor=false&center=40.7658424,-73.9876175&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=bQUbyqXa9KYdDFMDvn4Y_i7UgjE=",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10019",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressLocality": "809 9th Avenue"
+        },
+        "name": "809-6A NEW 2BR Private Roof & City View"
+    }
+]

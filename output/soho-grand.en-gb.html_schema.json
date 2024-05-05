@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/soho-grand.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3310 per night (We Price Match)",
+        "description": "Situated in the upscale SoHo neighborhood, this luxury hotel is close to art galleries, designer shops and popular restaurants.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/235020525.jpg?k=fc6401116d8527ec26cf763921daf078eba707fcdc3d3b5502ecfb9ac245c26e&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Soho Grand Hotel",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "reviewCount": 1772,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7219036,-74.0042563&markers=color:blue%7c40.7219036,-74.0042563&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=U5repzxO5brVkntMZ3nhz8U2jw4=",
+        "address": {
+            "addressLocality": "310 West Broadway",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "310 West Broadway, SoHo, New York, NY 10013, United States",
+            "postalCode": "NY 10013"
+        }
+    }
+]

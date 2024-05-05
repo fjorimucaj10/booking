@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7715082,-73.9827085&center=40.7715082,-73.9827085&client=gme-booking&channel=booking-frontend&signature=2sevng8fjNq7tnzKLuZyovB-zUk=",
+        "url": "https://www.booking.com/hotel/us/stunning-views-of-manhattan.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/496454132.jpg?k=ba47e3d6e021c45fc022fe05cd14d4fffc96ff4b92f67a337f7ad6c788e4fd84&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Offering river views, Stunning views of Manhattan is an accommodation located in New York, 200 metres from Lincoln Center and less than 1 km from Carnegie...",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "name": "Stunning views of Manhattan",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "44 West 63rd Street",
+            "addressRegion": "New York State",
+            "streetAddress": "44 West 63rd Street, Upper West Side, New York, NY 10023, United States",
+            "postalCode": "NY 10023",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,438 per night (We Price Match)"
+    }
+]

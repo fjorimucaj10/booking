@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "44 West 35th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "44 West 35th Street, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542758051.jpg?k=c76b67391b20413f6e7c39d1e613c762cbcf0c29179ffabdadd60b42858233f7&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/lovely-1br-apartment-in-prime-location.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7499049,-73.9861929&center=40.7499049,-73.9861929&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=r9QD8lwLYjRX0TRn34nn4-UACTM=",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 700 metres from Bryant Park and 400 metres from Empire State Building, Lovely 1BR Apartment in Prime Location offers air conditioning.",
+        "name": "Lovely 1BR Apartment in Prime Location"
+    }
+]

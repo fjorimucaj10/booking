@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543088076.jpg?k=7b1345ae98a1deb07fde54d70387a7d2576abb593c4dc8dbc45018fa24e03e90&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3315 per night (We Price Match)",
+        "name": "Comfortable Studio in Prime Location",
+        "url": "https://www.booking.com/hotel/us/comfortable-studio-in-prime-location.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10021",
+            "@type": "PostalAddress",
+            "addressLocality": "39 East 76th Street",
+            "streetAddress": "39 East 76th Street, Upper East Side, New York, NY 10021, United States"
+        },
+        "description": "Comfortable Studio in Prime Location is situated in the Upper East Side district of New York, 1.4 km from Central Park, 2.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7743536,-73.9629856&zoom=15&center=40.7743536,-73.9629856&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=cnLw-dr73Ta6dwe3R5-2-dXZdas="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7182663,-73.9863430&zoom=15&sensor=false&size=1600x1200&center=40.7182663,-73.9863430&client=gme-booking&channel=booking-frontend&signature=XvJm7SH8duYqvXuFG6m9QL2pt0Y=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "ratingValue": 9.0
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/les-is-more-stunning-views.en-gb.html",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505059979.jpg?k=6f78ddbd28b7537c0d6c78d9c696142e358a713a8fe8bfe8d0c00684561bf31e&o=&hp=1",
+        "description": "Set within the Lower East Side district in New York, LES is MORE stunning views! has air conditioning, a terrace, and city views.",
+        "name": "LES is MORE stunning views!",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "150 Delancey Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "150 Delancey Street"
+        }
+    }
+]

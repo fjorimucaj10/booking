@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "244 East 75th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021"
+        },
+        "name": "75-5 Luxury 3BR Duplex W d Elevator bldg",
+        "description": "Situated in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-5 Luxury 3BR Duplex W d Elevator bldg offers air conditioning.",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/75-5-luxury-3br-duplex-w-d-elevator-bldg.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7707911,-73.9575008&zoom=15&markers=color:blue%7c40.7707911,-73.9575008&client=gme-booking&channel=booking-frontend&signature=qeIsKyFT_tP1eYnN2u8Y68b9zwI=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532047445.jpg?k=39493d82d7485492274106d767e6e9b89bfe63963a50a2e16eee98fd68241ed3&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

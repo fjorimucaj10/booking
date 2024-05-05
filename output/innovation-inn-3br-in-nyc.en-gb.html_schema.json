@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated right in the heart of New York, less than 1 km from St Patrick's Cathedral, Innovation Inn 3BR in NYC!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7606286,-73.9692369&zoom=15&size=1600x1200&markers=color:blue%7c40.7606286,-73.9692369&sensor=false&client=gme-booking&channel=booking-frontend&signature=3wqG-BH-qIhAvwaa7AfSHrxGC3Y=",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "132 East 57th Street, Midtown East, New York, NY 10022, United States",
+            "postalCode": "NY 10022",
+            "addressLocality": "132 East 57th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/innovation-inn-3br-in-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498270485.jpg?k=4fc80ae4d8627df8e625a775b2c145850515a319cb326b7c3350196063953770&o=&hp=1",
+        "name": "Innovation Inn 3BR in NYC!",
+        "@context": "http://schema.org"
+    }
+]

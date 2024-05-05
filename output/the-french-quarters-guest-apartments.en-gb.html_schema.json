@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Hotel Scherman is a boutique hotel in midtown Manhattan.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/408648522.jpg?k=b6b4af857e3fd53cd1f52500171986f644d88feaff823c6f32d56dcfbfb52a43&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "bestRating": 10,
+            "reviewCount": 2161,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3193 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7604608,-73.9897831&center=40.7604608,-73.9897831&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=aFYK_mnekkVl4aQoLGWz_9VlP40=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-french-quarters-guest-apartments.en-gb.html",
+        "name": "Hotel Scherman",
+        "address": {
+            "streetAddress": "346 West 46th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "addressLocality": "346 West 46th Street",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

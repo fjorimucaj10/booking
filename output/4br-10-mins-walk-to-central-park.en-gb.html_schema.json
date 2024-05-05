@@ -1,0 +1,20 @@
+[
+    {
+        "name": "4BR 10 mins walk to Central Park!",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "4BR 10 mins walk to Central Park! is located in the Upper East Side district of New York, 1.6 km from St Patrick's Cathedral, 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7630661,-73.9639723&size=1600x1200&markers=color:blue%7c40.7630661,-73.9639723&client=gme-booking&channel=booking-frontend&signature=ptKOFxEyXRKovo2_3FPI2Fklo3U=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488366293.jpg?k=cc00f063894fc6a6a244f45a08b58ad71642c4d1c86d50c128c7ff8b328616ab&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/4br-10-mins-walk-to-central-park.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,109 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "783 Lexington Avenue",
+            "streetAddress": "783 Lexington Avenue, Upper East Side, New York, NY 10065, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10065"
+        }
+    }
+]

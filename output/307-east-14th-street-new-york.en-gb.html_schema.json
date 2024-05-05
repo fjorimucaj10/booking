@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7314055,-73.9842886&zoom=15&markers=color:blue%7c40.7314055,-73.9842886&client=gme-booking&channel=booking-frontend&signature=kqEcU3Xj3Q4yGhCSdJX0EaT3ta0=",
+        "@context": "http://schema.org",
+        "name": "Room at the heart of East Village Union Square",
+        "address": {
+            "addressLocality": "307 East 14th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10003",
+            "streetAddress": "307 East 14th Street, East Village, New York, NY 10003, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545279715.jpg?k=071e1cde2ab98ffaa70409137804eb1159f2e597727c42d4a612a35eec6be708&o=&hp=1",
+        "description": "Set in New York, 1.9 km from Bloomingdales and 1.4 km from Flatiron Building, Room at the heart of East Village Union Square offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3136 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/307-east-14th-street-new-york.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "ratingValue": 10.0,
+            "bestRating": 10
+        }
+    }
+]

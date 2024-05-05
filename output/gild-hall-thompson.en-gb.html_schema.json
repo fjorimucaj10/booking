@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/gild-hall-thompson.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7079271,-74.0072439&size=1600x1200&markers=color:blue%7c40.7079271,-74.0072439&sensor=false&client=gme-booking&channel=booking-frontend&signature=QZOq5ylazc22SSGVPj5fXVheLaE=",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10038",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "15 Gold Street",
+            "streetAddress": "15 Gold Street, New York, NY 10038, United States"
+        },
+        "description": "Located on historic Gold Street in Manhattan\u2019s Financial District, this hotel is 2 blocks from the Fulton Street Subway Station.",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "reviewCount": 340,
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3306 per night (We Price Match)",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/291149625.jpg?k=8d7dcf586ed022f7bfbaa918b3b33bb0e3d030a3cfe4fc34eea24da1e7805618&o=&hp=1",
+        "name": "Gild Hall, A Thompson Hotel, by Hyatt"
+    }
+]

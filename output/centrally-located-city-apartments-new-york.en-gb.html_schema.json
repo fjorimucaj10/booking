@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7639482,-73.9943859&zoom=15&size=1600x1200&sensor=false&center=40.7639482,-73.9943859&client=gme-booking&channel=booking-frontend&signature=5ZuWwppLRKbwcHL8iTE9LJiEDXk=",
+        "@context": "http://schema.org",
+        "name": "Ultimate Urban living at Centrally Located Lofts",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/centrally-located-city-apartments-new-york.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "532 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "532 West 48th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3327 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546283649.jpg?k=107ea804e01a9a4431438ddcb35ba090f6a32cfda2f2e4da89de3df52d0ae7d0&o=&hp=1",
+        "description": "Set in New York, near Radio City Music Hall, Broadway Theatre and Carnegie Hall, Ultimate Urban living at Centrally Located Lofts features free WiFi."
+    }
+]

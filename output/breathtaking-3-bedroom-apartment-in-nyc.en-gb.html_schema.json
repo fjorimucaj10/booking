@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Breathtaking 3 Bedroom apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/breathtaking-3-bedroom-apartment-in-nyc.en-gb.html",
+        "description": "Situated right in the heart of New York, less than 1 km from St Patrick's Cathedral, Breathtaking 3 Bedroom apartment in NYC!",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "128 East 57th Street, Midtown East, New York, NY 10022, United States",
+            "addressLocality": "128 East 57th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3566 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520339497.jpg?k=d8ce309e3ee9790c0729a1941e6666b0254b3e27e6186de5061ced351396f5a0&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7608460,-73.9697100&markers=color:blue%7c40.7608460,-73.9697100&client=gme-booking&channel=booking-frontend&signature=ANpnJg9DyAzVaWa7usW7Z9bqLtc=",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Soul Food is set in the Harlem district of New York, 3.3 km from Metropolitan Museum of Art, 4.4 km from Yankee Stadium and 5 km from Strawberry Fields.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/527506669.jpg?k=a77b3ec3dbb9b2ee17c1560f78acc173df88e2e16f480add047af69560c37c24&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/soul-food.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)",
+        "address": {
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "streetAddress": "West 120th Street (bet Lenox and 5th Ave), Harlem, New York, NY 10027, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "West 120th Street (bet Lenox and 5th Ave)"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.8039798,-73.9465784&center=40.8039798,-73.9465784&zoom=15&client=gme-booking&channel=booking-frontend&signature=Rl3LDxNs3pAtW6LoRj5gFTilw44=",
+        "name": "Soul Food",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 9.7,
+            "reviewCount": 3
+        }
+    }
+]

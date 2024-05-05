@@ -1,0 +1,20 @@
+[
+    {
+        "name": "3 BD Hidden Oasis in Lower Manhattan",
+        "priceRange": null,
+        "description": "Situated in New York, 1.8 km from NYU - New York University and 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/553152132.jpg?k=b71f3ffbaefbb5981418a2009cf70705fc4595bf95ae31e48632ad49834aa782&o=&hp=1",
+        "address": {
+            "addressLocality": "79 Eldridge Street",
+            "streetAddress": "79 Eldridge Street, Lower East Side, New York, NY 10002, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/3-bd-hidden-oasis-in-lower-manhattan.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7171023,-73.9926110&size=1600x1200&center=40.7171023,-73.9926110&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=QvT8uemYGxlXydJQ0IJzoJ1tYYE="
+    }
+]

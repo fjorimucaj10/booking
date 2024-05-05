@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Situated in New York, KAMA CENTRAL PARK has a garden, shared lounge, terrace, and free WiFi throughout the property. The property is around 2.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465706815.jpg?k=b1ada8533feabe7124a019751c8191657bb65bc2369a15321a1464922c7d10e9&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "OK 10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "36 WEST 106TH STREET WEST WING",
+            "streetAddress": "36 WEST 106TH STREET WEST WING, Upper West Side, New York, OK 10025, United States"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1759,
+            "@type": "AggregateRating",
+            "ratingValue": 7.6
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a370 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/kama-central-park.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7980478,-73.9609075&size=1600x1200&center=40.7980478,-73.9609075&client=gme-booking&channel=booking-frontend&signature=dOoZS3scEyQmODzDjgJvjj_mPSw=",
+        "@context": "http://schema.org",
+        "name": "KAMA CENTRAL PARK"
+    }
+]

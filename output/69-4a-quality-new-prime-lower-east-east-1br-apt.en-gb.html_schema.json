@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/69-4a-quality-new-prime-lower-east-east-1br-apt.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&markers=color:blue%7c40.7193642,-73.9851151&sensor=false&center=40.7193642,-73.9851151&client=gme-booking&channel=booking-frontend&signature=v-7h7KIXeapdPqrbho1y9AxRMtQ=",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10002",
+            "addressRegion": "New York State",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressLocality": "69 Clinton Street",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "69-4A Quality NEW Prime Lower East East 1br Apt is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532656744.jpg?k=f6574e8c26ddf251297b663403df618d4f34f3bb6626776bfce257c17d5e0f83&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3353 per night (We Price Match)",
+        "name": "69-4A Quality NEW Prime Lower East East 1br Apt",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating"
+        }
+    }
+]

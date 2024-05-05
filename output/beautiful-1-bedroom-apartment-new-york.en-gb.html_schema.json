@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Beautiful 1 Bedroom Apartment",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "121 East 47th Street, Midtown East, New York, NY 10017, United States",
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "121 East 47th Street",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506212849.jpg?k=5ce0e822aaa54d49fe4e07ec645abfc7f2d2ca7c878e3624095b58c04323a374&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3459 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/beautiful-1-bedroom-apartment-new-york.en-gb.html",
+        "description": "Located in the centre of New York, 400 metres from Chrysler Building and 600 metres from Grand Central Station, Beautiful 1 Bedroom Apartment offers free...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7546394,-73.9734559&markers=color:blue%7c40.7546394,-73.9734559&client=gme-booking&channel=booking-frontend&signature=CqhYHp4JOzHsDcskTAM-SweV-uQ="
+    }
+]

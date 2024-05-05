@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Park Central Hotel offers the convenience of being steps from Central Park. For exercise enthusiasts, the property offers 24-hour onsite fitness centre.",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.3,
+            "bestRating": 10,
+            "reviewCount": 5133
+        },
+        "name": "Park Central",
+        "priceRange": "Prices for upcoming dates start at \u00a3238 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7645879,-73.9809372&size=1600x1200&markers=color:blue%7c40.7645879,-73.9809372&client=gme-booking&channel=booking-frontend&signature=dlIFbpXFwj_x-Rb_CFn8W-F47Ck=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/19082406.jpg?k=17006a7c87dc25893e47ceec1ea1abe180ddead15f7ef8cc3fc261a253da1044&o=&hp=1",
+        "address": {
+            "addressLocality": "870 7th Avenue at 56th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "870 7th Avenue at 56th Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/park-central.en-gb.html"
+    }
+]

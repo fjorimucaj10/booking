@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7452612,-73.9817864&markers=color:blue%7c40.7452612,-73.9817864&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=xT6ggAqiwndN-vlQIt911ts1rcA=",
+        "name": "Stunning 2 Bed Apt In Murray Hill",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/507443860.jpg?k=79381febd3237cde44ae13e136122527f89e61b1a952d716ca9623375988b523&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "114 East 32nd Street, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "@type": "PostalAddress",
+            "addressLocality": "114 East 32nd Street"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3650 per night (We Price Match)",
+        "description": "Stunning 2 Bed Apt In Murray Hill is set in the Midtown district of New York, less than 1 km from Chrysler Building, a 10-minute walk from Grand Central...",
+        "url": "https://www.booking.com/hotel/us/stunning-2-bed-apt-in-murray-hill.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411336974.jpg?k=b45a816d2a7294ef640071a42ae33f6a1ce94e214b97795865e3a44f1267c1a9&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "bestRating": 10,
+            "ratingValue": 1.0,
+            "@type": "AggregateRating"
+        },
+        "priceRange": null,
+        "name": "211-3 Prime Union Square Large 1BR Great value",
+        "url": "https://www.booking.com/hotel/us/211-3-prime-union-square-large-1br-great-value.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7330780,-73.9862137&sensor=false&markers=color:blue%7c40.7330780,-73.9862137&zoom=15&client=gme-booking&channel=booking-frontend&signature=g_hPC4LjBzhj6zAL5lmIECIwjWw=",
+        "address": {
+            "postalCode": "10003",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "211 East 14th Street, Gramercy, New York, 10003, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "211 East 14th Street"
+        },
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 1.8 km from Bloomingdales and 1.1 km from Flatiron Building, 211-3 Prime Union Square Large 1BR Great value offers air conditioning."
+    }
+]

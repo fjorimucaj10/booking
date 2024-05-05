@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/509045638.jpg?k=93842a96b93c09775a68bdd2b42cb2fd170c6fee0e119139f4c89532bc918dce&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3528 per night (We Price Match)",
+        "name": "73-201 New 1BR 1Bth UWS Doorman Gym",
+        "description": "73-201 New 1BR 1Bth UWS Doorman Gym is situated in the Upper West Side district of New York, less than 1 km from Lincoln Center, a 19-minute walk from...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7796761,-73.9825455&zoom=15&sensor=false&center=40.7796761,-73.9825455&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=EnKzzVv6JqoC2rVgqFFa5gvog7U=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/73-201-new-1br-1bth-uws-doorman-gym.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "West 73rd Street 238",
+            "@type": "PostalAddress",
+            "postalCode": "10023",
+            "streetAddress": "West 73rd Street 238, Upper West Side, New York, 10023, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        }
+    }
+]

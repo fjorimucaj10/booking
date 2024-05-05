@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 1.5 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1597-11 Studio - Upper East Side Apt W&D offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3373 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7749268,-73.9481632&client=gme-booking&channel=booking-frontend&signature=09b0oRhsUyIBEtw6zyKkoWaJ8AA=",
+        "@context": "http://schema.org",
+        "name": "1597-11 Studio - Upper East Side Apt W&D",
+        "url": "https://www.booking.com/hotel/us/1597-11-studio-upper-east-side-apt-w-d.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535461516.jpg?k=105ecf9041f5c7d25306f6a991ec2976cd51aa63502ebed392a066c4f004a06c&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "York Avenue 1597",
+            "postalCode": "10028",
+            "addressCountry": "USA",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

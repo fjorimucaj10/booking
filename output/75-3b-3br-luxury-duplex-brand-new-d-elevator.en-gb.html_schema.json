@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3675 per night (We Price Match)",
+        "name": "75-3B 3BR Luxury duplex BRAND NEW &D Elevator",
+        "description": "Set in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-3B 3BR Luxury duplex BRAND NEW &D Elevator offers air conditioning.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7707911,-73.9575008&center=40.7707911,-73.9575008&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=TJqlo6ILRlNJplfvQJEuTO4BxJk=",
+        "address": {
+            "addressLocality": "244 East 75th Street",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10021"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532047346.jpg?k=c5ccfcbc016d54118b36ddbd1967c5ae41db2ce8bd74b05559f529474606e495&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/75-3b-3br-luxury-duplex-brand-new-d-elevator.en-gb.html"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "UWS 1br w gym doorman elevator nr Central Park NYC-1048 is located in the Upper West Side district of New York, 2.1 km from Strawberry Fields, 2.",
+        "@type": "Hotel",
+        "name": "UWS 1br w gym doorman elevator nr Central Park NYC-1048",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7898550,-73.9731420&markers=color:blue%7c40.7898550,-73.9731420&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=bsg2E-1zTo-H74xx2bBKnc860Yo=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-gym-doorman-elevator-nr-central-park-nyc-1048.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "postalCode": "10024"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520438101.jpg?k=df9d057daffd5c4f2bd18341bc84c5ed3341e60661f30744b512f60f0699100d&o=&hp=1"
+    }
+]

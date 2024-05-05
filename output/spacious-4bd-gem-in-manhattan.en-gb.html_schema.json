@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.8052247,-73.9569021&size=1600x1200&center=40.8052247,-73.9569021&sensor=false&client=gme-booking&channel=booking-frontend&signature=8ORvDR_evKGrInmBfTFV_di8eDQ=",
+        "description": "Located in New York, 3.8 km from Metropolitan Museum of Art and 3.8 km from Strawberry Fields, Spacious 4BD Gem in Manhattan offers air conditioning.",
+        "address": {
+            "postalCode": "10027",
+            "@type": "PostalAddress",
+            "addressLocality": "501 Manhattan Avenue",
+            "streetAddress": "501 Manhattan Avenue, Harlem, New York, 10027, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/spacious-4bd-gem-in-manhattan.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3395 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/547532308.jpg?k=a9306b9c2834415fe3b2aaa92dac0afa2d25d47c7ed621f732ebc39e34bd4cc0&o=&hp=1",
+        "name": "Spacious 4BD Gem in Manhattan"
+    }
+]

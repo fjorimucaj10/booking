@@ -1,0 +1,20 @@
+[
+    {
+        "name": "1D CLOSe",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482878789.jpg?k=e96f67460ec3bdf63b48da2b0a961483757f3ecb8ec778aab266bd1d8903b4d8&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7551640,-73.9961893&zoom=15&markers=color:blue%7c40.7551640,-73.9961893&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=gzbG_O9OizjUPe9apBiOKbB0W60=",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/entire-5-bedroom-apartment-nyc-near-times-square.en-gb.html",
+        "address": {
+            "streetAddress": "409 West 36th Street 5, Hell's Kitchen, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "addressLocality": "409 West 36th Street 5",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "description": "1D CLOSe is located in the Hudson Yards district of New York, 1.3 km from Times Square, 1.5 km from Bryant Park and less than 1 km from Macy's."
+    }
+]

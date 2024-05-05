@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531728201.jpg?k=a0b1ae571682bbc12a8289bb0b917f4fccf6acc154234a7d9e521edf622610af&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7629644,-73.9920309&sensor=false&zoom=15&size=1600x1200&center=40.7629644,-73.9920309&client=gme-booking&channel=booking-frontend&signature=9dU4AwAKh0IjOul1TOgufAhv8rg=",
+        "priceRange": "Prices for upcoming dates start at \u00a3670 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Located in New York, 1 km from Broadway Theatre and 1.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "West 48th Street 444",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "West 48th Street 444, Hell's Kitchen, New York, 10036, United States",
+            "postalCode": "10036"
+        },
+        "name": "444-4F Newly renovated 1BR in Midtown West",
+        "url": "https://www.booking.com/hotel/us/444-4f-newly-renovated-1br-in-midtown-west.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Chelsea Inn",
+        "aggregateRating": {
+            "ratingValue": 6.7,
+            "bestRating": 10,
+            "reviewCount": 1045,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7387610,-73.9945162&center=40.7387610,-73.9945162&sensor=false&client=gme-booking&channel=booking-frontend&signature=GmwTBI4YHebHtRuYRIzyPGnr2iE=",
+        "url": "https://www.booking.com/hotel/us/chelsea-inn.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/84975254.jpg?k=e72c67e7dd654b7fe0c8719da8a526bb7856712923d98d119b0936076b48102b&o=&hp=1",
+        "address": {
+            "streetAddress": "46 West 17th Street, Union Square, New York, NY 10011, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "46 West 17th Street",
+            "postalCode": "NY 10011",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel",
+        "description": "This 19th century walk-up townhouse is located in the Chelsea District and a 5-minute walk from Greenwich Village.",
+        "priceRange": "Prices for upcoming dates start at \u00a3169 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

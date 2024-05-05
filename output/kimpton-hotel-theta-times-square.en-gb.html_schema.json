@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/kimpton-hotel-theta-times-square.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3223 per night (We Price Match)",
+        "address": {
+            "addressLocality": "790 8th Avenue",
+            "addressRegion": "New York State",
+            "streetAddress": "790 8th Avenue, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "reviewCount": 549,
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "bestRating": 10
+        },
+        "description": "Ideally situated within 1 block of Times Square and a subway station, this Manhattan hotel offers guests free Wi-Fi and in-room safes.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551073193.jpg?k=3974785d223f3119f261b079404d598ccc7d9196dbcbbd11cab2b1a05430fa60&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7612500,-73.9865300&size=1600x1200&center=40.7612500,-73.9865300&sensor=false&client=gme-booking&channel=booking-frontend&signature=F8m8cO9O5q6XP36YBA3fWHXsw6c=",
+        "name": "Kimpton Hotel Theta, an IHG Hotel",
+        "@context": "http://schema.org"
+    }
+]

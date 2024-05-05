@@ -1,0 +1,20 @@
+[
+    {
+        "name": "4BR in Manhattan",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489041778.jpg?k=1cfbbfd277853235658f3f3e751e42aead6045a36363e3190b762618fb112834&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/4br-in-manhattan-new-york.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7137928,-74.0076379&markers=color:blue%7c40.7137928,-74.0076379&client=gme-booking&channel=booking-frontend&signature=I8mwvBLpTGCH2HQVpf72vAC47z4=",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "15 Warren St",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10007",
+            "streetAddress": "15 Warren St, Tribeca, New York, NY 10007, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3560 per night (We Price Match)",
+        "description": "4BR in Manhattan is located in the Tribeca district of New York, 700 metres from One World Trade Center, 800 metres from National September 11 Memorial &..."
+    }
+]

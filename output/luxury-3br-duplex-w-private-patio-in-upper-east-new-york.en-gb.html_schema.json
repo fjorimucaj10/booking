@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "341 E 62nd Street, New York, New York, United States, 10065",
+            "addressRegion": "New York State",
+            "streetAddress": "341 E 62nd Street, New York, New York, United States, 10065, Upper East Side, New York, 10065, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10065",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501148254.jpg?k=a6a3e14d94930ec06528c2bc7fd88d757aee98490dae1766fb38e5ac06749b7f&o=&hp=1",
+        "name": "Luxury 3BR Duplex w Private Patio in Upper East",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7620830,-73.9614076&center=40.7620830,-73.9614076&client=gme-booking&channel=booking-frontend&signature=89v5lM_F2jdwEtM68Evmci0FmRI=",
+        "url": "https://www.booking.com/hotel/us/luxury-3br-duplex-w-private-patio-in-upper-east-new-york.en-gb.html",
+        "description": "Situated conveniently in the Upper East Side district of New York, Luxury 3BR Duplex w Private Patio in Upper East is situated 2.",
+        "priceRange": "Prices for upcoming dates start at \u00a3854 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

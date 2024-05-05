@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503335525.jpg?k=aacf2f19316a80ec3da33e5e1a8c2ba93ab865da17b93d5c58c464d0f3a76a70&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Elegant 3 Bedroom Apartment In Mid West is located in the Central New York City district of New York, 700 metres from Empire State Building, 500 metres...",
+        "priceRange": "Prices for upcoming dates start at \u00a3972 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Elegant 3 Bedroom Apartment In Mid West",
+        "url": "https://www.booking.com/hotel/us/elegant-3-bedroom-apartment-in-mid-west.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7525167,-73.9860415&sensor=false&center=40.7525167,-73.9860415&zoom=15&client=gme-booking&channel=booking-frontend&signature=yKH0HVDKCLWZyrTVjPy3Mi3w87A=",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "103 West 38th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "103 West 38th Street, New York, NY 10018, United States",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress"
+        }
+    }
+]

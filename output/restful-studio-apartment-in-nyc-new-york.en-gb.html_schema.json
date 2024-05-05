@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/restful-studio-apartment-in-nyc-new-york.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "121 East 47th Street, Midtown East, New York, NY 10017, United States",
+            "postalCode": "NY 10017",
+            "@type": "PostalAddress",
+            "addressLocality": "121 East 47th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "description": "Set in the heart of New York, 400 metres from Chrysler Building, Restful Studio Apartment in NYC!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7546394,-73.9734559&markers=color:blue%7c40.7546394,-73.9734559&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=Pk09z8PY95j-l5HaOkytdbyc_Kc=",
+        "name": "Restful Studio Apartment in NYC!",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506582997.jpg?k=ebc8076631ced54714e38745496e40db3f5bb9e287ec5e4cc68f3045b7b89139&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3531 per night (We Price Match)"
+    }
+]

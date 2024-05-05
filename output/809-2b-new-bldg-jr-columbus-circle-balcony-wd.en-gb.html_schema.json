@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressLocality": "809 9th Avenue",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10019",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/471733106.jpg?k=69a58ab5dd64d295559c015ad703fca8eaa2dcd8ae3785536a283cc2501ac14b&o=&hp=1",
+        "name": "809-2B New bldg Jr columbus circle Balcony WD",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/809-2b-new-bldg-jr-columbus-circle-balcony-wd.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7658119,-73.9875717&center=40.7658119,-73.9875717&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=zJEEQxQOF0vLBxJOxQqB054x4uo=",
+        "description": "Featuring air-conditioned accommodation with a patio, 809-2B New bldg Jr columbus circle Balcony WD is set in New York.",
+        "@type": "Hotel"
+    }
+]

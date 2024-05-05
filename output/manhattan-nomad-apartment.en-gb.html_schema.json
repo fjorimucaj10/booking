@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Midtown Nest Studio Self Serviced Apartment Sleeps 5",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7471979,-73.9878199&zoom=15&center=40.7471979,-73.9878199&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=GzCugXi1JTd0Gvs5qHXSQqtKUtw=",
+        "description": "Midtown Nest Studio Self Serviced Apartment Sleeps 5 is set in the NoMad district of New York, 700 metres from Madison Square Garden, 800 metres from Penn...",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/manhattan-nomad-apartment.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532046139.jpg?k=939f2a9be3c8579470a5b21a41924caaecf3d7c3d0cf18fc947686d7532847cd&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressLocality": "38 West 31st Street"
+        }
+    }
+]

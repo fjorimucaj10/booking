@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7822018,-73.9462692&zoom=15&size=1600x1200&center=40.7822018,-73.9462692&sensor=false&client=gme-booking&channel=booking-frontend&signature=TP8miro53h6dlBLz7sj1S0C7_AU=",
+        "url": "https://www.booking.com/hotel/us/upper-east-side-monthly-rentals-new-york.en-gb.html",
+        "address": {
+            "streetAddress": "Upper East Side, New York, NY 10128, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10128",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "description": "The Upper East Side Monthly Rentals Apartments is set in the Upper East Side district of New York, 4.1 km from Strawberry Fields, 4.",
+        "name": "The Upper East Side Monthly Rentals Apartments",
+        "priceRange": "Prices for upcoming dates start at \u00a3129 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 2
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/510551454.jpg?k=72117b599a315d5cd92d15b283229492c4ec8d858dcc1df99616ff9fe91e1b60&o=&hp=1"
+    }
+]

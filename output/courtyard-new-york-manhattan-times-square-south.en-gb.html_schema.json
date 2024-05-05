@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 2464
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/538359176.jpg?k=81a9d4c7554307d09b08f0e95525b9749e5c825ff38048402399bb25400e9fbf&o=&hp=1",
+        "description": "This hotel is located in the heart of New York\u2019s Fashion District, just a 3-minute walk from Times Square. It offers free Wi-Fi, a modern gym and caf\u00e9.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7540009,-73.9865617&center=40.7540009,-73.9865617&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=IaneZ92SkHJdQpTF75AnZaIVi3w=",
+        "@type": "Hotel",
+        "name": "Courtyard New York Manhattan/Times Square",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "114 West 40th Street, New York, NY 10018, United States",
+            "postalCode": "NY 10018",
+            "addressLocality": "114 West 40th Street",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/courtyard-new-york-manhattan-times-square-south.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7291306,-73.9837200&center=40.7291306,-73.9837200&client=gme-booking&channel=booking-frontend&signature=zVUqKFr15SAIWiXYpzdJWGWGNiI=",
+        "priceRange": null,
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/528271794.jpg?k=8eb2c7fe3186babe4b77f2d758449515ce80ba5dd0f0a0d65823dfe369e0afd9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/3br-2baths-with-private-outdoors.en-gb.html",
+        "name": "3BR 2Baths with Private Outdoors",
+        "description": "3BR 2Baths with Private Outdoors is located in the East Village district of New York, 1.9 km from Bloomingdales, 1.7 km from Flatiron Building and 2.",
+        "address": {
+            "streetAddress": "400 East 11th Street, East Village, New York, 10009, United States",
+            "addressLocality": "400 East 11th Street",
+            "@type": "PostalAddress",
+            "postalCode": "10009",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        }
+    }
+]

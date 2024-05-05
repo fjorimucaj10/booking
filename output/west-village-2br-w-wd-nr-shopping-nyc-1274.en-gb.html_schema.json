@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7330743,-74.0056167&zoom=15&center=40.7330743,-74.0056167&sensor=false&client=gme-booking&channel=booking-frontend&signature=yMhOCtfm-NYX-pmPj7j3sUn_Aps=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/513537933.jpg?k=51c54d9b334f77a7e24b1ff6252d3f8c2c743638adf68072ac956343156d40f0&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/west-village-2br-w-wd-nr-shopping-nyc-1274.en-gb.html",
+        "priceRange": null,
+        "address": {
+            "streetAddress": "Greenwich Village, New York, 10014, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "postalCode": "10014",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "name": "West Village 2br w wd nr shopping NYC-1274",
+        "description": "Situated in New York, 1.5 km from Bloomingdales and 1.9 km from Flatiron Building, West Village 2br w wd nr shopping NYC-1274 offers air conditioning."
+    }
+]

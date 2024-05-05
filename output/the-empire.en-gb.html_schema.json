@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-empire.en-gb.html",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 6.8,
+            "@type": "AggregateRating",
+            "reviewCount": 4383
+        },
+        "description": "This Manhattan hotel is 83 metres from the Lincoln Center for the Performing Arts. Central Park is 161 metres from the Empire Hotel.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "44 West 63rd Street",
+            "addressRegion": "New York State",
+            "streetAddress": "44 West 63rd Street, Upper West Side, New York, NY 10023, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10023"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/422975926.jpg?k=2df74b5ac30f66e053a11ccda1ce89305a0305f95b37d4f1f6acc73bdb94c9ad&o=&hp=1",
+        "name": "Empire Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3128 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7714251,-73.9829683&sensor=false&size=1600x1200&markers=color:blue%7c40.7714251,-73.9829683&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZwPiF-i1RF3-cVUWoeDWtdS7FMk="
+    }
+]

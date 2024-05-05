@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Luxurious 2 BR Apartment in New York",
+        "url": "https://www.booking.com/hotel/us/luxurious-2-br-apartment-in-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7578690,-73.9644641&sensor=false&center=40.7578690,-73.9644641&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sBylmbULFFmIx1vjaw0-HOKXdt8=",
+        "priceRange": "Prices for upcoming dates start at \u00a3764 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022",
+            "addressLocality": "334 East 56th Street",
+            "streetAddress": "334 East 56th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "@context": "http://schema.org",
+        "description": "Attractively located in the centre of New York, Luxurious 2 BR Apartment in New York offers a terrace, air conditioning, free WiFi and flat-screen TV.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546936719.jpg?k=cd34a30c68254789ab61b7858812fe665affba18f341b1c2762868df885ef696&o=&hp=1"
+    }
+]

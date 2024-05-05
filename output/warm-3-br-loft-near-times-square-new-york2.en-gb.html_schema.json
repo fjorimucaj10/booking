@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3693 per night (We Price Match)",
+        "description": "Warm 3 BR Loft near Times Square is situated in the Hell's Kitchen district of New York, 1 km from Macy's, less than 1 km from Times Square and a 9-minute...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7565009,-73.9934941&markers=color:blue%7c40.7565009,-73.9934941&sensor=false&client=gme-booking&channel=booking-frontend&signature=KdGKUVE2w88Yv5ZO5VVOjapbaIk=",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "357 West 39th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "357 West 39th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "postalCode": "NY 10018"
+        },
+        "url": "https://www.booking.com/hotel/us/warm-3-br-loft-near-times-square-new-york2.en-gb.html",
+        "name": "Warm 3 BR Loft near Times Square",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488895441.jpg?k=6e779d388e3096b8a19106e6aa65e74dfd60a7dcb38e12027c79bc74ce70bc1d&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&markers=color:blue%7c40.7564900,-73.9845800&center=40.7564900,-73.9845800&sensor=false&client=gme-booking&channel=booking-frontend&signature=Dk7HCncnmFDBTykG9VQrYJ_hhPU=",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "130 West 44th St, New York, 10036, United States",
+            "addressLocality": "130 West 44th St",
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/453091151.jpg?k=a569157afc2649943b2a521d6759ec229b947f6f35fe3d475c6d4a12fa6f755f&o=&hp=1",
+        "name": "The Chatwal",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.1,
+            "reviewCount": 59
+        },
+        "url": "https://www.booking.com/hotel/us/the-chatwal.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3672 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "This art deco, boutique hotel is within a 5-minute walk of Broadway theaters."
+    }
+]

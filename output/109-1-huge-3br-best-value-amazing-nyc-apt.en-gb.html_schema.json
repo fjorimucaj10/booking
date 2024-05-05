@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/109-1-huge-3br-best-value-amazing-nyc-apt.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "name": "109-1 Huge 3BR Best Value Amazing NYC Apt",
+        "description": "109-1 Huge 3BR Best Value Amazing NYC Apt is set in the East Harlem district of New York, 3.4 km from Columbia University, 4.9 km from Central Park and 5.",
+        "address": {
+            "postalCode": "10029",
+            "addressLocality": "320 East 109th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "320 East 109th Street, East Harlem, New York, 10029, United States",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7921906,-73.9401855&zoom=15&size=1600x1200&markers=color:blue%7c40.7921906,-73.9401855&sensor=false&client=gme-booking&channel=booking-frontend&signature=IWNidYjXvq-X1dRILy2ap-_2wvQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532399797.jpg?k=f4872cdc0c996637a99634ee7041da34bac858c4b64cb39ec71b1ac587570f48&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

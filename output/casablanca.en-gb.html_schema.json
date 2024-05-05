@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Casablanca Hotel by Library Hotel Collection",
+        "description": "This boutique Manhattan hotel is located in the Theater District and steps from Times Square.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/45152292.jpg?k=1c83f62ff3c3cb2e887fc6c8b0b590aa478eacc1faccd64b2b426b417b1eade1&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3278 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/casablanca.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7564091,-73.9855361&sensor=false&size=1600x1200&markers=color:blue%7c40.7564091,-73.9855361&zoom=15&client=gme-booking&channel=booking-frontend&signature=n8jXNxTq2OU0PVJpLJTNCtmHXFc=",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 321
+        },
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "147 West 43rd Street, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "147 West 43rd Street",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454145358.jpg?k=3f98b4100f241457d2f5ca185b2235ae22a6ae917c37f9f06dba23be9192e496&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/untitled-at-3-freeman-alley.en-gb.html",
+        "name": "UNTITLED 3 Freeman Alley",
+        "priceRange": "Prices for upcoming dates start at \u00a3201 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.6,
+            "bestRating": 10,
+            "reviewCount": 240,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "postalCode": "NY 10002",
+            "streetAddress": "3 Freeman Alley, Lower East Side, New York, NY 10002, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "3 Freeman Alley"
+        },
+        "description": "Featuring a garden and a bar, UNTITLED 3 Freeman Alley is set in New York, 800 metres from Bloomingdales and 1.3 km from NYU - New York University.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7218610,-73.9926690&zoom=15&center=40.7218610,-73.9926690&client=gme-booking&channel=booking-frontend&signature=IP_qZz9sdubFc9GJopd1hMRvTu8=",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

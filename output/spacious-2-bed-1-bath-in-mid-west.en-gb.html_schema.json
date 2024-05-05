@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Spacious 2 Bed 1 Bath In Mid West is set in the Hell's Kitchen district of New York, 1 km from Jacob K. Javits Convention Center, 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7583366,-73.9929773&zoom=15&sensor=false&center=40.7583366,-73.9929773&client=gme-booking&channel=booking-frontend&signature=XR64KHI_mHflOSlayqEHkuiI2Yc=",
+        "address": {
+            "streetAddress": "579 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "579 9th Avenue"
+        },
+        "url": "https://www.booking.com/hotel/us/spacious-2-bed-1-bath-in-mid-west.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503396935.jpg?k=d87dd569b835bf9111a407005d7a639a43965bce5aad43bf0dcced963367f11e&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Spacious 2 Bed 1 Bath In Mid West",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

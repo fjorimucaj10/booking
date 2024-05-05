@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/239238380.jpg?k=f1f1cdfed96f9a7e594e666eec6a9c9223b7e6b6a7f3bd54d466cb2cac64448e&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "38 West 31st Street",
+            "postalCode": "NY 10001",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 6.2,
+            "reviewCount": 13,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Situated within 700 metres of Madison Square Garden and 800 metres of Penn Station in New York, STUDIO PLUS - 2 Bedroom Apartment in Midtown features...",
+        "name": "STUDIO PLUS - 2 Bedroom Apartment in Midtown",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7472110,-73.9878074&zoom=15&sensor=false&center=40.7472110,-73.9878074&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=uZvYoCLxyi17W5Gln2XShelCmtg=",
+        "url": "https://www.booking.com/hotel/us/studio-plus-2-bedroom-apartment-in-midtown.en-gb.html"
+    }
+]

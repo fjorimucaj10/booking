@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Comfy Guest House by Columbus Circle",
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.0,
+            "reviewCount": 4,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/comfy-guest-house-by-columbus-circle.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7656652,-73.9832325&zoom=15&sensor=false&center=40.7656652,-73.9832325&client=gme-booking&channel=booking-frontend&signature=cA4QoEXk7g8xse0vVdUPY6SPebE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/530964803.jpg?k=44d46407705bb56f5b49aacd1119eb7de40ae5e9b961a98618eee35632ed1b19&o=&hp=1",
+        "description": "Offering city views, Comfy Guest House by Columbus Circle is an accommodation situated in New York, 800 metres from Museum of Modern Art and 300 metres...",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "940 8th Avenue",
+            "postalCode": "NY 10019",
+            "streetAddress": "940 8th Avenue, New York, NY 10019, United States"
+        }
+    }
+]

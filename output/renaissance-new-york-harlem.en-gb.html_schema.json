@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.8102013,-73.9493456&markers=color:blue%7c40.8102013,-73.9493456&zoom=15&client=gme-booking&channel=booking-frontend&signature=5iN0Ns33O2Mg34WR2fB_aPuQZ_k=",
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "reviewCount": 515,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3170 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506583614.jpg?k=54a1dc43fc8c33dfe1a4c6fe8fbfb91a6510514eaaa831a171b71ae8d318859e&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "233 West 125th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "233 West 125th Street, Harlem, New York, 10027, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10027"
+        },
+        "url": "https://www.booking.com/hotel/us/renaissance-new-york-harlem.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Set 1.6 km from Columbia University, Renaissance New York Harlem Hotel offers 3-star accommodation in New York and features a terrace, a restaurant and a...",
+        "name": "Renaissance New York Harlem Hotel"
+    }
+]

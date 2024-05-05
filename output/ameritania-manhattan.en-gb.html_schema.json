@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/58065044.jpg?k=dd830410d43aa82566b60fcce81d7927ff397da01ad4181329c6d90922991d5b&o=&hp=1",
+        "name": "Ameritania at Times Square",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7641430,-73.9826068&sensor=false&center=40.7641430,-73.9826068&zoom=15&client=gme-booking&channel=booking-frontend&signature=48osORrFinq8EWO5CAvDT4NW8ok=",
+        "aggregateRating": {
+            "reviewCount": 5625,
+            "ratingValue": 7.9,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ameritania-manhattan.en-gb.html",
+        "address": {
+            "streetAddress": "230 West 54th Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "230 West 54th Street"
+        },
+        "description": "This New York City hotel is located in the Theatre District, next to The Ed Sullivan Theater. Guest rooms at the Ameritania feature cable TVs.",
+        "priceRange": "Prices for upcoming dates start at \u00a3176 per night (We Price Match)"
+    }
+]

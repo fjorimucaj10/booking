@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Courtyard by Marriott New York Manhattan/ Chelsea is a 5 minute walk away from the Pennsylvania Amtrak Station.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/447139193.jpg?k=dfe8b44a80ce3c110367985d0ffc42d4a8daa24db249f2366595a8c4c149f292&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "135 West 30th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "135 West 30th Street, Chelsea, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "reviewCount": 1418,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3,
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/courtyard-by-marriott-chelsea.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7481235,-73.9913409&sensor=false&size=1600x1200&markers=color:blue%7c40.7481235,-73.9913409&zoom=15&client=gme-booking&channel=booking-frontend&signature=jvzC9x_-eZDzEzf5Y9RHH2G9cfI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)",
+        "name": "Courtyard by Marriott New York Manhattan/Chelsea"
+    }
+]

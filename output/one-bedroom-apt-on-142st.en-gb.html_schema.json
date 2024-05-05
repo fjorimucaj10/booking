@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "147 West 142nd Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10030",
+            "streetAddress": "147 West 142nd Street , Harlem, New York, NY 10030, United States",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/548252860.jpg?k=9076f909f732ecf7301f7c5f8cd0e5e9f4ba604e46dbe522c521f684f54fa805&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/one-bedroom-apt-on-142st.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "NY studio",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8194478,-73.9393116&sensor=false&markers=color:blue%7c40.8194478,-73.9393116&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=8hYOJrCkXrAexh6WLwNjMqJBU_s=",
+        "priceRange": "Prices for upcoming dates start at \u00a3198 per night (We Price Match)",
+        "description": "Featuring air-conditioned accommodation with a patio, NY studio is located in New York."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Studio Apt in Time Square! is located in the Hudson Yards district of New York, 1 km from Jacob K.",
+        "@context": "http://schema.org",
+        "name": "Studio Apt in Time Square!",
+        "url": "https://www.booking.com/hotel/us/studio-apt-in-time-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488156051.jpg?k=80beee8ddc83f1c77778ddb0abc19cf76569e0d7e8657961c57fa4ebd9ed2767&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3469 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "395 9th Avenue, Hell's Kitchen, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "395 9th Avenue",
+            "postalCode": "NY 10001"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7526117,-73.9973757&size=1600x1200&zoom=15&center=40.7526117,-73.9973757&client=gme-booking&channel=booking-frontend&signature=WfFtzEaWW0r8wLyjBZV4pU7gyOU=",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/incentra-village-house.en-gb.html",
+        "description": "Occupying two brownstown townhouses, Incentra Village Hotel is a Victorian-style inn located in New York.",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "@type": "AggregateRating",
+            "reviewCount": 166,
+            "bestRating": 10
+        },
+        "name": "Incentra Village Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3360 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/40589224.jpg?k=742c04765712501949f0687ab1851f67112d0b6d7cd41d47e62eb8edf7a19ea7&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7379194,-74.0041900&markers=color:blue%7c40.7379194,-74.0041900&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=uenAl-LxYDxln_8CiAZRHEr85Gw=",
+        "@context": "http://schema.org",
+        "address": {
+            "addressLocality": "32 8th Avenue",
+            "streetAddress": "32 8th Avenue, Greenwich Village, New York, NY 10014, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10014",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

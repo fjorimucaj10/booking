@@ -1,0 +1,20 @@
+[
+    {
+        "name": "East Village 1br w wd nr Stuyvesant Park NYC-923",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7299405,-73.9819054&sensor=false&zoom=15&size=1600x1200&center=40.7299405,-73.9819054&client=gme-booking&channel=booking-frontend&signature=v2GqIJXkv9I0jyqMyXSIEzKkZRs=",
+        "address": {
+            "postalCode": "10009",
+            "addressLocality": "",
+            "streetAddress": "East Village, New York, 10009, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "description": "Located in New York, 2.3 km from Bloomingdales and 1.7 km from Flatiron Building, East Village 1br w wd nr Stuyvesant Park NYC-923 offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440938643.jpg?k=6ca9069b8d78a236f810ea5cf9708935a4f940cdc356745427835e24a27aaa61&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/east-village-1br-w-wd-nr-stuyvesant-park-nyc-923.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3334 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489748089.jpg?k=31ff61702627bffb4c917639d80d283ac60b927000eb725cfaa2a0e2cba59c60&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "Allen Street, Lower East Side, New York, NY 10002, United States",
+            "postalCode": "NY 10002",
+            "addressLocality": "Allen Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7155173,-73.9918987&sensor=false&center=40.7155173,-73.9918987&zoom=15&client=gme-booking&channel=booking-frontend&signature=ijpMAgM2HDFdbnI7UAvjzggNLuU=",
+        "name": "2 Bedroom King Bed Apartment",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "reviewCount": 4,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Situated in New York, 1.3 km from Bloomingdales and 2.",
+        "url": "https://www.booking.com/hotel/us/simple-and-2br-king-bed-apartment.en-gb.html"
+    }
+]

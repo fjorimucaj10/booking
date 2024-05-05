@@ -1,0 +1,26 @@
+[
+    {
+        "name": "U Hotel Fifth Avenue, Empire State Building",
+        "url": "https://www.booking.com/hotel/us/373.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3141 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7491630,-73.9838769&markers=color:blue%7c40.7491630,-73.9838769&zoom=15&client=gme-booking&channel=booking-frontend&signature=N_5CNW9x9I3zaqBeOTFzgBSSGZU=",
+        "@type": "Hotel",
+        "description": "This Fifth Avenue boutique hotel stands in the shadow of the Empire State Building and is a 5-minute walk from the 34th Street - Herald Square subway...",
+        "address": {
+            "addressLocality": "373 Fifth Avenue",
+            "postalCode": "NY 10016 ",
+            "addressCountry": "USA",
+            "streetAddress": "373 Fifth Avenue, New York, NY 10016 , United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/93953076.jpg?k=cea5d7c5e2e1bb814cd1a22dc49029cf3ad085a1fcca457dbe44473c10795a1c&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 7.9,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2943
+        }
+    }
+]

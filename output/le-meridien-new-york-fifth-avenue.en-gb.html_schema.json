@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Le M\u00e9ridien New York, Fifth Avenue has a fitness centre, shared lounge, a restaurant and bar in New York.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "reviewCount": 36,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3208 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/456069465.jpg?k=0317b71d6456fccf6f451676b45fa10c0a943771529053987cf69ee2dbe82fb2&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7465940,-73.9864480&zoom=15&markers=color:blue%7c40.7465940,-73.9864480&client=gme-booking&channel=booking-frontend&signature=0SlJrnNIejXz2INPZnEc7fgbWQQ=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/le-meridien-new-york-fifth-avenue.en-gb.html",
+        "name": "Le M\u00e9ridien New York, Fifth Avenue",
+        "address": {
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "streetAddress": "292 Fifth Avenue, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "292 Fifth Avenue",
+            "@type": "PostalAddress"
+        }
+    }
+]

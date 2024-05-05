@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/great-studio-location-in-times-square-near-subway.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "addressLocality": ""
+        },
+        "@type": "Hotel",
+        "name": "Great Studio Location in Times Square Near Subway",
+        "priceRange": "Prices for upcoming dates start at \u00a3259 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474145443.jpg?k=9ce2d217333e16bc139031829e1a4ab165cac1231c25c7980e2bf48c5f3fbb7c&o=&hp=1",
+        "description": "Situated right in the centre of New York, 800 metres from Times Square, Great Studio Location in Times Square Near Subway features air-conditioned...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7612476,-73.9918935&size=1600x1200&zoom=15&sensor=false&center=40.7612476,-73.9918935&client=gme-booking&channel=booking-frontend&signature=qifUwFcm5DyY2HVPO9vQ98H9W9E=",
+        "aggregateRating": {
+            "reviewCount": 2,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 6.0
+        }
+    }
+]

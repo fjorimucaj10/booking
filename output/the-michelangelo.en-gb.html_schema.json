@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Michelangelo Hotel",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3245 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Located 322 metres from Times Square, Michelangelo features a 24-hour fitness centre and complimentary WiFi.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7615701,-73.9825777&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7615701,-73.9825777&client=gme-booking&channel=booking-frontend&signature=kYr9KbO_IjFlefivYZz55CV1b20=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/179947361.jpg?k=613ffa06933e917d57b3f2feac93bdd9fd2d24ad37b7a56956007c54e49080f0&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5,
+            "reviewCount": 1457
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "152 West 51st Street",
+            "@type": "PostalAddress",
+            "streetAddress": "152 West 51st Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019"
+        },
+        "url": "https://www.booking.com/hotel/us/the-michelangelo.en-gb.html"
+    }
+]

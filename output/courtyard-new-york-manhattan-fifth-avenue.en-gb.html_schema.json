@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/courtyard-new-york-manhattan-fifth-avenue.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1208
+        },
+        "@type": "Hotel",
+        "description": "Courtyard Manhattan is a 30 floor-high building with a prestigious location on Fifth Avenue near New York City's Fashion District.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/448698268.jpg?k=2f689608f93f810dc0200e7e1af69a47eed5426f7ee576d1f5aaa25f959a2870&o=&hp=1",
+        "address": {
+            "addressLocality": "3 East 40th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressCountry": "USA",
+            "streetAddress": "3 East 40th Street, New York, NY 10016, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3166 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7520219,-73.9811444&markers=color:blue%7c40.7520219,-73.9811444&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=16vwCeixNBnzPFbQSpnaMjrrhiE=",
+        "name": "Courtyard by Marriott New York Manhattan/ Fifth Avenue",
+        "@context": "http://schema.org"
+    }
+]

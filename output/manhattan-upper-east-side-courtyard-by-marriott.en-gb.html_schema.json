@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "410 East 92nd Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10128",
+            "streetAddress": "410 East 92nd Street, Upper East Side, New York, NY 10128, United States"
+        },
+        "name": "Courtyard New York Manhattan/Upper East Side",
+        "priceRange": "Prices for upcoming dates start at \u00a3240 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Located in Manhattan\u2019s Upper East Side, this hotel is within 15 minutes\u2019 walk from Guggenheim Museum and Central Park. A fitness centre is available.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/462269031.jpg?k=401c08d7ca435de20007f5ddd4874c709fd15ba284863143981762cb5f5eb2b8&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.7,
+            "reviewCount": 752
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/manhattan-upper-east-side-courtyard-by-marriott.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7802901,-73.9460761&center=40.7802901,-73.9460761&zoom=15&client=gme-booking&channel=booking-frontend&signature=3If272PjxccmASwXzgcyDD5QGkI="
+    }
+]

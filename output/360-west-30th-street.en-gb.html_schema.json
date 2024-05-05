@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7504550,-73.9976410&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7504550,-73.9976410&client=gme-booking&channel=booking-frontend&signature=XvoX9rsm-nQh1OiYPIKry5Oc4h0=",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, within less than 1 km of Macy's and a 4-minute walk of Madison Square Garden, West 30th Street Guest House offers accommodation with...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/345298685.jpg?k=dd886ba8f0ca5d88d12ec440adcd8e8224c9d0b55fde23e534a909de8b20612a&o=&hp=1",
+        "name": "West 30th Street Guest House",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "360 West 30th Street, Chelsea, New York, NY 10001, United States",
+            "addressLocality": "360 West 30th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 352,
+            "ratingValue": 6.5,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3162 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/360-west-30th-street.en-gb.html"
+    }
+]

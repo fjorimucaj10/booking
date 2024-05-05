@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10018",
+            "streetAddress": "320 West 36th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "320 West 36th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7537400,-73.9937379&center=40.7537400,-73.9937379&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=DWeOGAXbazGdN4hoyIX3HTr90go=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/413666249.jpg?k=09fdc7623e02487d0e9138c0c973201160d6ebd0dc85b9a14da92a1642c3b1d9&o=&hp=1",
+        "name": "Crowne Plaza HY36 Midtown Manhattan, an IHG Hotel",
+        "aggregateRating": {
+            "reviewCount": 774,
+            "bestRating": 10,
+            "ratingValue": 8.4,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/crowne-plaza-midtown-manhattan.en-gb.html",
+        "description": "Featuring free WiFi throughout the property, Crowne Plaza HY36 Midtown Manhattan offers accommodation in New York."
+    }
+]

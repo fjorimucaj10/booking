@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "581 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "addressLocality": "581 9th Avenue"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/modern-3-bed-apartment-at-mid-west.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7583799,-73.9929429&sensor=false&zoom=15&center=40.7583799,-73.9929429&client=gme-booking&channel=booking-frontend&signature=7JKyMSSSmqw706JE_d8KFoUY4Z0=",
+        "description": "Modern 3 Bed Apartment At Mid West is set in the Hell's Kitchen district of New York, 1.1 km from Jacob K. Javits Convention Center, 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504407578.jpg?k=06d438cff33eecd057ac4ca846ec386bb701643e41daaf37de2dd85b775c39aa&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3972 per night (We Price Match)",
+        "name": "Modern 3 Bed Apartment At Mid West"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "78-2D New furnished 1BR WD walk to Central Park",
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-2D New furnished 1BR WD walk to Central Park offers air conditioning.",
+        "address": {
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "315 East 78th Street",
+            "@type": "PostalAddress",
+            "postalCode": "10075"
+        },
+        "url": "https://www.booking.com/hotel/us/78-2d-new-furnished-1br-wd-walk-to-central-park.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3408 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411302298.jpg?k=76438700518508c76bd1538770ed508aa7a2893b656a4e58f4c8e7b404246090&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7724266,-73.9545517&size=1600x1200&center=40.7724266,-73.9545517&zoom=15&client=gme-booking&channel=booking-frontend&signature=ULRnENMvQhyiyeZQyjnUz8K2dP4=",
+        "@context": "http://schema.org"
+    }
+]

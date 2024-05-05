@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7171023,-73.9926110&markers=color:blue%7c40.7171023,-73.9926110&zoom=15&client=gme-booking&channel=booking-frontend&signature=LRyeXcCyEZt8F4aTe9uPqqi7VQw=",
+        "@type": "Hotel",
+        "name": "Cozy 4BR ApartmentLower East Side",
+        "description": "Cozy 4BR ApartmentLower East Side is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 2.",
+        "priceRange": "Prices for upcoming dates start at \u00a3391 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "79 Eldridge Street, Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "79 Eldridge Street",
+            "addressRegion": "New York State",
+            "postalCode": "10002"
+        },
+        "aggregateRating": {
+            "reviewCount": 7,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 6.7
+        },
+        "url": "https://www.booking.com/hotel/us/cozy-4br-apartment-lower-east-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/516071102.jpg?k=da3f8e280d347541d2c400a3e2b83f37ff30ad942dbcc40ae0d891c73f621d32&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

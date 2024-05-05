@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3162 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/yotel-new-york-at-times-square.en-gb.html",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "@type": "AggregateRating",
+            "reviewCount": 5923,
+            "bestRating": 10
+        },
+        "description": "Located less than a kilometre from Times Square, YOTEL New York offers complimentary WiFi and meeting and event spaces.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7591568,-73.9954561&center=40.7591568,-73.9954561&client=gme-booking&channel=booking-frontend&signature=8aaLjLXfXXRx35oq4iIS7k2Zmd0=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/308960591.jpg?k=32f891d804aa959099f146ac9ac8dbb6fdc90422bc904b9a7f372fbd40ed17d9&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "570 10th Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "570 10th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "addressCountry": "USA"
+        },
+        "name": "YOTEL New York Times Square"
+    }
+]

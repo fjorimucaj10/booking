@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/excellent-3-bed-1-bath-in-mid-east.en-gb.html",
+        "name": "Excellent 3 Bed 1 Bath In Mid East",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "128 East 57th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "128 East 57th Street, Midtown East, New York, NY 10022, United States",
+            "postalCode": "NY 10022"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3963 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506619575.jpg?k=2b98ff1913bb253caaabd75ca7919a5281f6ae320dc9169360a730c7ddc6a841&o=&hp=1",
+        "description": "Excellent 3 Bed 1 Bath In Mid East is located in the Midtown East district of New York, 1 km from Rockefeller Center, 1 km from Carnegie Hall and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7608460,-73.9697100&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7608460,-73.9697100&client=gme-booking&channel=booking-frontend&signature=A4lzTErsrgzD-HU1fIQHmEfC4CA="
+    }
+]

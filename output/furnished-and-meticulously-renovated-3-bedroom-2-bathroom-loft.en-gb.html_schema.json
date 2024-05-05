@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "East 16th Street, Gramercy, New York, NY 10003, United States",
+            "addressCountry": "USA",
+            "addressLocality": "East 16th Street",
+            "postalCode": "NY 10003"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,013 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482873481.jpg?k=69fd659872abbb2d5662a0efe2076c0ceb2bd6ab15eb3781137212e94e0ea09b&o=&hp=1",
+        "description": "Furnished and Meticulously Renovated 3-bedroom, 2-bathroom Loft is located in the Gramercy district of New York, 1.",
+        "name": "Furnished and Meticulously Renovated 3-bedroom, 2-bathroom Loft",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/furnished-and-meticulously-renovated-3-bedroom-2-bathroom-loft.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7346160,-73.9857688&sensor=false&center=40.7346160,-73.9857688&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sWUD9SHQ2yZhmR-VLaQNyjX6ooE="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3228 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518415343.jpg?k=4dd76efdd72e9241297ee550446dc99485bd454eb4897739f506d793db53e164&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "12 West 44th Street 211, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "addressLocality": "12 West 44th Street 211",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "name": "Hotel-Studio @ The Mansfield Midtown",
+        "url": "https://www.booking.com/hotel/us/studio-the-mansfield-midtown-new-york2.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2,
+            "ratingValue": 2.0,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7550775,-73.9810571&markers=color:blue%7c40.7550775,-73.9810571&client=gme-booking&channel=booking-frontend&signature=iDTYLPE-8_bDJtOUk8RYKH7yBWo=",
+        "description": "Situated right in the centre of New York, 300 metres from New York Public Library, Hotel-Studio @ The Mansfield Midtown features air-conditioned..."
+    }
+]

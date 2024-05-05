@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "1335 Avenue of the Americas, New York, NY 10019, United States",
+            "addressLocality": "1335 Avenue of the Americas",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474333804.jpg?k=79ab0be26b7d4f4ce10100bbb2d9f83d0fb2df201b7e5b6a81a9073e70f44011&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7623492,-73.9790113&sensor=false&zoom=15&center=40.7623492,-73.9790113&client=gme-booking&channel=booking-frontend&signature=AmvGvG5X8x3IgFUbZbKmpveRiRw=",
+        "description": "Boasting an unrivaled location in the heart of Manhattan, this property is located on the 37th and 38th floors of the Hilton New York and features elegant...",
+        "priceRange": "Prices for upcoming dates start at \u00a3315 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Hilton Club New York",
+        "url": "https://www.booking.com/hotel/us/hilton-club-new-york.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 238,
+            "bestRating": 10,
+            "ratingValue": 8.6
+        },
+        "@context": "http://schema.org"
+    }
+]

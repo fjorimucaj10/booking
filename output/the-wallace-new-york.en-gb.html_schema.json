@@ -1,0 +1,26 @@
+[
+    {
+        "name": "The Wallace Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3263 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7819137,-73.9817930&zoom=15&sensor=false&size=1600x1200&center=40.7819137,-73.9817930&client=gme-booking&channel=booking-frontend&signature=ERQq0hUN1_OF87u_01gMfupXSH4=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-wallace-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/311478002.jpg?k=3152a579112c1288c83d22a1b9cbad7d2077809f7a00066e37ef3a8580eba2be&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "242 West 76th Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10023",
+            "streetAddress": "242 West 76th Street, Upper West Side, New York, NY 10023, United States"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1520,
+            "ratingValue": 9.3
+        },
+        "@context": "http://schema.org",
+        "description": "Situated in New York and with Strawberry Fields reachable within 1."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7581428,-73.9930404&size=1600x1200&center=40.7581428,-73.9930404&client=gme-booking&channel=booking-frontend&signature=uUGwShWJjeKdbrKRMfFEGQjaPkk=",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/spacious-studio-in-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542553299.jpg?k=e6d32e94593718f4f6c7712388833fb452179f0902996b7ed08949b8df6717df&o=&hp=1",
+        "name": "Spacious Studio in NYC",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "573 9th Avenue",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "streetAddress": "573 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "Set in a central area of New York, 800 metres from Times Square, Spacious Studio in NYC offers air-conditioned accommodation with free WiFi and a..."
+    }
+]

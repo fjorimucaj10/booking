@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7559792,-73.9932417&size=1600x1200&zoom=15&center=40.7559792,-73.9932417&sensor=false&client=gme-booking&channel=booking-frontend&signature=l4H7_ihZkmrj5cnsoHs_m1gKUlo=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/513358986.jpg?k=360e8e09e229cd642946839580f847686801dfc633c2b979ca6c315cdb32d3f0&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 159,
+            "@type": "AggregateRating",
+            "ratingValue": 8.9
+        },
+        "description": "Conveniently located in New York, Roomza Times Square at Pestana CR7 offers an \u00e0 la carte breakfast and free WiFi throughout the property.",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3222 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/roomza-times-square-at-pestana-cr7.en-gb.html",
+        "name": "Roomza Times Square at Pestana CR7",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "338A West 39th Street Foors 8 & 9, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "338A West 39th Street Foors 8 & 9",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        }
+    }
+]

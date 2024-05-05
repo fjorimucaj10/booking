@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Dream is a flagship hotel in downtown Manhattan with a modern theme.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7420273,-74.0036233&size=1600x1200&sensor=false&center=40.7420273,-74.0036233&client=gme-booking&channel=booking-frontend&signature=_ejolepcB5hnrFu3rYGXkTIiFBo=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3227 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/dream-downtown.en-gb.html",
+        "name": "Dream Downtown, by Hyatt",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/43860221.jpg?k=034e43cabfa6c96f50a916145daa5a4dd8fb229c7a35cc9d9a8b132ba8924bca&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1387,
+            "bestRating": 10,
+            "ratingValue": 7.4
+        },
+        "address": {
+            "addressLocality": "355 West 16th Street",
+            "postalCode": "NY 10011",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "355 West 16th Street, Chelsea, New York, NY 10011, United States",
+            "@type": "PostalAddress"
+        }
+    }
+]

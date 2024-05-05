@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/new-york-517-lexington-avenue.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "517 Lexington Avenue, Midtown East, New York, NY 10017, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10017",
+            "addressLocality": "517 Lexington Avenue"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.7,
+            "reviewCount": 397,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "description": "Featuring an on-site restaurant and bar, Hotel 48LEX New York offers apartment-style accommodation in Manhattan, 500 metres from Rockefeller Center.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/62427832.jpg?k=f177aed9e638fd0ced905512f242ce5ab231ee47acae6c005a5ada6666a1dd25&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7551840,-73.9730099&zoom=15&size=1600x1200&center=40.7551840,-73.9730099&sensor=false&client=gme-booking&channel=booking-frontend&signature=ZeJUR5B1KMEcSpgl8Rra4NVbZE4=",
+        "priceRange": "Prices for upcoming dates start at \u00a3218 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Hotel 48LEX New York"
+    }
+]

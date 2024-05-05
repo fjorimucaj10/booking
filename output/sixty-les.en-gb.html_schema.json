@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/sixty-les.en-gb.html",
+        "name": "Sixty LES",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3217 per night (We Price Match)",
+        "description": "Located in New York\u2019s trendy Lower East Side, SIXTY LES features a seasonal rooftop pool, beer garden and sushi restaurant, 500 metres from the New Museum.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7220326,-73.9885882&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7220326,-73.9885882&client=gme-booking&channel=booking-frontend&signature=zNwv4un_Sk3dGviGGgWTztTTxEQ=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.3,
+            "reviewCount": 899
+        },
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10002",
+            "addressLocality": "190 Allen Street",
+            "streetAddress": "190 Allen Street, Lower East Side, New York, NY 10002, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/300273413.jpg?k=c0a6d4443817fa2771d3312cc446af292d59043c8371ab6781a87d11eaf0a60f&o=&hp=1"
+    }
+]

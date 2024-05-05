@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Blueground Hells Kitch gym wd near Pier 86 NYC-1477",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7615214,-73.9993486&size=1600x1200&zoom=15&sensor=false&center=40.7615214,-73.9993486&client=gme-booking&channel=booking-frontend&signature=aSiAbX8DVkmaOkueNBrPZN8AXLw=",
+        "address": {
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10036"
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/blueground-hells-kitch-gym-wd-near-pier-86-nyc-1477.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551042912.jpg?k=a51e5230c870bffb9b92f4d30a0bb46fcd2b349cf8a303a4e8193fdd37cacc11&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Set right in the centre of New York, 700 metres from Jacob K."
+    }
+]

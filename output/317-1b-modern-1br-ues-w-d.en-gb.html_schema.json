@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3391 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7724040,-73.9544678&zoom=15&markers=color:blue%7c40.7724040,-73.9544678&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=3MLRDXqnroJrdSXCdMTFC9OhK4g=",
+        "description": "Set in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 317-1B Modern 1Br UES W D offers air conditioning. The property is located 3.",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/317-1b-modern-1br-ues-w-d.en-gb.html",
+        "name": "317-1B Modern 1Br UES W D",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "East 78th Street 317, Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "East 78th Street 317",
+            "@type": "PostalAddress",
+            "postalCode": "10075"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/511870688.jpg?k=8047d1753392a2af4390a6f176909a5950e97853df78fa8191870a8a0a324006&o=&hp=1"
+    }
+]

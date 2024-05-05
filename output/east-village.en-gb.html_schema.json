@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "147 First Avenue, East Village, New York, NY 10003, United States",
+            "addressLocality": "147 First Avenue",
+            "postalCode": "NY 10003",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3327 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/9335921.jpg?k=a01f5e07d81774f8d0e826dddc3a75404f6d2fdc87a379fc89877a86b958fd03&o=&hp=1",
+        "description": "Located in Manhattan\u2019s East Village, this hotel is surrounded by restaurants, bars, and night life.",
+        "url": "https://www.booking.com/hotel/us/east-village.en-gb.html",
+        "name": "East Village Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.7,
+            "reviewCount": 880
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7284087,-73.9851717&markers=color:blue%7c40.7284087,-73.9851717&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=5pxD33cF-HZTCkfBWkWYDT84t8E=",
+        "@context": "http://schema.org"
+    }
+]

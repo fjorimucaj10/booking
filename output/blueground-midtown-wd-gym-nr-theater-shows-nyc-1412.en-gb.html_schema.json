@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7607614,-73.9861055&size=1600x1200&markers=color:blue%7c40.7607614,-73.9861055&sensor=false&client=gme-booking&channel=booking-frontend&signature=7URf8BWhntDL3Q4j07U-zOTqyao=",
+        "name": "Blueground Midtown wd gym nr theater shows NYC-1412",
+        "description": "Blueground Midtown wd gym nr theater shows NYC-1412 features a balcony and is set in New York, within just less than 1 km of Rockefeller Center and a...",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/blueground-midtown-wd-gym-nr-theater-shows-nyc-1412.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10036",
+            "@type": "PostalAddress",
+            "streetAddress": "New York, 10036, United States",
+            "addressLocality": ""
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524732795.jpg?k=29391b6e9cec79f2d82d6122d8e235e4e93c1f02eeb4def6454c46fbd5e1600e&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-central-at-5th-by-hilton-club.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 542,
+            "bestRating": 10,
+            "ratingValue": 8.9,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7567550,-73.9773300&size=1600x1200&markers=color:blue%7c40.7567550,-73.9773300&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=fcHxG0CraP4NCOmpAVxOwm3oBxA=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10017",
+            "addressLocality": "12 East 48th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "12 East 48th Street, Midtown East, New York, NY 10017, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/486001231.jpg?k=7af9cd77928cd60410c75616f7e0f1b837436b286ac0461e9360c61d129a3a0f&o=&hp=1",
+        "name": "Hilton Club The Central at 5th New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3251 per night (We Price Match)",
+        "description": "Conveniently situated in the Midtown East district of New York, Hilton Club The Central at 5th New York is located 300 metres from St Patrick's Cathedral,...",
+        "@type": "Hotel"
+    }
+]

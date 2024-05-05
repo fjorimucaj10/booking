@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "213 East 64th Street",
+            "streetAddress": "213 East 64th Street, Upper East Side, New York, NY 10065, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10065"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487776337.jpg?k=9465f7007159c8fd07d95d830a8d1d9d66d82f9d5fbd85190fc4b429bfc090d9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1br-in-midtown-east.en-gb.html",
+        "name": "1BR in Midtown East!",
+        "description": "Set in New York, 1.7 km from St Patrick's Cathedral and 1.9 km from Rockefeller Center, 1BR in Midtown East! offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7644572,-73.9631971&zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.7644572,-73.9631971&client=gme-booking&channel=booking-frontend&signature=ifJx6KnD7ZnZfRmljIujHOk-TJ4=",
+        "priceRange": "Prices for upcoming dates start at \u00a3328 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 9.0,
+            "bestRating": 10,
+            "reviewCount": 714,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7150587,-74.0158568&zoom=15&sensor=false&size=1600x1200&center=40.7150587,-74.0158568&client=gme-booking&channel=booking-frontend&signature=zuPKTio0BgFoj2NcMTJahcaEtNQ=",
+        "name": "Conrad New York Downtown",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/e-suites-new-york-new-york-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3305 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "102 North End Avenue",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10282",
+            "addressCountry": "USA",
+            "streetAddress": "102 North End Avenue, Battery Park, New York, NY 10282, United States"
+        },
+        "description": "With 2000 pieces of artwork on display and an atrium, this all-suite property is located 500 metres from the World Trade Centre.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484399376.jpg?k=247b2e86db19bc88d28a632d48222e92205674de0fef0085133f64ed94dd361c&o=&hp=1"
+    }
+]

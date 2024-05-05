@@ -1,0 +1,20 @@
+[
+    {
+        "name": "78-2B New furnished 1BR WD walk to Central Park",
+        "priceRange": null,
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7724266,-73.9545517&zoom=15&markers=color:blue%7c40.7724266,-73.9545517&client=gme-booking&channel=booking-frontend&signature=SoxKfBLU2dPinGzsH92saXv0jVs=",
+        "url": "https://www.booking.com/hotel/us/78-2b-new-furnished-1br-wd-walk-to-central-park.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411302268.jpg?k=af88e86b46d009497a2fe698338b22c8fcd8896e59ea29f0ab3be64c080b0241&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "315 East 78th Street",
+            "postalCode": "10075",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "Set in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-2B New furnished 1BR WD walk to Central Park offers air conditioning."
+    }
+]

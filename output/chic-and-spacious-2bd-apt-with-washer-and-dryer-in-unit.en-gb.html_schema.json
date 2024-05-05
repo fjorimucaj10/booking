@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "132 West 26th Street 5",
+            "postalCode": "10001",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "132 West 26th Street 5, Chelsea, New York, 10001, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3608 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475010959.jpg?k=7e2ecea69d3caa9c40629cf6e477dab2f509fcca322223d1ff2cb931da10bbed&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7451757,-73.9929060&size=1600x1200&markers=color:blue%7c40.7451757,-73.9929060&client=gme-booking&channel=booking-frontend&signature=Q7a4cTcACRSMolt1mcC_Qirj77I=",
+        "name": "Chic and Spacious 2BD Apt with washer and dryer in unit",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/chic-and-spacious-2bd-apt-with-washer-and-dryer-in-unit.en-gb.html",
+        "description": "Situated in New York, less than 1 km from Madison Square Garden and a 10-minute walk from Penn Station, Chic and Spacious 2BD Apt with washer and dryer in..."
+    }
+]

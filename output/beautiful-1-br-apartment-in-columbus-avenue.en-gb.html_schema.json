@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "80 Columbus Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "80 Columbus Avenue, Upper West Side, New York, NY 10023, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10023"
+        },
+        "name": "Beautiful 1 BR Apartment in Columbus Avenue",
+        "url": "https://www.booking.com/hotel/us/beautiful-1-br-apartment-in-columbus-avenue.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "description": "Set in New York, less than 1 km from Carnegie Hall and a 10-minute walk from Central Park, Beautiful 1 BR Apartment in Columbus Avenue offers air...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7719206,-73.9829598&size=1600x1200&center=40.7719206,-73.9829598&client=gme-booking&channel=booking-frontend&signature=bGkdZiKu1xnRGSNJzJL_RD02xfk=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506748459.jpg?k=9bf461c064dbd86f1e2f230ce3a8a9693f2c99bde1c845af4ebefecea56b9f60&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7398491,-73.9801483&center=40.7398491,-73.9801483&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=6TqcGhAtPIC8R_SKdV8CQtgL0cU=",
+        "url": "https://www.booking.com/hotel/us/26-2b-gramercy-large-1br-wd-in-unit-courtyard.en-gb.html",
+        "name": "26-2B Gramercy Large 1BR WD in unit courtyard",
+        "address": {
+            "streetAddress": "240 East 26th Street, Kips Bay, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10010",
+            "addressLocality": "240 East 26th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "26-2B Gramercy Large 1BR WD in unit courtyard is located in the Kips Bay district of New York, 1.4 km from Empire State Building, 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545631911.jpg?k=cd287484aff60ff4d0749f36c17a63a52d31e4fecf152b5e56e9b55ee3d1dcfa&o=&hp=1",
+        "priceRange": null
+    }
+]

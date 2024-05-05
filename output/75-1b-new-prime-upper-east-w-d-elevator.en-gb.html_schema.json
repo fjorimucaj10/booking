@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "description": "Situated in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-1B NEW Prime Upper East W D Elevator offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/539109845.jpg?k=60535a1a4377336316b14d62b080b9940dd088d93db6c9331f12e2d0a25b5362&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7707911,-73.9575008&sensor=false&size=1600x1200&zoom=15&center=40.7707911,-73.9575008&client=gme-booking&channel=booking-frontend&signature=OpYkqWdn-EekVRJBgD9QAzlqQJo=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/75-1b-new-prime-upper-east-w-d-elevator.en-gb.html",
+        "address": {
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "244 East 75th Street",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States"
+        },
+        "name": "75-1B NEW Prime Upper East W D Elevator"
+    }
+]

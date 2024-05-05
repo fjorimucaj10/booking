@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 500 metres from Penn Station and 1 km from Jacob K.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551042867.jpg?k=2ebe4d770ebf8a21755102034529799200414b33e3938c165902d5507e36bf85&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10001",
+            "addressLocality": "",
+            "streetAddress": "Hell's Kitchen, New York, 10001, United States",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/blueground-hudson-yards-sports-fitness-wd-nyc-1484.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7521736,-73.9989276&zoom=15&markers=color:blue%7c40.7521736,-73.9989276&client=gme-booking&channel=booking-frontend&signature=6VADQWlU_rf1H0iDMdlHUAe1I7c=",
+        "name": "Blueground Hudson Yards sports fitness wd NYC-1484",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": null
+    }
+]

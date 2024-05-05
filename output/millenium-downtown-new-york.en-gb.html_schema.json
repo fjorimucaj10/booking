@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/millenium-downtown-new-york.en-gb.html",
+        "name": "Millennium Downtown New York",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7111969,-74.0104582&sensor=false&center=40.7111969,-74.0104582&client=gme-booking&channel=booking-frontend&signature=8rFhxI8gPOaXQ4PIY8hEF1GNIps=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518007029.jpg?k=5a5d84da6d87861c985506363a7ee04323d048cce064ca3bfe89e7bae31560e4&o=&hp=1",
+        "description": "The Millenium New York Downtown, located in lower Manhattan, features a business and fitness centre.",
+        "address": {
+            "streetAddress": "55 Church Street, New York, NY 10007, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10007",
+            "addressRegion": "New York State",
+            "addressLocality": "55 Church Street",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.4,
+            "reviewCount": 4884,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        }
+    }
+]

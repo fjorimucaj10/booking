@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/73464568.jpg?k=5aa402b449379151bae29e701f63845668a9166065eb6580b23805a425815802&o=&hp=1",
+        "name": "The Jane Hotel",
+        "url": "https://www.booking.com/hotel/us/the-janenyc.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "113 Jane Street, Greenwich Village, New York, NY 10014, United States",
+            "postalCode": "NY 10014",
+            "addressRegion": "New York State",
+            "addressLocality": "113 Jane Street",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.3,
+            "reviewCount": 2133
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7381823,-74.0094638&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7381823,-74.0094638&client=gme-booking&channel=booking-frontend&signature=52m_P-gsZiUAwJPrk_WF6h8SLCE=",
+        "@context": "http://schema.org",
+        "description": "Located in the Meatpacking District of Manhattan, this New York hotel is 1.9 km from Union Square."
+    }
+]

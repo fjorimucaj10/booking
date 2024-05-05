@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3204 per night (We Price Match)",
+        "name": "Hilton Garden Inn New York Times Square North",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2740,
+            "ratingValue": 7.7,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-times-square.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7564730,-73.9806300&markers=color:blue%7c40.7564730,-73.9806300&zoom=15&client=gme-booking&channel=booking-frontend&signature=USUIj-XYiaL6r1s6eYq8Gh8MNrI=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "30 West 46th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "30 West 46th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484656856.jpg?k=ab7f33849f3325cbe6c0d29443d827eae0ebab3ae4931bbcc63040f93635185a&o=&hp=1",
+        "description": "Hilton Garden Inn New York Times Square North offers accommodation in New York."
+    }
+]

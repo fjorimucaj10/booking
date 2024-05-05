@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484619674.jpg?k=bd048e4cc452183bf948e3fd4614ad89d79af41bd4bb38935cff6cca620f0887&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 7.2,
+            "bestRating": 10,
+            "reviewCount": 8248,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-central-park-south.en-gb.html",
+        "@type": "Hotel",
+        "description": "Located 7 minutes\u2019 walk from Central Park, this Manhattan hotel features an on-site fitness centre and rooms with city views.",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "237 West 54th Street, New York, NY 10019, United States",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "237 West 54th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7643680,-73.9831300&zoom=15&center=40.7643680,-73.9831300&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=xudaEcQCwKo180f5nipkt5481-0=",
+        "name": "Hilton Garden Inn New York Central Park South-Midtown West"
+    }
+]

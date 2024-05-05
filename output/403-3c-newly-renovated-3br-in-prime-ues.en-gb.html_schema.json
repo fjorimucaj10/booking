@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 2.3 km from Metropolitan Museum of Art and 2.",
+        "url": "https://www.booking.com/hotel/us/403-3c-newly-renovated-3br-in-prime-ues.en-gb.html",
+        "name": "403-3C Newly renovated 3br in prime UES",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535694610.jpg?k=8b3d8f08d4c429924c9a168024805cc5e59c2a3ffee33d4344ee8dde46b49534&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3569 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7658315,-73.9568257&zoom=15&markers=color:blue%7c40.7658315,-73.9568257&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=gb_nrOUnTP24l-iqcoAsxU9XSJM=",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "East 69th Street 403, Upper East Side, New York, 10021, United States",
+            "addressLocality": "East 69th Street 403",
+            "postalCode": "10021",
+            "@type": "PostalAddress"
+        }
+    }
+]

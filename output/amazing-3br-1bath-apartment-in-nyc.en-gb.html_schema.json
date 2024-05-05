@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3561 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7590931,-73.9955000&zoom=15&sensor=false&markers=color:blue%7c40.7590931,-73.9955000&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=_ReMyxy66bnuc38Ii3Kg9QxJfPE=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "568 10th Avenue",
+            "streetAddress": "568 10th Avenue, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520189478.jpg?k=62e71c93757fa68f159c56aba3d24725e837ca7503568a916737324a34ccfc57&o=&hp=1",
+        "name": "Amazing 3BR 1Bath Apartment in NYC!",
+        "url": "https://www.booking.com/hotel/us/amazing-3br-1bath-apartment-in-nyc.en-gb.html",
+        "description": "Situated right in the heart of New York, 800 metres from Jacob K. Javits Convention Center, Amazing 3BR 1Bath Apartment in NYC!"
+    }
+]

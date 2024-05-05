@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Harlem Brownstone",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/141675757.jpg?k=ea8c98ff17522086155f59508adcc9e43bca03b647891a2fa08e0ec4f193e4b4&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10027",
+            "addressLocality": "487 Manhattan Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "487 Manhattan Avenue, Harlem, New York, NY 10027, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.3,
+            "reviewCount": 104
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/harlem-brownstone-new-york-city1.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3209 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8077535,-73.9548451&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.8077535,-73.9548451&client=gme-booking&channel=booking-frontend&signature=mr08x1EBjCdqv0P6Bi328BpPnu4=",
+        "description": "Located in New York, less than 1 km from Columbia University and 4 km from Metropolitan Museum of Art, Harlem Brownstone offers free WiFi and air..."
+    }
+]

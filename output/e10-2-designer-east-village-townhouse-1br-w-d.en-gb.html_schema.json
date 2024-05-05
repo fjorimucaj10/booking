@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3452 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7302813,-73.9884091&markers=color:blue%7c40.7302813,-73.9884091&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=im6Cvz6ozU1mTapJAypuiRe-u20=",
+        "name": "E10-2 Designer East Village Townhouse 1BR W D",
+        "url": "https://www.booking.com/hotel/us/e10-2-designer-east-village-townhouse-1br-w-d.en-gb.html",
+        "description": "Located in New York, 1.5 km from Bloomingdales and 1.4 km from Flatiron Building, E10-2 Designer East Village Townhouse 1BR W D offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/413286082.jpg?k=2c63cfbb00bf7fbbd863b5417a354936b99d6f1f6473864905dd1e4d4eb8937b&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "112 East 10th Street",
+            "streetAddress": "112 East 10th Street, East Village, New York, 10003, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10003"
+        }
+    }
+]

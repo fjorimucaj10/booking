@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located in New York, less than 1 km from One World Trade Center and a 15-minute walk from Bloomingdales, 1600ft TriBeCa Townhouse - Luxury & Spacious...",
+        "address": {
+            "streetAddress": "Greenwich Street, Tribeca, New York, NY 10013, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "Greenwich Street",
+            "postalCode": "NY 10013",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a31,691 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 10.0,
+            "@type": "AggregateRating",
+            "reviewCount": 5,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/1600ft-tribeca-townhouse-luxury-amp-spacious-new-york.en-gb.html",
+        "name": "1600ft TriBeCa Townhouse - Luxury & Spacious",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524456118.jpg?k=3ba987439e19450992ee84ff294c617bb3c163b9f3329933da40eb6db0ae5fd1&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7179888,-74.0096801&zoom=15&size=1600x1200&center=40.7179888,-74.0096801&sensor=false&client=gme-booking&channel=booking-frontend&signature=bx_IA8QHjqJZXPATIGDI0jp004s="
+    }
+]

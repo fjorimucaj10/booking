@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 1.9 km from Central Park and 2.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503703495.jpg?k=cd34729efb577a92d31de4206e1fe72126dd57191569f6046d0b911f5b3a581e&o=&hp=1",
+        "priceRange": null,
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "streetAddress": "1435 2nd Avenue, Upper East Side, New York, 10021, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "1435 2nd Avenue"
+        },
+        "@context": "http://schema.org",
+        "name": "1435-4 I 3 Bedrooms 2Bath W D Prime Upper east",
+        "url": "https://www.booking.com/hotel/us/1435-4-i-3-bedrooms-2bath-w-d-prime-upper-east.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7706801,-73.9573166&markers=color:blue%7c40.7706801,-73.9573166&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=80HCq9DtvSk0YtjiT25VBZ8cYfQ="
+    }
+]

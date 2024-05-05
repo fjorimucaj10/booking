@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Situated right in the heart of New York, less than 1 km from Times Square, Luxurious 3 BR SOHO features air-conditioned accommodation with free WiFi and a...",
+        "priceRange": "Prices for upcoming dates start at \u00a31,169 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/luxurious-3-br-soho-new-york.en-gb.html",
+        "address": {
+            "addressLocality": "441 West 46th Street",
+            "streetAddress": "441 West 46th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036"
+        },
+        "@context": "http://schema.org",
+        "name": "Luxurious 3 BR SOHO",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7618138,-73.9922632&sensor=false&size=1600x1200&markers=color:blue%7c40.7618138,-73.9922632&zoom=15&client=gme-booking&channel=booking-frontend&signature=TnVo-DqiNwYYO2_ePnTCYnC4nOA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/456871361.jpg?k=5b968d1476278b3f134d456cc4fda4855ff7e86e27c1a0acfae58ed2fd52a01c&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.8092150,-73.9543730&zoom=15&markers=color:blue%7c40.8092150,-73.9543730&client=gme-booking&channel=booking-frontend&signature=sCkHwY5claOoDdIaJkJ9CQF1rog=",
+        "address": {
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "streetAddress": "343 West 122nd Street, Harlem, New York, NY 10027, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "343 West 122nd Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3205 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/harlem-grand.en-gb.html",
+        "description": "Set within 1 km of Columbia University and 4.1 km of Metropolitan Museum of Art, Harlem Grand offers rooms with air conditioning and a private bathroom in...",
+        "aggregateRating": {
+            "reviewCount": 187,
+            "ratingValue": 8.7,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "Harlem Grand",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/133443003.jpg?k=710bb400e2ae8dd30f7059662e957f3dd97c42c06b138837de6f36186a74457c&o=&hp=1"
+    }
+]

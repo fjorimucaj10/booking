@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in New York, 1.5 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1597-4 Brand new Prime UES W D walk to C park offers air...",
+        "address": {
+            "addressLocality": "1597 York Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "1597 York Avenue, Upper East Side, New York, 10028, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10028"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7749268,-73.9481632&size=1600x1200&zoom=15&markers=color:blue%7c40.7749268,-73.9481632&sensor=false&client=gme-booking&channel=booking-frontend&signature=8251U1kxsSEzuyOnyQtM5VYFZIU=",
+        "@type": "Hotel",
+        "name": "1597-4 Brand new Prime UES W D walk to C park",
+        "url": "https://www.booking.com/hotel/us/1597-4-brand-new-prime-ues-w-d-walk-to-c-park.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411286672.jpg?k=f4080ab7869b31ac4aeae026e3c94b713b608fa3c50aee1ead0ce9e7760dde47&o=&hp=1"
+    }
+]

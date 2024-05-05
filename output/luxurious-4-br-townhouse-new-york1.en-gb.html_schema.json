@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a31,736 per night (We Price Match)",
+        "address": {
+            "addressLocality": "133 East 37th Street",
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "133 East 37th Street, Murray Hill, New York, NY 10016, United States",
+            "@type": "PostalAddress"
+        },
+        "name": "Luxurious 4 BR Townhouse",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501993063.jpg?k=272649fea9a299be0b96e25497736fbe0f88ad64d1793c7addfc49d48ced3b70&o=&hp=1",
+        "description": "Luxurious 4 BR Townhouse has a balcony and is set in New York, within just 400 metres of Chrysler Building and 600 metres of Grand Central Station.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7482943,-73.9783341&markers=color:blue%7c40.7482943,-73.9783341&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=Cul-2qkIYDDtF1Crnj6WJtxU-RI=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/luxurious-4-br-townhouse-new-york1.en-gb.html"
+    }
+]

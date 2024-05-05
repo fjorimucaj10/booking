@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7552948,-73.9670181&zoom=15&center=40.7552948,-73.9670181&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=lNezPfbXTCURBnxW0RKqqKeqZvU=",
+        "url": "https://www.booking.com/hotel/us/private-beautiful-townhome-w-zen-garden.en-gb.html",
+        "name": "Private Beautiful Townhome w Zen Garden",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518971199.jpg?k=7e261b53a7ea5c2de064501f870d536071d33f5e854f17a317204d1e879eab11&o=&hp=1",
+        "description": "Right in the heart of New York, situated within a short distance of St Patrick's Cathedral and Rockefeller Center, Private Beautiful Townhome w Zen Garden...",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "323 East 51st Street, Midtown East, New York, 10022, United States",
+            "postalCode": "10022",
+            "addressCountry": "USA",
+            "addressLocality": "323 East 51st Street",
+            "addressRegion": "New York State"
+        }
+    }
+]

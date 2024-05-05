@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Attractively situated in the centre of New York, Gorgeous 2 BR in NYC with Elevator offers a terrace, air conditioning, free WiFi and flat-screen TV.",
+        "priceRange": "Prices for upcoming dates start at \u00a31,107 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&center=40.7653650,-73.9878668&markers=color:blue%7c40.7653650,-73.9878668&client=gme-booking&channel=booking-frontend&signature=JktDRFiBGdfklIVa40K2OOtKq68=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461478673.jpg?k=8f3b0cd7f7e7c0ecef6c17dd9fb86a0890df1cd2ca43033ace89b1d5c919a73e&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/gorgeous-2-br-in-nyc-with-elevator-new-york.en-gb.html",
+        "address": {
+            "streetAddress": "795 9th Avenue, Hell's Kitchen, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "795 9th Avenue"
+        },
+        "name": "Gorgeous 2 BR in NYC with Elevator"
+    }
+]

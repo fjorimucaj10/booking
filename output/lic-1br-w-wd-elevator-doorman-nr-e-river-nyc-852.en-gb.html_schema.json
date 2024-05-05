@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "LIC 1BR w WD Elevator Doorman nr E River NYC-852",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/439355093.jpg?k=a67cfb379e160e30bf93c3c64e325ceb27322acbeaac12d962673120853b2be2&o=&hp=1",
+        "description": "Situated right in the centre of New York, 4 km from Chrysler Building, LIC 1BR w WD Elevator Doorman nr E River NYC-852 features air-conditioned...",
+        "url": "https://www.booking.com/hotel/us/lic-1br-w-wd-elevator-doorman-nr-e-river-nyc-852.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "Long Island City, New York, 11109, United States",
+            "postalCode": "11109",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7448909,-73.9568403&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7448909,-73.9568403&client=gme-booking&channel=booking-frontend&signature=4bJ-GHxj1syAPJs-YrWwa6yuocI=",
+        "priceRange": null
+    }
+]

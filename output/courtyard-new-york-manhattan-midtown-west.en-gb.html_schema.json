@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Courtyard New York Manhattan/Midtown West",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "461 West 34th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "461 West 34th Street, Hudson Yards, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2723,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating"
+        },
+        "description": "Featuring a shared lounge, a restaurant as well as a bar, Courtyard New York Manhattan/Midtown West is located in the centre of New York, 600 metres from...",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3232 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/courtyard-new-york-manhattan-midtown-west.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442724863.jpg?k=6f4862dc4cdcac74bd2b68eeb58d8e5cbfa0c400080d2ffc06ed7d47236f1b26&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7547190,-73.9988670&sensor=false&center=40.7547190,-73.9988670&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sJ-l-KiT5yfB1HFrwWZh2uqPeEI=",
+        "@context": "http://schema.org"
+    }
+]

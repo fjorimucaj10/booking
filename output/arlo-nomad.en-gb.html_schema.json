@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "11 East 31st Street",
+            "@type": "PostalAddress",
+            "streetAddress": "11 East 31st Street, NoMad, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/404068834.jpg?k=38a00edc17e832280112519068f9060cd8f96174f53eb920b97181b41ced54e4&o=&hp=1",
+        "description": "Arlo NoMad is 644 metres from Madison Square Park, 322 metres from the Empire State Building and 805 metres from Herald Square.",
+        "priceRange": "Prices for upcoming dates start at \u00a3263 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 2297,
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/arlo-nomad.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7462299,-73.9849872&size=1600x1200&zoom=15&sensor=false&center=40.7462299,-73.9849872&client=gme-booking&channel=booking-frontend&signature=qP8-6HxxJZlSYxeTopjdt0qSUcM=",
+        "name": "Arlo NoMad"
+    }
+]

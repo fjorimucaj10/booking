@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/style-the-mansfield-midtown.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518463460.jpg?k=bd703d53a4b21ee2a9e47ac0c003e04809bc818da8bd4a8e3aff91f2eb87e01a&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located in the centre of New York, 300 metres from New York Public Library, Hotel-Style @ The Mansfield Midtown provides air-conditioned accommodation with...",
+        "name": "Hotel-Style @ The Mansfield Midtown",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7550775,-73.9810571&markers=color:blue%7c40.7550775,-73.9810571&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=aZgMOWaEB9rbhtvDuwhuDDNVRpU=",
+        "address": {
+            "streetAddress": "12 West 44th Street 212, New York, NY 10036, United States",
+            "addressLocality": "12 West 44th Street 212",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3228 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

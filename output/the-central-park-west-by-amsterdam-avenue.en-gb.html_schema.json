@@ -1,0 +1,26 @@
+[
+    {
+        "description": "The Central Park West by Amsterdam Avenue is set in the Upper West Side district of New York, 3 km from Metropolitan Museum of Art, 3 km from Strawberry...",
+        "address": {
+            "postalCode": "NY 10025",
+            "streetAddress": "154 West 104th Street, Upper West Side, New York, NY 10025, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "154 West 104th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3201 per night (We Price Match)",
+        "name": "The Central Park West by Amsterdam Avenue",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7984947,-73.9654564&markers=color:blue%7c40.7984947,-73.9654564&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=JeZV_UaB8S77Z1At2JqwW-V0u2Q=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4,
+            "reviewCount": 5
+        },
+        "url": "https://www.booking.com/hotel/us/the-central-park-west-by-amsterdam-avenue.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532436753.jpg?k=90a612cda05e81f1dc0bb127b2b7ec7266e6a96f193d0c170c7575838a297f33&o=&hp=1"
+    }
+]

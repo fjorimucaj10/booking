@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a32,373 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7620811,-73.9613996&markers=color:blue%7c40.7620811,-73.9613996&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=IESaKedfXBYw5ur1lt6cwsoWISY=",
+        "name": "Unbeatable 3BR with Private Patio in Upper East Side",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.8 km from Central Park and 1.",
+        "address": {
+            "streetAddress": "East 62nd Street 341, Upper East Side, New York, 10065, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10065",
+            "addressRegion": "New York State",
+            "addressLocality": "East 62nd Street 341"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/492638395.jpg?k=71dc3206b733935107d6083249ae4735ab293b345a13f1cd8ab45f7d2e282365&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 8.8,
+            "reviewCount": 4,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/unbeatable-3br-with-private-patio-in-upper-east-side.en-gb.html"
+    }
+]

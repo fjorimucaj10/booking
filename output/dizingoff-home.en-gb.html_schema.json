@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Set in New York, 1.6 km from NYU - New York University and 1.5 km from Penn Station, Pretty home offers air conditioning. The property is located 1.",
+        "url": "https://www.booking.com/hotel/us/dizingoff-home.en-gb.html",
+        "name": "Pretty home",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7409428,-74.0040969&markers=color:blue%7c40.7409428,-74.0040969&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=uC8YHJHaigD5WQ5RrWCcegeorhc=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "183 Dizengoff",
+            "postalCode": "NY 10014",
+            "addressCountry": "USA",
+            "streetAddress": "183 Dizengoff, Chelsea, New York, NY 10014, United States",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550135753.jpg?k=916bbf83c4952931036d34b5fb2bbd0387f7156a515724b93f2e5d33ab5262bf&o=&hp=1"
+    }
+]

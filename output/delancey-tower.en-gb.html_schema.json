@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/delancey-tower.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3140 per night (We Price Match)",
+        "description": "Located in New York, 800 metres from Bloomingdales and 1.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "ratingValue": 4.0
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/544946968.jpg?k=cf5f8bf5e1e13a8fcc328afa235ec0012ee0fd7ea3bf56228626576c4a366523&o=&hp=1",
+        "name": "Delancey Tower",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&markers=color:blue%7c40.7198800,-73.9919302&sensor=false&center=40.7198800,-73.9919302&client=gme-booking&channel=booking-frontend&signature=qld_k-h8V8TF6nHpgoopt9zTaHU=",
+        "address": {
+            "postalCode": "NY 10002",
+            "addressCountry": "USA",
+            "streetAddress": "38 Delancey Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "38 Delancey Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        }
+    }
+]

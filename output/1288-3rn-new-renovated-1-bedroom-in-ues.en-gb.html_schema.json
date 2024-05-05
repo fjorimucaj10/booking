@@ -1,0 +1,20 @@
+[
+    {
+        "name": "1288-3RN New Renovated 1 Bedroom in UES",
+        "description": "Located in New York, 1.8 km from Central Park and 2.3 km from Metropolitan Museum of Art, 1288-3RN New Renovated 1 Bedroom in UES offers air conditioning.",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "1st Avenue 1288, Upper East Side, New York, 10021, United States",
+            "addressLocality": "1st Avenue 1288",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7659072,-73.9569948&markers=color:blue%7c40.7659072,-73.9569948&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=mkJsNiT7IYM0eeS310uMovl-yIo=",
+        "url": "https://www.booking.com/hotel/us/1288-3rn-new-renovated-1-bedroom-in-ues.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3357 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/491324811.jpg?k=5441b2986d2f946cb9f0fd7d0f15965372a87e617f88cbd3a322850874998130&o=&hp=1"
+    }
+]

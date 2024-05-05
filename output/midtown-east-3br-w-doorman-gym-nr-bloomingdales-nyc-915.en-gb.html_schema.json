@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "name": "Midtown East 3BR w Doorman Gym nr Bloomingdales NYC-915",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/441373351.jpg?k=15b22aef1e6d66e08670dfba23874eb27c4c9f54972cda08aedcbb9c25ce90a7&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7604361,-73.9685230&zoom=15&sensor=false&center=40.7604361,-73.9685230&client=gme-booking&channel=booking-frontend&signature=g31Cpj7C8T2QwjraSsCtN5TNl5Q=",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "postalCode": "10022",
+            "streetAddress": "Midtown East, New York, 10022, United States"
+        },
+        "description": "Situated in the centre of New York, less than 1 km from St Patrick's Cathedral and a 13-minute walk from Rockefeller Center, Midtown East 3BR w Doorman Gym...",
+        "url": "https://www.booking.com/hotel/us/midtown-east-3br-w-doorman-gym-nr-bloomingdales-nyc-915.en-gb.html",
+        "@type": "Hotel"
+    }
+]

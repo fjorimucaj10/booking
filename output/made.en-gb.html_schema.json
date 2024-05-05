@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7463098,-73.9894335&sensor=false&size=1600x1200&markers=color:blue%7c40.7463098,-73.9894335&client=gme-booking&channel=booking-frontend&signature=qT0Xgqfi51gemUhdAiF8YDdmxaI=",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressLocality": "44 West 29th Street",
+            "streetAddress": "44 West 29th Street, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "reviewCount": 1090,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5
+        },
+        "url": "https://www.booking.com/hotel/us/made.en-gb.html",
+        "@type": "Hotel",
+        "name": "MADE Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/116439359.jpg?k=c0a9c89b35d9363c9d750c2840e7dd418b54d17f0d68952892f20a22957ad89c&o=&hp=1",
+        "description": "Featuring a terrace, MADE Hotel is set in New York, 600 metres from Empire State Building. This 4-star hotel offers a bar.",
+        "priceRange": "Prices for upcoming dates start at \u00a3351 per night (We Price Match)"
+    }
+]

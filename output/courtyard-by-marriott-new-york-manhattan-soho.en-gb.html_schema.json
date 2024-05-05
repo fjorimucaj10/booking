@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7275347,-74.0057523&center=40.7275347,-74.0057523&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=_ogaqcIyltIg6DzmHhHb8VKZI0Q=",
+        "address": {
+            "postalCode": "NY 10014",
+            "streetAddress": "181 Varick Street, SoHo, New York, NY 10014, United States",
+            "addressCountry": "USA",
+            "addressLocality": "181 Varick Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "Courtyard by Marriott New York Manhattan / Soho",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/453300227.jpg?k=bad5705b0ad78e0d80075daddadd28eb304f8bbde1cdf64368313bc12f94581e&o=&hp=1",
+        "description": "Located a 5-minute walk from Greenwich Village, this hotel has air-conditioned rooms, the on-site restaurant Table 181, a Starbucks outlet and a fitness...",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3185 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.9,
+            "reviewCount": 311,
+            "@type": "AggregateRating"
+        },
+        "url": "https://www.booking.com/hotel/us/courtyard-by-marriott-new-york-manhattan-soho.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "49 West 32nd Street, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "49 West 32nd Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA"
+        },
+        "name": "Martinique New York on Broadway, Curio Collection by Hilton",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7482201,-73.9878774&zoom=15&sensor=false&markers=color:blue%7c40.7482201,-73.9878774&client=gme-booking&channel=booking-frontend&signature=wVLLV4-0uriVpIEy6J1CqQSe9uY=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/martinique-new-york-on-broadway.en-gb.html",
+        "description": "This Beaux-Arts hotel with a French Renaissance design has a restaurant/bar and enjoys a central Manhattan location.",
+        "priceRange": "Prices for upcoming dates start at \u00a3217 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.1,
+            "reviewCount": 844,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490708990.jpg?k=339c135d12037595046ffde404445a00210f281335982d103c2307182334c826&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "West 48th Street 515, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "West 48th Street 515"
+        },
+        "name": "48-1FE Brand New 1BR Prime hell's kitchen WD in unit",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7639766,-73.9934938&center=40.7639766,-73.9934938&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=giQn4X3D6i4v05gIIrHy33T2NPs=",
+        "@context": "http://schema.org",
+        "description": "In a central area of New York, located within a short distance of Times Square and Radio City Music Hall, 48-1FE Brand New 1BR Prime hell's kitchen WD in...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537830581.jpg?k=a6ee12b810fbae1eabc6fc715fd5c87aa9ffeb9134292f01bbdb2ff9b56bcc6b&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/48-1fe-brand-new-1br-prime-hells-kitchen-wd-in-unit.en-gb.html",
+        "priceRange": null,
+        "@type": "Hotel"
+    }
+]

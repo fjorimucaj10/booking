@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Situated in New York, 3.4 km from Metropolitan Museum of Art and 3.5 km from Strawberry Fields, Home is Where the Park is offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3787 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/home-is-where-the-park-is.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "159 West 108th Street, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10025",
+            "addressLocality": "159 West 108th Street",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/544231671.jpg?k=54aad9e4d18bc49048e8800c8dbfd165273238ded10e40baa2f608296fbc9761&o=&hp=1",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 7.0,
+            "reviewCount": 2
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8017300,-73.9642492&sensor=false&size=1600x1200&markers=color:blue%7c40.8017300,-73.9642492&zoom=15&client=gme-booking&channel=booking-frontend&signature=dgjJyW91SIlKAm8aFowpCtyZuEs=",
+        "name": "Home is Where the Park is"
+    }
+]

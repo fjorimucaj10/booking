@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/303515675.jpg?k=bd08b08d133647b384c945729621785b331dc2d53b3d65f38d906e0d2f247d96&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/ink-48.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3228 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 2363,
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressLocality": "653 11th Avenue at 48th",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "streetAddress": "653 11th Avenue at 48th, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7644706,-73.9958831&sensor=false&markers=color:blue%7c40.7644706,-73.9958831&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=m_xN1OvoEZ0bOYS_vO193GVWvwk=",
+        "name": "Ink 48 Hotel",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "This boutique hotel in New York City is 1.8 km from Central Park South."
+    }
+]

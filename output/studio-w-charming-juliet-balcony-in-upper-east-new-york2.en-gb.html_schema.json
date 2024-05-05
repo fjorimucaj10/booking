@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7620690,-73.9613942&zoom=15&size=1600x1200&markers=color:blue%7c40.7620690,-73.9613942&sensor=false&client=gme-booking&channel=booking-frontend&signature=vi8jW1qiNTJdfbOSJnISdz3a3F0=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501146335.jpg?k=da28b418e900b5cbb5564dd9b5fb36dcbc93305451ef3a913c52880ed6f7fc51&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/studio-w-charming-juliet-balcony-in-upper-east-new-york2.en-gb.html",
+        "description": "Providing free WiFi throughout the property, Studio w Charming Juliet Balcony in Upper East is situated in New York, 1.",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "name": "Studio w Charming Juliet Balcony in Upper East",
+        "priceRange": null,
+        "address": {
+            "streetAddress": "341 E 62nd St, New York, NY 10065, USA, Upper East Side, New York, 10065, United States",
+            "addressLocality": "341 E 62nd St, New York, NY 10065, USA",
+            "addressRegion": "New York State",
+            "postalCode": "10065",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        }
+    }
+]

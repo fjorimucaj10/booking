@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7898550,-73.9731420&markers=color:blue%7c40.7898550,-73.9731420&client=gme-booking&channel=booking-frontend&signature=jD_P_jL0RVHEN8loRdwDmezPgrE=",
+        "priceRange": null,
+        "name": "UWS 1BR w Stunning Gym Doorman Rooftop NYC-167",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-stunning-gym-doorman-rooftop-nyc-167.en-gb.html",
+        "address": {
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "postalCode": "10024",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/470020490.jpg?k=9ea68d2bdee0585a99dfb22d741f9d71cd71c6f1d6bd13928b2459e07130ced1&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Offering city views, UWS 1BR w Stunning Gym Doorman Rooftop NYC-167 is an accommodation set in New York, 2.1 km from Strawberry Fields and 2."
+    }
+]

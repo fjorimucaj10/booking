@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 5,
+            "ratingValue": 9.0
+        },
+        "address": {
+            "postalCode": "NY 10030",
+            "addressLocality": "242 West 137th Street",
+            "streetAddress": "242 West 137th Street, Harlem, New York, NY 10030, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3193 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/large-unit-with-living-room-and-private-bathroom-in-shared-homestay.en-gb.html",
+        "name": "Entire floor in a charming townhouse",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534589700.jpg?k=2c97f1028f82cdd6181e6b01fe87c7306c2c920c5bf057b3cac167bd31293aa8&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8171787,-73.9445583&sensor=false&size=1600x1200&markers=color:blue%7c40.8171787,-73.9445583&zoom=15&client=gme-booking&channel=booking-frontend&signature=2PZHMCM3X02niqddmPKEU9_dfbw=",
+        "description": "Set in New York, 3 km from Yankee Stadium and 3.4 km from Columbia University, Entire floor in a charming townhouse offers air conditioning.",
+        "@type": "Hotel"
+    }
+]

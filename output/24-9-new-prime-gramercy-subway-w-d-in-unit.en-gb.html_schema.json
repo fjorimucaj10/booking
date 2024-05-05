@@ -1,0 +1,20 @@
+[
+    {
+        "name": "24-9 New Prime Gramercy Subway W D in unit",
+        "description": "Located in New York, less than 1 km from Flatiron Building and a 18-minute walk from Empire State Building, 24-9 New Prime Gramercy Subway W D in unit...",
+        "url": "https://www.booking.com/hotel/us/24-9-new-prime-gramercy-subway-w-d-in-unit.en-gb.html",
+        "address": {
+            "postalCode": "10010",
+            "addressCountry": "USA",
+            "streetAddress": "241 East 24th Street Apt.9, Gramercy, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "241 East 24th Street Apt.9"
+        },
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7389107,-73.9808273&markers=color:blue%7c40.7389107,-73.9808273&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=VIn98aqMatvQwl2rrguRSkIepCE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850493.jpg?k=1b2b6b39aab340df3657e37f6d41624bf4c6054ab3cc0c867e8d520641c55016&o=&hp=1"
+    }
+]

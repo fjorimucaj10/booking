@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "250 E Houston St, New York, NY 10002, USA, East Village, New York, 10002, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "250 E Houston St, New York, NY 10002, USA",
+            "addressRegion": "New York State",
+            "postalCode": "10002"
+        },
+        "url": "https://www.booking.com/hotel/us/1br-in-hip-e-village-w-doorman-gym-nyc-150.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/474148517.jpg?k=7890d987615611811ffe982e98f9e7a6615742a96db12f64a91c68c81751040a&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7220940,-73.9848740&sensor=false&center=40.7220940,-73.9848740&zoom=15&client=gme-booking&channel=booking-frontend&signature=Kcd7WUstVIQQkbaHIaAkzPfv2Y0=",
+        "name": "1BR in Hip E Village w Doorman Gym NYC-150",
+        "priceRange": null,
+        "description": "Situated in New York, 1.5 km from Bloomingdales and 1."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "address": {
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "38 West 31st Street, NoMad, New York, NY 10001, United States",
+            "addressLocality": "38 West 31st Street",
+            "@type": "PostalAddress"
+        },
+        "name": "Midtown Nest Loft Studio",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Midtown Nest Loft Studio is located in the NoMad district of New York, 800 metres from Penn Station, 500 metres from Macy's and 400 metres from Empire...",
+        "url": "https://www.booking.com/hotel/us/midtown-nest-loft-studio.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541542796.jpg?k=e90526c10af220f2dadc69c709fa5a76623e5eba89f35358b8fff44b03c49149&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7471979,-73.9878199&size=1600x1200&center=40.7471979,-73.9878199&zoom=15&client=gme-booking&channel=booking-frontend&signature=3IdktlSjGVokA9EqSNJ2QBHReFY="
+    }
+]

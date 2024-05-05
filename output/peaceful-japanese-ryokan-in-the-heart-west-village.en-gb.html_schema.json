@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490758472.jpg?k=a7c2d785fae4cafe139c686169ec80cde857729af0b4bb9b31d4c85d0b34b846&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7381556,-74.0056224&zoom=15&markers=color:blue%7c40.7381556,-74.0056224&client=gme-booking&channel=booking-frontend&signature=FKkQKm9JoPJ5fV5MDky-14tyu1M=",
+        "description": "Peaceful Japanese Ryokan in the heart West Village is located in the Greenwich Village district of New York, 1.3 km from NYU - New York University, 1.",
+        "name": "Peaceful Japanese Ryokan in the heart West Village",
+        "address": {
+            "addressLocality": "Jane Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10014",
+            "streetAddress": "Jane Street, Greenwich Village, New York, NY 10014, United States",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 9.0,
+            "reviewCount": 1,
+            "bestRating": 10
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/peaceful-japanese-ryokan-in-the-heart-west-village.en-gb.html"
+    }
+]

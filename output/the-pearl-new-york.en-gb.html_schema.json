@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/224000509.jpg?k=e4411f089bba8a55985b0f288335bd79190a198287166c9d9603cdf01ac59b0a&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3249 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "233 West 49th Street",
+            "streetAddress": "233 West 49th Street, New York, NY 10019, United States"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7613354,-73.9855948&zoom=15&size=1600x1200&markers=color:blue%7c40.7613354,-73.9855948&client=gme-booking&channel=booking-frontend&signature=8_IIqHTa6WBjBqI24-MBtusUm3Q=",
+        "description": "Located in New York City\u2019s Times Square, this hotel features a fitness centre and offers ticket services. Free WiFi is offered.",
+        "url": "https://www.booking.com/hotel/us/the-pearl-new-york.en-gb.html",
+        "name": "The Pearl Hotel",
+        "aggregateRating": {
+            "ratingValue": 8.6,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 1834
+        }
+    }
+]

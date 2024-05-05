@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "reviewCount": 193
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3730 per night (We Price Match)",
+        "name": "The Mercer",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7248663,-73.9985029&center=40.7248663,-73.9985029&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=aWt4dlPqvx4_ZJCpnosiu7su01w=",
+        "description": "Located in Soho, this luxury 5 star hotel is a 5-minute walk from Washington Square Park and Little Italy.",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "147 Mercer Street, SoHo, New York, NY 10012, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "147 Mercer Street",
+            "postalCode": "NY 10012",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-mercer.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/359037897.jpg?k=26b28dda54849d820a1180b00aaa3dd206ef71225eef52cc7fa2662f9d791d6e&o=&hp=1"
+    }
+]

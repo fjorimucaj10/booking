@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482309799.jpg?k=2aaaa684c97ce5e8f99f3b0a4da7cfbc2ff81d899e0b94ad0056536ef0b90e2f&o=&hp=1",
+        "description": "Boasting a garden, shared lounge and views of city, Macaw Guest House is set in New York, 1.9 km from Metropolitan Museum of Art. The property is around 3.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 5.7,
+            "@type": "AggregateRating",
+            "reviewCount": 34
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3117 per night (We Price Match)",
+        "name": "Macaw Guest House",
+        "address": {
+            "streetAddress": "106 east 101st street New York, nyc 10029, East Harlem, New York, NY 10029, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "106 east 101st street New York, nyc 10029",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10029"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7894310,-73.9499310&center=40.7894310,-73.9499310&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=txU6La0jONzizpNI3NXX_LldGXE=",
+        "url": "https://www.booking.com/hotel/us/macaw-guest-house-ues.en-gb.html"
+    }
+]

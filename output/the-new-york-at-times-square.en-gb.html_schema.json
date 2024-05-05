@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 1055,
+            "ratingValue": 7.9,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "description": "Standing at Times Square, this Manhattan luxury hotel features an on-site restaurant and bar.",
+        "priceRange": "Prices for upcoming dates start at \u00a3226 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/the-new-york-at-times-square.en-gb.html",
+        "address": {
+            "addressLocality": "270 West 43rd Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "streetAddress": "270 West 43rd Street, New York, NY 10036, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/434765852.jpg?k=940f24c16b8aa90e6873dfccae82c64e460230a82ac1d8cdb2dd0f79f25c0e3c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7577922,-73.9893754&zoom=15&size=1600x1200&markers=color:blue%7c40.7577922,-73.9893754&client=gme-booking&channel=booking-frontend&signature=V92yeBiu4aJZ3V8g9egERdP_Xkw=",
+        "name": "The Westin New York at Times Square"
+    }
+]

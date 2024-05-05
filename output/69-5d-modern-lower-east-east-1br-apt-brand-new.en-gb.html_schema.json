@@ -1,0 +1,20 @@
+[
+    {
+        "name": "69-5D Modern Lower East East 1br Apt BRAND NEW",
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "69 Clinton Street",
+            "postalCode": "10002"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532679432.jpg?k=a24ee167ae5c51baf8c65785af6783e74497e0a9818a214ce984ac1c14a7dcbb&o=&hp=1",
+        "description": "69-5D Modern Lower East East 1br Apt BRAND NEW is set in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7193642,-73.9851151&markers=color:blue%7c40.7193642,-73.9851151&zoom=15&client=gme-booking&channel=booking-frontend&signature=O-SaxHcHm3XQOA4NZm9ZYEQJO-w=",
+        "url": "https://www.booking.com/hotel/us/69-5d-modern-lower-east-east-1br-apt-brand-new.en-gb.html"
+    }
+]

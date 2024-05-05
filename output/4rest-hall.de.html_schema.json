@@ -1,26 +1,26 @@
 [
     {
-        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a080 pro Nacht (Wir bieten den gleichen Preis) ",
-        "@context": "http://schema.org",
-        "description": "Das Hwest Hotel Hall begr\u00fc\u00dft Sie am Stadtrand von Hall in Tirol, direkt an der Ausfahrt Hall-West der Autobahn A12 und 3 km von der historischen Altstadt...",
-        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=47.2741083,11.4739947&markers=color:blue%7c47.2741083,11.4739947&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=TEiPRJjq9rz-EsETI5NAl64MjoA=",
-        "@type": "Hotel",
-        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/330721379.jpg?k=cc102813f4fc5e964c5dfca5ef6efc23e7f7d8e243cca8c36b4bf26088fbc330&o=&hp=1",
-        "aggregateRating": {
-            "reviewCount": 4240,
-            "ratingValue": 7.7,
-            "bestRating": 10,
-            "@type": "AggregateRating"
-        },
-        "name": "Hwest Hotel",
-        "url": "https://www.booking.com/hotel/at/4rest-hall.de.html",
         "address": {
-            "postalCode": "6060",
-            "addressLocality": "Schl\u00f6glstra\u00dfe 57",
             "addressCountry": "\u00d6sterreich",
-            "@type": "PostalAddress",
+            "addressLocality": "Schl\u00f6glstra\u00dfe 57",
+            "postalCode": "6060",
             "addressRegion": "Tirol",
-            "streetAddress": "Schl\u00f6glstra\u00dfe 57, 6060 Hall in Tirol, \u00d6sterreich"
-        }
+            "streetAddress": "Schl\u00f6glstra\u00dfe 57, 6060 Hall in Tirol, \u00d6sterreich",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.7,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 4291
+        },
+        "priceRange": "Preise f\u00fcr zuk\u00fcnftige Daten ab \u20ac\u00a080 pro Nacht (Wir bieten den gleichen Preis) ",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/330721379.jpg?k=cc102813f4fc5e964c5dfca5ef6efc23e7f7d8e243cca8c36b4bf26088fbc330&o=&hp=1",
+        "url": "https://www.booking.com/hotel/at/4rest-hall.de.html",
+        "name": "Hwest Hotel",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c47.2741083,11.4739947&zoom=15&sensor=false&center=47.2741083,11.4739947&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=hcbBWH0PcD2FPCANS2d2k_1tHas=",
+        "description": "Das Hwest Hotel Hall begr\u00fc\u00dft Sie am Stadtrand von Hall in Tirol, direkt an der Ausfahrt Hall-West der Autobahn A12 und 3 km von der historischen Altstadt..."
     }
 ]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Residence Inn by Marriott New York Manhattan/Central Park",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7640935,-73.9825882&zoom=15&markers=color:blue%7c40.7640935,-73.9825882&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=H5h0fjISQ6V9AtMCIjAXWo4mWK8=",
+        "aggregateRating": {
+            "ratingValue": 8.4,
+            "bestRating": 10,
+            "reviewCount": 2438,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/448692071.jpg?k=9621f5611bc0e73b84a468a777a61c2780fa5d0c562894a8918de9458bca6163&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3260 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "1717 Broadway",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "1717 Broadway, New York, NY 10019, United States",
+            "postalCode": "NY 10019"
+        },
+        "description": "Offering complimentary WiFi and a complimentary breakfast, Residence Inn New York Manhattan/Central Park is 644 metres away from Central Park and The...",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/residence-inn-by-marriott-new-york-manhattan-central-park-new-york.en-gb.html"
+    }
+]

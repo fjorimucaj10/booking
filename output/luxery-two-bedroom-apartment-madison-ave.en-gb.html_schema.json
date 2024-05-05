@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3488 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Madison Avenue Luxury Two Bedroom Apartments offers accommodation in New York. Empire State Building is 300 metres from the property.",
+        "address": {
+            "postalCode": "10016",
+            "streetAddress": "NoMad, New York, 10016, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": ""
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/58567440.jpg?k=ff67e7db02bd6e31525488aea85cf6dc7799993132f913faab028107d121ea5a&o=&hp=1",
+        "name": "Luxury Apartments Next to Times Square",
+        "url": "https://www.booking.com/hotel/us/luxery-two-bedroom-apartment-madison-ave.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7456781,-73.9834853&zoom=15&center=40.7456781,-73.9834853&sensor=false&client=gme-booking&channel=booking-frontend&signature=jnnosumsyopfRaepxZQEB_jqu9Q="
+    }
+]

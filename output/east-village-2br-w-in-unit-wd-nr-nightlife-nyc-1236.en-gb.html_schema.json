@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7255028,-73.9798509&center=40.7255028,-73.9798509&zoom=15&client=gme-booking&channel=booking-frontend&signature=0xdzmIvkBvLyzKLvJ9O48Wwb9ko=",
+        "name": "East Village 2br w in-unit wd nr nightlife NYC-1236",
+        "url": "https://www.booking.com/hotel/us/east-village-2br-w-in-unit-wd-nr-nightlife-nyc-1236.en-gb.html",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/496300365.jpg?k=b1526dfa0c027d59eff961898393f2d0a3bb7b87d7d968dd522debd6bc03d942&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "East Village, New York, 10009, United States",
+            "addressLocality": "",
+            "postalCode": "10009",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 2.4 km from Bloomingdales and 3."
+    }
+]

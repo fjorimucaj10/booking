@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3662 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535687146.jpg?k=268d06247ab80cca263af27d13fc9a9de605095bcf00fb8a830c516140f54215&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/105-5g-brand-new-studio-prime-location-elevator.en-gb.html",
+        "name": "105 -5G Brand New Studio prime location Elevator",
+        "address": {
+            "addressLocality": "East 24th Street 105",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10010",
+            "addressCountry": "USA",
+            "streetAddress": "East 24th Street 105, Flatiron District, New York, 10010, United States"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Situated in New York, 500 metres from Flatiron Building and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7408042,-73.9852297&center=40.7408042,-73.9852297&client=gme-booking&channel=booking-frontend&signature=KE-EluehadUOtMsB4W1S9GV5rdQ="
+    }
+]

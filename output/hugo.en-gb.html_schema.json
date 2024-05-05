@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/hugo.en-gb.html",
+        "@type": "Hotel",
+        "description": "Tucked between SoHo and the Hudson, Hotel Hugo is located in Manhattan\u2019s emerging Hudson Square neighborhood.",
+        "priceRange": "Prices for upcoming dates start at \u00a3236 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "525 Greenwich Street",
+            "streetAddress": "525 Greenwich Street, SoHo, New York, NY 10013, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10013",
+            "@type": "PostalAddress"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1193,
+            "bestRating": 10,
+            "ratingValue": 7.8
+        },
+        "@context": "http://schema.org",
+        "name": "Hotel Hugo",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7263929,-74.0089461&sensor=false&size=1600x1200&center=40.7263929,-74.0089461&zoom=15&client=gme-booking&channel=booking-frontend&signature=kcPAWfwndVOwiUb7IfPsPzb7R-I=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/29592577.jpg?k=8a36fd18d68a3cdafa7e99dd49625dfe9f427e3074840533f51cf68dc03b851a&o=&hp=1"
+    }
+]

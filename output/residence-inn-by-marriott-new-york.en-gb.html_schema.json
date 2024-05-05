@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "148 East 48th Street",
+            "streetAddress": "148 East 48th Street, Midtown East, New York, NY 10017, United States"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 417,
+            "ratingValue": 8.4
+        },
+        "@context": "http://schema.org",
+        "description": "Within 10 minutes\u2019 walk from Grand Central Station and the New York Public Library, this Manhattan hotel features rooms with a kitchenette.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/467633434.jpg?k=6b681a36d20b3966bc5b78c5f20def803108f411bee719e4c23be949fb30b51a&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Residence Inn by Marriott New York Manhattan/ Midtown Eastside",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7548198,-73.9725318&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7548198,-73.9725318&client=gme-booking&channel=booking-frontend&signature=BIRhKS40U8ASzlbZVxKSu_QWNzo=",
+        "url": "https://www.booking.com/hotel/us/residence-inn-by-marriott-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3228 per night (We Price Match)"
+    }
+]

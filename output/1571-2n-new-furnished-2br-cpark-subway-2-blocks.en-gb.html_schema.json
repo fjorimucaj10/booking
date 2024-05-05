@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "10028",
+            "streetAddress": "1571 York Avenue, Upper East Side, New York, 10028, United States",
+            "addressCountry": "USA",
+            "addressLocality": "1571 York Avenue",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "Set in New York, 3.2 km from Central Park and 4 km from Rockefeller Center, 1571-2N New Furnished 2BR CPark subway 2 blocks offers air conditioning.",
+        "name": "1571-2N New Furnished 2BR CPark subway 2 blocks",
+        "priceRange": "Prices for upcoming dates start at \u00a3384 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/1571-2n-new-furnished-2br-cpark-subway-2-blocks.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7743797,-73.9485879&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7743797,-73.9485879&client=gme-booking&channel=booking-frontend&signature=RxKat761u_8R5LZ4xKjkQCQ8kHs=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411293185.jpg?k=ac2cffd0cfae91619ce86dd55af9ad53b02f8f19b7b0f385e222e595342a4aa4&o=&hp=1"
+    }
+]

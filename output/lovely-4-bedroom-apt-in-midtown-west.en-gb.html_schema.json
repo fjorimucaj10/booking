@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in the centre of New York, less than 1 km from Jacob K.",
+        "address": {
+            "addressLocality": "488 West 42nd Street",
+            "streetAddress": "488 West 42nd Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497837650.jpg?k=bc1ee4616d53ac58b0416c4136dda7b913d334f19019d6325f3bd0b4e63e4e89&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7593022,-73.9953211&sensor=false&size=1600x1200&markers=color:blue%7c40.7593022,-73.9953211&client=gme-booking&channel=booking-frontend&signature=EV4l83P5GyQOqrPpzMoOrwIdE0U=",
+        "@context": "http://schema.org",
+        "name": "Lovely 4 Bedroom Apt in Midtown West",
+        "url": "https://www.booking.com/hotel/us/lovely-4-bedroom-apt-in-midtown-west.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a31,007 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

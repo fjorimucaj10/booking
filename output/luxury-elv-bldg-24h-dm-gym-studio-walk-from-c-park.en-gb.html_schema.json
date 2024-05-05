@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7796761,-73.9825455&sensor=false&markers=color:blue%7c40.7796761,-73.9825455&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=cOl2H97IYeE4z3LWgG7fih-EQok=",
+        "address": {
+            "addressLocality": "238 West 73rd Street",
+            "postalCode": "10023",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "238 West 73rd Street, Upper West Side, New York, 10023, United States",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in New York, less than 1 km from Strawberry Fields and a 11-minute walk from Lincoln Center, Luxury Elv Bldg 24H DM Gym Studio walk from C park...",
+        "name": "Luxury Elv Bldg 24H DM Gym Studio walk from C park",
+        "priceRange": "Prices for upcoming dates start at \u00a3172 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/luxury-elv-bldg-24h-dm-gym-studio-walk-from-c-park.en-gb.html",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/547107389.jpg?k=7133f1e3d5c615587df303da90c49e120054095151d6dcca78583258f2a6db4e&o=&hp=1"
+    }
+]

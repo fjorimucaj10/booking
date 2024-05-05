@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/459610737.jpg?k=98324c3d13072643eef883a9b19c18c696e6dc21c387f53135eb34cc61a574bc&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-suites-by-marriott-new-york-manhattan-central-park.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "description": "Central Park is 965 metres from Fairfield Inn & Suites by Marriott. The hotel offers WiFi and a fitness centre.",
+        "address": {
+            "streetAddress": "538 West 58th Street, Hell's Kitchen, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "538 West 58th Street",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress"
+        },
+        "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Central Park",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1233,
+            "ratingValue": 7.9,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7704470,-73.9896860&center=40.7704470,-73.9896860&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=sxUQkczUyZcfgEY-rCdfehN1Rbg=",
+        "@type": "Hotel"
+    }
+]

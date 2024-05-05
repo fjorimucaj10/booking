@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 576,
+            "ratingValue": 7.4,
+            "bestRating": 10
+        },
+        "name": "Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue",
+        "url": "https://www.booking.com/hotel/us/fairfield-inn-and-suites-by-marriott-new-york-manhattan-fifth-avenue.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7511035,-73.9845917&markers=color:blue%7c40.7511035,-73.9845917&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=_DWJTW2LwW3-moXEjDb77KNWQzU=",
+        "priceRange": "Prices for upcoming dates start at \u00a3147 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Located in New York City, this completely non-smoking hotel provides free internet access.",
+        "address": {
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressLocality": "21 West 37th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "21 West 37th Street, New York, NY 10018, United States",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/459622998.jpg?k=aa4b66d1c6b32f3c538d56924097e6bff466e2bd72bd32e509b50ebf7098709b&o=&hp=1"
+    }
+]

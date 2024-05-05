@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/global-luxury-suites-at-the-marc.en-gb.html",
+        "address": {
+            "streetAddress": "260 West 54th Street, New York, NY 10019, United States",
+            "addressLocality": "260 West 54th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019"
+        },
+        "description": "Global Luxury Suites at The Marc features accommodation located 600 metres from the centre of New York and offers a garden and a shared lounge.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7645034,-73.9840497&size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7645034,-73.9840497&client=gme-booking&channel=booking-frontend&signature=hYikQSlMYYdbILUex6WhVKDZ5Lg=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454135657.jpg?k=761ecc62f7a9c3d26974e1c2b261ecb05030a5a0ea84ebb415852a51672294fd&o=&hp=1",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3290 per night (We Price Match)",
+        "name": "Global Luxury Suites at The Marc"
+    }
+]

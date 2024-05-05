@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3737 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489199049.jpg?k=b80db2c5bba9b148f54b68dd7261e249629d81521798a191c5ca112caf647571&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7652990,-73.9791441&zoom=15&center=40.7652990,-73.9791441&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=Ridto5eXU4GE-PIkdXN94YrE_iM=",
+        "aggregateRating": {
+            "reviewCount": 2,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 6.5
+        },
+        "name": "Park Hyatt New York",
+        "address": {
+            "streetAddress": "153 West 57th Street, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "153 West 57th Street"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/park-hyatt-new-york.en-gb.html",
+        "description": "Offering an indoor pool and a restaurant, Park Hyatt New York is located in New York. Free WiFi access is available."
+    }
+]

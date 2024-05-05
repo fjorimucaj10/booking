@@ -1,0 +1,20 @@
+[
+    {
+        "name": "48-3RW Brand New 1BR Prime Hells Kitchen - W D",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/459815858.jpg?k=5480b3a56be16ada74e09ba69403cf18118f2faf419c01ee0ba3c452dea90af9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/48-3rw-brand-new-1br-prime-hells-kitchen-w-d.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7639766,-73.9934938&sensor=false&size=1600x1200&markers=color:blue%7c40.7639766,-73.9934938&zoom=15&client=gme-booking&channel=booking-frontend&signature=dP11eW0f0amYuBHKdMXdco0aMuE=",
+        "address": {
+            "addressLocality": "West 48th Street 515",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10036",
+            "addressRegion": "New York State",
+            "streetAddress": "West 48th Street 515, Hell's Kitchen, New York, 10036, United States"
+        },
+        "priceRange": null,
+        "description": "Set in New York, 1.4 km from Radio City Music Hall and 1.2 km from Broadway Theatre, 48-3RW Brand New 1BR Prime Hells Kitchen - W D offers air...",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

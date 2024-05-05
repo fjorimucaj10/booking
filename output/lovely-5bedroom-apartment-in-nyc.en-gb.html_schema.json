@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520184423.jpg?k=a98258621b8ed25f455e438d5bb20771212e2f18875df0936d699298fd280ac1&o=&hp=1",
+        "name": "Lovely 5Bedroom apartment in NYC!",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/lovely-5bedroom-apartment-in-nyc.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Located in the centre of New York, 1.1 km from Radio City Music Hall, Lovely 5Bedroom apartment in NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3833 per night (We Price Match)",
+        "address": {
+            "addressLocality": "346 West 46th Street",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State",
+            "streetAddress": "346 West 46th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7603232,-73.9897750&size=1600x1200&zoom=15&sensor=false&center=40.7603232,-73.9897750&client=gme-booking&channel=booking-frontend&signature=SqR7I7FO32IcrPknu_V2Kk8w9G0="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 757,
+            "ratingValue": 8.0
+        },
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10002",
+            "addressLocality": "145 Bowery",
+            "@type": "PostalAddress",
+            "streetAddress": "145 Bowery, Lower East Side, New York, NY 10002, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7190200,-73.9942350&size=1600x1200&center=40.7190200,-73.9942350&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=ryBW-Ncw71ig9Ldq-paL74oWbh0=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/448694379.jpg?k=dced46e57989f90488087f03fdb41bf5d857825a7b38777b3ceefe3fc1aa806d&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3198 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "description": "Featuring a bar, Moxy NYC Lower East Side offers rooms in New York, 700 metres from Bloomingdales and 1.5 km from NYU - New York University.",
+        "name": "Moxy NYC Lower East Side",
+        "url": "https://www.booking.com/hotel/us/moxy-nyc-lower-east-side.en-gb.html"
+    }
+]

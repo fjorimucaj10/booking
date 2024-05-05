@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3554 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.5,
+            "bestRating": 10,
+            "reviewCount": 2,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498554210.jpg?k=84fabd100e748b6957e5c0dc70e600288b5bd7444f17c7b62b2744ff1e1f608b&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "403 8th Avenue 11C, Hell's Kitchen, New York, NY 10001, United States",
+            "addressLocality": "403 8th Avenue 11C",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7498460,-73.9953890&center=40.7498460,-73.9953890&client=gme-booking&channel=booking-frontend&signature=Ft2-pHC67CJiI_tZR548DTr5sCE=",
+        "description": "Located in New York, 200 metres from Penn Station and 700 metres from Macy's, Eden, dream high-end home in NYC provides air-conditioned accommodation with...",
+        "url": "https://www.booking.com/hotel/us/eden-dream-high-end-home-in-nyc.en-gb.html",
+        "name": "Eden, dream high-end home in NYC",
+        "@type": "Hotel"
+    }
+]

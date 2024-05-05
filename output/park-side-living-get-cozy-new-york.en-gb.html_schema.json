@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546405340.jpg?k=8b8695f200123f7654acecc510bbdb96e7bcb36dc7c45bc13bee70765509f186&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/park-side-living-get-cozy-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Park Side Living, Get Cozy",
+        "priceRange": "Prices for upcoming dates start at \u00a3325 per night (We Price Match)",
+        "description": "Situated in New York, less than 1 km from Columbia University and 3.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8020642,-73.9652663&markers=color:blue%7c40.8020642,-73.9652663&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=hoH5nhDHeuXhCSkl4gF5zvYtgFI=",
+        "address": {
+            "addressLocality": "137 West 108th Street",
+            "postalCode": "NY 10025",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "137 West 108th Street, Upper West Side, New York, NY 10025, United States",
+            "addressRegion": "New York State"
+        }
+    }
+]

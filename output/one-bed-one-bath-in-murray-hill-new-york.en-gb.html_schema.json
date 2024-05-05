@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "One Bed One Bath In Murray Hill is situated in the Midtown district of New York, 800 metres from Macy's, 800 metres from Grand Central Station and less...",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "47 East 33rd Street, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10016",
+            "addressLocality": "47 East 33rd Street",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3499 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7467820,-73.9822513&markers=color:blue%7c40.7467820,-73.9822513&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=MR82Hnh1IziHPYDgrDPz8SvM0GE=",
+        "name": "One Bed One Bath In Murray Hill",
+        "url": "https://www.booking.com/hotel/us/one-bed-one-bath-in-murray-hill-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502859520.jpg?k=98eb10dfee3f8b004314e7703d13b73c2aadad7e1148b5399312c62b58b46fa7&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

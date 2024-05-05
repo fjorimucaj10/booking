@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7612476,-73.9918935&center=40.7612476,-73.9918935&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=ldEEB9_13I8zs6aw-v8poUqJwKk=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520024659.jpg?k=821c790ed481efeeb4472c3a93ca88d54956dc01eba0e1adf7f615d02586158c&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/sleek-2br-walking-distance-to-times-square.en-gb.html",
+        "description": "Set in the centre of New York, 800 metres from Times Square and 1.",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3612 per night (We Price Match)",
+        "name": "Sleek 2BR - Walking distance to Times Square",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 11,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "@type": "PostalAddress"
+        }
+    }
+]

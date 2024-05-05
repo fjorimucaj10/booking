@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/hansem-stay.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3286 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/323375398.jpg?k=1337ddf4290f000b84f738aaf2c4f0433f5bc61f09f6c7271b3204c21ef32d8a&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "38 West 31st Street, apartment 524, NoMad, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "addressLocality": "38 West 31st Street, apartment 524",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7472110,-73.9878074&center=40.7472110,-73.9878074&zoom=15&client=gme-booking&channel=booking-frontend&signature=00rxCITb87ocp7Od5vAlSClBJ5Y=",
+        "name": "Hansem stay",
+        "description": "Located within 700 metres of Madison Square Garden and 800 metres of Penn Station, Hansem stay provides rooms with air conditioning and a private bathroom...",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 16,
+            "ratingValue": 8.4,
+            "bestRating": 10
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "40.77396636787244, -73.99048579430142",
+            "postalCode": "NY 60614",
+            "streetAddress": "40.77396636787244, -73.99048579430142, Upper West Side, New York, NY 60614, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/373590377.jpg?k=d9b423eaa56f79a746bd3926237da4f70442f9af09d9687dadb191554788cc69&o=&hp=1",
+        "description": "Family Apartment in Excellent Sector of New York is situated in the Upper West Side district of New York, less than 1 km from Lincoln Center, a 16-minute...",
+        "url": "https://www.booking.com/hotel/us/apartamento-familiar-en-excelente-sector-de-nueva-york.en-gb.html",
+        "name": "Family Apartment in Excellent Sector of New York",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7721978,-73.9902945&center=40.7721978,-73.9902945&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=IY-NUOxkWDhrFJtyhPMbNaZ85oU=",
+        "priceRange": "Prices for upcoming dates start at \u20ac\u00a02,124 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7724040,-73.9544678&markers=color:blue%7c40.7724040,-73.9544678&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=RNlKwetz9rY_2QMIqzaMFIOhsmc=",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "317 East 78th Street, Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "317 East 78th Street"
+        },
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 317-3D I NEW Modern 1BR W&D Walk to Central Park offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/317-3d-i-new-modern-1br-w-d-walk-to-central-park.en-gb.html",
+        "name": "317-3D I NEW Modern 1BR W&D Walk to Central Park",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442998758.jpg?k=c3165b0f0718b96405c10e2c4e3288704ddd0636ac06c4fb570d7f20ca7e39d6&o=&hp=1"
+    }
+]

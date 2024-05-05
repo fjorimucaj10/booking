@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/446612055.jpg?k=e39722dcc74b76956f053980bb55a26f6e1c2430e9af238849cc50c6a6a75e33&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10013",
+            "streetAddress": "95 Mulberry Street, Chinatown, New York, NY 10013, United States",
+            "addressLocality": "95 Mulberry Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7170722,-73.9986279&size=1600x1200&markers=color:blue%7c40.7170722,-73.9986279&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=k3ZX1SfMJ3xOabOadFxUnR2ILvI=",
+        "name": "Lovely 3 bedroom apartment in NYC 2",
+        "url": "https://www.booking.com/hotel/us/lovely-3-bedroom-apartment-in-nyc-2.en-gb.html",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.7 km from NYU - New York University and 1."
+    }
+]

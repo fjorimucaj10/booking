@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Midtown East, New York, 10017, United States",
+            "addressCountry": "USA",
+            "postalCode": "10017",
+            "addressRegion": "New York State",
+            "addressLocality": ""
+        },
+        "name": "Midtown East 1br w lounge gym nr Grand Central NYC-1171",
+        "@context": "http://schema.org",
+        "description": "Set in a central area of New York, 600 metres from Chrysler Building, Midtown East 1br w lounge gym nr Grand Central NYC-1171 offers air-conditioned...",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7546590,-73.9721295&size=1600x1200&markers=color:blue%7c40.7546590,-73.9721295&client=gme-booking&channel=booking-frontend&signature=IndchyfY37wOgLKsy9obd_R0e5g=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/472390335.jpg?k=00fb488a4cb3f72a7fe1d69f008966273bd4c100abd12500d8d34ae1fb5d82bf&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/midtown-east-1br-w-lounge-gym-nr-grand-central-nyc-1171.en-gb.html"
+    }
+]

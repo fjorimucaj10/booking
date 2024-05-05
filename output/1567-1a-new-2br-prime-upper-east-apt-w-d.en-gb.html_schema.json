@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7742386,-73.9486771&center=40.7742386,-73.9486771&sensor=false&client=gme-booking&channel=booking-frontend&signature=HNm_bKfMXCRL270R47pf8xt4sr0=",
+        "priceRange": null,
+        "description": "Located in New York, 3.3 km from Strawberry Fields and 3.7 km from Central Park, 1567-1A New 2br PRIME upper East APT W&D offers air conditioning.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411302179.jpg?k=3a216151da41143c0a88ffc818b99f8a64b9790fc61abf2cf073aed8dfdf2415&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "1567 York Avenue, Upper East Side, New York, 10028, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "1567 York Avenue",
+            "postalCode": "10028"
+        },
+        "url": "https://www.booking.com/hotel/us/1567-1a-new-2br-prime-upper-east-apt-w-d.en-gb.html",
+        "@type": "Hotel",
+        "name": "1567-1A New 2br PRIME upper East APT W&D"
+    }
+]

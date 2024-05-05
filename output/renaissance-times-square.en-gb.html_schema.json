@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "714 Seventh Avenue",
+            "postalCode": "NY 10036",
+            "streetAddress": "714 Seventh Avenue, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "name": "Renaissance New York Times Square Hotel by Marriott",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/437371642.jpg?k=90e74d95152249ef7825932319f324b15e31d466093b76ae565e0876770bf4e5&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3240 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7597289,-73.9845239&zoom=15&size=1600x1200&markers=color:blue%7c40.7597289,-73.9845239&client=gme-booking&channel=booking-frontend&signature=13q4SwEsHRnl7Umfnm1vGNNa2xA=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2105,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/renaissance-times-square.en-gb.html",
+        "description": "The Renaissance New York Times Square is located in Theatre District and features 312 soundproofed guests rooms spread over 26 floors."
+    }
+]

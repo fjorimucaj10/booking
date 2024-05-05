@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3346 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10028",
+            "streetAddress": "York Avenue 1597, Upper East Side, New York, 10028, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "York Avenue 1597"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503705234.jpg?k=03dc919d74c4a493baf1215846534c4913579cd7ba1b652ba2160f49366f1a64&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "1597-12 NEW Studio Prime UES WD in unit",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7749268,-73.9481632&center=40.7749268,-73.9481632&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=MMO3HrOLzbNtGl_AdClrk0KozRU=",
+        "description": "Set in New York, 1.5 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1597-12 NEW Studio Prime UES WD in unit offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/1597-12-new-studio-prime-ues-wd-in-unit.en-gb.html"
+    }
+]

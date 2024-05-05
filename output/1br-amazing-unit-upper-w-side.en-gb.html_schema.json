@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "209 West 87th Street",
+            "addressCountry": "USA",
+            "streetAddress": "209 West 87th Street, Upper West Side, New York, NY 10024, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10024"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3383 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/1br-amazing-unit-upper-w-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542559634.jpg?k=5677293aa92b81af7f76f624c6b4445275b8d63118f30ef71a36efd0649a4747&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7889054,-73.9750543&markers=color:blue%7c40.7889054,-73.9750543&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=4H-mYlKgHziwo8cJuWbk5AszwCM=",
+        "@context": "http://schema.org",
+        "name": "1BR Amazing Unit! Upper W Side!",
+        "description": "Located in New York, 1.9 km from Strawberry Fields and 2.1 km from Lincoln Center, 1BR Amazing Unit! Upper W Side! offers air conditioning."
+    }
+]

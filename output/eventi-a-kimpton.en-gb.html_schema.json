@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/eventi-a-kimpton.en-gb.html",
+        "description": "This boutique hotel is located in the Chelsea neighbourhood of New York. The 28 Street underground station is 3 minutes\u2019 walk from the property.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/360898303.jpg?k=8cbd804bf4b3085bb7a6cddffeca6f2afe96cb7d96f370cc95c2f6421034a2de&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "851 Avenue of the Americas",
+            "postalCode": "NY 10001",
+            "streetAddress": "851 Avenue of the Americas, Chelsea, New York, NY 10001, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "name": "Kimpton Hotel Eventi, an IHG Hotel",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3238 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.3,
+            "@type": "AggregateRating",
+            "reviewCount": 577
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7472184,-73.9899487&sensor=false&zoom=15&markers=color:blue%7c40.7472184,-73.9899487&client=gme-booking&channel=booking-frontend&signature=hRS9czr1l-PgNZdYz6HB1hbr2Ds="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Midtown E 1BR w WD Doorman nr Central Park NYC-532 is located in the Midtown East district of New York, 1.1 km from Chrysler Building, 1.",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7552873,-73.9678204&zoom=15&center=40.7552873,-73.9678204&client=gme-booking&channel=booking-frontend&signature=mlvC6v39gl8W1qQyy5QrtmCJZ9Y=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440933731.jpg?k=8b5a5d324f5735ac3d5814901741c5c2d68b6a072e9c8e03b74388ee6b7c058d&o=&hp=1",
+        "name": "Midtown E 1BR w WD Doorman nr Central Park NYC-532",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Midtown East, New York, 10022, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10022",
+            "addressLocality": "",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/midtown-e-1br-w-wd-doorman-nr-central-park-nyc-532.en-gb.html"
+    }
+]

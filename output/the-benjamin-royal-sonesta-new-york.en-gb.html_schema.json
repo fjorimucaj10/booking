@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-benjamin-royal-sonesta-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/126248689.jpg?k=fe4f40216aa00e7f80c557a0d88e1b04378c0c2eb912a4325f1b4333eb2825d8&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7564904,-73.9720215&center=40.7564904,-73.9720215&client=gme-booking&channel=booking-frontend&signature=DtMBRNBhFzAeLRcdzSnh0NQ1geg=",
+        "priceRange": "Prices for upcoming dates start at \u00a3279 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 818,
+            "ratingValue": 7.6
+        },
+        "description": "Located in Midtown Manhattan, within 700 metres of Grand Central Station and the Rockefeller Center, The Benjamin Royal Sonesta New York hotel offers...",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "125 East 50th Street",
+            "streetAddress": "125 East 50th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "The Benjamin Royal Sonesta New York"
+    }
+]

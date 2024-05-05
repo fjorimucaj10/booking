@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2975,
+            "@type": "AggregateRating",
+            "ratingValue": 8.5
+        },
+        "url": "https://www.booking.com/hotel/us/henn-na-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7523620,-73.9912940&markers=color:blue%7c40.7523620,-73.9912940&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=YllCBpa38CaZAFBgv-tpgkR1WZY=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/321719259.jpg?k=384b9f7838de5bd25158bbbb7faa858c0c1701412622cb9741687c99ef74e8fc&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "235 West 35th Street, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "235 West 35th Street"
+        },
+        "@type": "Hotel",
+        "description": "Henn na Hotel New York has a fitness centre, shared lounge, a restaurant and bar in New York.",
+        "name": "Henn na Hotel New York",
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)"
+    }
+]

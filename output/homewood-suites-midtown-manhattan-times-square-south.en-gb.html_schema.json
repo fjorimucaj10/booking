@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/homewood-suites-midtown-manhattan-times-square-south.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7544112,-73.9930579&markers=color:blue%7c40.7544112,-73.9930579&zoom=15&client=gme-booking&channel=booking-frontend&signature=8xQXXFnyTEMWd5y9-ZkbbadlOK8=",
+        "name": "Homewood Suites Midtown Manhattan Times Square South",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "312 West 37th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "postalCode": "NY 10018",
+            "addressLocality": "312 West 37th Street",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "description": "Located 805 from Times Square and 483 metres from the Madison Square Garden, this Midtown Manhattan hotel offers a complimentary hot and cold breakfast...",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "reviewCount": 4155,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484863305.jpg?k=b7feed33d9c42ffd48efaf7e1cda3f90b1af494b6d559e5d42ba30fb964074d9&o=&hp=1"
+    }
+]

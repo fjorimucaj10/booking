@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7549682,-73.9985501&size=1600x1200&zoom=15&markers=color:blue%7c40.7549682,-73.9985501&client=gme-booking&channel=booking-frontend&signature=EbaKyZf_wAe6QcOfyjbsWCUXZPM=",
+        "description": "Situated in New York, less than 1 km from Macy's and a 8-minute walk from Penn Station, 2 Bedroom Luxury Unit in the Heart of Manhattan provides...",
+        "address": {
+            "addressLocality": "444 10th Avenue",
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "444 10th Avenue, Hudson Yards, New York, NY 10001, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/2-bedroom-luxury-unit-in-the-heart-of-manhattan.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/553140163.jpg?k=266cc4e9dd2c0082ed5131900945f134074776c842b5f9220421106a1818dd82&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "2 Bedroom Luxury Unit in the Heart of Manhattan",
+        "@type": "Hotel",
+        "priceRange": null
+    }
+]

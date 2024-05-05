@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7159888,-74.0074313&size=1600x1200&zoom=15&sensor=false&center=40.7159888,-74.0074313&client=gme-booking&channel=booking-frontend&signature=2FH1qqQ65msRwP65pKvsvG27ifU=",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.9,
+            "reviewCount": 404
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3283 per night (We Price Match)",
+        "description": "Surrounded by art galleries and shops in the lively Tribeca neighbourhood of lower Manhattan, this hotel offers TV and free Wi-fi Rooms at Sonder l Duane...",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "130 Duane Street",
+            "addressCountry": "USA",
+            "streetAddress": "130 Duane Street, Tribeca, New York, NY 10013, United States",
+            "postalCode": "NY 10013",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531103321.jpg?k=60c7b2cd72ac9fddbd6cd928812d64948b244723a548b9c03694ffa902846f1e&o=&hp=1",
+        "@type": "Hotel",
+        "name": "Sonder Duane Street",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/duane-street.en-gb.html"
+    }
+]

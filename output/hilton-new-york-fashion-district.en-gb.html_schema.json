@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7456212,-73.9936709&size=1600x1200&markers=color:blue%7c40.7456212,-73.9936709&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=PlNqdlvLvLw4TTcbw7o96xYlk80=",
+        "address": {
+            "streetAddress": "152 West 26th Street, Chelsea, New York, NY 10001, United States",
+            "addressLocality": "152 West 26th Street",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "This hotel is located in the Chelsea neighborhood of New York City and is 644 metres to Penn Station.",
+        "url": "https://www.booking.com/hotel/us/hilton-new-york-fashion-district.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 732,
+            "bestRating": 10,
+            "ratingValue": 7.3,
+            "@type": "AggregateRating"
+        },
+        "name": "Hilton New York Fashion District",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484329241.jpg?k=03653566ce534429fd93cdd8b9d66fc15e85619039e3021019a3425d0eb43d0a&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/stylish-2-bd-2-ba-at-ues.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10022",
+            "@type": "PostalAddress",
+            "addressLocality": "330 East 56th Street",
+            "streetAddress": "330 East 56th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505815491.jpg?k=3bb62450f343a4153d28512ea39f33836c8e8b5013f0630e3da876044ee6f7bb&o=&hp=1",
+        "description": "Right in the heart of New York, situated within a short distance of St Patrick's Cathedral and Rockefeller Center, Stylish 2 BD 2 BA At UES offers free...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7578532,-73.9645975&markers=color:blue%7c40.7578532,-73.9645975&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=PN4hAUXCIGUNH8CERDCV-IJ7GUA=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3683 per night (We Price Match)",
+        "name": "Stylish 2 BD 2 BA At UES"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/3br-penthouse-suite-with-massive-private-rooftop-new-york2.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/501148343.jpg?k=1b634875690c4ef5606084b5ccbaed48945a84f6668f3589c4191d366291d5b1&o=&hp=1",
+        "name": "3BR Penthouse Suite with Massive Private Rooftop",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3872 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7620436,-73.9614129&sensor=false&center=40.7620436,-73.9614129&zoom=15&client=gme-booking&channel=booking-frontend&signature=wQuPN8yyspN5BTiMrMgUADV4NjI=",
+        "address": {
+            "addressLocality": "341 E 62 Street, New York, New York, 10065",
+            "streetAddress": "341 E 62 Street, New York, New York, 10065, Upper East Side, New York, 10065, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10065"
+        },
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.8 km from Central Park and 1."
+    }
+]

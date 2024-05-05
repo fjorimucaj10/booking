@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 3.2 km from Central Park and 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/511449132.jpg?k=9b67457a70f3cef77f65b4dee6d4b987a3e74ddb297ec032ba7e5bfa9c6a4c33&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7805587,-73.9544731&zoom=15&markers=color:blue%7c40.7805587,-73.9544731&client=gme-booking&channel=booking-frontend&signature=_J7y6D2KWS2UwlLC2wsO5jYgDoA=",
+        "url": "https://www.booking.com/hotel/us/ues-1br-w-gym-doorman-walk-to-central-park-nyc-1332.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "Upper East Side, New York, 10128, United States",
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "postalCode": "10128",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "@type": "Hotel",
+        "name": "UES 1br w gym doorman walk to central park NYC-1332"
+    }
+]

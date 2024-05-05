@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 42,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 9.4
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/377824627.jpg?k=1d03929f36b89a0eff38f81adc0775ca38463362a284e64fb8a14cb9be57519a&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/barriere-fouquet.en-gb.html",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3894 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "Hotel Barri\u00e8re Fouquet's New York",
+        "description": "Located in Tribeca, Hotel Barriere Fouquet's New York features art-deco-inspired rooms and a private movie theatre.",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "456 Greenwich Street",
+            "streetAddress": "456 Greenwich Street, Tribeca, New York, NY 10013, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10013"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7236170,-74.0097530&zoom=15&markers=color:blue%7c40.7236170,-74.0097530&client=gme-booking&channel=booking-frontend&signature=pQ2XzBjt3BgAO7aT-3jpCHKfd2g="
+    }
+]

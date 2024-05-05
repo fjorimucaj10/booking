@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7446659,-73.9741341&center=40.7446659,-73.9741341&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=1LKy7qwm77l63VOLp4w0Y4duF6c=",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/murray-hill-2br-w-wd-nr-un-nyc-1052.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "10016",
+            "@type": "PostalAddress",
+            "streetAddress": "Murray Hill, New York, 10016, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "addressCountry": "USA"
+        },
+        "description": "Located in New York, 1.1 km from Chrysler Building and 1.2 km from Empire State Building, Murray Hill 2br w wd nr UN NYC-1052 offers air conditioning.",
+        "name": "Murray Hill 2br w wd nr UN NYC-1052",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440313949.jpg?k=409e86a300d9690ff088cde28cd131e02726d0577269c092412a2e8ffe908be2&o=&hp=1"
+    }
+]

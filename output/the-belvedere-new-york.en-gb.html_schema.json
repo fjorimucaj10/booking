@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/303276079.jpg?k=7c641bb6a05b102ca99c07bf59d21a5c07eac5db177ac370139ca79ea1a4c348&o=&hp=1",
+        "description": "Located in the heart of the Theater District and Time Square, The Belvedere Hotel is less than 1 km from Radio City Music Hall and a 10-minute walk from...",
+        "url": "https://www.booking.com/hotel/us/the-belvedere-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "The Belvedere Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "319 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "319 West 48th Street",
+            "postalCode": "NY 10036"
+        },
+        "aggregateRating": {
+            "reviewCount": 5380,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.0
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3205 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7616820,-73.9879510&size=1600x1200&zoom=15&center=40.7616820,-73.9879510&client=gme-booking&channel=booking-frontend&signature=IseQvviY94O8-v1-CTcr3NEvpo8=",
+        "@type": "Hotel"
+    }
+]

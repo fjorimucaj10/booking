@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Blueground Chelsea elevator wd nr 8th Ave NYC-1449",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537723207.jpg?k=509cbfac50167be2f16cf2e7f48a3adc81dd401b04cfc65895d02e62d4741912&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&center=40.7440612,-73.9998828&markers=color:blue%7c40.7440612,-73.9998828&client=gme-booking&channel=booking-frontend&signature=erGISYaOOeSLhIBnzeHeI-wKIJ8=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/blueground-chelsea-elevator-wd-nr-8th-ave-nyc-1449.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10011",
+            "addressCountry": "USA",
+            "streetAddress": "Chelsea, New York, 10011, United States",
+            "addressLocality": ""
+        },
+        "priceRange": null,
+        "description": "Set in New York, less than 1 km from Penn Station and a 12-minute walk from Flatiron Building, Blueground Chelsea elevator wd nr 8th Ave NYC-1449 offers..."
+    }
+]

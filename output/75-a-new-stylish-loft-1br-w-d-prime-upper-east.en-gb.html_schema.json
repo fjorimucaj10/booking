@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "addressLocality": "244 East 75th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/75-a-new-stylish-loft-1br-w-d-prime-upper-east.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7707710,-73.9574814&zoom=15&markers=color:blue%7c40.7707710,-73.9574814&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=hwgghJ3BuAv2tsWaDLPmkhdMfy4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/499981982.jpg?k=1009b0a5b0d853778dcd9643dab7009f39c47a05612995ac34134f6d90e7a4f7&o=&hp=1",
+        "name": "75-A New stylish Loft 1BR W D Prime Upper east",
+        "@type": "Hotel",
+        "priceRange": null,
+        "description": "Situated in New York, 1.4 km from Metropolitan Museum of Art and 1."
+    }
+]

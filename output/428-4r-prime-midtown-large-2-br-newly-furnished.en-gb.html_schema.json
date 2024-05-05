@@ -1,0 +1,20 @@
+[
+    {
+        "name": "428-4R prime midtown large 2 BR Newly Furnished",
+        "@type": "Hotel",
+        "description": "Situated in New York, less than 1 km from Times Square and a 14-minute walk from Radio City Music Hall, 428-4R prime midtown large 2 BR Newly Furnished...",
+        "address": {
+            "postalCode": "10036",
+            "addressCountry": "USA",
+            "addressLocality": "428 West 47th Street",
+            "streetAddress": "428 West 47th Street, Hell's Kitchen, New York, 10036, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/428-4r-prime-midtown-large-2-br-newly-furnished.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7619858,-73.9916611&markers=color:blue%7c40.7619858,-73.9916611&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=LSgMNV9gVnfJnclhWx6KCKWWwes=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411496513.jpg?k=ad80dc3bb7429940ea369f319bb1e8117878d939ea64a4da8318d3b4d746536e&o=&hp=1"
+    }
+]

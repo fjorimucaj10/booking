@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Experience the Vibrant Energy of City Living",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7639482,-73.9943859&center=40.7639482,-73.9943859&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qssm5KkMiSHDO3L6qwePLmoJZiA=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3376 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/centrally-located-city-apartments.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "streetAddress": "532 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "532 West 48th Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/546291490.jpg?k=e1ee5a1bf3ddc806b66eb527cbb090e79416c213b77b22a359e00bf7c4f2d3be&o=&hp=1",
+        "description": "Located in New York, near Radio City Music Hall, Broadway Theatre and Carnegie Hall, Experience the Vibrant Energy of City Living features free WiFi."
+    }
+]

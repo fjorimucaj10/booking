@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.8,
+            "reviewCount": 1777,
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3166 per night (We Price Match)",
+        "name": "OYO Times Square",
+        "address": {
+            "addressLocality": "157 West 47th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "157 West 47th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7589924,-73.9838691&center=40.7589924,-73.9838691&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=CD_PMVUSxVKA1DycX80qtY6AfTs=",
+        "description": "Experience the brand-new OYO Times Square, where you\u2019ll enjoy a modern stay.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454416244.jpg?k=07ab0ffdf41bdd2eabb2c7bccfc29904746e6b81fbd094441fa423e585a64677&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/oyo-times-square.en-gb.html"
+    }
+]

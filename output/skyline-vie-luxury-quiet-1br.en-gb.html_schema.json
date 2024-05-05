@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in a central area of New York, 700 metres from Jacob K.",
+        "priceRange": "Prices for upcoming dates start at \u00a3358 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545273658.jpg?k=eef11fe59e0ea0a362634e3a7bca8c8284a9b713473526ce16033d153756befb&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "655 West 42nd Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "addressLocality": "655 West 42nd Street"
+        },
+        "@type": "Hotel",
+        "name": "Skyline vie, Luxury, Quiet 1br",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7619172,-74.0003149&size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7619172,-74.0003149&client=gme-booking&channel=booking-frontend&signature=z5fdJaDZBurV3ypX-JqwqoIQE7M=",
+        "url": "https://www.booking.com/hotel/us/skyline-vie-luxury-quiet-1br.en-gb.html"
+    }
+]

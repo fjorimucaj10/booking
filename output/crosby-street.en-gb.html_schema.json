@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/crosby-street.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502103162.jpg?k=73545e1f0caf869b4c67f5293aa75856f16f071ffb6cbdfb4ec8017564f98f78&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3885 per night (We Price Match)",
+        "name": "Crosby Street Hotel",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "79 Crosby Street, SoHo, New York, NY 10012, United States",
+            "postalCode": "NY 10012",
+            "addressLocality": "79 Crosby Street",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7230541,-73.9974234&sensor=false&zoom=15&markers=color:blue%7c40.7230541,-73.9974234&client=gme-booking&channel=booking-frontend&signature=4tqrh3P2hdLvaG8Ed0o_isUb740=",
+        "aggregateRating": {
+            "reviewCount": 221,
+            "ratingValue": 9.4,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "description": "Located on a cobbled street in the SoHo neighborhood, this contemporary design hotel features a beautiful inner courtyard and an on-site terrace..."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Situated in New York and with Penn Station reachable within 300 metres, Lamartine Chelsea features concierge services, non-smoking rooms, a garden, free...",
+        "address": {
+            "streetAddress": "305 West 29th Street, Chelsea, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "305 West 29th Street",
+            "postalCode": "NY 10001",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "name": "Lamartine Chelsea",
+        "url": "https://www.booking.com/hotel/us/incentra-home-chelsea.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7494760,-73.9961600&zoom=15&sensor=false&markers=color:blue%7c40.7494760,-73.9961600&client=gme-booking&channel=booking-frontend&signature=oVagQeQ354IwBDQh1-z0jn4QIis=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/284635249.jpg?k=136777833e74646ed8044f3ec878ec192e8a949e9dd17984dcc250bea37bfd43&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3192 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 437,
+            "ratingValue": 6.5,
+            "bestRating": 10
+        }
+    }
+]

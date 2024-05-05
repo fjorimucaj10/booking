@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "300 West 22nd Street, Chelsea, New York, NY 10011, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressLocality": "300 West 22nd Street",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3254 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/325269270.jpg?k=031642349c46b844eedadb140d383bb967ba8762d212653daa4a1122ab2d897c&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-gem-chelsea.en-gb.html",
+        "name": "The Moore",
+        "aggregateRating": {
+            "reviewCount": 1559,
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating"
+        },
+        "description": "Offering a rooftop, fitness centre, and complimentary WiFi, The Moore is an 81-room boutique hotel located in Chelsea, New York, 1 km from Madison Square...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7447098,-73.9994692&size=1600x1200&zoom=15&sensor=false&center=40.7447098,-73.9994692&client=gme-booking&channel=booking-frontend&signature=yuJ2OyByAOnqCdRhu6hxCjQ5VhM="
+    }
+]

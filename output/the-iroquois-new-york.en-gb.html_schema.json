@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7558113,-73.9821804&size=1600x1200&zoom=15&markers=color:blue%7c40.7558113,-73.9821804&sensor=false&client=gme-booking&channel=booking-frontend&signature=fjBWQCvtzj2I1TAUdI8BUgzLj3g=",
+        "url": "https://www.booking.com/hotel/us/the-iroquois-new-york.en-gb.html",
+        "address": {
+            "streetAddress": "49 West 44th Street, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "49 West 44th Street"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2717,
+            "ratingValue": 8.2,
+            "bestRating": 10
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/477328992.jpg?k=ea1be6f6ca5fb2d02c06cf2dcf2927eca3175436ef7b31c6f597706ad158abd8&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3238 per night (We Price Match)",
+        "name": "Iroquois New York Times Square",
+        "description": "Located 483 metres from Times Square, this hotel is located in midtown Manhattan."
+    }
+]

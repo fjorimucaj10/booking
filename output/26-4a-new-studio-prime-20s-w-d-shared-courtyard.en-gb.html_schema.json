@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10010",
+            "addressLocality": "240 East 26th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "240 East 26th Street, Kips Bay, New York, 10010, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3389 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/26-4a-new-studio-prime-20s-w-d-shared-courtyard.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531824060.jpg?k=f86e4426edba94eaae599963733b83bfa368c28fea4642ed806d08ec1e446c45&o=&hp=1",
+        "name": "26-4A New Studio prime 20's W D Shared Courtyard",
+        "description": "Located in New York, 1.1 km from Flatiron Building and 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7398482,-73.9801503&center=40.7398482,-73.9801503&client=gme-booking&channel=booking-frontend&signature=h2mEzeyNxW1AudkEUsPika_YMTI="
+    }
+]

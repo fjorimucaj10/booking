@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-elevator-doorman-gym-nr-1-line-nyc-626.en-gb.html",
+        "name": "UWS 1BR w Elevator Doorman Gym nr 1 line NYC-626",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7896900,-73.9744000&zoom=15&markers=color:blue%7c40.7896900,-73.9744000&client=gme-booking&channel=booking-frontend&signature=9PJuK4lpoEh_7hcMbJrlid6Zo1U=",
+        "priceRange": null,
+        "address": {
+            "addressLocality": "",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10024"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/440560691.jpg?k=b86cd61d5eefa1a16b71103a2043f7de338713c45f3ccfe29d0e18011446babb&o=&hp=1",
+        "@type": "Hotel",
+        "description": "UWS 1BR w Elevator Doorman Gym nr 1 line NYC-626 is situated in the Upper West Side district of New York, 2.3 km from Lincoln Center, 2."
+    }
+]

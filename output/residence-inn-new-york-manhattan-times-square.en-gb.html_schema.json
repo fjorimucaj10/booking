@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Located 805 metres from Times Square, Residence Inn by Marriott New York Manhattan/Times Square offers complimentary WiFi and a breakfast buffet to all its...",
+        "url": "https://www.booking.com/hotel/us/residence-inn-new-york-manhattan-times-square.en-gb.html",
+        "name": "Residence Inn by Marriott New York Manhattan/Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7528885,-73.9858054&zoom=15&markers=color:blue%7c40.7528885,-73.9858054&sensor=false&client=gme-booking&channel=booking-frontend&signature=yKzegAmVOUsQx4rg9nRYXBX1SiU=",
+        "address": {
+            "addressLocality": "1033 Avenue of the Americas",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "1033 Avenue of the Americas, New York, NY 10018, United States"
+        },
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "reviewCount": 6190,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3198 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/433360151.jpg?k=8d77524e2083c0991e75a6e4fad857c346db6b2ecbf904973d40ba9b48055547&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

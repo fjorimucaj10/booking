@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/ues-3br-penthouse-w-gym-wd-nr-central-park-nyc-1110.en-gb.html",
+        "name": "UES 3br penthouse w gym wd nr Central Park NYC-1110",
+        "address": {
+            "streetAddress": "Upper East Side, New York, 10021, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10021",
+            "addressLocality": "",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/442475325.jpg?k=7e50817e0108ea39544522bf20d8b5f7e26c1f201ad34011aedb99d62d237a21&o=&hp=1",
+        "priceRange": null,
+        "description": "Set in New York, 1.2 km from Central Park and 700 metres from Metropolitan Museum of Art, UES 3br penthouse w gym wd nr Central Park NYC-1110 offers...",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7742736,-73.9646597&zoom=15&center=40.7742736,-73.9646597&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=o0d4f9W8DveaIn0bwhek4oZLOPk=",
+        "@context": "http://schema.org"
+    }
+]

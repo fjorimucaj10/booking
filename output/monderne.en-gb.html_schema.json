@@ -1,0 +1,26 @@
+[
+    {
+        "description": "This modern hotel is located in Midtown Manhattan, 805 metres from Times Square and the Broadway Theater District.",
+        "name": "Moderne Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3167 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7651547,-73.9829535&markers=color:blue%7c40.7651547,-73.9829535&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=hcQXNItdC4KRCRLtCBMnVyVdrKE=",
+        "url": "https://www.booking.com/hotel/us/monderne.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/63338224.jpg?k=dddb7a1e5ab914d39d48c384a76bf0d1e704432826c81fbdc75a3d0030cc4c3a&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 914,
+            "bestRating": 10,
+            "ratingValue": 7.9,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "243 West 55th Street",
+            "streetAddress": "243 West 55th Street, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019"
+        },
+        "@context": "http://schema.org"
+    }
+]

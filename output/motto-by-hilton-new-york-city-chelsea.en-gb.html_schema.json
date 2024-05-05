@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/motto-by-hilton-new-york-city-chelsea.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484656145.jpg?k=d7cfe1ce876b43fbfa6674244f9843058f7ee7c95fbd2776669cb93e56d0a83e&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2513,
+            "ratingValue": 8.6,
+            "@type": "AggregateRating"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3162 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "Motto by Hilton New York City Chelsea",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001",
+            "addressLocality": "113 West 24th Street",
+            "streetAddress": "113 West 24th Street, Chelsea, New York, NY 10001, United States"
+        },
+        "description": "Motto by Hilton New York City Chelsea has free bikes, fitness centre, a terrace and restaurant in New York.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7442270,-73.9929890&zoom=15&center=40.7442270,-73.9929890&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=SDJPwNPxf7Wm8QIhwVcjlhFFM44="
+    }
+]

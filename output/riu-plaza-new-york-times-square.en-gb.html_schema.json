@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressLocality": "307-311 46th Street",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "streetAddress": "307-311 46th Street, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3303 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/riu-plaza-new-york-times-square.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.4,
+            "bestRating": 10,
+            "reviewCount": 7586
+        },
+        "@type": "Hotel",
+        "name": "Riu Plaza New York Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7602480,-73.9884390&size=1600x1200&sensor=false&markers=color:blue%7c40.7602480,-73.9884390&zoom=15&client=gme-booking&channel=booking-frontend&signature=-MbxaKVLCSk6DArdpo3pOge-Fxc=",
+        "description": "Located in New York, 100 metres from Restaurant Row, Riu Plaza New York Times Square offers WiFi.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/178773353.jpg?k=9bd0190ff5a25ce00dac63185dbcb92565380b03e40711f2a243c33cff6ffd87&o=&hp=1"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "244 East 75th Street",
+            "postalCode": "10021",
+            "addressCountry": "USA",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-2B Prime Upper East Brand New 1BR W D Elev offers air...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7707710,-73.9574814&sensor=false&center=40.7707710,-73.9574814&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=vgrM99DYtMOqf2ZQUNOAZLFYSuw=",
+        "priceRange": null,
+        "name": "75-2B Prime Upper East Brand New 1BR W D Elev",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/75-2b-prime-upper-east-brand-new-1br-w-d-elev.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412840731.jpg?k=8659203bcb18aa5a99761b3459ee0f30a9061333644299e713e925022b36cc81&o=&hp=1"
+    }
+]

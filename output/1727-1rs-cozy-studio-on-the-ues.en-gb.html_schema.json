@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "1727 2nd Avenue",
+            "streetAddress": "1727 2nd Avenue, Upper East Side, New York, 10128, United States",
+            "postalCode": "10128",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in New York, 1.4 km from Metropolitan Museum of Art and 3.2 km from Central Park, 1727-1RS Cozy Studio on the UES offers air conditioning.",
+        "priceRange": null,
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7800931,-73.9505166&center=40.7800931,-73.9505166&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=Z9ucBB55fvTYddS1tlGHc2ElsYo=",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540164608.jpg?k=a2233fedb8c26a23561c6d095fbce1267ca15a9881fa497e52c5f1175f10f547&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1727-1rs-cozy-studio-on-the-ues.en-gb.html",
+        "name": "1727-1RS Cozy Studio on the UES"
+    }
+]

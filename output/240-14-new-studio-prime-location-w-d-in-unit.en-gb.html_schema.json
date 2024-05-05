@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 1.4 km from Metropolitan Museum of Art and 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850773.jpg?k=bcdef775015e347e7ec8841c31df5b24269a769e4f6653f7e9a34778c8b1360b&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/240-14-new-studio-prime-location-w-d-in-unit.en-gb.html",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "240 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressLocality": "240 East 75th Street",
+            "addressCountry": "USA",
+            "postalCode": "10021",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3221 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7709351,-73.9575882&zoom=15&center=40.7709351,-73.9575882&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=aob_fjJrjoChRIKtQPBupJfJsVA=",
+        "name": "240-14 NEW Studio Prime Location W&D in unit"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512237799.jpg?k=446a7281bf4b7d575002a1e4650360cb4818e7b9ad8df07504ed6e04bab64189&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.7,
+            "reviewCount": 338
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3203 per night (We Price Match)",
+        "name": "Marriott Vacation Club\u00ae, New York City\u00a0",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7512650,-73.9849095&size=1600x1200&sensor=false&zoom=15&markers=color:blue%7c40.7512650,-73.9849095&client=gme-booking&channel=booking-frontend&signature=pAe789KmwmNM7PGtuMVuddzyBbw=",
+        "description": "This Manhattan property is 400 metres from a subway station and a 6-minute walk from the Empire State Building.",
+        "url": "https://www.booking.com/hotel/us/the-strand.en-gb.html",
+        "address": {
+            "streetAddress": "33 West 37 Street, New York, NY 10018, United States",
+            "addressLocality": "33 West 37 Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        }
+    }
+]

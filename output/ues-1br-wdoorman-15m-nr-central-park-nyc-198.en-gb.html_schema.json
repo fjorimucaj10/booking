@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10075",
+            "streetAddress": "Upper East Side, New York, 10075, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "name": "UES 1BR wDoorman 15m nr Central Park NYC-198",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/441461646.jpg?k=0946f15fafa3246bf0bec56d18849912e0bf68420873dbb5938018197fee7316&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7723353,-73.9509810&sensor=false&zoom=15&center=40.7723353,-73.9509810&client=gme-booking&channel=booking-frontend&signature=gg09MNkVYeJpgNiiXtqcsZXeqXU=",
+        "@context": "http://schema.org",
+        "description": "Offering city views, UES 1BR wDoorman 15m nr Central Park NYC-198 is an accommodation located in New York, 3.8 km from Rockefeller Center and 3.",
+        "url": "https://www.booking.com/hotel/us/ues-1br-wdoorman-15m-nr-central-park-nyc-198.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2314,
+            "ratingValue": 8.8,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3313 per night (We Price Match)",
+        "name": "Hard Rock Hotel New York",
+        "description": "Situated conveniently in the centre of New York, Hard Rock Hotel New York offers air-conditioned rooms, a fitness centre, free WiFi and a restaurant.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/394136757.jpg?k=7514f3d314cd0de028b3d73a07f3e55c5da8ba538e17ad899833c8b34e032ba6&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036",
+            "streetAddress": "159 West 48th Street, New York, NY 10036, United States",
+            "addressLocality": "159 West 48th Street"
+        },
+        "url": "https://www.booking.com/hotel/us/hard-rock-new-york.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7595607,-73.9833391&sensor=false&markers=color:blue%7c40.7595607,-73.9833391&client=gme-booking&channel=booking-frontend&signature=E0Lmyxi4OB9TZv4iWpnhVqplTB8=",
+        "@context": "http://schema.org"
+    }
+]

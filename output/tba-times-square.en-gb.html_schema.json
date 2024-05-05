@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)",
+        "description": "Conveniently located in the Hell's Kitchen district of New York, Delta Hotels by Marriott New York Times Square is set 800 metres from Times Square, less...",
+        "@type": "Hotel",
+        "name": "Delta Hotels by Marriott New York Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7565110,-73.9926900&center=40.7565110,-73.9926900&client=gme-booking&channel=booking-frontend&signature=TXbkAixdMLNQLp94lvYszuwGJF8=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/tba-times-square.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/491195482.jpg?k=c4b76387c6a1fecd20fe6305a401f181869e3f39259b709d935a7642d0e7cb57&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "340 West 40th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "340 West 40th Street",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2372,
+            "ratingValue": 7.7
+        }
+    }
+]

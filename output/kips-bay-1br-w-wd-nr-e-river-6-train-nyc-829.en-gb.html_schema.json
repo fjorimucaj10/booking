@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Located in New York, 1.4 km from Empire State Building and 1.",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "Gramercy, New York, 10010, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10010",
+            "addressLocality": ""
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7395869,-73.9815163&sensor=false&zoom=15&markers=color:blue%7c40.7395869,-73.9815163&client=gme-booking&channel=booking-frontend&signature=8gbmDdNf7RceHJev2UY-DJ1n75Y=",
+        "url": "https://www.booking.com/hotel/us/kips-bay-1br-w-wd-nr-e-river-6-train-nyc-829.en-gb.html",
+        "name": "Kips Bay 1BR w WD nr E River 6 Train NYC-829",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/492459722.jpg?k=4646b405d3416353462701a1843dba9013eb2d66d9781541357c50d42095543c&o=&hp=1"
+    }
+]

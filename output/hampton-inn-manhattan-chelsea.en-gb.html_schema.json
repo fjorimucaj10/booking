@@ -1,0 +1,26 @@
+[
+    {
+        "description": "The 23rd Street Subway Station and commuter train are just a 2-minute walk from this New York City hotel.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484617964.jpg?k=770da695605a3cab33687a3692faab61901cbf9d64ab89a95294539692b25736&o=&hp=1",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 1825,
+            "ratingValue": 7.7
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7437354,-73.9930473&zoom=15&markers=color:blue%7c40.7437354,-73.9930473&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=YdoEndnnhUDYhoTNZYCYYUYbWJw=",
+        "url": "https://www.booking.com/hotel/us/hampton-inn-manhattan-chelsea.en-gb.html",
+        "name": "Hampton Inn Manhattan Chelsea",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "108 West 24th Street, Chelsea, New York, NY 10011, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "108 West 24th Street"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "reviewCount": 960
+        },
+        "address": {
+            "streetAddress": "145 East 49th Street, Midtown East, New York, NY 10017, United States",
+            "addressLocality": "145 East 49th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "name": "Best Western Plus Hospitality House Suites",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497994176.jpg?k=4a05d10113e196e35b9cea1cb614a880df6afd877f37e5c622aab5fa88fb1343&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/best-western-hospitality-house.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3336 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7556817,-73.9721100&zoom=15&markers=color:blue%7c40.7556817,-73.9721100&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=Lh6lLLZUyLtDOOlxtGvHbEBck5w=",
+        "description": "Experience the excitement and activity of Manhattan like a true New Yorker at this contemporary hotel, featuring spacious apartment-like accommodations and...",
+        "@context": "http://schema.org"
+    }
+]

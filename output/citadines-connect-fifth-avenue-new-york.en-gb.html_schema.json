@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3170 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/citadines-connect-fifth-avenue-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Close to popular New York City attractions, including the shops of Fifth Avenue, this Midtown Manhattan hotel offers cosy guestrooms and free WiFi access.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/159884656.jpg?k=8eba328be27e407d34ce530a3e2cccb6f7193d0ce94b94339c843d39aed93527&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7557513,-73.9801412&markers=color:blue%7c40.7557513,-73.9801412&client=gme-booking&channel=booking-frontend&signature=i6wzMFuRUrotWzqRc-rJE2o1XLg=",
+        "name": "Citadines Connect Fifth Avenue New York",
+        "address": {
+            "addressLocality": "15 West 45th Street",
+            "streetAddress": "15 West 45th Street, New York, NY 10036, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.5,
+            "bestRating": 10,
+            "reviewCount": 3004
+        }
+    }
+]

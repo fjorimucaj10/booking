@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "reviewCount": 1290,
+            "bestRating": 10
+        },
+        "url": "https://www.booking.com/hotel/us/even-hotels-new-york-midtown-east.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7516520,-73.9724910&size=1600x1200&markers=color:blue%7c40.7516520,-73.9724910&client=gme-booking&channel=booking-frontend&signature=ib1G7GKAQDxfxkr4BHqjy22RQfw=",
+        "name": "EVEN Hotel New York - Midtown East, an IHG Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "221 East 44th Street, Midtown East, New York, NY 10017, United States",
+            "addressCountry": "USA",
+            "addressLocality": "221 East 44th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10017"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3184 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/247852342.jpg?k=bdd52480b4378d1956c5c8a16580b24b7fd87f5cb6b41e917067470bf3a3945c&o=&hp=1",
+        "description": "Located in Midtown East, New York City, EVEN Hotels is 270 metres from Grand Central and 430 metres from the United Nations Headquarters."
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7525167,-73.9860415&markers=color:blue%7c40.7525167,-73.9860415&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=aHvXB4KETG9WSy8TSauXR683qF8=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Located in a central area of New York, 400 metres from Bryant Park, Beautiful 3 BR Apartment in Manhattan provides air-conditioned accommodation with free...",
+        "name": "Beautiful 3 BR Apartment in Manhattan",
+        "priceRange": "Prices for upcoming dates start at \u00a3642 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "addressLocality": "103 West 38th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "103 West 38th Street, New York, NY 10018, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/beautiful-3-br-apartment-in-manhattan.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498327394.jpg?k=05530d83861306c4e76a79390d751315a2e21ad3aa31e71cb86c79411a910225&o=&hp=1"
+    }
+]

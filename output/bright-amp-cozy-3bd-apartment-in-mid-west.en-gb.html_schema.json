@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/bright-amp-cozy-3bd-apartment-in-mid-west.en-gb.html",
+        "name": "Bright & Cozy 3BD Apartment In Mid West",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "Bright & Cozy 3BD Apartment In Mid West is situated in the Hell's Kitchen district of New York, less than 1 km from Macy's, a 10-minute walk from Times...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/526707303.jpg?k=a848bcf75f06a6846ad4fa8a071c53aebd6fc0793db948d808759efe734343f5&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&sensor=false&center=40.7562912,-73.9929773&markers=color:blue%7c40.7562912,-73.9929773&client=gme-booking&channel=booking-frontend&signature=4ePBBw26gIP-7cC7aDS4tSsUUA0=",
+        "priceRange": "Prices for upcoming dates start at \u00a3990 per night (We Price Match)",
+        "address": {
+            "streetAddress": "339 West 39th Street, Hell's Kitchen, New York, NY 10018, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10018",
+            "addressLocality": "339 West 39th Street",
+            "addressRegion": "New York State"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Stunning One Bed One Bath At UES",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7802410,-73.9458558&size=1600x1200&markers=color:blue%7c40.7802410,-73.9458558&client=gme-booking&channel=booking-frontend&signature=39_Saq7Hgug7hD-1i_fS8QFwFo0=",
+        "address": {
+            "addressLocality": "420 East 92nd Street",
+            "postalCode": "NY 10128",
+            "addressRegion": "New York State",
+            "streetAddress": "420 East 92nd Street, Upper East Side, New York, NY 10128, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "description": "Featuring accommodation with a terrace, Stunning One Bed One Bath At UES is set in New York.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/524534989.jpg?k=083f7b42adbdad4e23f4ef07c0c293d482db42769a0f38f6d596216e07d72afb&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/stunning-one-bed-one-bath-at-ues.en-gb.html"
+    }
+]

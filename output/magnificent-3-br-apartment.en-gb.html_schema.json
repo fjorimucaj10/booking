@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498051683.jpg?k=7ddcd7a60352379f21ab3d640e3d9ec31e5a08e347ee6673b86ea26cf4b51ebe&o=&hp=1",
+        "@type": "Hotel",
+        "description": "Magnificent 3 BR Apartment is located in the Union Square district of New York, 1.6 km from The High Line, 1.8 km from Madison Square Garden and 1.",
+        "url": "https://www.booking.com/hotel/us/magnificent-3-br-apartment.en-gb.html",
+        "name": "Magnificent 3 BR Apartment",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10011",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "46 West 17th Street, Union Square, New York, NY 10011, United States",
+            "addressLocality": "46 West 17th Street"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7386827,-73.9945612&zoom=15&sensor=false&markers=color:blue%7c40.7386827,-73.9945612&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=6Y1Mqdxhwh4uoS49xJGO50G4_zc=",
+        "priceRange": "Prices for upcoming dates start at \u00a31,920 per night (We Price Match)",
+        "@context": "http://schema.org"
+    }
+]

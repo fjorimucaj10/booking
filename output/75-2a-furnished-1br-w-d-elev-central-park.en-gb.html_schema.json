@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7707710,-73.9574814&size=1600x1200&markers=color:blue%7c40.7707710,-73.9574814&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=vBYWJ5pwSB0dsHYk3F-crhkRUfo=",
+        "description": "Situated in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-2A furnished 1BR W D Elev central park offers air conditioning.",
+        "url": "https://www.booking.com/hotel/us/75-2a-furnished-1br-w-d-elev-central-park.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "75-2A furnished 1BR W D Elev central park",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/537341132.jpg?k=a86ac6b51be6d7aafc56067bc80cd5ecdc116de48cebd3673235e620c4a7f757&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": null,
+        "address": {
+            "addressLocality": "244 East 75th Street",
+            "postalCode": "10021",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        }
+    }
+]

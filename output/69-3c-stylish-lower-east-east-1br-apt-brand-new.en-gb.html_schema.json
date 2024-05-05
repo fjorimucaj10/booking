@@ -1,0 +1,20 @@
+[
+    {
+        "name": "69-3C Stylish Lower East East 1br Apt BRAND NEW",
+        "priceRange": "Prices for upcoming dates start at \u00a3390 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/69-3c-stylish-lower-east-east-1br-apt-brand-new.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "10002",
+            "addressRegion": "New York State",
+            "addressLocality": "69 Clinton Street",
+            "addressCountry": "USA",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "69-3C Stylish Lower East East 1br Apt BRAND NEW is set in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410846114.jpg?k=92f969046d948bdccfbb4f72eee68d8f2a5ec1f619675a92af615c82444a545f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7193634,-73.9851120&sensor=false&size=1600x1200&zoom=15&center=40.7193634,-73.9851120&client=gme-booking&channel=booking-frontend&signature=sHOkwhGfLPLU4fiU4rgCNuU45Ls="
+    }
+]

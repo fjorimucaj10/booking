@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "605 West 42nd Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "addressLocality": "605 West 42nd Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3270 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/global-luxury-suites-at-west-42nd-street.en-gb.html",
+        "description": "Offering a spa centre and fitness centre, Global Luxury Suites at Sky is located in New York City in midtown Manhattan. Jacob K.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7611036,-73.9989204&size=1600x1200&zoom=15&center=40.7611036,-73.9989204&sensor=false&client=gme-booking&channel=booking-frontend&signature=Ye5ggrm297NvCJphdcw8xM_dNJA=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2,
+            "ratingValue": 5.0,
+            "@type": "AggregateRating"
+        },
+        "name": "Global Luxury Suites at Sky",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/76536137.jpg?k=18029388ba5a77b50efb8d70745c1a9af3c4a2876e14237b2e3ddc1fd4a06adb&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

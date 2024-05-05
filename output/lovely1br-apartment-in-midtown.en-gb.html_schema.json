@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3361 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/lovely1br-apartment-in-midtown.en-gb.html",
+        "@type": "Hotel",
+        "name": "Lovely1BR Apartment in Midtown",
+        "description": "Set in the heart of New York, 400 metres from Radio City Music Hall, Lovely1BR Apartment in Midtown offers air-conditioned accommodation with free WiFi and...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7620816,-73.9832734&size=1600x1200&center=40.7620816,-73.9832734&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=11PVaNIWuVnBJTImj_cg5i85iP0=",
+        "address": {
+            "streetAddress": "215 West 51st Street, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019",
+            "@type": "PostalAddress",
+            "addressLocality": "215 West 51st Street"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543591625.jpg?k=b47e40f651f8f3c56bd037e5dc62407af7eea6a533b50a0e5a18243f8e6cbecc&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

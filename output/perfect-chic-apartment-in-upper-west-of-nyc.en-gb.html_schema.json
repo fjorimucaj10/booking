@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Perfect Chic Apartment in Upper West of NYC!",
+        "priceRange": "Prices for upcoming dates start at \u00a3551 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/perfect-chic-apartment-in-upper-west-of-nyc.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498314995.jpg?k=c72eb1bb8293913fe549728823f55829c8aa557de5dc3e78e8033fd8b418d9d6&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&markers=color:blue%7c40.8092326,-73.9508000&center=40.8092326,-73.9508000&client=gme-booking&channel=booking-frontend&signature=V4dQSFQd-iCshK7avuTfLKhI2o4=",
+        "description": "Perfect Chic Apartment in Upper West of NYC! is located in the Harlem district of New York, 1.4 km from Columbia University, 3.",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10027",
+            "addressLocality": "260 West 124th Street",
+            "streetAddress": "260 West 124th Street, Harlem, New York, NY 10027, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        }
+    }
+]

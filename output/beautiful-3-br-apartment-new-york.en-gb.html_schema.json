@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/beautiful-3-br-apartment-new-york.en-gb.html",
+        "description": "Set right in the centre of New York, 1.1 km from Radio City Music Hall, Beautiful 3 BR Apartment offers air-conditioned accommodation with free WiFi and a...",
+        "priceRange": "Prices for upcoming dates start at \u00a3591 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7603232,-73.9897750&center=40.7603232,-73.9897750&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=q1oH3o-14izHd662-fbAz5GpxX0=",
+        "name": "Beautiful 3 BR Apartment",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "346 West 46th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10036",
+            "streetAddress": "346 West 46th Street, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518056802.jpg?k=43d0fcd29b84e0108ec3ee16b61b7cfdc84060cb23b5eb8ebb91ac6257b94183&o=&hp=1"
+    }
+]

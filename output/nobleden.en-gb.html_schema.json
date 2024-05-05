@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/nobleden.en-gb.html",
+        "name": "NobleDEN Hotel",
+        "aggregateRating": {
+            "ratingValue": 9.1,
+            "@type": "AggregateRating",
+            "reviewCount": 1955,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7192462,-73.9968987&center=40.7192462,-73.9968987&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=bLqhGPNEgxCx9YhgJ-H54pRK8Kw=",
+        "priceRange": "Prices for upcoming dates start at \u00a3263 per night (We Price Match)",
+        "description": "Featuring free WiFi and a restaurant, NobleDEN Hotel offers accommodation in New York, 12 metres from Ferrara Bakery and Cafe in Little Italy.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/61586001.jpg?k=dee03d99c298db3cc035d7443ed95f623cd45b51b54ea1731dfbd1c111268422&o=&hp=1",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "196 Grand Street, Little Italy, New York, NY 10013, United States",
+            "addressLocality": "196 Grand Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10013"
+        }
+    }
+]

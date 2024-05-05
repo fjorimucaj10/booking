@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Ideally set in the centre of New York, Modern 2BD in Midtown with Washer and Dryer in-unit offers a balcony, air conditioning, free WiFi and TV.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7563378,-73.9822170&zoom=15&markers=color:blue%7c40.7563378,-73.9822170&sensor=false&client=gme-booking&channel=booking-frontend&signature=zNH08si90M0RmZ1uXhjso_5X-fA=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/modern-2bd-in-midtown-with-washer-and-dryer-in-unit.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/475010724.jpg?k=f592fca02169fe797ca975100beafe040f4bf5bae1eb82833f9f61ed9c100081&o=&hp=1",
+        "name": "Modern 2BD in Midtown with Washer and Dryer in-unit",
+        "address": {
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "streetAddress": "70 West 45th Street, New York, 10036, United States",
+            "addressLocality": "70 West 45th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3504 per night (We Price Match)"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/153-1g-newly-renovated-2br-lower-east-side.en-gb.html",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512408503.jpg?k=8b4828d69a833290b41b0544ece064b30ca46a58df49f2b31f833f96fc864f11&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.7206252,-73.9865652&zoom=15&markers=color:blue%7c40.7206252,-73.9865652&client=gme-booking&channel=booking-frontend&signature=-5VNdFZtBo8fj6Vw6pH05aeS96U=",
+        "description": "Set in New York, 1.6 km from NYU - New York University and 3.",
+        "name": "153-1G Newly Renovated 2BR Lower East Side",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "Norfolk Street 153, Lower East Side, New York, 10002, United States",
+            "postalCode": "10002",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "Norfolk Street 153"
+        }
+    }
+]

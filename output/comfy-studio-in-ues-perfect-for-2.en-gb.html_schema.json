@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "51 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "postalCode": "NY 10021",
+            "addressCountry": "USA",
+            "addressLocality": "51 East 76th Street",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "name": "Comfy Studio in UES! Perfect for 2!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7742760,-73.9627771&zoom=15&markers=color:blue%7c40.7742760,-73.9627771&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=I79oN9pIi5kPIqVNFEsGOFLGHAw=",
+        "url": "https://www.booking.com/hotel/us/comfy-studio-in-ues-perfect-for-2.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3383 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.5 km from Central Park and 2.4 km from St Patrick's Cathedral, Comfy Studio in UES! Perfect for 2! offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542582835.jpg?k=0ff6548ce7ede78762506c2d444becde479ec0fcc34ff0b0cb45d5319fb15e3f&o=&hp=1"
+    }
+]

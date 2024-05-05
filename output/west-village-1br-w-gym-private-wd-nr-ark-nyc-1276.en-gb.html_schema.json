@@ -1,0 +1,20 @@
+[
+    {
+        "name": "West Village 1br w gym private wd nr ark NYC-1276",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7773147,-73.9631215&center=40.7773147,-73.9631215&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=hRfDF6ci6Yi9UxObFKcEotSfkrc=",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "10075",
+            "streetAddress": "Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/west-village-1br-w-gym-private-wd-nr-ark-nyc-1276.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502813261.jpg?k=27dcc51540f466b78a7ea443671b49b515720900708e6ef11186ccc2f7a70cc3&o=&hp=1",
+        "description": "Set in New York, 200 metres from Metropolitan Museum of Art and 1."
+    }
+]

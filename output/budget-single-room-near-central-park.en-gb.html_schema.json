@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7998910,-73.9619965&zoom=15&center=40.7998910,-73.9619965&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=n1O23Ik-JH6I-xNIyuDmzsaeRx8=",
+        "description": "Set in New York, 3.1 km from Metropolitan Museum of Art and 3.2 km from Strawberry Fields, Budget Single Room Near Central Park offers air conditioning.",
+        "address": {
+            "streetAddress": "71 West 107th Street, Upper West Side, New York, NY 10025, United States",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "71 West 107th Street",
+            "addressCountry": "USA"
+        },
+        "priceRange": null,
+        "name": "Budget Single Room Near Central Park",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/418582709.jpg?k=c0ea5fae5e8b6c492395ee90130191b87b5aa90530ef1395334d10a0f5f8e60a&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/budget-single-room-near-central-park.en-gb.html"
+    }
+]

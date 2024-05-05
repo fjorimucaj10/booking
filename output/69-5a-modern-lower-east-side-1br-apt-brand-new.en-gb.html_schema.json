@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7193634,-73.9851120&markers=color:blue%7c40.7193634,-73.9851120&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=Rhft9IIco4FFPX5hJxeUEI1Pa9k=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532674686.jpg?k=2ac2a9f5d5fd510cda2a800c28d9bee9cfd836de5d7bb45e9ee2191ffdda5cdc&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3367 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/69-5a-modern-lower-east-side-1br-apt-brand-new.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "69 Clinton Street",
+            "postalCode": "10002",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "name": "69-5A Modern Lower East Side 1BR Apt BRAND NEW",
+        "description": "69-5A Modern Lower East Side 1BR Apt BRAND NEW is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@context": "http://schema.org"
+    }
+]

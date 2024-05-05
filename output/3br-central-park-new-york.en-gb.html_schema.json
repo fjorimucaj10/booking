@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/3br-central-park-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3652 per night (We Price Match)",
+        "name": "3BR Central Park",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7608512,-73.9694809&size=1600x1200&sensor=false&markers=color:blue%7c40.7608512,-73.9694809&zoom=15&client=gme-booking&channel=booking-frontend&signature=7Rkt8Fl7dIwJyClrEfeSGldzhuo=",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "696 Lexington Avenue, Midtown East, New York, NY 10022, United States",
+            "postalCode": "NY 10022",
+            "addressLocality": "696 Lexington Avenue",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "description": "Set in the heart of New York, less than 1 km from St Patrick's Cathedral, 3BR Central Park offers air-conditioned accommodation with free WiFi and a...",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 6.0,
+            "@type": "AggregateRating",
+            "reviewCount": 1
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/509675041.jpg?k=e793780dc3dd137a880ccbaf7e496ea81051da582968c810688f7fb4c79628ea&o=&hp=1"
+    }
+]

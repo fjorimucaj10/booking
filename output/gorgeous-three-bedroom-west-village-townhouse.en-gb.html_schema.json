@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Gorgeous Three Bedroom West Village Townhouse",
+        "priceRange": "Prices for upcoming dates start at \u00a3881 per night (We Price Match)",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "West 10th Street, Greenwich Village, New York, 10014, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10014",
+            "addressLocality": "West 10th Street"
+        },
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 4,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.8
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7344910,-74.0020720&size=1600x1200&sensor=false&center=40.7344910,-74.0020720&client=gme-booking&channel=booking-frontend&signature=IfQJ2xmSo5s_2lYPaSdrX0DNroE=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504543378.jpg?k=15624fb539e2717cdbae5b67405fbd8e3c8c3d17e479b551dcf134c476a4dfa1&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/gorgeous-three-bedroom-west-village-townhouse.en-gb.html",
+        "description": "Located in New York, 1.6 km from Flatiron Building and 1.6 km from Bloomingdales, Gorgeous Three Bedroom West Village Townhouse offers air conditioning.",
+        "@context": "http://schema.org"
+    }
+]

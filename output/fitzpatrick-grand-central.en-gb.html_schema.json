@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/204060331.jpg?k=926e0af08393b2fe0eabb9113ce9b34ef4617a271cc2673508bfb915eec1848c&o=&hp=1",
+        "description": "Featuring a classic Irish pub, this European-style hotel is 322 meters from the Grand Central Station.",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 598,
+            "ratingValue": 8.2
+        },
+        "url": "https://www.booking.com/hotel/us/fitzpatrick-grand-central.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7525746,-73.9745515&sensor=false&center=40.7525746,-73.9745515&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=oOnvJpl3sZZOcsYb8dt2OPgulf0=",
+        "name": "Fitzpatrick Grand Central",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "141 East 44th Street, Midtown East, New York, NY 10017, United States",
+            "addressLocality": "141 East 44th Street",
+            "postalCode": "NY 10017"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3179 per night (We Price Match)"
+    }
+]

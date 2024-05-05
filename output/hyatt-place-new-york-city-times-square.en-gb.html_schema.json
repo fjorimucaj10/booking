@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7559670,-73.9937030&center=40.7559670,-73.9937030&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=LK9mcdrxosD8ZGPiZX4w96fPZwM=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487340251.jpg?k=b732283c1716030abfac949c760791ac407630ae4d73b5fa8671bfb40b477c35&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "streetAddress": "350 West 39th St, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "350 West 39th St"
+        },
+        "url": "https://www.booking.com/hotel/us/hyatt-place-new-york-city-times-square.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 7.6,
+            "reviewCount": 21754,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3157 per night (We Price Match)",
+        "name": "Hyatt Place New York City/Times Square",
+        "description": "Hyatt Place New York City/Times Square features air-conditioned rooms with satellite flat-screen TV in the Hell's Kitchen district of New York City."
+    }
+]

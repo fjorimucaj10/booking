@@ -1,0 +1,26 @@
+[
+    {
+        "name": "La Quinta by Wyndham New York City Central Park",
+        "description": "This hotel, located in the center of Manhattan's Upper West Side, is 1 block from Central Park. It offers a continental breakfast and free in-room Wi-Fi.",
+        "address": {
+            "streetAddress": "31 West 71st Street, Upper West Side, New York, NY 10023, United States",
+            "addressLocality": "31 West 71st Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10023",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/la-quinta-new-york-city-central-park.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/242347566.jpg?k=4e5a1a3d31c7b03a72e879b5ed7c76de5667dfa7c98b2c7e69979b769c251450&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 6.6,
+            "bestRating": 10,
+            "reviewCount": 4278
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3171 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7761452,-73.9776836&sensor=false&size=1600x1200&zoom=15&center=40.7761452,-73.9776836&client=gme-booking&channel=booking-frontend&signature=t2LBlNQr5gJEEy_3nR7Nd9SmtPo="
+    }
+]

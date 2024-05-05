@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543601965.jpg?k=76bafe988f6b9d3d1389186ed9b851daa9702c81eadc3512cf45cdd0bc79f75a&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10022",
+            "addressLocality": "1 East 59th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "1 East 59th Street, New York, NY 10022, United States"
+        },
+        "description": "Situated in New York, 6.7 km from Grand Central Station and 6.7 km from Rockefeller Center, Luxurious Studio Apartment offers air conditioning.",
+        "name": "Luxurious Studio Apartment",
+        "priceRange": "Prices for upcoming dates start at \u00a3475 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/luxurious-studio-apartment-new-york.en-gb.html",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7585616,-73.9590404&zoom=15&markers=color:blue%7c40.7585616,-73.9590404&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=q8dzj4YILvyMXokZ0bfUMRTkzWg="
+    }
+]

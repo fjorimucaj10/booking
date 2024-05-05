@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/507889107.jpg?k=03f9e795fec64e921e76c3bdc38a7e684f1dd07af3b1ab631cd23cc6904a0129&o=&hp=1",
+        "name": "Excellent Studio At UES",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "223 East 64th Street, Upper East Side, New York, NY 10065, United States",
+            "addressLocality": "223 East 64th Street",
+            "postalCode": "NY 10065"
+        },
+        "url": "https://www.booking.com/hotel/us/excellent-studio-at-ues.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3383 per night (We Price Match)",
+        "description": "Located in New York, 1.4 km from Central Park and 1.8 km from St Patrick's Cathedral, Excellent Studio At UES offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7642433,-73.9626910&sensor=false&size=1600x1200&center=40.7642433,-73.9626910&zoom=15&client=gme-booking&channel=booking-frontend&signature=K3uwLxmhkgf-gGb7Wh-CVQYysq4=",
+        "@type": "Hotel"
+    }
+]

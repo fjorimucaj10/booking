@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "",
+            "postalCode": "10009",
+            "addressCountry": "USA",
+            "streetAddress": "East Village, New York, 10009, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "description": "Set in New York, 1.8 km from Bloomingdales and 1.7 km from Flatiron Building, East Village 3br w wd nr Union Square NYC-994 offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7289428,-73.9839610&zoom=15&sensor=false&center=40.7289428,-73.9839610&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=33ycp1Iy_MYweWp7LhMeaXcu-ns=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/452264226.jpg?k=2d70d1ddae1d4b3a3db0561cfdb05e5348a8a4de34c69005c26f455970326a2e&o=&hp=1",
+        "name": "East Village 3br w wd nr Union Square NYC-994",
+        "url": "https://www.booking.com/hotel/us/east-village-3br-w-wd-nr-union-square-nyc-994.en-gb.html",
+        "priceRange": null,
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

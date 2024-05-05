@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "description": "Set in New York, 1.3 km from Lincoln Center and 2 km from Central Park, 2-bedroom in Upper West Side, private entrance offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7827150,-73.9820140&zoom=15&markers=color:blue%7c40.7827150,-73.9820140&sensor=false&client=gme-booking&channel=booking-frontend&signature=rijXPyKQ8qkagSrfFvnm0nbAidw=",
+        "address": {
+            "postalCode": "NY 10024",
+            "addressLocality": "354 West End Avenue apt 1",
+            "streetAddress": "354 West End Avenue apt 1, Upper West Side, New York, NY 10024, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/2-bedroom-in-upper-west-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/166978563.jpg?k=f560ffdc7d03b6f01b0cfcc9dcb8d967832a6ed93bbb0ba2be53ff90bc6cbb1b&o=&hp=1",
+        "name": "2-bedroom in Upper West Side, private entrance",
+        "@type": "Hotel",
+        "priceRange": null
+    }
+]

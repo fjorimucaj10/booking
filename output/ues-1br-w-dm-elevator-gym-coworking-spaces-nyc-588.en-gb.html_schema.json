@@ -1,0 +1,20 @@
+[
+    {
+        "name": "UES 1BR w DM Elevator Gym Coworking Spaces NYC-588",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7759242,-73.9464296&center=40.7759242,-73.9464296&zoom=15&client=gme-booking&channel=booking-frontend&signature=5TX83xuFWb9FkZlMemEapTfBg6w=",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "Upper East Side, New York, 10028, United States",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "postalCode": "10028"
+        },
+        "description": "Situated in New York, 1.7 km from Metropolitan Museum of Art and 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/454308209.jpg?k=77a687aeae50748df35918b39c4ad3b632ac1ba66eb8311bd314521aae3b1f03&o=&hp=1",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ues-1br-w-dm-elevator-gym-coworking-spaces-nyc-588.en-gb.html",
+        "@type": "Hotel"
+    }
+]

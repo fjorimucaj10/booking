@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3233 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.8037930,-73.9492490&zoom=15&sensor=false&markers=color:blue%7c40.8037930,-73.9492490&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=-uOg8_P62e__fHR5crPXH36jmiI=",
+        "url": "https://www.booking.com/hotel/us/home-nyc.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "105 West 118th Street, Harlem, New York, NY 10026, United States",
+            "postalCode": "NY 10026",
+            "addressLocality": "105 West 118th Street",
+            "addressCountry": "USA"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "name": "Home NYC",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 1,
+            "bestRating": 10,
+            "ratingValue": 10.0
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/62279184.jpg?k=759bd90d7850b85e955dbf42c846a0efc952fa7727554b96d56639a6716d8c97&o=&hp=1",
+        "description": "Home NYC offers self-catering accommodation with free Wi-Fi just 4.4 km from Central Park in Manhattan."
+    }
+]

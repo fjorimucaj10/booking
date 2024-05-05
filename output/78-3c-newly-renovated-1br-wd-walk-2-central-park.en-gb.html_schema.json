@@ -1,0 +1,20 @@
+[
+    {
+        "name": "78-3C Newly renovated 1BR WD Walk 2 Central Park",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7724250,-73.9545481&markers=color:blue%7c40.7724250,-73.9545481&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=jwRY51k2jRlukFz6hbYJYRj1Cr8=",
+        "url": "https://www.booking.com/hotel/us/78-3c-newly-renovated-1br-wd-walk-2-central-park.en-gb.html",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.3 km from Metropolitan Museum of Art and 3 km from Strawberry Fields, 78-3C Newly renovated 1BR WD Walk 2 Central Park offers air...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/478345034.jpg?k=939e1641dec36becbee3e864a41e0a3603210fd723c157035ced1bb34d34e615&o=&hp=1",
+        "address": {
+            "addressLocality": "East 78th Street 315",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10075",
+            "addressRegion": "New York State",
+            "streetAddress": "East 78th Street 315, Upper East Side, New York, 10075, United States"
+        }
+    }
+]

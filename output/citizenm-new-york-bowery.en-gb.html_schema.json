@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "189 Bowery, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "189 Bowery",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/252383383.jpg?k=37fd146fe6deb5ce4a427929fa480558a5fee8cc97fb2c3b15b38a945c745ac4&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3194 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 3037,
+            "bestRating": 10,
+            "ratingValue": 8.7,
+            "@type": "AggregateRating"
+        },
+        "@type": "Hotel",
+        "name": "citizenM New York Bowery",
+        "url": "https://www.booking.com/hotel/us/citizenm-new-york-bowery.en-gb.html",
+        "description": "Situated in the Lower East Side district in New York, citizenM New York Bowery is minutes away from the nightlife and restaurants of Bowery.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7206190,-73.9934700&size=1600x1200&markers=color:blue%7c40.7206190,-73.9934700&zoom=15&client=gme-booking&channel=booking-frontend&signature=lUGq42OhXaZad8iYPds4y3-UtYM="
+    }
+]

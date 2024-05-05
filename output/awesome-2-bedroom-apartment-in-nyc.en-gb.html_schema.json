@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10025",
+            "addressCountry": "USA",
+            "streetAddress": "780 Columbus Avenue, Upper West Side, New York, NY 10025, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "780 Columbus Avenue"
+        },
+        "url": "https://www.booking.com/hotel/us/awesome-2-bedroom-apartment-in-nyc.en-gb.html",
+        "description": "Situated in New York, 3.3 km from Metropolitan Museum of Art and 3.4 km from Strawberry Fields, Awesome 2 Bedroom Apartment in NYC offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7942682,-73.9674841&markers=color:blue%7c40.7942682,-73.9674841&zoom=15&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=lPYuowmYwtTDpUU85NQYTS3LdHc=",
+        "name": "Awesome 2 Bedroom Apartment in NYC",
+        "priceRange": "Prices for upcoming dates start at \u00a3923 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/476726667.jpg?k=0bdf68c4774e8e7eea0d548e2eb6e89736dba88696bdd1cc5485f56b3335aa95&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

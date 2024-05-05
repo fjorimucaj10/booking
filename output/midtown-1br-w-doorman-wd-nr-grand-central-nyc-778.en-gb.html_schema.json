@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated right in the heart of New York, 600 metres from Chrysler Building, Midtown 1BR w Doorman WD nr Grand Central NYC-778 features air-conditioned...",
+        "url": "https://www.booking.com/hotel/us/midtown-1br-w-doorman-wd-nr-grand-central-nyc-778.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10017",
+            "streetAddress": "Midtown East, New York, 10017, United States",
+            "addressLocality": "",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/550284767.jpg?k=f977d32f36e9384c8b42149092ca4fc4458cd731bd84b773daf2d7db4b6945ee&o=&hp=1",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7546590,-73.9721295&sensor=false&size=1600x1200&markers=color:blue%7c40.7546590,-73.9721295&client=gme-booking&channel=booking-frontend&signature=S6hb9HjxEB2fap_6Tb1BZoOrkQw=",
+        "priceRange": null,
+        "name": "Midtown 1BR w Doorman WD nr Grand Central NYC-778"
+    }
+]

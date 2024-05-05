@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/809-5a-gorgeous-new-1br-heart-of-midtown.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7658424,-73.9876175&size=1600x1200&center=40.7658424,-73.9876175&client=gme-booking&channel=booking-frontend&signature=BKdmhhuZI2u3YaThClWKlL5Fess=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "description": "In the heart of New York, set within a short distance of Broadway Theatre and Carnegie Hall, 809-5A Gorgeous New 1BR Heart of Midtown offers free WiFi, air...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/410850816.jpg?k=650074c6924ab86194d710077693c604951a7da6912c29b6f3a74324dcbba814&o=&hp=1",
+        "name": "809-5A Gorgeous New 1BR Heart of Midtown",
+        "priceRange": "Prices for upcoming dates start at \u00a3495 per night (We Price Match)",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10019",
+            "addressLocality": "809 9th Avenue",
+            "streetAddress": "809 9th Avenue, Hell's Kitchen, New York, 10019, United States",
+            "addressRegion": "New York State"
+        }
+    }
+]

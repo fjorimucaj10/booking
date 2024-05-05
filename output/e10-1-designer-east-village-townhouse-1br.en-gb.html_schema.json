@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/e10-1-designer-east-village-townhouse-1br.en-gb.html",
+        "name": "E10-1 Designer East Village Townhouse 1BR",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "112 East 10th Street, East Village, New York, 10003, United States",
+            "addressCountry": "USA",
+            "addressLocality": "112 East 10th Street",
+            "addressRegion": "New York State",
+            "postalCode": "10003"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7302813,-73.9884091&zoom=15&size=1600x1200&sensor=false&markers=color:blue%7c40.7302813,-73.9884091&client=gme-booking&channel=booking-frontend&signature=s9tVnzR7n7yaYB4i6w4NpcTWQXI=",
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "description": "E10-1 Designer East Village Townhouse 1BR is set in the East Village district of New York, 1.5 km from Bloomingdales, 1.4 km from Flatiron Building and 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/538118123.jpg?k=76ea2bac7a695cce7bd54687ac424ebb236a411d3e722af84eb36ad0bb2d8984&o=&hp=1"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7657814,-73.9829307&sensor=false&markers=color:blue%7c40.7657814,-73.9829307&client=gme-booking&channel=booking-frontend&signature=6SM6pPvr-69_kplj6WbdWEDxIbQ=",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "244 West 56th street, New York, NY 10019, United States",
+            "addressLocality": "244 West 56th street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019"
+        },
+        "name": "Da Vinci Hotel",
+        "url": "https://www.booking.com/hotel/us/da-vinci.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3149 per night (We Price Match)",
+        "description": "Just 5 minutes\u2019 walk to Central Park, this New York City hotel offers free Wi-Fi and rooms equipped with a flat-screen TV along with a refrigerator.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/517275808.jpg?k=ec96fb6f1ff3b1a14ff320da6e7405a877230e6f048d9b18a0d2da28b136d70b&o=&hp=1",
+        "aggregateRating": {
+            "ratingValue": 7.3,
+            "reviewCount": 1192,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        }
+    }
+]

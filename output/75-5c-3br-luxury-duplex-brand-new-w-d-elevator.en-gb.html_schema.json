@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7707911,-73.9575008&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7707911,-73.9575008&client=gme-booking&channel=booking-frontend&signature=dYcThNadX7Exp_l200oX1aaxmeE=",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021",
+            "addressRegion": "New York State",
+            "addressLocality": "244 East 75th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3836 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532047008.jpg?k=fea31ff65972f14f0f7b2ed2d960dcd8bb278727818c1e9fdf62068359f00b4b&o=&hp=1",
+        "@type": "Hotel",
+        "name": "75-5C 3BR LUXURY Duplex BRAND NEW W&D Elevator",
+        "url": "https://www.booking.com/hotel/us/75-5c-3br-luxury-duplex-brand-new-w-d-elevator.en-gb.html",
+        "description": "Set in New York, 1.4 km from Metropolitan Museum of Art and 1.",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "streetAddress": "224 West 49th Street, New York, NY 10019, United States",
+            "addressLocality": "224 West 49th Street",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/452143378.jpg?k=2ea6e2c9eb9af88da792e5f00766b893c688559b771186447823e0dd91578a3b&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/the-time.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7610561,-73.9853655&markers=color:blue%7c40.7610561,-73.9853655&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=LWYy9lzCo2QTkDCFZIfk6qdzIh8=",
+        "name": "The Time New York, part of JdV by Hyatt",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.5,
+            "@type": "AggregateRating",
+            "reviewCount": 1797
+        },
+        "description": "Located steps from Broadway theatres, The Time New York, part of JdV by Hyatt, features chic guest rooms by famed designer David Rockwell."
+    }
+]

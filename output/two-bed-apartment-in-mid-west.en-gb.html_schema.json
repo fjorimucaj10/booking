@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Two Bed Apartment In Mid West",
+        "url": "https://www.booking.com/hotel/us/two-bed-apartment-in-mid-west.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7642650,-73.9784800&center=40.7642650,-73.9784800&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=CGRoownEYXBZiU6Pi1Nd6OMxP0o=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "123 West 56th Street, New York, NY 10019, United States",
+            "addressLocality": "123 West 56th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10019"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3661 per night (We Price Match)",
+        "description": "In a central area of New York, set within a short distance of Carnegie Hall and Broadway Theatre, Two Bed Apartment In Mid West offers free WiFi, air...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/507446791.jpg?k=d2af98b450ed10699bf2db447acc24a6851ab4c44882c19389cf10c30e6dd357&o=&hp=1"
+    }
+]

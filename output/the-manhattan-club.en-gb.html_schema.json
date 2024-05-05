@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7649912,-73.9811464&center=40.7649912,-73.9811464&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=gsH1vgpJzaYFCn-7IkRlwkO8ZdU=",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "200 West 56th Street",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "streetAddress": "200 West 56th Street, New York, NY 10019, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/the-manhattan-club.en-gb.html",
+        "name": "The Manhattan Club",
+        "description": "Located 1 block from Carnegie Hall and 3 blocks from Central Park, this all-suite hotel features a private club lounge.",
+        "priceRange": "Prices for upcoming dates start at \u00a3230 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.1,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 3426
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512786712.jpg?k=0b93a374648a7d45d52cdb54e1d6fb98acf5978b6813764a2dc26df0a0da646d&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7481543,-73.9886899&markers=color:blue%7c40.7481543,-73.9886899&client=gme-booking&channel=booking-frontend&signature=5-8EB6jFC8n0mSIH2bU777_Ypr8=",
+        "@context": "http://schema.org",
+        "name": "National at 888 Sixth Avenue - Furnished Apartments",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411493239.jpg?k=feb848d70d7893360d08acd1974a5dace7da3041ab30a9b44afc08dc7288ab62&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressLocality": "888 6th Avenue",
+            "@type": "PostalAddress",
+            "streetAddress": "888 6th Avenue, New York, NY 10001, United States",
+            "addressCountry": "USA"
+        },
+        "description": "Set in New York, 300 metres from Macy's, National at 888 Sixth Avenue - Furnished Apartments offers accommodation with a fitness centre, free WiFi, a...",
+        "aggregateRating": {
+            "reviewCount": 3,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0
+        },
+        "url": "https://www.booking.com/hotel/us/national-on-sixth-furnished-apartments.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)"
+    }
+]

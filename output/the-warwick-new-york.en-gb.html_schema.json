@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-warwick-new-york.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.0,
+            "@type": "AggregateRating",
+            "reviewCount": 6228
+        },
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "65 West 54th street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "streetAddress": "65 West 54th street, New York, NY 10019, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/98978448.jpg?k=08b796f823ea83d3d71e79a3b8fcc710e74150177ea4cd8b42718d47f38d65e6&o=&hp=1",
+        "name": "Warwick New York",
+        "description": "A historic hotel in midtown Manhattan, located 483 metres from Central Park, Warwick New York offers 2 restaurants, a fitness centre and concierge...",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3217 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7623695,-73.9782663&markers=color:blue%7c40.7623695,-73.9782663&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=YmnPe51mHIEfbMQqtvYZngH7NsU="
+    }
+]

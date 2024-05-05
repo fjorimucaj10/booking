@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.3,
+            "reviewCount": 1955
+        },
+        "address": {
+            "postalCode": "NY 10016",
+            "@type": "PostalAddress",
+            "streetAddress": "22 East 38th Street, Murray Hill, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "22 East 38th Street",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/415259576.jpg?k=844bc20e9c3c7cf9c56792a7f7f748d57f4c406ff9640f7542f3c49edcf90d6b&o=&hp=1",
+        "name": "NH Collection New York Madison Avenue",
+        "description": "Boasting a fitness center, bar and views of city, NH Collection New York Madison Avenue is set in New York, 200 meters from New York Public Library.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7500621,-73.9809184&center=40.7500621,-73.9809184&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=YLtU1-uHlG9Dk75sPKkHtNOP68w=",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/nhcollection-madisonavenue.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3256 per night (We Price Match)"
+    }
+]

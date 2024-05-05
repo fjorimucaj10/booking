@@ -1,0 +1,20 @@
+[
+    {
+        "description": "69-3A Prime LES Modern Brand New 1BR is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@type": "Hotel",
+        "name": "69-3A Prime LES Modern Brand New 1BR",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7193642,-73.9851151&size=1600x1200&sensor=false&center=40.7193642,-73.9851151&client=gme-booking&channel=booking-frontend&signature=7eSO_1mlr1HeqfN1EQJ3qO2ibWU=",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "postalCode": "10002",
+            "addressCountry": "USA",
+            "addressLocality": "69 Clinton Street",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531827542.jpg?k=3b70d448378066d6b31771e7b057582bc5e7d0a53cd3d073a799ea108301132b&o=&hp=1",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/69-3a-prime-les-modern-brand-new-1br.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3372 per night (We Price Match)"
+    }
+]

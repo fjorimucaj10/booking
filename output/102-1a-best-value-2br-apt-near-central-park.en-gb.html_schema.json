@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532729478.jpg?k=33a9f5650d385b0d39472229099db508cfe26e2eafe252c03e9701aaef4528bc&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7897491,-73.9487228&size=1600x1200&center=40.7897491,-73.9487228&client=gme-booking&channel=booking-frontend&signature=ZVjE_GR8Hq7c9GbsmVuETYEIUP8=",
+        "name": "102-1A Best Value 2BR Apt Near Central Park",
+        "address": {
+            "addressLocality": "122 East 102nd Street",
+            "postalCode": "10029",
+            "@type": "PostalAddress",
+            "streetAddress": "122 East 102nd Street, East Harlem, New York, 10029, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "description": "102-1A Best Value 2BR Apt Near Central Park is situated in the East Harlem district of New York, 3.4 km from Columbia University, 3.",
+        "url": "https://www.booking.com/hotel/us/102-1a-best-value-2br-apt-near-central-park.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3339 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

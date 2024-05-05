@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "10021",
+            "addressCountry": "USA",
+            "addressLocality": "244 East 75th Street"
+        },
+        "name": "75-2D NEW Prime UES W&D Balcony Elevator",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503716418.jpg?k=64264000da620910325e9eb5b41c90288cd88d41b1f42b87d59fb9afde183dbf&o=&hp=1",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7707911,-73.9575008&center=40.7707911,-73.9575008&sensor=false&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=VcMI8laHqUPuHGMe6-VI3W-e8vI=",
+        "description": "Set in New York, 1.4 km from Metropolitan Museum of Art and 1.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/75-2d-new-prime-ues-w-d-balcony-elevator.en-gb.html",
+        "priceRange": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/nyc-duplex-amp-private-garden-oasis.en-gb.html",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "45 West 90th Street 1A, Upper West Side, New York, NY 10024, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10024",
+            "addressRegion": "New York State",
+            "addressLocality": "45 West 90th Street 1A"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/428925325.jpg?k=f71d124b47581d7bb72f2ded7e999d3523351bd053b925d212aabdde5883057f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7887176,-73.9690563&size=1600x1200&zoom=15&center=40.7887176,-73.9690563&sensor=false&client=gme-booking&channel=booking-frontend&signature=1yEPwYpJBWKgWwL0wwpPdnN85hQ=",
+        "@context": "http://schema.org",
+        "name": "NYC Duplex & Private garden Oasis!!",
+        "priceRange": "Prices for upcoming dates start at \u00a3824 per night (We Price Match)",
+        "description": "Situated in New York, 1.5 km from Metropolitan Museum of Art and 1.7 km from Strawberry Fields, NYC Duplex & Private garden Oasis!!"
+    }
+]

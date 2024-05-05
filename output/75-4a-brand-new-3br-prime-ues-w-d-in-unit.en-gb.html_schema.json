@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7707710,-73.9574814&sensor=false&size=1600x1200&center=40.7707710,-73.9574814&client=gme-booking&channel=booking-frontend&signature=vgJ-74HjYL9jekWaKgbpM6NXcJE=",
+        "url": "https://www.booking.com/hotel/us/75-4a-brand-new-3br-prime-ues-w-d-in-unit.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532048127.jpg?k=871afc6e44a6e949900439d9fb126b8d8579132f05715bb5e5e7ea86968d0089&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "244 East 75th Street"
+        },
+        "@context": "http://schema.org",
+        "description": "Located in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-4A Brand new 3BR Prime UES W D in unit offers air conditioning.",
+        "priceRange": null,
+        "name": "75-4A Brand new 3BR Prime UES W D in unit"
+    }
+]

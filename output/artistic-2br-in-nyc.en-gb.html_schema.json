@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Artistic 2BR in NYC is situated in the Midtown district of New York, 300 metres from Madison Square Garden, 400 metres from Penn Station and 300 metres...",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/artistic-2br-in-nyc.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7492360,-73.9916126&markers=color:blue%7c40.7492360,-73.9916126&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=A-dx1tn3Cj02VbsrL_hNHYLbiyk=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3653 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "397 7th Avenue",
+            "streetAddress": "397 7th Avenue, New York, NY 10001, United States",
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress"
+        },
+        "name": "Artistic 2BR in NYC",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488191376.jpg?k=eebeaf04fefdf876ea2a5596d4d83ca373c6e41afc78c207e80e30f99c2f1b84&o=&hp=1"
+    }
+]

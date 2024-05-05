@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-beekman-a-thompson-hotel.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7111537,-74.0066765&size=1600x1200&sensor=false&zoom=15&center=40.7111537,-74.0066765&client=gme-booking&channel=booking-frontend&signature=w-WMIxry7pH-8A9eJS_0a5UqX88=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3370 per night (We Price Match)",
+        "name": "The Beekman, A Thompson Hotel, by Hyatt",
+        "aggregateRating": {
+            "ratingValue": 8.6,
+            "bestRating": 10,
+            "reviewCount": 340,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541352895.jpg?k=fb5d2470a8ff08fc807f639889146f2bde9921f58d347c578bccc0cd46040cb3&o=&hp=1",
+        "description": "The Beekman, a Thompson Hotel, part of Hyatt is located 500 metres from the Brooklyn Bridge and the Westfield World Trade Centre.",
+        "address": {
+            "streetAddress": "123 Nassau Street, New York, NY 10038, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "123 Nassau Street",
+            "postalCode": "NY 10038",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org"
+    }
+]

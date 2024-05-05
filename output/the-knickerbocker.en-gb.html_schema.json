@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/the-knickerbocker.en-gb.html",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 2089,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4
+        },
+        "description": "Located on Times Square, The Knickerbocker features a rooftop terrace with over 370 square metres of indoor and outdoor space.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7555831,-73.9862701&size=1600x1200&sensor=false&markers=color:blue%7c40.7555831,-73.9862701&zoom=15&client=gme-booking&channel=booking-frontend&signature=EYpg4J8cTacanbcFPrQlo_MwuPo=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/50599005.jpg?k=94e0f3ee5517c88900f5f943fa41bfcd042b72e56dbab242177c30f5599b991d&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3286 per night (We Price Match)",
+        "name": "The Knickerbocker",
+        "address": {
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress",
+            "addressLocality": "6 Times Square",
+            "streetAddress": "6 Times Square, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

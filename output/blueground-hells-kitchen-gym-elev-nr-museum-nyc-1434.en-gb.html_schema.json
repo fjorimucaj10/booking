@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Located in a central area of New York, 700 metres from Jacob K.",
+        "url": "https://www.booking.com/hotel/us/blueground-hells-kitchen-gym-elev-nr-museum-nyc-1434.en-gb.html",
+        "name": "Blueground Hells Kitchen gym elev nr museum NYC-1434",
+        "address": {
+            "postalCode": "10036",
+            "streetAddress": "Hell's Kitchen, New York, 10036, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7615214,-73.9993486&center=40.7615214,-73.9993486&zoom=15&client=gme-booking&channel=booking-frontend&signature=ZPnpkfQFUYDR14z2eTWQmYRIeME=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/535486361.jpg?k=0d9b006ae025469e557d56b21061c1c366f179035f22f5e17fc7f4c878fbe83d&o=&hp=1"
+    }
+]

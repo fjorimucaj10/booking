@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7160783,-73.9952534&size=1600x1200&center=40.7160783,-73.9952534&client=gme-booking&channel=booking-frontend&signature=OdbIgvqp76mq54ydOzNzr9jnNkU=",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/be.en-gb.html",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2225,
+            "bestRating": 10,
+            "ratingValue": 8.1
+        },
+        "name": "Leon Hotel LES",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/30715337.jpg?k=ecbae90717f914ac618a7ad8ffd997fd7c64fd5390821ffaa3eb7d2ca0a6b077&o=&hp=1",
+        "description": "Located in Lower Manhattan, the Leon is 1.2 km from the Soho neighourhood and Brooklyn Bridge is 1.4 km away.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "125 Canal Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "125 Canal Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3137 per night (We Price Match)"
+    }
+]

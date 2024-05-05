@@ -1,0 +1,20 @@
+[
+    {
+        "name": "UES 3br w patio doorman nr parks museums NYC-1175",
+        "priceRange": null,
+        "address": {
+            "streetAddress": "Upper East Side, New York, 10128, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "10128",
+            "addressLocality": "",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ues-3br-w-patio-doorman-nr-parks-museums-nyc-1175.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7837070,-73.9467740&zoom=15&center=40.7837070,-73.9467740&client=gme-booking&channel=booking-frontend&signature=qYsAjQKr8cgPpVzkqEcE3bmtJxk=",
+        "description": "Located in New York, 2 km from Metropolitan Museum of Art and 3.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/489154006.jpg?k=2d08d875c4bdc274792274efe96124d2d0be6837fc8e91f61235457506643335&o=&hp=1"
+    }
+]

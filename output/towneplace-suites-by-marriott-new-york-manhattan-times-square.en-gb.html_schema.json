@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "name": "TownePlace Suites by Marriott New York Manhattan/Times Square",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/towneplace-suites-by-marriott-new-york-manhattan-times-square.en-gb.html",
+        "description": "TownePlace Suites by Marriott New York Manhattan/Times Square is located in New York, 200 metres from Restaurant Row and 400 metres from Times Square.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/448691822.jpg?k=0ddf1e902c9e73ccf8e834ef3f9e0845e826bb395faf257a34bb5aa5c952691c&o=&hp=1",
+        "address": {
+            "addressRegion": "New York State",
+            "addressLocality": "324 W 44Th Street",
+            "addressCountry": "USA",
+            "streetAddress": "324 W 44Th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "postalCode": "NY 10036",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7589530,-73.9900080&center=40.7589530,-73.9900080&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=uQGiPYoc0R1Ki4XfMLClAnPsFQc=",
+        "aggregateRating": {
+            "ratingValue": 8.3,
+            "reviewCount": 1575,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3166 per night (We Price Match)"
+    }
+]

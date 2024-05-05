@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3267 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 1524,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.0
+        },
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7556700,-73.9742800&zoom=15&markers=color:blue%7c40.7556700,-73.9742800&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=PQ4jISeLBRp7vqxSoNw2dAjyNhg=",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10017",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "111 East 48th Street, Midtown East, New York, NY 10017, United States",
+            "addressLocality": "111 East 48th Street"
+        },
+        "@type": "Hotel",
+        "description": "This 5-star hotel, located in the center of Manhattan, is only a 10-minute walk to Times Square.",
+        "url": "https://www.booking.com/hotel/us/icg-the-barclay-new-york.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/261355520.jpg?k=92f96913d29ac4bb951d07641456f2668b2dc7bbd5a4ae007baa97f5f379757a&o=&hp=1",
+        "name": "InterContinental New York Barclay Hotel, an IHG Hotel"
+    }
+]

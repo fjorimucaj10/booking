@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7633861,-73.9807266&zoom=15&markers=color:blue%7c40.7633861,-73.9807266&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=UMkg4U9DnMtvICcAc0NaA4ma7Jg=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3466 per night (We Price Match)",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "151 West 54th Street",
+            "postalCode": "NY 10019 ",
+            "streetAddress": "151 West 54th Street, New York, NY 10019 , United States",
+            "@type": "PostalAddress"
+        },
+        "name": "Conrad New York Midtown",
+        "description": "This Midtown Manhattan hotel is located 500 metres from Central Park. It features an on-site bar. Fifth Avenue is 805 metres from Conrad New York Midtown.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/490843201.jpg?k=a507a32cb906a5b7af3a59af03fad26017a19b67575bb1e5b40ab4b476aa29ba&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/the-conrad-new-york-midtown.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 315,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3,
+            "bestRating": 10
+        }
+    }
+]

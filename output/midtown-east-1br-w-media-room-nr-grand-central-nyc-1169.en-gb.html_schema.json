@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7546590,-73.9721295&sensor=false&zoom=15&size=1600x1200&center=40.7546590,-73.9721295&client=gme-booking&channel=booking-frontend&signature=Fwznc2SBKKCwfyJf3b_9-wYch4U=",
+        "name": "Midtown East 1br w media room nr Grand Central NYC-1169",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/472047789.jpg?k=3e1093d1d9969aa6fe72ce31c4dc3191e4e6202e4adaa600bb394002f883d9ba&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/midtown-east-1br-w-media-room-nr-grand-central-nyc-1169.en-gb.html",
+        "address": {
+            "postalCode": "10017",
+            "addressRegion": "New York State",
+            "streetAddress": "Midtown East, New York, 10017, United States",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "description": "Situated right in the centre of New York, 600 metres from Chrysler Building, Midtown East 1br w media room nr Grand Central NYC-1169 features..."
+    }
+]

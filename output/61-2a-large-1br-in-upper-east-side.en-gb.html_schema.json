@@ -1,0 +1,20 @@
+[
+    {
+        "description": "61-2A Large 1BR in Upper East Side is located in the Upper East Side district of New York, 1.8 km from Central Park, 2 km from Rockefeller Center and 2.",
+        "name": "61-2A Large 1BR in Upper East Side",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "405 East 61st Street",
+            "addressRegion": "New York State",
+            "postalCode": "10065",
+            "streetAddress": "405 East 61st Street, Upper East Side, New York, 10065, United States",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/61-2a-large-1br-in-upper-east-side.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/533886272.jpg?k=c3a1f0b395e6eef1fc3de79fd48ba76e3850065ce6fc85eaa6d2acdc4625412a&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3401 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7608452,-73.9604111&size=1600x1200&zoom=15&center=40.7608452,-73.9604111&client=gme-booking&channel=booking-frontend&signature=eiIBPYuQj7FP1mx6ou0uegjP5ig="
+    }
+]

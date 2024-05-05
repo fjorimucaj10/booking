@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/3-br-apt-1-bath-near-time-sq-2nd-floor-2b.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "streetAddress": "409 West 36th Street 2B, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "409 West 36th Street 2B",
+            "postalCode": "NY 10018"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/482366096.jpg?k=c367f9bbe2be57d97fe3ddf1c3854d5de1450ae39e8206fe047d591f13a33296&o=&hp=1",
+        "description": "2B CLOSe is set in the Hudson Yards district of New York, 1.3 km from Times Square, 1.5 km from Bryant Park and less than 1 km from Macy's.",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7551640,-73.9961893&markers=color:blue%7c40.7551640,-73.9961893&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=cR8gEqmsl4ISTNbbkHL_ufVPuxQ=",
+        "name": "2B CLOSe",
+        "@type": "Hotel"
+    }
+]

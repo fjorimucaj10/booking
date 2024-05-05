@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3892 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7889054,-73.9750543&sensor=false&zoom=15&markers=color:blue%7c40.7889054,-73.9750543&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=sxN2JoMvKwUO5I453c5oSboZwJs=",
+        "description": "Magnificent 5BR apartment in NYC! is located in the Upper West Side district of New York, 1.8 km from Metropolitan Museum of Art, 1.",
+        "url": "https://www.booking.com/hotel/us/magnificent-5br-apartment-in-nyc.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "209 West 87th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10024",
+            "@type": "PostalAddress",
+            "streetAddress": "209 West 87th Street, Upper West Side, New York, NY 10024, United States"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505054862.jpg?k=f2fbe38eda716e132c865fe7a6d6df25ea395517a5823f3c260d659cc6ddfaf3&o=&hp=1",
+        "name": "Magnificent 5BR apartment in NYC!",
+        "@context": "http://schema.org"
+    }
+]

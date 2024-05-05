@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542207692.jpg?k=6502b81ed941aaa40a8bf59525cbbddc3ca877c42ebeb5699a10f86457f719a5&o=&hp=1",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7658315,-73.9568257&markers=color:blue%7c40.7658315,-73.9568257&client=gme-booking&channel=booking-frontend&signature=k2_aQZ3OzfEPDwdARkjuxJ4uwRE=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/403-4c-new-2br-2baths-prime-ues.en-gb.html",
+        "address": {
+            "streetAddress": "East 69th Street 403, Upper East Side, New York, 10021, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "East 69th Street 403",
+            "@type": "PostalAddress",
+            "postalCode": "10021",
+            "addressCountry": "USA"
+        },
+        "name": "403-4C New 2br 2baths prime ues",
+        "description": "403-4C New 2br 2baths prime ues is situated in the Upper East Side district of New York, 2.3 km from Metropolitan Museum of Art, 2."
+    }
+]

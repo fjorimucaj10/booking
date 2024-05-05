@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/hampton-inn-msga.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/484622889.jpg?k=5898efabf4ce7962e7849ffbc3cb2be959eda918eaee3051887ea083f58b1212&o=&hp=1",
+        "description": "Featuring cosy guestrooms furnished with signature Cloud Nine beds and wireless internet access, this hotel is steps from Madison Square Garden and other...",
+        "name": "Hampton Inn Madison Square Garden",
+        "address": {
+            "addressLocality": "116 West 31st Street",
+            "streetAddress": "116 West 31st Street, Chelsea, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10001"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3156 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7481246,-73.9901096&center=40.7481246,-73.9901096&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=aqOF9L7J-_hVCtzsMqxf4EhAXO4=",
+        "aggregateRating": {
+            "ratingValue": 7.5,
+            "reviewCount": 1215,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel"
+    }
+]

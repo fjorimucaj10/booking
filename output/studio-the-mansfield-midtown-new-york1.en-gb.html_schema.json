@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/studio-the-mansfield-midtown-new-york1.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3212 per night (We Price Match)",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7550775,-73.9810571&size=1600x1200&markers=color:blue%7c40.7550775,-73.9810571&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=3sDSrTBxxDNtlRB7szCNdTtJ2_c=",
+        "aggregateRating": {
+            "reviewCount": 3,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.7
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/518359342.jpg?k=be5bd472f556f76abe91e5c47730ecaccce819eece95a5aa740c9029a61ac7c6&o=&hp=1",
+        "@context": "http://schema.org",
+        "name": "Hotel-Studio @ The Mansfield Midtown",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "12 West 44th Street 205, New York, NY 10036, United States",
+            "addressLocality": "12 West 44th Street 205"
+        },
+        "description": "Situated in New York, 700 metres from Chrysler Building and 500 metres from Grand Central Station, Hotel-Studio @ The Mansfield Midtown offers a garden and..."
+    }
+]

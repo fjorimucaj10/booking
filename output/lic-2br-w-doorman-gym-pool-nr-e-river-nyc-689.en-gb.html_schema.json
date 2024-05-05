@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7448909,-73.9568403&center=40.7448909,-73.9568403&sensor=false&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=hEIFbwUVY0TyfsbvXlo_es8RxoU=",
+        "address": {
+            "addressLocality": "",
+            "streetAddress": "Long Island City, New York, 11109, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "11109",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/441460325.jpg?k=020d3597e8df28bfcf72d845313a3e303b275573a191d30838e513fb898a4807&o=&hp=1",
+        "name": "LIC 2BR w Doorman Gym Pool nr E River NYC-689",
+        "description": "Situated right in the heart of New York, 4 km from Chrysler Building, LIC 2BR w Doorman Gym Pool nr E River NYC-689 features air-conditioned accommodation...",
+        "@type": "Hotel",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/lic-2br-w-doorman-gym-pool-nr-e-river-nyc-689.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "This New York City hotel is located on 44th Street and is 322 metres from Times Square. It features guest rooms with flat-screen TVs.",
+        "name": "Royalton New York",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "44 West 44th Street, New York, NY 10036, United States",
+            "addressLocality": "44 West 44th Street",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7554628,-73.9822152&markers=color:blue%7c40.7554628,-73.9822152&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=5Kv8VjCrVTV3If2Dry5AHkxuQGQ=",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 2393,
+            "bestRating": 10,
+            "ratingValue": 7.7
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/205408681.jpg?k=bfdeb2f418112b7ad30a539e03193030612743db57d5c17b86fc60741ff08aa8&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/royalton.en-gb.html"
+    }
+]

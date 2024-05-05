@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/warm-3-br-loft-in-midtown.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498182945.jpg?k=186d5cd9d123815936c0c88770d4dc0b9d92e967e460c5ca25b8c432a70a0278&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "577 9th Avenue",
+            "streetAddress": "577 9th Avenue, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7581984,-73.9930145&size=1600x1200&zoom=15&center=40.7581984,-73.9930145&sensor=false&client=gme-booking&channel=booking-frontend&signature=v7iWFXRmOsIigl88HWQFSQ3YfQg=",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "Situated right in the centre of New York, 800 metres from Times Square, Warm 3 BR Loft in Midtown features air-conditioned accommodation with free WiFi and...",
+        "name": "Warm 3 BR Loft in Midtown",
+        "priceRange": "Prices for upcoming dates start at \u00a3825 per night (We Price Match)"
+    }
+]

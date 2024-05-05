@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/unique-1br-greenwich-penthouse-escape.en-gb.html",
+        "name": "Unique 1BR Greenwich Penthouse Escape!",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/488225620.jpg?k=cb5c5f92387d64116b1c845dcfcd8c49f90e51ef93b82bc878826f58e8cd5f31&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7274188,-73.9997376&zoom=15&markers=color:blue%7c40.7274188,-73.9997376&client=gme-booking&channel=booking-frontend&signature=jpOO7vUlbVzdJUVBHAjmai1u9SQ=",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "496 LaGuardia Place, Greenwich Village, New York, NY 10012, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10012",
+            "addressLocality": "496 LaGuardia Place",
+            "addressRegion": "New York State"
+        },
+        "description": "Unique 1BR Greenwich Penthouse Escape! is situated in the Greenwich Village district of New York, 400 metres from NYU - New York University, 700 metres...",
+        "priceRange": "Prices for upcoming dates start at \u00a36,858 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

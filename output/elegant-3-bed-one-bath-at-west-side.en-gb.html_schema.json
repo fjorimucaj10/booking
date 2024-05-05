@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Elegant 3 Bed One Bath At West Side",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/elegant-3-bed-one-bath-at-west-side.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 2.0,
+            "bestRating": 10,
+            "reviewCount": 1,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7565028,-73.9944862&zoom=15&markers=color:blue%7c40.7565028,-73.9944862&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=MTIzTqpPQxRCVMnSB8V0GicmzoE=",
+        "description": "Elegant 3 Bed One Bath At West Side is set in the Hudson Yards district of New York, 1 km from Times Square, 1.2 km from Bryant Park and 1.1 km from...",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3963 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/504414715.jpg?k=ea696a26697bd43155a61e2527bbdf71ff3cb4ce70dea8c85925b5fd41579abd&o=&hp=1",
+        "address": {
+            "streetAddress": "515 9th Avenue, Hell's Kitchen, New York, NY 10018, United States",
+            "addressLocality": "515 9th Avenue",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10018",
+            "addressCountry": "USA"
+        }
+    }
+]

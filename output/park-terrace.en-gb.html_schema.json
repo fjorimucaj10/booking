@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/163530723.jpg?k=8ec770868687c8eaaea1f2d55f07fd7e4b2aa10677d2aea3435c8834579afedc&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "18 West 40th Street, New York, NY 10018, United States",
+            "addressLocality": "18 West 40th Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "description": "Offering free 1GB WiFi, Park Terrace Hotel offers accommodations in Midtown Manhattan, steps from Bryant Park and the New York Public Library.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7524940,-73.9831080&size=1600x1200&sensor=false&markers=color:blue%7c40.7524940,-73.9831080&zoom=15&client=gme-booking&channel=booking-frontend&signature=xgIKeqzm8adfUcuu7DOoCaQDUiA=",
+        "name": "Park Terrace Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3295 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/park-terrace.en-gb.html",
+        "aggregateRating": {
+            "ratingValue": 8.7,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 3485
+        }
+    }
+]

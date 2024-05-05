@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10016",
+            "addressLocality": "420 Park Avenue South",
+            "@type": "PostalAddress",
+            "streetAddress": "420 Park Avenue South, NoMad, New York, NY 10016, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3274 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/382679214.jpg?k=e1242932617567f7721391090236e5f54f4a26a110340ff11b002eabe420df20&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7438705,-73.9839365&markers=color:blue%7c40.7438705,-73.9839365&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=m7G-HY7gS27j0EtSPMgdN5MGm94=",
+        "name": "Royalton Park Avenue",
+        "description": "This Manhattan urban resort is located in NoMad, 350 metres from Madison Square Park. There is an on-site spa and free WiFi access.",
+        "url": "https://www.booking.com/hotel/us/royalton-park-avenue-nyc.en-gb.html",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3,
+            "reviewCount": 1842
+        }
+    }
+]

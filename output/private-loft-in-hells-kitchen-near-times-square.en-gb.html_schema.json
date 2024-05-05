@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 8.0,
+            "reviewCount": 3,
+            "bestRating": 10
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/531802754.jpg?k=2fcd19931be7c54ca1d327e2bde48e71a3c937cabc2621085a06d9e0b678b8e0&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3450 per night (We Price Match)",
+        "description": "In the centre of New York, located within a short distance of Broadway Theatre and Carnegie Hall, Private Loft in Hells Kitchen near Times Square offers...",
+        "address": {
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "426 West 52nd Street",
+            "postalCode": "NY 10019",
+            "streetAddress": "426 West 52nd Street, Hell's Kitchen, New York, NY 10019, United States"
+        },
+        "name": "Private Loft in Hells Kitchen near Times Square",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7647721,-73.9880267&markers=color:blue%7c40.7647721,-73.9880267&size=1600x1200&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=9Lb-OZkfNvnO5dBYOQsqkdkeLko=",
+        "url": "https://www.booking.com/hotel/us/private-loft-in-hells-kitchen-near-times-square.en-gb.html"
+    }
+]

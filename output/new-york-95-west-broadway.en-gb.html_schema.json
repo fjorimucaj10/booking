@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540013951.jpg?k=afa1d71af0021eb4330186437ff81f454ce6021d22ff5f00dd61f468af287369&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3192 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 2187,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "ratingValue": 8.0
+        },
+        "address": {
+            "addressLocality": "95 West Broadway",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "95 West Broadway, Tribeca, New York, NY 10007, United States",
+            "postalCode": "NY 10007"
+        },
+        "@type": "Hotel",
+        "description": "Just 500 metres from New York City Hall and its park, The Frederick hotel is located in lower downtown Manhattan.",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7156625,-74.0089190&size=1600x1200&center=40.7156625,-74.0089190&sensor=false&client=gme-booking&channel=booking-frontend&signature=cJ2PihJsyDSkkk8BPByRllU0s1U=",
+        "name": "The Frederick Hotel Tribeca",
+        "url": "https://www.booking.com/hotel/us/new-york-95-west-broadway.en-gb.html"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Spacious & Stylish 4 Bedrooms Apt is situated in the Upper West Side district of New York, 800 metres from Central Park, 500 metres from Lincoln Center and...",
+        "priceRange": "Prices for upcoming dates start at \u00a31,737 per night (We Price Match)",
+        "name": "Spacious & Stylish 4 Bedrooms Apt",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498211267.jpg?k=f0564ce4860828b8562271700c4c452bb22340ceb527e808f780b9c8e7527ef1&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "12 Central Park West, Upper West Side, New York, NY 10023, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10023",
+            "addressRegion": "New York State",
+            "addressLocality": "12 Central Park West"
+        },
+        "url": "https://www.booking.com/hotel/us/spacious-amp-stylish-4-bedrooms-apt.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7689742,-73.9815252&markers=color:blue%7c40.7689742,-73.9815252&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=vRRxRTHewo0ObVxCI8yZ9vL0F6M=",
+        "@type": "Hotel"
+    }
+]

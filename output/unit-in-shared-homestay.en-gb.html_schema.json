@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534624666.jpg?k=9d70d111ffd01a8f6c4661d139beba3e3c2625668b5795b173bbc1d5407801d0&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.8171787,-73.9445583&center=40.8171787,-73.9445583&zoom=15&client=gme-booking&channel=booking-frontend&signature=5GZfaRSGZKr1jGAYcK7ISasaRwc=",
+        "name": "Large Room in Charming Townhouse",
+        "url": "https://www.booking.com/hotel/us/unit-in-shared-homestay.en-gb.html",
+        "description": "Located in New York, 3 km from Yankee Stadium and 3.4 km from Columbia University, Large Room in Charming Townhouse offers free bikes and air conditioning.",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "242 West 137th Street, Harlem, New York, NY 10030, United States",
+            "addressLocality": "242 West 137th Street",
+            "postalCode": "NY 10030",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3222 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 9.0,
+            "reviewCount": 7,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "@type": "Hotel"
+    }
+]

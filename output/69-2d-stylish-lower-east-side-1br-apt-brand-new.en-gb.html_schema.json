@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3429 per night (We Price Match)",
+        "description": "69-2D Stylish Lower East Side 1BR Apt BRAND NEW is located in the Lower East Side district of New York, 1.8 km from NYU - New York University, 3.",
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "69 Clinton Street, Lower East Side, New York, 10002, United States",
+            "addressLocality": "69 Clinton Street",
+            "postalCode": "10002"
+        },
+        "name": "69-2D Stylish Lower East Side 1BR Apt BRAND NEW",
+        "url": "https://www.booking.com/hotel/us/69-2d-stylish-lower-east-side-1br-apt-brand-new.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411073732.jpg?k=dda1dc51c7a974d61be15b36e5c7ff7f3a1425793e6a9d5355a585999d662c8f&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7193634,-73.9851120&zoom=15&center=40.7193634,-73.9851120&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=qy1Pt9Leg-RXFoOmhTGlobiN2ek="
+    }
+]

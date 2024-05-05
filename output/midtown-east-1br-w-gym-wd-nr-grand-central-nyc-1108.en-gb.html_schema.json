@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/midtown-east-1br-w-gym-wd-nr-grand-central-nyc-1108.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/452632685.jpg?k=345fad96bc53ca57f437b52048e3d485444905b10feff5699780cd40980e16e4&o=&hp=1",
+        "@context": "http://schema.org",
+        "description": "Located in a central area of New York, 600 metres from Chrysler Building, Midtown East 1br w gym wd nr Grand Central NYC-1108 provides air-conditioned...",
+        "@type": "Hotel",
+        "name": "Midtown East 1br w gym wd nr Grand Central NYC-1108",
+        "priceRange": null,
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "Midtown East, New York, 10017, United States",
+            "postalCode": "10017",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7546590,-73.9721295&sensor=false&markers=color:blue%7c40.7546590,-73.9721295&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=OB8s8esPhoq5og5O-JiDO5EYzKY="
+    }
+]

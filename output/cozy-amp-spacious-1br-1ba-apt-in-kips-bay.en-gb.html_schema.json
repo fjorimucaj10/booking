@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Cozy & Spacious 1BR/1BA Apt in Kips Bay!",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7453816,-73.9816972&center=40.7453816,-73.9816972&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=DCjKkTYbCEHTSi98qw4i5oUHGr8=",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "description": "Located in New York, less than 1 km from Chrysler Building and a 10-minute walk from Grand Central Station, Cozy & Spacious 1BR/1BA Apt in Kips Bay!",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/cozy-amp-spacious-1br-1ba-apt-in-kips-bay.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542551890.jpg?k=b045e874d344ee90fa976a8cb4feb5d7577f4e3546766d85263f26b6c07ef6f8&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10016",
+            "streetAddress": "112 East 32nd Street, New York, NY 10016, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "112 East 32nd Street",
+            "addressCountry": "USA"
+        }
+    }
+]

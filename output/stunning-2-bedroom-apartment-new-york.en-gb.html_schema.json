@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10022",
+            "@type": "PostalAddress",
+            "addressLocality": "132 East 57th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "132 East 57th Street, Midtown East, New York, NY 10022, United States"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502215761.jpg?k=7488cc112724fb6d69a0b30d1bbb3ecaf27131a2f6076cb0fc08101f204b8298&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7606286,-73.9692369&size=1600x1200&zoom=15&sensor=false&center=40.7606286,-73.9692369&client=gme-booking&channel=booking-frontend&signature=25yyC23cOqQlv2QohP5MZVRtNUo=",
+        "url": "https://www.booking.com/hotel/us/stunning-2-bedroom-apartment-new-york.en-gb.html",
+        "name": "Stunning 2 Bedroom Apartment",
+        "description": "Set in the heart of New York, less than 1 km from St Patrick's Cathedral, Stunning 2 Bedroom Apartment offers air-conditioned accommodation with free WiFi...",
+        "priceRange": "Prices for upcoming dates start at \u00a3657 per night (We Price Match)"
+    }
+]

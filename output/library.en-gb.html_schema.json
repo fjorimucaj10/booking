@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Located within 2 minutes\u2019 walk of Bryant Park and Grand Central Terminal, this boutique Midtown hotel offers Wi-Fi, and a library.",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/58484142.jpg?k=173c9477ab5244919956a23c66c3e564384a5ce683a9a34873de8b85ab27e04e&o=&hp=1",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "299 Madison Avenue, Murray Hill, New York, NY 10017, United States",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "addressLocality": "299 Madison Avenue",
+            "addressCountry": "USA"
+        },
+        "url": "https://www.booking.com/hotel/us/library.en-gb.html",
+        "name": "Library Hotel by Library Hotel Collection",
+        "aggregateRating": {
+            "ratingValue": 8.8,
+            "@type": "AggregateRating",
+            "reviewCount": 290,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&center=40.7521113,-73.9795732&markers=color:blue%7c40.7521113,-73.9795732&sensor=false&client=gme-booking&channel=booking-frontend&signature=BDenf4-QXIFWdpTI5xffLtqdmAQ=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3269 per night (We Price Match)"
+    }
+]

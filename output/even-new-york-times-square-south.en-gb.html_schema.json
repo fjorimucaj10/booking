@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/234176115.jpg?k=9f46c5dc8793f4f2361fca5a7bbb6d7eb9cc389af80cbf504694dfa6f503561c&o=&hp=1",
+        "description": "EVEN Hotel New York - Times Square South, an IHG Hotel South offers accommodation in New York, 1.1 km from Times Square. Free WiFi access is offered.",
+        "url": "https://www.booking.com/hotel/us/even-new-york-times-square-south.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&center=40.7532880,-73.9940100&markers=color:blue%7c40.7532880,-73.9940100&client=gme-booking&channel=booking-frontend&signature=3elYlj_sUhplNZd8fWOGOV3272o=",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 554,
+            "ratingValue": 8.5
+        },
+        "name": "EVEN Hotel New York - Times Square South, an IHG Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State",
+            "addressLocality": "321 West 35th Street",
+            "streetAddress": "321 West 35th Street, Hell's Kitchen, New York, NY 10001, United States"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3222 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

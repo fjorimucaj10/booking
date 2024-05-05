@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "reviewCount": 10450,
+            "bestRating": 10,
+            "ratingValue": 8.4,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3226 per night (We Price Match)",
+        "name": "M Social Hotel Times Square New York",
+        "description": "Situated in the district of Manhattan, 322 metres from Times Square, this hotel features a fitness centre and offers free WiFi.",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "NY 10019",
+            "addressLocality": "226 West 52nd Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "226 West 52nd Street, New York, NY 10019, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7628002,-73.9836556&markers=color:blue%7c40.7628002,-73.9836556&zoom=15&client=gme-booking&channel=booking-frontend&signature=rkoZaG5smxAL-z-Tv1k-pVGT6ro=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/321266616.jpg?k=2d9283fb0aad579b3d2f20450e1753b4ff3438cc62c7ecdc9cbd39f2f1ea03cd&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/new-york-times-square.en-gb.html",
+        "@type": "Hotel"
+    }
+]

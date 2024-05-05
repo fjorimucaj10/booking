@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3488 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7660428,-73.9570781&sensor=false&zoom=15&center=40.7660428,-73.9570781&client=gme-booking&channel=booking-frontend&signature=G8_0br_klIp_aVrvyH9p4DWykWQ=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500704723.jpg?k=ad844feedc7f3a9137864123a0c9e0370b6fb6c3f002e77c978554b64ac140b6&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/1290-8-new-renovated-2-bedrooms-in-ues.en-gb.html",
+        "description": "1290-8 New Renovated 2 Bedrooms in UES is situated in the Upper East Side district of New York, 2.3 km from Metropolitan Museum of Art, 3.",
+        "name": "1290-8 New Renovated 2 Bedrooms in UES",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "1st Avenue 1290, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021",
+            "@type": "PostalAddress",
+            "addressLocality": "1st Avenue 1290"
+        },
+        "@context": "http://schema.org"
+    }
+]

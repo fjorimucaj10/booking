@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/136810045.jpg?k=a8db9b601a99027bda567f9395ed8b6901b5957f758ab1ccfed059f0d485dff7&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/langham-new-york-fifth-avenue.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 443,
+            "bestRating": 10,
+            "ratingValue": 9.2,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7501922,-73.9836341&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7501922,-73.9836341&client=gme-booking&channel=booking-frontend&signature=ky56cTVUFjjv7zVK4CSeKprf4zQ=",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3670 per night (We Price Match)",
+        "@type": "Hotel",
+        "name": "The Langham, New York, Fifth Avenue",
+        "description": "Located in Midtown Manhattan, between Bryant Park and the Empire State Building, this hotel offers rooms with iPod docking stations.",
+        "address": {
+            "postalCode": "NY 10018",
+            "streetAddress": "400 Fifth Avenue, New York, NY 10018, United States",
+            "addressLocality": "400 Fifth Avenue",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        }
+    }
+]

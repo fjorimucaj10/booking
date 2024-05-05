@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7466060,-73.9887910&size=1600x1200&center=40.7466060,-73.9887910&zoom=15&client=gme-booking&channel=booking-frontend&signature=EFlcHDal4j2wk1E47blEHDCgahs=",
+        "name": "Virgin Hotels New York City",
+        "aggregateRating": {
+            "ratingValue": 8.4,
+            "reviewCount": 904,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "description": "Virgin Hotels New York City features a seasonal outdoor swimming pool, fitness centre, a garden and terrace in New York.",
+        "address": {
+            "addressLocality": "1227 Broadway",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "streetAddress": "1227 Broadway, NoMad, New York, NY 10001, United States",
+            "addressRegion": "New York State"
+        },
+        "url": "https://www.booking.com/hotel/us/virgin-hotels-new-york-city.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/445266524.jpg?k=1d606b0b7a87b1e20e479a4e3bbefc2420e21d37d8930ed86de3d504df8e7cbd&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3215 per night (We Price Match)",
+        "@type": "Hotel"
+    }
+]

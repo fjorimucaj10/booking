@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/486143900.jpg?k=1dc6b3c056bf97235eb2fff6583c9efcf5fc9c4853df42f6da18cd2bd4d4a629&o=&hp=1",
+        "name": "The St. Regis New York",
+        "description": "With two onsite dining options, The St. Regis New York offers guests exclusive dining experiences. Rooms offer 24-hour butler service.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/st-regis-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.8,
+            "reviewCount": 140
+        },
+        "address": {
+            "postalCode": "NY 10022",
+            "addressCountry": "USA",
+            "addressLocality": "Two East 55th Street at Fifth Avenue",
+            "streetAddress": "Two East 55th Street at Fifth Avenue, Midtown East, New York, NY 10022, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3944 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7614086,-73.9743939&sensor=false&zoom=15&markers=color:blue%7c40.7614086,-73.9743939&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=5jLMVowgK7Kg8BC_MxFUStZSCgo="
+    }
+]

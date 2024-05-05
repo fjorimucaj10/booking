@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "10024",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": ""
+        },
+        "@context": "http://schema.org",
+        "description": "Blueground UWS gym elev near Riverside Park NYC-1474 is located in the Upper West Side district of New York, 2.2 km from Metropolitan Museum of Art, 2.",
+        "priceRange": null,
+        "name": "Blueground UWS gym elev near Riverside Park NYC-1474",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7911888,-73.9737101&zoom=15&size=1600x1200&center=40.7911888,-73.9737101&sensor=false&client=gme-booking&channel=booking-frontend&signature=T4Y94UIMQnMjjc40UanTm2AVrBw=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551043339.jpg?k=9f115c40d15a888c617781bca3035a370361cb986664bf3d87bdb7f8ae45f755&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/blueground-uws-gym-elev-near-riverside-park-nyc-1474.en-gb.html",
+        "@type": "Hotel"
+    }
+]

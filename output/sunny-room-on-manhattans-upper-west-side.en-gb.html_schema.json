@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Sunny room on Manhattan\u2019s Upper west side is set in the Upper West Side district of New York, 3.1 km from Metropolitan Museum of Art, 3.",
+        "@context": "http://schema.org",
+        "name": "Sunny room on Manhattan\u2019s Upper west side",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "NY 10025",
+            "addressRegion": "New York State",
+            "addressLocality": "71 West 107th Street",
+            "streetAddress": "71 West 107th Street, Upper West Side, New York, NY 10025, United States",
+            "@type": "PostalAddress"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536056370.jpg?k=e568e5644ce3390900389cdcce7e84d336fc8eb81cbb493b91e2085a431054a7&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7998910,-73.9619965&zoom=15&markers=color:blue%7c40.7998910,-73.9619965&sensor=false&client=gme-booking&channel=booking-frontend&signature=hMTFgDLgi0iT683MwCaSxAUCF_8=",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/sunny-room-on-manhattans-upper-west-side.en-gb.html",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "reviewCount": 5570,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "name": "Courtyard by Marriott New York Manhattan/Central Park",
+        "url": "https://www.booking.com/hotel/us/courtyard-by-marriott-new-york-manhattan-central-park.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3181 per night (We Price Match)",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "1717 Broadway, New York, NY 10019, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "1717 Broadway",
+            "postalCode": "NY 10019",
+            "addressCountry": "USA"
+        },
+        "description": "Offering a fitness centre and free WiFi, Courtyard by Marriott New York Manhattan/Central Park is located 966 metres from from Rockefeller Center, 644...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7642212,-73.9828053&size=1600x1200&center=40.7642212,-73.9828053&client=gme-booking&channel=booking-frontend&signature=O5li2hSCH8WGTjf-xAgd5K82fyk=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/453329889.jpg?k=6043965e5f8d66ba9ddd4aa94a560273b4849334cff4b6bca2784c229997b7c6&o=&hp=1"
+    }
+]

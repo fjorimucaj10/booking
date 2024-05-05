@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.6,
+            "reviewCount": 3548
+        },
+        "address": {
+            "streetAddress": "305 West 48th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "addressLocality": "305 West 48th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10036",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7614300,-73.9874510&size=1600x1200&zoom=15&sensor=false&markers=color:blue%7c40.7614300,-73.9874510&client=gme-booking&channel=booking-frontend&signature=0r3XyUVfWl_Leknrm1NrGM2PcF4=",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3231 per night (We Price Match)",
+        "name": "CIVILIAN Hotel",
+        "description": "Boasting a terrace, a restaurant as well as a bar, CIVILIAN Hotel is situated in the centre of New York, 800 metres from Radio City Music Hall.",
+        "url": "https://www.booking.com/hotel/us/civilian-nyc.en-gb.html",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/320920932.jpg?k=0eac51b914cca17d067a5442459133cbded4d239f178ca304917ac38c2599f5a&o=&hp=1"
+    }
+]

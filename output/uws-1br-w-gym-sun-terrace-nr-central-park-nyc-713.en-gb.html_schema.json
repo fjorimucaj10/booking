@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10024",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/uws-1br-w-gym-sun-terrace-nr-central-park-nyc-713.en-gb.html",
+        "name": "UWS 1br w gym sun terrace nr Central Park NYC-713",
+        "description": "UWS 1br w gym sun terrace nr Central Park NYC-713 is situated in the Upper West Side district of New York, 2.1 km from Strawberry Fields, 2.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/551042654.jpg?k=b77e94aeb71dea94a72131fca5353eb924752c0b6abc2d92d3dec30fa6f42762&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7898550,-73.9731420&size=1600x1200&sensor=false&center=40.7898550,-73.9731420&client=gme-booking&channel=booking-frontend&signature=xcjUP3GnXrPYtdo9V_ZFbes7I7Y=",
+        "priceRange": null
+    }
+]

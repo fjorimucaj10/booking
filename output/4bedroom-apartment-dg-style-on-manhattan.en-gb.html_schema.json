@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10030",
+            "streetAddress": "137 West 141st Street, Harlem, New York, NY 10030, United States",
+            "addressLocality": "137 West 141st Street",
+            "@type": "PostalAddress"
+        },
+        "description": "Situated in New York, 2.4 km from Yankee Stadium and 3.",
+        "name": "studio in NY request reservation Inst\u0430 aptny24",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 6.0,
+            "bestRating": 10,
+            "reviewCount": 1,
+            "@type": "AggregateRating"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3234 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/547422559.jpg?k=36ee229ff0334a659ceaad7022fa1fe06ffacca3e7567ffe58156fc181f21236&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&center=40.8189743,-73.9400464&zoom=15&markers=color:blue%7c40.8189743,-73.9400464&client=gme-booking&channel=booking-frontend&signature=IECRzhynLREpaSuWv1CBxpFBYw0=",
+        "url": "https://www.booking.com/hotel/us/4bedroom-apartment-dg-style-on-manhattan.en-gb.html"
+    }
+]

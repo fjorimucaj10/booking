@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Set in the heart of New York, less than 1 km from Penn Station, Beautiful Bedroom Suite in Manhattan offers air-conditioned accommodation with free WiFi...",
+        "priceRange": "Prices for upcoming dates start at \u00a3733 per night (We Price Match)",
+        "address": {
+            "streetAddress": "31 Hudson Yards, Hudson Yards, New York, NY 10001, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "31 Hudson Yards",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10001"
+        },
+        "name": "Beautiful Bedroom Suite in Manhattan",
+        "url": "https://www.booking.com/hotel/us/beautiful-bedroom-suite-in-manhattan.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7549390,-74.0022946&sensor=false&markers=color:blue%7c40.7549390,-74.0022946&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Mh6fSZLx6VIG3BbI9XkZqDsrds4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498046123.jpg?k=f2a1609b27b0be93eebe2d06edc9078dabc3b2e57ffdcd4dc75028d8e66a5ab6&o=&hp=1",
+        "@type": "Hotel"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3168 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "ratingValue": 7.4,
+            "reviewCount": 1316,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressLocality": "154 Madison Street",
+            "addressRegion": "New York State",
+            "streetAddress": "154 Madison Street, Lower East Side, New York, NY 10002, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/148760553.jpg?k=5ae5216b33b2ae3599ea720e423d5f5b8b72a232be31d6036e7d2daac5a9c0a3&o=&hp=1",
+        "name": "Madison LES Hotel",
+        "url": "https://www.booking.com/hotel/us/madison-les.en-gb.html",
+        "description": "Madison LES is located in the Lower East Side Manhattan, within 2 km of the Brooklyn Bridge, World Trade Center and SoHo.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7122140,-73.9926940&zoom=15&sensor=false&center=40.7122140,-73.9926940&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=IwFsmovO7sSLi7wrNkS5cVC0CJ4="
+    }
+]

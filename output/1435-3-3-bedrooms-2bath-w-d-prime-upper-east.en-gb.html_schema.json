@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Situated in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 1435-3-3 Bedrooms 2Bath W D Prime Upper east offers air...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503703465.jpg?k=ca049bbf70e86f9c87e83d67918c243beb0429515316a971b1f3cdc4e4907e9c&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/1435-3-3-bedrooms-2bath-w-d-prime-upper-east.en-gb.html",
+        "address": {
+            "streetAddress": "1435 2nd Avenue, Upper East Side, New York, 10021, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "1435 2nd Avenue",
+            "postalCode": "10021"
+        },
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "priceRange": null,
+        "name": "1435-3-3 Bedrooms 2Bath W D Prime Upper east",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&size=1600x1200&center=40.7706801,-73.9573166&markers=color:blue%7c40.7706801,-73.9573166&client=gme-booking&channel=booking-frontend&signature=yEhGKnzayzoAgbAjpO26Aus0uWo="
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 376,
+            "ratingValue": 8.9
+        },
+        "description": "Equinox Hotels was created for those who rest and play as hard as they work.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/348980902.jpg?k=ae0dc63eaacf579d076f66a691a3827918d3ae07abd782fc5a1effc311c552cf&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "33 Hudson Yards, Hudson Yards, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "addressLocality": "33 Hudson Yards"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7545604,-74.0024112&sensor=false&size=1600x1200&zoom=15&center=40.7545604,-74.0024112&client=gme-booking&channel=booking-frontend&signature=YDk_CUF34_Er2YFAfwcf5I7Waxk=",
+        "name": "Equinox Hotel Hudson Yards New York City",
+        "priceRange": "Prices for upcoming dates start at \u00a3864 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/equinox-hudson-yards.en-gb.html"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Set in New York, 1.9 km from Bloomingdales and 1.4 km from Flatiron Building, 1 Bedroom Apartment East Village Union Square offers air conditioning.",
+        "name": "1 Bedroom Apartment East Village Union Square",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7314228,-73.9842781&sensor=false&size=1600x1200&center=40.7314228,-73.9842781&client=gme-booking&channel=booking-frontend&signature=weE_pg5SGSVL3Sm1k5Sd6DIOO54=",
+        "url": "https://www.booking.com/hotel/us/1-bedroom-apartment-east-village-union-square-new-york.en-gb.html",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 10.0,
+            "reviewCount": 1
+        },
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540704660.jpg?k=9bf369daef6d334d8568acae02c9683d4a646f1fc36238dab52dfe80f9b87ba6&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10003",
+            "addressLocality": "307 East 14th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "307 East 14th Street, East Village, New York, NY 10003, United States"
+        },
+        "@context": "http://schema.org"
+    }
+]

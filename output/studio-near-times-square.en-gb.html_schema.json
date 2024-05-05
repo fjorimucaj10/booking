@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/studio-near-times-square.en-gb.html",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "ratingValue": 10.0
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7656652,-73.9832325&zoom=15&markers=color:blue%7c40.7656652,-73.9832325&client=gme-booking&channel=booking-frontend&signature=4qOUkLt_eCidyKmH8HTat_dT3nE=",
+        "name": "Studio near Times Square",
+        "priceRange": "Prices for upcoming dates start at \u00a3247 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/532849572.jpg?k=0bd323b1c7aa3f6236738d4fd40e8dfb57819b7bff2f892c1e2fb11e3ee9ffd8&o=&hp=1",
+        "description": "Set in the heart of New York, 400 metres from Broadway Theatre, Studio near Times Square offers air-conditioned accommodation with free WiFi and a...",
+        "address": {
+            "postalCode": "NY 10019",
+            "addressCountry": "USA",
+            "streetAddress": "940 8th Avenue, New York, NY 10019, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "940 8th Avenue",
+            "addressRegion": "New York State"
+        }
+    }
+]

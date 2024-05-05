@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3828 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "679 Greenwich Street, Greenwich Village, New York, 10014, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "10014",
+            "addressLocality": "679 Greenwich Street",
+            "@type": "PostalAddress"
+        },
+        "description": "139-2W Prime west village Furnished 2BR Best value is set in the Greenwich Village district of New York, 1.6 km from Bloomingdales, 1.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7330322,-74.0072556&sensor=false&center=40.7330322,-74.0072556&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=zGBw4eMdD4VI3l_obXNN8vEwCYE=",
+        "name": "139-2W Prime west village Furnished 2BR Best value",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/521458948.jpg?k=12e284f4145967570db911f9d24169e02acd7868fda9bc35f04a512a39c1bf56&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/139-2w-prime-west-village-furnished-2br-best-value.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

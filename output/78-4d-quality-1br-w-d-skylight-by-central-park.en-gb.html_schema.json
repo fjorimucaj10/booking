@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3438 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/78-4d-quality-1br-w-d-skylight-by-central-park.en-gb.html",
+        "@context": "http://schema.org",
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-4D Quality 1br W&D SKYLIGHT By Central Park offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411337519.jpg?k=1cbff1aba9a7fcfec528f116d34ab66a1f45e05c9ace4973d51ab29acbe7eaa4&o=&hp=1",
+        "name": "78-4D Quality 1br W&D SKYLIGHT By Central Park",
+        "address": {
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "postalCode": "10075",
+            "addressRegion": "New York State",
+            "addressLocality": "315 East 78th Street",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7724266,-73.9545517&zoom=15&size=1600x1200&markers=color:blue%7c40.7724266,-73.9545517&sensor=false&client=gme-booking&channel=booking-frontend&signature=i22hgRuXaqjhE1aoal_nhlCfNlY="
+    }
+]

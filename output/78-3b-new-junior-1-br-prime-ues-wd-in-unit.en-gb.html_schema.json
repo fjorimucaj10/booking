@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/443064073.jpg?k=1b69a0d5c3385c1427f124c8c4eed55a5ba1b555bdda387b1f327585987a4cac&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/78-3b-new-junior-1-br-prime-ues-wd-in-unit.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3373 per night (We Price Match)",
+        "description": "Set in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-3B New Junior 1 BR Prime UES WD in unit offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7724266,-73.9545517&sensor=false&center=40.7724266,-73.9545517&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=pQ7kJnEUQ8pKJJYfKHzGMaP4YwQ=",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "postalCode": "10075",
+            "addressRegion": "New York State",
+            "addressLocality": "315 East 78th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States"
+        },
+        "@context": "http://schema.org",
+        "name": "78-3B New Junior 1 BR Prime UES WD in unit"
+    }
+]

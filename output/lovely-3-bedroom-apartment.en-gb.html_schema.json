@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10036",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "574 10th Avenue",
+            "streetAddress": "574 10th Avenue, Hell's Kitchen, New York, NY 10036, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/lovely-3-bedroom-apartment.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7594937,-73.9952132&markers=color:blue%7c40.7594937,-73.9952132&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=hjhs4ed4N5ENRu3toRh0gSo4Co0=",
+        "name": "Lovely 3 Bedroom Apartment",
+        "description": "Situated right in the heart of New York, less than 1 km from Jacob K.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/498321086.jpg?k=8b79f980cd73d823230e60564ff63e1bcc42f2b2dd780c8ff6bdef7cf80fd5e1&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3916 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "@type": "Hotel"
+    }
+]

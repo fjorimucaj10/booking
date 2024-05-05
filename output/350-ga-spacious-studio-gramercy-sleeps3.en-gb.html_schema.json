@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 1.2 km from Flatiron Building and 2.2 km from Empire State Building, 350-GA Spacious Studio Gramercy Sleeps3 offers air conditioning.",
+        "priceRange": "Prices for upcoming dates start at \u00a3344 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/350-ga-spacious-studio-gramercy-sleeps3.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7344856,-73.9810257&markers=color:blue%7c40.7344856,-73.9810257&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=zVLNaBX-8mCiqqgmdWIpZdz2GHw=",
+        "address": {
+            "postalCode": "10003",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "350 East 19th Street",
+            "streetAddress": "350 East 19th Street, Gramercy, New York, 10003, United States",
+            "@type": "PostalAddress"
+        },
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/503708935.jpg?k=ab22aca55e8d220814661ca23606b1c669285423ce1003277371afa3b9b3d5de&o=&hp=1",
+        "name": "350-GA Spacious Studio Gramercy Sleeps3",
+        "@context": "http://schema.org"
+    }
+]

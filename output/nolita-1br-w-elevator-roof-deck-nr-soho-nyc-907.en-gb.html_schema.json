@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/520990037.jpg?k=13e1ea7ae8c90ac458a07bcbc351b8ec76d241e487e074940a1be19108feedcd&o=&hp=1",
+        "name": "Nolita 1BR w Elevator Roof Deck nr SoHo NYC-907",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7188684,-73.9977175&sensor=false&markers=color:blue%7c40.7188684,-73.9977175&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=TznwznVEY36NtcF-Vx2gmcX-Hbw=",
+        "description": "Nolita 1BR w Elevator Roof Deck nr SoHo NYC-907 is set in the Little Italy district of New York, 2 km from One World Trade Center, 2.",
+        "address": {
+            "postalCode": "10013",
+            "streetAddress": "Little Italy, New York, 10013, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/nolita-1br-w-elevator-roof-deck-nr-soho-nyc-907.en-gb.html"
+    }
+]

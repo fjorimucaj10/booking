@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/497979734.jpg?k=a5b6f7a6270b6abd757771e118f76ca120aef6b42088610c8bc07fa0f04f6765&o=&hp=1",
+        "name": "The Urban Retreat 3BR Apartment in NYC!",
+        "@context": "http://schema.org",
+        "description": "Situated right in the centre of New York, 800 metres from Chrysler Building, The Urban Retreat 3BR Apartment in NYC!",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/the-urban-retreat-3br-apartment-in-nyc.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&markers=color:blue%7c40.7501311,-73.9688712&center=40.7501311,-73.9688712&zoom=15&client=gme-booking&channel=booking-frontend&signature=aBNVfz_mDpuNxEtjiGuHTgGLLHg=",
+        "address": {
+            "addressLocality": "787 1st Avenue",
+            "postalCode": "NY 10017",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "787 1st Avenue, Midtown East, New York, NY 10017, United States",
+            "addressCountry": "USA"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3817 per night (We Price Match)"
+    }
+]

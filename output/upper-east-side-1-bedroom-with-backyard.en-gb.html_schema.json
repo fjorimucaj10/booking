@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/upper-east-side-1-bedroom-with-backyard.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7755090,-73.9527870&sensor=false&size=1600x1200&zoom=15&markers=color:blue%7c40.7755090,-73.9527870&client=gme-booking&channel=booking-frontend&signature=IC5jJtRPblIcqccMRcIwo7UzQYE=",
+        "address": {
+            "streetAddress": "304 East 83rd Street 1C, Upper East Side, New York, NY 10028, United States",
+            "postalCode": "NY 10028",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "304 East 83rd Street 1C"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3179 per night (We Price Match)",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 1,
+            "@type": "AggregateRating",
+            "ratingValue": 10.0,
+            "bestRating": 10
+        },
+        "description": "Situated in New York, 2.7 km from Central Park and 2.9 km from Strawberry Fields, Upper East Side 1 bedroom offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545500563.jpg?k=89f360e37e6b275434df700d38e29c80d5544c26d90e24de4ed808767c38415a&o=&hp=1",
+        "name": "Upper East Side 1 bedroom",
+        "@context": "http://schema.org"
+    }
+]

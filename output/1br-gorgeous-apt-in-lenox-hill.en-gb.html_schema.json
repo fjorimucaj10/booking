@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542547602.jpg?k=05134cf8e1a2c9a83ad034150b372cd2d67e0df9a506c2bf45f04641d243b83e&o=&hp=1",
+        "address": {
+            "streetAddress": "43 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressLocality": "43 East 76th Street",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10021",
+            "addressCountry": "USA",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/1br-gorgeous-apt-in-lenox-hill.en-gb.html",
+        "name": "1BR Gorgeous Apt in Lenox Hill!",
+        "description": "Located in New York, 1.4 km from Central Park and 2.4 km from St Patrick's Cathedral, 1BR Gorgeous Apt in Lenox Hill! offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7743360,-73.9629438&size=1600x1200&zoom=15&sensor=false&center=40.7743360,-73.9629438&client=gme-booking&channel=booking-frontend&signature=OB7webwRbteFG-BiDHoatSQA2Z4=",
+        "@type": "Hotel",
+        "@context": "http://schema.org"
+    }
+]

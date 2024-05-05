@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "NY 10038",
+            "addressLocality": "49-53 Ann Street",
+            "@type": "PostalAddress",
+            "streetAddress": "49-53 Ann Street, New York, NY 10038, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7102940,-74.0067350&markers=color:blue%7c40.7102940,-74.0067350&size=1600x1200&sensor=false&client=gme-booking&channel=booking-frontend&signature=lfsUDtaBOtoWe5GSVOS7lABrd_Q=",
+        "url": "https://www.booking.com/hotel/us/aloft-manhattan-downtown-financial-district.en-gb.html",
+        "name": "Aloft Manhattan Downtown - Financial District",
+        "@context": "http://schema.org",
+        "description": "Located in the Financial District, Aloft Manhattan Downtown is 645 metres from Wall Street and the 9/11 Memorial.",
+        "priceRange": "Prices for upcoming dates start at \u00a3121 per night (We Price Match)",
+        "aggregateRating": {
+            "reviewCount": 1187,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 7.4
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/461624091.jpg?k=7b902f12a041b435eb55dfc35ce4b451b2be155dac4fde3e7ac7dd5730890e8c&o=&hp=1"
+    }
+]

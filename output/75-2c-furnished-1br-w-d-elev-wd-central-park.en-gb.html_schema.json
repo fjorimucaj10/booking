@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "priceRange": null,
+        "name": "75-2C Furnished 1BR W D Elev WD Central park",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "244 East 75th Street",
+            "addressRegion": "New York State",
+            "streetAddress": "244 East 75th Street, Upper East Side, New York, 10021, United States",
+            "postalCode": "10021",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/75-2c-furnished-1br-w-d-elev-wd-central-park.en-gb.html",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7707911,-73.9575008&center=40.7707911,-73.9575008&zoom=15&client=gme-booking&channel=booking-frontend&signature=W1vr4JufWD8tC_w3lKW196AdnRg=",
+        "description": "Situated in New York, 1.9 km from Central Park and 2.7 km from St Patrick's Cathedral, 75-2C Furnished 1BR W D Elev WD Central park offers air...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/412848847.jpg?k=56e7d0c156ca1df1c8fd4c6c0990bafea962bce145d6745c572192ea439332fd&o=&hp=1"
+    }
+]

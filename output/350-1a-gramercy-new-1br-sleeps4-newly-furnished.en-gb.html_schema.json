@@ -1,0 +1,20 @@
+[
+    {
+        "description": "350-1A Gramercy New 1BR Sleeps4 Newly Furnished is located in the Gramercy district of New York, 2.2 km from Empire State Building, 1.",
+        "address": {
+            "postalCode": "10003",
+            "addressRegion": "New York State",
+            "addressLocality": "350 East 19th Street",
+            "@type": "PostalAddress",
+            "streetAddress": "350 East 19th Street, Gramercy, New York, 10003, United States",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/552443153.jpg?k=74b9443a9e62fd1bbac79c4c6e1ccdae064d3d0588e308b6a5b241953832a8a1&o=&hp=1",
+        "@type": "Hotel",
+        "name": "350-1A Gramercy New 1BR Sleeps4 Newly Furnished",
+        "priceRange": null,
+        "url": "https://www.booking.com/hotel/us/350-1a-gramercy-new-1br-sleeps4-newly-furnished.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7344856,-73.9810257&center=40.7344856,-73.9810257&zoom=15&client=gme-booking&channel=booking-frontend&signature=KVZ8vaGg_tV6Ee1z06C5usDYrl8=",
+        "@context": "http://schema.org"
+    }
+]

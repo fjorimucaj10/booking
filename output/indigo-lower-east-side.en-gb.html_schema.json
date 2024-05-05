@@ -1,0 +1,26 @@
+[
+    {
+        "description": "Hotel Indigo Lower East Side New York features rotating art installations and offers complimentary WiFi. Each room here will provide you with a minibar.",
+        "@type": "Hotel",
+        "name": "Hotel Indigo Lower East Side New York",
+        "address": {
+            "addressCountry": "USA",
+            "streetAddress": "171 Ludlow Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "171 Ludlow Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7217230,-73.9874960&sensor=false&markers=color:blue%7c40.7217230,-73.9874960&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=9IoOOOV1YFGFCIzkPpr98I_q0tY=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/234363376.jpg?k=16320bea01d7ef68a539e9639a2ab37439b2c1ad6bcf9ebc45100fb358a80a41&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/indigo-lower-east-side.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3167 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 7.4,
+            "reviewCount": 663,
+            "@type": "AggregateRating"
+        }
+    }
+]

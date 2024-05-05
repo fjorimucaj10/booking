@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "postalCode": "10128",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "East Harlem, New York, 10128, United States",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "name": "UES 2BR w DM Elevator Gym nr Central Park NYC-919",
+        "description": "UES 2BR w DM Elevator Gym nr Central Park NYC-919 is set in the East Harlem district of New York, 3.6 km from Strawberry Fields, 4.",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/522257340.jpg?k=42ab1d81096b7f26c4ccd66e644bda8e68ea938cad23d3904b9a969b7e19ce82&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/ues-2br-w-dm-elevator-gym-nr-central-park-nyc-919.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&size=1600x1200&center=40.7855906,-73.9495843&markers=color:blue%7c40.7855906,-73.9495843&sensor=false&client=gme-booking&channel=booking-frontend&signature=te4au92Sam0CmwMtwur8qu8NAME=",
+        "@context": "http://schema.org"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/465412615.jpg?k=3ed950e71e28ff1525813f66d83aa07efb1e112811c1d71d56620efc0ffbf824&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/four-points-by-sheraton-manhattan-soho-villege.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3125 per night (We Price Match)",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 7.6,
+            "reviewCount": 906,
+            "bestRating": 10
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7270260,-74.0061456&size=1600x1200&markers=color:blue%7c40.7270260,-74.0061456&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=wDB4_hGu4whCeyfrlSIboQk0iL4=",
+        "name": "Four Points by Sheraton Manhattan SoHo Village",
+        "@type": "Hotel",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "66 Charlton Street",
+            "postalCode": "NY 10014",
+            "addressRegion": "New York State",
+            "streetAddress": "66 Charlton Street, SoHo, New York, NY 10014, United States",
+            "@type": "PostalAddress"
+        },
+        "description": "Four Points by Sheraton Manhattan SoHo Village is just 1 block from the Houston Street Subway Station.",
+        "@context": "http://schema.org"
+    }
+]

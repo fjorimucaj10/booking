@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "postalCode": "NY 10016",
+            "addressRegion": "New York State",
+            "streetAddress": "120 East 39th Street 3, Murray Hill, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "120 East 39th Street 3",
+            "addressCountry": "USA"
+        },
+        "aggregateRating": {
+            "reviewCount": 4,
+            "ratingValue": 9.8,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3408 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/513092130.jpg?k=804510f949a37a1d8a259030c470f54ebb8562244e8bc62d8e4132bda93f995d&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/cozy-place-in-midtown-nyc-new-york.en-gb.html",
+        "name": "Cozy place in midtown NYC",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7496236,-73.9782550&zoom=15&center=40.7496236,-73.9782550&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=eGY_lpvZLAXoHBtEFZtwANuSFNE=",
+        "description": "Right in the heart of New York, situated within a short distance of Grand Central Station and Chrysler Building, Cozy place in midtown NYC offers free..."
+    }
+]

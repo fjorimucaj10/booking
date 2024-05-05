@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&center=40.7212785,-73.9926276&zoom=15&markers=color:blue%7c40.7212785,-73.9926276&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=APglPFY4IcoGvjqLnh9kjxvlCfA=",
+        "url": "https://www.booking.com/hotel/us/off-soho-suites.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3369 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "The Bowery Subway Station is just 1 block from this all-suite New York hotel.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/20739846.jpg?k=6279bed6c121b78becd565864de3cab823333ce97cda536022a102d573bf9970&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10002",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "streetAddress": "11 Rivington Street, Lower East Side, New York, NY 10002, United States",
+            "addressLocality": "11 Rivington Street",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 747
+        },
+        "name": "Off SoHo Suites Hotel"
+    }
+]

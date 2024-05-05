@@ -1,0 +1,26 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/486414179.jpg?k=a0e2176d172866f7ec15370eed00eca2a40a6a7828b67fb81ec654f274fae331&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/tryp-by-wyndham-times-square.en-gb.html",
+        "address": {
+            "addressLocality": "234 West 48th Street",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "streetAddress": "234 West 48th Street, New York, NY 10036, United States",
+            "postalCode": "NY 10036"
+        },
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3219 per night (We Price Match)",
+        "@type": "Hotel",
+        "description": "Offering a restaurant and a fitness centre, The Gallivant Times Square is located in New York.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7606193,-73.9862587&markers=color:blue%7c40.7606193,-73.9862587&zoom=15&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=7S9N_QNaS-bzxXpwUDrB83KMbE8=",
+        "aggregateRating": {
+            "reviewCount": 6417,
+            "@type": "AggregateRating",
+            "ratingValue": 6.2,
+            "bestRating": 10
+        },
+        "name": "The Gallivant Times Square"
+    }
+]

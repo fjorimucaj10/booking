@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Stylish and Cozy 2BD apartment",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "108 Forsyth Street",
+            "postalCode": "10002",
+            "streetAddress": "108 Forsyth Street, Lower East Side, New York, 10002, United States",
+            "@type": "PostalAddress"
+        },
+        "url": "https://www.booking.com/hotel/us/stylish-and-cozy-2bd-apartment.en-gb.html",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7183787,-73.9927067&sensor=false&markers=color:blue%7c40.7183787,-73.9927067&zoom=15&client=gme-booking&channel=booking-frontend&signature=LfCJe_-mGXjAgxPO6B7ljd_qpyo=",
+        "priceRange": "Prices for upcoming dates start at \u00a3260 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/541913788.jpg?k=3361be02896666585ea1733255b3ff57f7cb5c56156bfa98e6e46e2d76e8dfc6&o=&hp=1",
+        "description": "Offering city views, Stylish and Cozy 2BD apartment is an accommodation situated in New York, 1.6 km from NYU - New York University and 2."
+    }
+]

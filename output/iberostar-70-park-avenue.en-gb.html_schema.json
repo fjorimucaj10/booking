@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3179 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/iberostar-70-park-avenue.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/526156752.jpg?k=becf4d0f753949e97ceb326bb49e3edef6ef68b7fcfa8051d396a4cb5051cd83&o=&hp=1",
+        "aggregateRating": {
+            "reviewCount": 1764,
+            "bestRating": 10,
+            "ratingValue": 8.3,
+            "@type": "AggregateRating"
+        },
+        "description": "Picture classic New York architecture and a one-of-a-kind neighborhood with tree-lined streets. 70 Park Avenue Hotel is located in the heart of it all.",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&center=40.7500529,-73.9796864&markers=color:blue%7c40.7500529,-73.9796864&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=FQk7vPpl5cfcnPFjw42dPxKELVc=",
+        "address": {
+            "postalCode": "10016",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "70 Park Avenue",
+            "addressRegion": "New York State",
+            "streetAddress": "70 Park Avenue, Murray Hill, New York, 10016, United States"
+        },
+        "@context": "http://schema.org",
+        "name": "70 Park Avenue Hotel"
+    }
+]

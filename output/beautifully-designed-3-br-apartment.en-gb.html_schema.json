@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Beautifully Designed 3 BR Apartment",
+        "priceRange": "Prices for upcoming dates start at \u00a3840 per night (We Price Match)",
+        "@type": "Hotel",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021",
+            "addressLocality": "53 East 76th Street",
+            "addressCountry": "USA",
+            "streetAddress": "53 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressRegion": "New York State"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&center=40.7742251,-73.9628048&size=1600x1200&sensor=false&markers=color:blue%7c40.7742251,-73.9628048&client=gme-booking&channel=booking-frontend&signature=p-Oww5tQykBMV4zXub31zBQYzMg=",
+        "url": "https://www.booking.com/hotel/us/beautifully-designed-3-br-apartment.en-gb.html",
+        "description": "Set in New York, 1.5 km from Central Park and 2.4 km from St Patrick's Cathedral, Beautifully Designed 3 BR Apartment offers air conditioning.",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/502218125.jpg?k=5b86637e92177b814b3dd28099415f13acc16ecd853006aa54d8f225c78fe9e3&o=&hp=1"
+    }
+]

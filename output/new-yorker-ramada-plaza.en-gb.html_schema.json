@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7526284,-73.9933524&center=40.7526284,-73.9933524&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=sAEpFkIzyFu5QI-FANirqp1XB-c=",
+        "aggregateRating": {
+            "reviewCount": 14813,
+            "ratingValue": 7.7,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "address": {
+            "addressLocality": "481 Eighth Avenue",
+            "streetAddress": "481 Eighth Avenue, Hell's Kitchen, New York, NY 10001 , United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10001 ",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "name": "The New Yorker, A Wyndham Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/83778539.jpg?k=6c3a6f5219ea4d2f89eca9a39bd501dbb4115146a45e200b5d927ceee0bd5e5d&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3211 per night (We Price Match)",
+        "description": "This Art-Deco inspired high-rise hotel offers a midtown location and 24-hour dining.",
+        "url": "https://www.booking.com/hotel/us/new-yorker-ramada-plaza.en-gb.html"
+    }
+]

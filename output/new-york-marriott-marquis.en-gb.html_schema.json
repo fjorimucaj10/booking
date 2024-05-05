@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 8.2,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 2781
+        },
+        "address": {
+            "postalCode": "NY 10036",
+            "streetAddress": "1535 Broadway, New York, NY 10036, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "1535 Broadway"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.7583753,-73.9855586&zoom=15&center=40.7583753,-73.9855586&client=gme-booking&channel=booking-frontend&signature=RJmKTLjaYHLdD8IqOMlEPA5zrL0=",
+        "description": "Located at Times Square and in the Theater District, this midtown Manhattan hotel offers complimentary WiFi and onsite dining options.",
+        "name": "New York Marriott Marquis",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/437378234.jpg?k=a612cd1117e7f4d5e4953d4d8d9ba1febe6c605c90035910b0edbd1f59cfd1df&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3353 per night (We Price Match)",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/new-york-marriott-marquis.en-gb.html"
+    }
+]

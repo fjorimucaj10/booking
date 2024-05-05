@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Hilton Garden Inn New York/Midtown Park Avenue",
+        "description": "Located just 5 minutes\u2019 walk from the Empire State Building, this Manhattan hotel features an on-site fitness centre. Free WiFi access is available.",
+        "priceRange": "Prices for upcoming dates start at \u00a3154 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.0,
+            "bestRating": 10,
+            "reviewCount": 1833,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&sensor=false&center=40.7468610,-73.9822960&markers=color:blue%7c40.7468610,-73.9822960&client=gme-booking&channel=booking-frontend&signature=HZPvsu4N3IBh4FPCamHndNVpiDw=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/hilton-garden-inn-new-york-midtown-park-avenue.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/485684166.jpg?k=234227d2f4af3fe5596c46f6e370a0f1b26bf8403ed0d004380551ba71a84a87&o=&hp=1",
+        "address": {
+            "addressLocality": "45 East 33rd Street",
+            "addressCountry": "USA",
+            "postalCode": "NY 10016",
+            "streetAddress": "45 East 33rd Street, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State"
+        },
+        "@type": "Hotel"
+    }
+]

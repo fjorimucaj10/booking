@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/ues-1br-nr-central-park-w-elevator-gym-doorman-nyc-1331.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.7805587,-73.9544731&size=1600x1200&center=40.7805587,-73.9544731&client=gme-booking&channel=booking-frontend&signature=14FUcJ3xwkM_WYwUKyNCC1_wWpc=",
+        "name": "UES 1br nr central park w elevator gym doorman NYC-1331",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "streetAddress": "Upper East Side, New York, 10128, United States",
+            "addressRegion": "New York State",
+            "postalCode": "10128",
+            "addressCountry": "USA"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/511448610.jpg?k=edcf340e25a7cf9d0f048ffc5a7e66390562574cafac5eade76d1b603f052747&o=&hp=1",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "description": "Offering city views, UES 1br nr central park w elevator gym doorman NYC-1331 is an accommodation located in New York, 3.2 km from Strawberry Fields and 4."
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/doubletree-new-york-city-chelsea.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3150 per night (We Price Match)",
+        "name": "DoubleTree by Hilton Hotel New York City - Chelsea",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "aggregateRating": {
+            "reviewCount": 2432,
+            "@type": "AggregateRating",
+            "ratingValue": 7.3,
+            "bestRating": 10
+        },
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "addressLocality": "128 West 29th Street",
+            "postalCode": "NY 10001",
+            "streetAddress": "128 West 29th Street, Chelsea, New York, NY 10001, United States"
+        },
+        "description": "Located 420 metres from Madison Square Garden, this hotel in the Chelsea section of Manhattan has an on-site restaurant and offers free WiFi.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&zoom=15&markers=color:blue%7c40.7470842,-73.9913334&center=40.7470842,-73.9913334&client=gme-booking&channel=booking-frontend&signature=3yJAbp92AFVdts1iUOvuWNzZQrc=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/445161045.jpg?k=709d40d4140b118ec58378a5037e11eecc85b5403cfe0fc09ce88697c31d203d&o=&hp=1"
+    }
+]

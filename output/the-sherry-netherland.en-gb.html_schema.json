@@ -1,0 +1,26 @@
+[
+    {
+        "address": {
+            "streetAddress": "781 5th Avenue, New York, NY 10022, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "781 5th Avenue",
+            "postalCode": "NY 10022",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "name": "The Sherry Netherland",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/52863823.jpg?k=cc505bdefc4d8da4a75168100dc504b6b2409b62a4f8e26af976139a8c6e72fc&o=&hp=1",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "reviewCount": 277,
+            "ratingValue": 9.1,
+            "bestRating": 10
+        },
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/the-sherry-netherland.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3807 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7643050,-73.9725314&zoom=15&markers=color:blue%7c40.7643050,-73.9725314&client=gme-booking&channel=booking-frontend&signature=96t3yl95sBnBa34ufhZ-xdSX2v4=",
+        "@type": "Hotel",
+        "description": "Centrally located in Midtown Manhattan on Fifth Avenue, this hotel is across from the Grand Army Plaza and Central Park's main entrance."
+    }
+]

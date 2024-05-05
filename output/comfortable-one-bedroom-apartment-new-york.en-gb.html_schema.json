@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/comfortable-one-bedroom-apartment-new-york.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3338 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/543596606.jpg?k=69647dc05be01b553b690e142139b1ae61999d2ecea834fc2ee56b8b25b6f292&o=&hp=1",
+        "name": "Comfortable One Bedroom Apartment",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7742251,-73.9628048&center=40.7742251,-73.9628048&size=1600x1200&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=we45CDsGTSzD9koByrH44XZAqCQ=",
+        "address": {
+            "streetAddress": "53 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressCountry": "USA",
+            "addressLocality": "53 East 76th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10021",
+            "addressRegion": "New York State"
+        },
+        "description": "Situated in New York, 1.5 km from Central Park and 2.4 km from St Patrick's Cathedral, Comfortable One Bedroom Apartment offers air conditioning.",
+        "@type": "Hotel"
+    }
+]

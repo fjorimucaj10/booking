@@ -1,0 +1,20 @@
+[
+    {
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7639961,-73.9662628&size=1600x1200&zoom=15&center=40.7639961,-73.9662628&client=gme-booking&channel=booking-frontend&signature=Y3B4Eb6BXfbKS3bSanZWJPsyi8Y=",
+        "name": "62-3B Studio Prime UES Walk to Central Park",
+        "@type": "Hotel",
+        "description": "Situated in New York, 1.3 km from Central Park and 1.4 km from St Patrick's Cathedral, 62-3B Studio Prime UES Walk to Central Park offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411499053.jpg?k=6f605bc9680938357772fca8b893f6e3f007573f58d8b9e153e0ba102deee6d9&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/62-3b-studio-prime-ues-walk-to-central-park.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "149 East 62nd Street",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "10065",
+            "streetAddress": "149 East 62nd Street, Upper East Side, New York, 10065, United States"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressLocality": "East 91st Street 118",
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10128",
+            "streetAddress": "East 91st Street 118, Upper East Side, New York, 10128, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3455 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/91-1d-3br-2baths-duplex-with-a-private-back-yard-gym.en-gb.html",
+        "description": "Situated in New York, 1.1 km from Metropolitan Museum of Art and 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534300669.jpg?k=086a8c6381bf82755d641917a5c5ce976a8e4e07027363db1a1d8e73b2e9abf8&o=&hp=1",
+        "name": "91-1D 3BR 2baths Duplex with a Private Back yard - GYM",
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&center=40.7827919,-73.9540178&markers=color:blue%7c40.7827919,-73.9540178&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=ZamrbpQ4fwHTgjG0AkeZHGb8F9E=",
+        "@type": "Hotel"
+    }
+]

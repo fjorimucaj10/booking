@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/east-village-3br-w-elevator-wd-nr-parks-nyc-1209.en-gb.html",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7235638,-73.9807302&center=40.7235638,-73.9807302&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=MN8HMlj3gUThssKib9PAMjl4ziY=",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "10009",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "streetAddress": "East Village, New York, 10009, United States",
+            "addressLocality": "",
+            "addressRegion": "New York State"
+        },
+        "description": "Located in New York, 2.2 km from Bloomingdales and 3.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/487067191.jpg?k=040a8f1eca322af48f0638729fe7975cae7b4395aded7f6b1dc120b605920f1b&o=&hp=1",
+        "name": "East Village 3br w elevator wd nr parks NYC-1209"
+    }
+]

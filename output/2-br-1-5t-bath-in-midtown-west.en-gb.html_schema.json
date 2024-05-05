@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Located in New York, 1.2 km from Chrysler Building and 1.4 km from Empire State Building, 2 BR 1.5t Bath in Midtown West offers air conditioning.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7439354,-73.9718213&sensor=false&markers=color:blue%7c40.7439354,-73.9718213&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=6n2O7OVvPah2sjJb8tVRWjn6Bvc=",
+        "name": "2 BR 1.5t Bath in Midtown West",
+        "url": "https://www.booking.com/hotel/us/2-br-1-5t-bath-in-midtown-west.en-gb.html",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "402 East 35th Street",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016",
+            "streetAddress": "402 East 35th Street, New York, NY 10016, United States"
+        },
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/466291080.jpg?k=0c9bd4dacf7c8fc62007231635de51bae60c5d32321f7fc023ac183c8d9cbad4&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a31,179 per night (We Price Match)"
+    }
+]

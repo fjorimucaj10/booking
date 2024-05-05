@@ -1,0 +1,20 @@
+[
+    {
+        "description": "Upper West Side studio close to central park NYC-1258 is situated in the Upper West Side district of New York, 2.2 km from Metropolitan Museum of Art, 2.",
+        "url": "https://www.booking.com/hotel/us/upper-west-side-studio-close-to-central-park-nyc-1258.en-gb.html",
+        "address": {
+            "postalCode": "10024",
+            "streetAddress": "Upper West Side, New York, 10024, United States",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "",
+            "addressCountry": "USA"
+        },
+        "@type": "Hotel",
+        "name": "Upper West Side studio close to central park NYC-1258",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500410282.jpg?k=3429a83143459d80302bfae69e1d8bb6aae770a617c661a17803866c3f77250d&o=&hp=1",
+        "priceRange": null,
+        "@context": "http://schema.org",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7911888,-73.9737101&size=1600x1200&center=40.7911888,-73.9737101&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=eNTEc0f2wFFpMMPXJL5GKcFm8oI="
+    }
+]

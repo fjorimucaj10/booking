@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "Aloft Harlem",
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "streetAddress": "2296 Frederick Douglas Boulevard, Harlem, New York, NY 10027, United States",
+            "addressLocality": "2296 Frederick Douglas Boulevard",
+            "addressRegion": "New York State"
+        },
+        "aggregateRating": {
+            "ratingValue": 7.7,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 569
+        },
+        "description": "Located in Harlem, this stylish New York hotel features a bar and fitness centre just 3 minutes' walk from Apollo Theatre. Free WiFi access is available.",
+        "priceRange": "Prices for upcoming dates start at \u00a3150 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&markers=color:blue%7c40.8090370,-73.9516052&center=40.8090370,-73.9516052&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=iZMxa_xl7O93F1lbFEtqhnXXjoU=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/459612364.jpg?k=a636a3b56292d062c1255290f3879b4cd7c993cdceccbdf4ce663735d47a9588&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/aloft-harlem.en-gb.html",
+        "@context": "http://schema.org"
+    }
+]

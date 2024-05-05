@@ -1,0 +1,26 @@
+[
+    {
+        "aggregateRating": {
+            "ratingValue": 8.7,
+            "bestRating": 10,
+            "reviewCount": 2975,
+            "@type": "AggregateRating"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7550450,-73.9880310&size=1600x1200&sensor=false&markers=color:blue%7c40.7550450,-73.9880310&zoom=15&client=gme-booking&channel=booking-frontend&signature=CMftwoIoSHy3QYqguGGPTkSYvFE=",
+        "name": "Margaritaville Resort Times Square",
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/margaritaville-resort-times-square.en-gb.html",
+        "description": "Located in New York, 500 metres from Bryant Park, Margaritaville Resort Times Square provides accommodation with a fitness centre, private parking, a...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/312889863.jpg?k=047f092b672cd2c89721cd71de18bc26b1a7874abbe867d48eda49bb89c0b7ed&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "addressLocality": "560 7th Avenue",
+            "addressCountry": "USA",
+            "postalCode": "NY 10018",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "streetAddress": "560 7th Avenue, New York, NY 10018, United States"
+        },
+        "@context": "http://schema.org"
+    }
+]

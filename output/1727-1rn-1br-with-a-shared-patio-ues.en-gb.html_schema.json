@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "1727 2nd Avenue",
+            "postalCode": "10128",
+            "addressRegion": "New York State",
+            "streetAddress": "1727 2nd Avenue, Upper East Side, New York, 10128, United States"
+        },
+        "description": "1727-1RN 1Br with A shared Patio - UES is located in the Upper East Side district of New York, 3.2 km from Central Park, 3.",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/1727-1rn-1br-with-a-shared-patio-ues.en-gb.html",
+        "name": "1727-1RN 1Br with A shared Patio - UES",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7800931,-73.9505166&center=40.7800931,-73.9505166&client=gme-booking&channel=booking-frontend&signature=W0D3ttJHzc3-dqYg6yXSrJOXudo=",
+        "priceRange": null,
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/540152674.jpg?k=02064f4358335c5e84c8d78822340bd77fb8d43dea43dc7e590924cd262c1f4d&o=&hp=1"
+    }
+]

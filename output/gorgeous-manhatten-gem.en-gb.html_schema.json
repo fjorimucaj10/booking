@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/473415916.jpg?k=30ff99a4e8e3d605415afb5ef5bda8f3838056908c098db0a23b1da2eaa12237&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7168842,-73.9996893&size=1600x1200&zoom=15&sensor=false&center=40.7168842,-73.9996893&client=gme-booking&channel=booking-frontend&signature=uwcOs25QIilER6EXkO3dUnpmoLA=",
+        "url": "https://www.booking.com/hotel/us/gorgeous-manhatten-gem.en-gb.html",
+        "name": "Gorgeous Manhatten Gem",
+        "@type": "Hotel",
+        "address": {
+            "streetAddress": "93 BAXTER ST 10, Chinatown, New York, 10013, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "93 BAXTER ST 10",
+            "postalCode": "10013",
+            "addressRegion": "New York State"
+        },
+        "description": "Set in New York, 1.6 km from One World Trade Center and 1.9 km from Brooklyn Bridge, Gorgeous Manhatten Gem offers air conditioning.",
+        "@context": "http://schema.org",
+        "priceRange": null
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Private Room at a shared Apartment at the Heart of East Village is set in the East Village district of New York, 1.4 km from NYU - New York University, 1.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/545279974.jpg?k=d643d445a44c09af02e7861df9af98f9af9e8eb68ac033d6fc1bc22b44772d86&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/room-at-the-heart-of-east-village.en-gb.html",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7315554,-73.9845798&zoom=15&center=40.7315554,-73.9845798&sensor=false&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=SjmTH0OqmM-QvnrEbxFyOjGgpiQ=",
+        "name": "Private Room at a shared Apartment at the Heart of East Village",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10003",
+            "streetAddress": "307 East 14th Street, East Village, New York, NY 10003, United States",
+            "addressLocality": "307 East 14th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3136 per night (We Price Match)"
+    }
+]

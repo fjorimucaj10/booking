@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&markers=color:blue%7c40.7427752,-73.9830541&size=1600x1200&center=40.7427752,-73.9830541&sensor=false&client=gme-booking&channel=booking-frontend&signature=qmnMdpTzP31hUcONDBnaHqn5C4M=",
+        "url": "https://www.booking.com/hotel/us/park-south.en-gb.html",
+        "description": "Park South Hotel, part of JdV by Hyatt is located  located 600 meters from the Empire State Building.",
+        "address": {
+            "addressRegion": "New York State",
+            "streetAddress": "124 East 28th Street, NoMad, New York, NY 10016, United States",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10016",
+            "addressLocality": "124 East 28th Street",
+            "addressCountry": "USA"
+        },
+        "name": "Park South Hotel, part of JdV by Hyatt",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/245103760.jpg?k=c651ad3d621232036e8155167f8fa248c6b353b52e0f237857ed4d86e188931a&o=&hp=1",
+        "priceRange": "Prices for upcoming dates start at \u00a3239 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 298,
+            "@type": "AggregateRating",
+            "ratingValue": 8.4,
+            "bestRating": 10
+        }
+    }
+]

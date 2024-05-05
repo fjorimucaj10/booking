@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "317-2A Sleek Modern 1Br UES W D",
+        "url": "https://www.booking.com/hotel/us/317-2a-sleek-modern-1br-ues-w-d.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3427 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "postalCode": "10075",
+            "streetAddress": "East 78th Street 317, Upper East Side, New York, 10075, United States",
+            "addressRegion": "New York State",
+            "addressLocality": "East 78th Street 317",
+            "@type": "PostalAddress",
+            "addressCountry": "USA"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&zoom=15&center=40.7724040,-73.9544678&markers=color:blue%7c40.7724040,-73.9544678&client=gme-booking&channel=booking-frontend&signature=d6inZ9jIA07Jw5TuoONjHyw9uTw=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/512012695.jpg?k=df7b0aea58c2ae6664fb83ccaffaec24404ccab42432ec8e5631c8a8700a9f9f&o=&hp=1",
+        "description": "Situated in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 317-2A Sleek Modern 1Br UES W D offers air conditioning."
+    }
+]

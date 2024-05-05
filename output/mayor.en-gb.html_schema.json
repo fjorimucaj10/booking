@@ -1,0 +1,26 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/mayor.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Hotel Mimosa",
+        "aggregateRating": {
+            "bestRating": 10,
+            "ratingValue": 8.5,
+            "@type": "AggregateRating",
+            "reviewCount": 821
+        },
+        "@type": "Hotel",
+        "address": {
+            "addressRegion": "New York State",
+            "postalCode": "NY 10002",
+            "addressLocality": "79 Division Street",
+            "addressCountry": "USA",
+            "streetAddress": "79 Division Street, Chinatown, New York, NY 10002, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3163 per night (We Price Match)",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/186456217.jpg?k=8545a8a8ec7afe51124e5f64e714df953cb9525de7210b87538e4d9fc93d33bd&o=&hp=1",
+        "description": "Located in Chinatown, the Hotel Mimosa is 1.6 km from Soho and the Brooklyn Bridge. The East Broadway Subway Station is 322 metres from the property.",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7141083,-73.9938584&center=40.7141083,-73.9938584&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=YOzS2ppwukIIP4ffA_kYBwyQLNY="
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/glorious-3-bed-2-bath-in-upper-east-side.en-gb.html",
+        "description": "Glorious 3 Bed 2 Bath In Upper East Side is situated in the Upper East Side district of New York, 1.4 km from St Patrick's Cathedral, 1.",
+        "name": "Glorious 3 Bed 2 Bath In Upper East Side",
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&sensor=false&center=40.7643633,-73.9659645&zoom=15&markers=color:blue%7c40.7643633,-73.9659645&client=gme-booking&channel=booking-frontend&signature=Wk50Hv8kKsLE9rPKGRDqDynUGnI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3926 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "148 East 63rd Street",
+            "streetAddress": "148 East 63rd Street, Upper East Side, New York, NY 10065, United States",
+            "addressCountry": "USA",
+            "postalCode": "NY 10065",
+            "addressRegion": "New York State"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/499776003.jpg?k=27c4ffd12b7866e92aa8e4bf50fa1c38dd67e9f8a4e66017a141fea5afbbaeac&o=&hp=1"
+    }
+]

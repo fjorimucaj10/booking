@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.2,
+            "reviewCount": 1922
+        },
+        "address": {
+            "postalCode": "NY 10003",
+            "streetAddress": "112 East 11th Street, East Village, New York, NY 10003, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "112 East 11th Street",
+            "addressRegion": "New York State",
+            "addressCountry": "USA"
+        },
+        "description": "Situated in New York, less than 1 km from NYU - New York University, Moxy NYC East Village features accommodation with free bikes, private parking, a...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7315250,-73.9895000&sensor=false&zoom=15&center=40.7315250,-73.9895000&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=wgEWzEpKvioQSeeVZa7M-nw_DQI=",
+        "priceRange": "Prices for upcoming dates start at \u00a3176 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/moxy-nyc-east-village.en-gb.html",
+        "@context": "http://schema.org",
+        "name": "Moxy NYC East Village",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/481621646.jpg?k=20271817a1fcb0de8ae097db225116bb2ae88b13608189cd8d45c1cee0fbf647&o=&hp=1"
+    }
+]

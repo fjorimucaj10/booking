@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7457220,-73.9888710&zoom=15&size=1600x1200&center=40.7457220,-73.9888710&sensor=false&client=gme-booking&channel=booking-frontend&signature=jV-NdKnf-iZwC7FKaoGVsr1yhKY=",
+        "url": "https://www.booking.com/hotel/us/the-ritz-carlton-new-york-nomad.en-gb.html",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/426626268.jpg?k=9cf1430f8b64a442e17d129522feb14e2967645258fcd84c9d4ea126a87cb466&o=&hp=1",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "25 West 28th Street, NoMad, New York, NY 10001, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressLocality": "25 West 28th Street",
+            "postalCode": "NY 10001",
+            "addressRegion": "New York State"
+        },
+        "name": "The Ritz-Carlton New York, NoMad",
+        "@type": "Hotel",
+        "description": "Set in New York, 600 metres from Flatiron Building, The Ritz-Carlton New York, NoMad offers accommodation with a fitness centre, private parking, a garden...",
+        "aggregateRating": {
+            "ratingValue": 9.4,
+            "reviewCount": 66,
+            "@type": "AggregateRating",
+            "bestRating": 10
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3822 per night (We Price Match)"
+    }
+]

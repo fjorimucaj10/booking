@@ -1,0 +1,20 @@
+[
+    {
+        "@context": "http://schema.org",
+        "address": {
+            "addressCountry": "USA",
+            "addressLocality": "",
+            "@type": "PostalAddress",
+            "postalCode": "10012",
+            "addressRegion": "New York State",
+            "streetAddress": "SoHo, New York, 10012, United States"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7232902,-73.9946655&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7232902,-73.9946655&client=gme-booking&channel=booking-frontend&signature=p05QEenWhmt7DfhD9fTJKMCy9lw=",
+        "priceRange": null,
+        "name": "Nolita 1br w wd nr shopping groceries NYC-1220",
+        "description": "Set in New York, less than 1 km from NYU - New York University and 2.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/495557591.jpg?k=effb848e1f1e3d2144bcf6dbaf9da14c6a50caa6e8e5334387a01a0e2d1b54bf&o=&hp=1",
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/nolita-1br-w-wd-nr-shopping-groceries-nyc-1220.en-gb.html"
+    }
+]

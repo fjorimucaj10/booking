@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Situated in New York, less than 1 km from NYU - New York University and a 18-minute walk from Bloomingdales, Studio in Union Square offers air...",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7335644,-73.9903310&size=1600x1200&center=40.7335644,-73.9903310&client=gme-booking&channel=booking-frontend&signature=iQxQGtV1_J1bFagAhGH2QBjnBcA=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/536559657.jpg?k=780336bdae3653f47e1bec499ebf8c6a86f679afda9d515de6f53fbf3c653005&o=&hp=1",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3220 per night (We Price Match)",
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 9.3,
+            "reviewCount": 6
+        },
+        "name": "Studio in Union Square",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10003",
+            "addressLocality": "76 East 13th Street",
+            "streetAddress": "76 East 13th Street, Union Square, New York, NY 10003, United States"
+        },
+        "url": "https://www.booking.com/hotel/us/apartment-east-village-new-york.en-gb.html"
+    }
+]

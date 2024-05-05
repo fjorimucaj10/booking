@@ -1,0 +1,20 @@
+[
+    {
+        "url": "https://www.booking.com/hotel/us/78-1a-new-modern-1br-w-d-walk-to-central-park.en-gb.html",
+        "description": "Located in New York, 3 km from Strawberry Fields and 3.1 km from Central Park, 78-1A NEW Modern 1BR W&D Walk to Central Park offers air conditioning.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/411301761.jpg?k=e5b5bc3f5d42969d71c338eb7c4da9d3ae8639c6e85fb4b58ba80df8f836eed1&o=&hp=1",
+        "@type": "Hotel",
+        "name": "78-1A NEW Modern 1BR W&D Walk to Central Park",
+        "priceRange": "Prices for upcoming dates start at \u00a3726 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "address": {
+            "streetAddress": "315 East 78th Street, Upper East Side, New York, 10075, United States",
+            "addressCountry": "USA",
+            "postalCode": "10075",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "addressLocality": "315 East 78th Street"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7724266,-73.9545517&zoom=15&size=1600x1200&center=40.7724266,-73.9545517&client=gme-booking&channel=booking-frontend&signature=q-5ownSym9mWUQqLzo3fu6sE0Ws="
+    }
+]

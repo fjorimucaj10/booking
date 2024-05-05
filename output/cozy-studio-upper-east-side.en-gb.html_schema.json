@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/542561455.jpg?k=64147577f13bf819fdf2998c8948f45c76ea00c82d9e9c1edbf3d93f554d00fd&o=&hp=1",
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a3368 per night (We Price Match)",
+        "name": "Cozy Studio! Upper East Side!",
+        "address": {
+            "streetAddress": "53 East 76th Street, Upper East Side, New York, NY 10021, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "53 East 76th Street",
+            "postalCode": "NY 10021",
+            "@type": "PostalAddress"
+        },
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7742251,-73.9628048&markers=color:blue%7c40.7742251,-73.9628048&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=6gztcgD7iferUMs6PocONopYl88=",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/cozy-studio-upper-east-side.en-gb.html",
+        "description": "Located in New York, 1.5 km from Central Park and 2.4 km from St Patrick's Cathedral, Cozy Studio! Upper East Side! offers air conditioning."
+    }
+]

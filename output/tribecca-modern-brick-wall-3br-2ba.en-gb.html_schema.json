@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?center=40.7202247,-74.0097977&sensor=false&zoom=15&size=1600x1200&markers=color:blue%7c40.7202247,-74.0097977&client=gme-booking&channel=booking-frontend&signature=QkG9VNKV30Ee8fti165qqo8ll1k=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/534902597.jpg?k=733670ae072be70fdeae044988e69aca8990158230149a17a30a7299cf6c2a85&o=&hp=1",
+        "address": {
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10013",
+            "streetAddress": "71 North Moore Street, Tribeca, New York, NY 10013, United States",
+            "addressLocality": "71 North Moore Street"
+        },
+        "description": "Tribecca Modern Brick Wall 3BR 2BA is set in the Tribeca district of New York, 1 km from One World Trade Center, 1.2 km from Bloomingdales and 1.",
+        "priceRange": "Prices for upcoming dates start at \u00a31,555 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/tribecca-modern-brick-wall-3br-2ba.en-gb.html",
+        "name": "Tribecca Modern Brick Wall 3BR 2BA"
+    }
+]

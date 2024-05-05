@@ -1,0 +1,26 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7498762,-73.9860897&markers=color:blue%7c40.7498762,-73.9860897&zoom=15&sensor=false&client=gme-booking&channel=booking-frontend&signature=MQLfNQ3vvRCD4fvmS2_yy0fkTr4=",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/49964507.jpg?k=02b60ef106961cdb957c0a7f5399fbadde78032855c6694d02e6b0888ef2b607&o=&hp=1",
+        "address": {
+            "postalCode": "NY 10001",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "streetAddress": "42 West 35th Street, New York, NY 10001, United States",
+            "addressLocality": "42 West 35th Street"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3199 per night (We Price Match)",
+        "@context": "http://schema.org",
+        "name": "The Gregorian New York City",
+        "url": "https://www.booking.com/hotel/us/the-gregorian-new-york-city.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 419,
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "ratingValue": 8.3
+        },
+        "description": "Positioned in the fashionable Garment District three blocks from Penn Station and Madison Square Garden, our West 35th Street Midtown location is within..."
+    }
+]

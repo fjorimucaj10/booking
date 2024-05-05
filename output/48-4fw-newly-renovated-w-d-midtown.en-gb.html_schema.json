@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "url": "https://www.booking.com/hotel/us/48-4fw-newly-renovated-w-d-midtown.en-gb.html",
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "postalCode": "10036",
+            "addressLocality": "West 48th Street 515",
+            "streetAddress": "West 48th Street 515, Hell's Kitchen, New York, 10036, United States",
+            "@type": "PostalAddress"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3771 per night (We Price Match)",
+        "description": "Set in the centre of New York, 1.2 km from Times Square and 1.",
+        "name": "48-4FW Newly renovated W D Midtown",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&markers=color:blue%7c40.7639766,-73.9934938&center=40.7639766,-73.9934938&size=1600x1200&zoom=15&client=gme-booking&channel=booking-frontend&signature=-HIGOtoqqxlyM30hpAGBaxLAJM4=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/506165256.jpg?k=420e134eaad4b66b83fd94cd7982cf843061ff382a39a2c9b28ca9652ade7279&o=&hp=1",
+        "@context": "http://schema.org"
+    }
+]

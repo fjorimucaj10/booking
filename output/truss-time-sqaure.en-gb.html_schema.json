@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Truss Hotel Times Square",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/372345589.jpg?k=8d4a249a8de1197d1489e327348466800df8b403f272b9f30007e12eda2e0c3a&o=&hp=1",
+        "description": "Featuring a fitness centre, a garden as well as a terrace, Truss Hotel Times Square is located in the centre of New York, 800 metres from Jacob K.",
+        "url": "https://www.booking.com/hotel/us/truss-time-sqaure.en-gb.html",
+        "priceRange": "Prices for upcoming dates start at \u00a3158 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?zoom=15&sensor=false&markers=color:blue%7c40.7562640,-73.9946080&center=40.7562640,-73.9946080&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=KRZG9MMF2h1lo_kD93CD0SVo9lw=",
+        "address": {
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "addressLocality": "515 9th Ave",
+            "@type": "PostalAddress",
+            "streetAddress": " 515 9th Ave, Hell's Kitchen, New York, NY 10018, United States",
+            "postalCode": "NY 10018"
+        },
+        "aggregateRating": {
+            "bestRating": 10,
+            "@type": "AggregateRating",
+            "reviewCount": 129,
+            "ratingValue": 7.4
+        }
+    }
+]

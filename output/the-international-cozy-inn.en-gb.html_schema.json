@@ -1,0 +1,26 @@
+[
+    {
+        "priceRange": "Prices for upcoming dates start at \u00a3280 per night (We Price Match)",
+        "description": "This Manhattan guest accommodation is 10 minutes\u2019 walk from the Apollo Theater and is less than 1 mile from Columbia University.",
+        "name": "The International Cozy Inn",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?sensor=false&size=1600x1200&markers=color:blue%7c40.8065130,-73.9462012&center=40.8065130,-73.9462012&zoom=15&client=gme-booking&channel=booking-frontend&signature=4__dwYtXQNGIEcDKYHLMvVNUm0w=",
+        "url": "https://www.booking.com/hotel/us/the-international-cozy-inn.en-gb.html",
+        "aggregateRating": {
+            "reviewCount": 31,
+            "bestRating": 10,
+            "ratingValue": 7.8,
+            "@type": "AggregateRating"
+        },
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/38076943.jpg?k=d3aa9cb7fade355e2abf05a06af6e497fac8cc41df4bc865cd4815e303713c0f&o=&hp=1",
+        "@type": "Hotel",
+        "address": {
+            "postalCode": "NY 10027",
+            "addressCountry": "USA",
+            "addressLocality": "248 Lenox Avenue",
+            "streetAddress": "248 Lenox Avenue , Harlem, New York, NY 10027, United States",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress"
+        },
+        "@context": "http://schema.org"
+    }
+]

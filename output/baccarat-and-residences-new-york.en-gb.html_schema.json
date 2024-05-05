@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Baccarat Hotel and Residences New York",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7608250,-73.9772461&zoom=15&sensor=false&size=1600x1200&center=40.7608250,-73.9772461&client=gme-booking&channel=booking-frontend&signature=q0AY2blEt77FjO_w34pRkQ90nc4=",
+        "description": "Featuring Baccarat crystals in every room, the Baccarat Hotel and Residences is located in New York.",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/180596947.jpg?k=cf4410d3ada8fcc33f005f6c3cc6524793719debc58cc598927d32786475dc68&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/baccarat-and-residences-new-york.en-gb.html",
+        "@context": "http://schema.org",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "postalCode": "NY 10019",
+            "addressRegion": "New York State",
+            "streetAddress": "28 West 53rd Street, New York, NY 10019, United States",
+            "addressLocality": "28 West 53rd Street"
+        },
+        "@type": "Hotel",
+        "priceRange": "Prices for upcoming dates start at \u00a31,004 per night (We Price Match)",
+        "aggregateRating": {
+            "ratingValue": 8.9,
+            "@type": "AggregateRating",
+            "bestRating": 10,
+            "reviewCount": 290
+        }
+    }
+]

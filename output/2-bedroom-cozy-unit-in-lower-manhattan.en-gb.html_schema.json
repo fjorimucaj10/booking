@@ -1,0 +1,20 @@
+[
+    {
+        "address": {
+            "addressRegion": "New York State",
+            "addressCountry": "USA",
+            "addressLocality": "Allen Street x-y",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10002",
+            "streetAddress": "Allen Street x-y, Lower East Side, New York, NY 10002, United States"
+        },
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.7197428,-73.9898945&size=1600x1200&zoom=15&center=40.7197428,-73.9898945&sensor=false&client=gme-booking&channel=booking-frontend&signature=1l58hG4_oAIY6ve02kQ-B0yol4k=",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/552965409.jpg?k=a782c70e34f09f3c6ed600564be4414ff2cac23a3b8c9765cfd3225be09d0cb7&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/2-bedroom-cozy-unit-in-lower-manhattan.en-gb.html",
+        "name": "2 Bedroom Cozy Unit in Lower Manhattan",
+        "@type": "Hotel",
+        "@context": "http://schema.org",
+        "description": "2 Bedroom Cozy Unit in Lower Manhattan is located in the Lower East Side district of New York, 1."
+    }
+]

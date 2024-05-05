@@ -1,0 +1,26 @@
+[
+    {
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/68977409.jpg?k=bae2967b18fe533d47a775f167f1ba560729a75ff26a6f83ced3ad53a76a8607&o=&hp=1",
+        "url": "https://www.booking.com/hotel/us/the-gallery-house.en-gb.html",
+        "description": "The Gallery House features free WiFi throughout the property and views of city in New York. The property is situated 3.4 km from Columbia University, 5.",
+        "address": {
+            "postalCode": "NY 10030",
+            "streetAddress": "West 137th Street & Frederick Douglass Blvd, Harlem, New York, NY 10030, United States",
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "West 137th Street & Frederick Douglass Blvd",
+            "addressRegion": "New York State"
+        },
+        "@context": "http://schema.org",
+        "aggregateRating": {
+            "reviewCount": 358,
+            "ratingValue": 9.0,
+            "bestRating": 10,
+            "@type": "AggregateRating"
+        },
+        "name": "The Gallery House",
+        "priceRange": "Prices for upcoming dates start at \u00a3197 per night (We Price Match)",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?markers=color:blue%7c40.8176519,-73.9449209&sensor=false&center=40.8176519,-73.9449209&zoom=15&size=1600x1200&client=gme-booking&channel=booking-frontend&signature=Qq2M9kKweFmBb9ydWH-ZC_dgSKQ="
+    }
+]

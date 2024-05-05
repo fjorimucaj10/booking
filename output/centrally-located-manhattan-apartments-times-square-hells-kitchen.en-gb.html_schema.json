@@ -1,0 +1,20 @@
+[
+    {
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&center=40.7635447,-73.9851925&markers=color:blue%7c40.7635447,-73.9851925&sensor=false&zoom=15&client=gme-booking&channel=booking-frontend&signature=8ajwPA1SqkcVnhL67t6u39whOg0=",
+        "name": "Centrally located Manhattan apartments ,Times Square/Hell\u2019s kitchen",
+        "address": {
+            "addressLocality": "300 52nd Street",
+            "streetAddress": "300 52nd Street, Hell's Kitchen, New York, NY 10019, United States",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "@type": "PostalAddress",
+            "postalCode": "NY 10019"
+        },
+        "priceRange": "Prices for upcoming dates start at \u00a3581 per night (We Price Match)",
+        "url": "https://www.booking.com/hotel/us/centrally-located-manhattan-apartments-times-square-hells-kitchen.en-gb.html",
+        "description": "Located in New York, 600 metres from Carnegie Hall and 700 metres from Radio City Music Hall, Centrally located Manhattan apartments, Times Square/Hell\u2019s...",
+        "@context": "http://schema.org",
+        "@type": "Hotel",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/538944987.jpg?k=bc8214714f7d8dfef53b29561c17db504aafb580daf2eab3d9e3e5c95399d8fb&o=&hp=1"
+    }
+]

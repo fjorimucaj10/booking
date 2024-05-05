@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "name": "UES 2br w elevator doorman nr transportation NYC-1297",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/505713412.jpg?k=8792ee020412ff9026ca40f8d3828e4ebd884ef16e9cd2e7227b3972298a49e0&o=&hp=1",
+        "priceRange": null,
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&zoom=15&markers=color:blue%7c40.7855906,-73.9495843&center=40.7855906,-73.9495843&sensor=false&client=gme-booking&channel=booking-frontend&signature=K3F-340mQ9KVfA4iCnHnbEpyagw=",
+        "address": {
+            "addressLocality": "",
+            "addressRegion": "New York State",
+            "streetAddress": "East Harlem, New York, 10128, United States",
+            "addressCountry": "USA",
+            "@type": "PostalAddress",
+            "postalCode": "10128"
+        },
+        "description": "Offering city views, UES 2br w elevator doorman nr transportation NYC-1297 is an accommodation situated in New York, 3.6 km from Strawberry Fields and 4.",
+        "@context": "http://schema.org",
+        "url": "https://www.booking.com/hotel/us/ues-2br-w-elevator-doorman-nr-transportation-nyc-1297.en-gb.html"
+    }
+]

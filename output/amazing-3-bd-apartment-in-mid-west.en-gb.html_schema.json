@@ -1,0 +1,20 @@
+[
+    {
+        "@type": "Hotel",
+        "description": "Amazing 3 BD Apartment In Mid West is situated in the Hell's Kitchen district of New York, less than 1 km from Times Square, a 13-minute walk from Radio...",
+        "image": "https://cf.bstatic.com/xdata/images/hotel/max500/500279440.jpg?k=35b5f0b294fc7716ead0ee05dd153e447554319b0521aac54cea685eeccb153c&o=&hp=1",
+        "hasMap": "https://maps.googleapis.com/maps/api/staticmap?size=1600x1200&markers=color:blue%7c40.7619279,-73.9906818&zoom=15&center=40.7619279,-73.9906818&sensor=false&client=gme-booking&channel=booking-frontend&signature=sO01lRa_IkfBeXnFWh1h3i796q4=",
+        "address": {
+            "streetAddress": "405 West 47th Street, Hell's Kitchen, New York, NY 10036, United States",
+            "@type": "PostalAddress",
+            "addressLocality": "405 West 47th Street",
+            "addressCountry": "USA",
+            "addressRegion": "New York State",
+            "postalCode": "NY 10036"
+        },
+        "name": "Amazing 3 BD Apartment In Mid West",
+        "url": "https://www.booking.com/hotel/us/amazing-3-bd-apartment-in-mid-west.en-gb.html",
+        "@context": "http://schema.org",
+        "priceRange": "Prices for upcoming dates start at \u00a3963 per night (We Price Match)"
+    }
+]
